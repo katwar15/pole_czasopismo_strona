@@ -3,23 +3,24 @@
   background-color: white;
   position: fixed;
   bottom: 0;
-  height: 5vh;
+  height: 6vh;
 }
 
 .footer_list {
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-content: center;
   column-gap: 3vh;
   margin-left: var(--mb-1-5);
   margin-right: var(--mb-1-5);
-  bottom: 0;
+  padding: 0;
 }
 
 .footer_item {
-  font-size: 1vh;
+  font-size: 1.25vh;
   font-family: "Roboto", serif;
   color: black;
   text-transform: uppercase;
   font-weight: 400;
+  text-align: center;
 }

@@ -14,15 +14,28 @@
   justify-content: space-between;
   align-items: center;
   column-gap: 1rem;
-  margin-left: 18vh;
+  margin-left: 4vh;
+
   margin-right: 4vh;
 }
 
 .numer_czasopisma {
-  font-size: var(--normal-font-size);
-  font-family: "Roboto", serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.numer_czasopisma ul {
+  padding: 0;
+}
+
+.numer_czasopisma h1 {
   text-transform: uppercase;
-  font-weight: 400;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  line-height: 0.7;
+  padding: 0;
+  margin: 0;
+  font-size: 3vh;
 }
 
 .nav_toggle,
@@ -44,7 +57,8 @@
 
 .nav_close,
 .nav_toggle,
-.nav_icon {
+.nav_icon,
+.show_menu_logo {
   display: none;
 }
 
@@ -78,6 +92,40 @@
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
   }
+  .nav_menu {
+    position: fixed;
+    top: -100%;
+    right: 0;
+    width: 100%;
+    background-color: white;
+  }
+
+  .show_menu_logo {
+    display: flex;
+    padding-bottom: 5vh;
+    padding-left: 0.35vh;
+    margin-top: -0.25vh;
+  }
+
+  .show_menu_logo ul {
+    display: flex;
+    flex-direction: row-reverse;
+
+    padding: 0;
+    margin: 0;
+  }
+
+  .show_menu_logo h1 {
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+    text-transform: uppercase;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 8vh;
+    line-height: 0.7;
+    writing-mode: vertical-lr;
+  }
 
   .header {
     top: 0;
@@ -85,19 +133,12 @@
     width: 100%;
   }
 
-  .nav_menu {
-    position: fixed;
-    top: -100%;
-    right: 0;
-    width: 100%;
-    padding: 1vh 1.5vh 1vh;
-    background-color: white;
-  }
-
   /* SHOW MENU */
 
   .show_menu {
     top: 0;
+    display: flex;
+    flex-direction: row;
   }
 
   .nav_list {
@@ -138,9 +179,6 @@
   .nav_toggle {
     display: block;
   }
-  .numer_czasopisma {
-    visibility: hidden;
-  }
 }
 
 /* for small devices */
@@ -152,7 +190,8 @@
   .nav_menu {
     padding: 1vh 1.5vh 1vh;
   }
-  .numer_czasopisma {
-    visibility: hidden;
+  .show_menu_logo {
+    display: flex;
+    flex-direction: column;
   }
 }

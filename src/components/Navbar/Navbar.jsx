@@ -16,10 +16,27 @@ const Navbar = () => {
     <header className="header">
       <nav className="nav">
         <a href="" className="numer_czasopisma">
-          Numer 01.2023
+          <ul>
+            <li>
+              <h1>Pole</h1>
+            </li>
+            <li>
+              <h1>Dwumiesięcznik</h1>
+            </li>
+          </ul>
         </a>
 
         <div className={toggle ? "nav_menu show_menu" : "nav_menu"}>
+          <a href="" className="show_menu_logo">
+            <ul>
+              <li>
+                <h1>Pole</h1>
+              </li>
+              <li>
+                <h1>Dwumiesięcznik</h1>
+              </li>
+            </ul>
+          </a>
           <ul className="nav_list">
             <li className="nav_item">
               <a href="" className="nav_link">

@@ -9,11 +9,11 @@ import RightItemBlack from "../RightItemBlack/RightItemBlack";
 const HomePage = () => {
   return (
     <div className="home">
-      <LeftMenu className="home_left_menu" />
-      {/* <LeftMenuBlack className="home_left_menu" /> */}
-      <Mapa className="home_main" />
-      <RightItem className="home_right_menu" />
-      {/* <RightItemBlack className="home_right_menu" /> */}
+      <LeftMenu />
+      {/* <LeftMenuBlack /> */}
+      <Mapa />
+      <RightItem />
+      {/* <RightItemBlack /> */}
     </div>
   );
 };

@@ -1,24 +1,26 @@
 .footer_black {
   width: 100%;
   background-color: black;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
   position: fixed;
   bottom: 0;
+  height: 6vh;
 }
 
 .footer_list_black {
   display: flex;
-  align-items: center;
-  column-gap: 2rem;
+  justify-content: center;
+  align-content: center;
+  column-gap: 3vh;
+  margin-left: var(--mb-1-5);
+  margin-right: var(--mb-1-5);
+  padding: 0;
 }
 
 .footer_item_black {
-  font-size: var(--tiny-font-size);
-  color: white;
+  font-size: 1.25vh;
   font-family: "Roboto", serif;
+  color: white;
   text-transform: uppercase;
   font-weight: 400;
+  text-align: center;
 }
