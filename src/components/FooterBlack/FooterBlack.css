@@ -1,0 +1,24 @@
+.footer_black {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+.footer_list_black {
+  display: flex;
+  align-items: center;
+  column-gap: 2rem;
+}
+
+.footer_item_black {
+  font-size: var(--tiny-font-size);
+  color: white;
+  font-family: "Roboto", serif;
+  text-transform: uppercase;
+  font-weight: 400;
+}

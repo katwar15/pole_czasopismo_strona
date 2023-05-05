@@ -1,0 +1,32 @@
+.right_item_black {
+  display: flex;
+  justify-content: end;
+  justify-content: space-around;
+  background-color: transparent;
+}
+
+.right_ole_black {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+  width: 100%;
+  z-index: 0;
+  margin: 0;
+  padding: 0;
+}
+.o_img_black {
+  width: 3rem;
+  z-index: 100;
+}
+.l_img_black {
+  width: 6rem;
+  z-index: 100;
+}
+
+.e_img_black {
+  width: 4rem;
+  z-index: 100;
+}
+
+/* BREAKPOINTS */

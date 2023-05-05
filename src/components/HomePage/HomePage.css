@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+}
+
+/* BREAKPOINTS */
+
+/* NA MOBILE --> UKRYCIE GRIDA I DODANIE TŁA Z MAPY */
+@media screen and (max-width: 768px) {
+  .home {
+    background-image: url("../../assets/mapa.png");
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .home {
+    background-image: url("../../assets/mapa.png");
+    background-size: cover;
+  }
+}
