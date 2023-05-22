@@ -3,6 +3,9 @@
   justify-content: space-around;
   align-content: flex-end;
   right: 0;
+  position: absolute;
+  z-index: 1;
+  height: 100%;
 }
 
 .right_ole {
@@ -32,10 +35,4 @@
   width: 9vh;
   z-index: -1;
   position: absolute;
-}
-
-@media screen and (max-width: 400px) {
-  .right_item {
-    visibility: hidden;
-  }
 }

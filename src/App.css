@@ -5,7 +5,10 @@
 html,
 body,
 #root,
-.App,
+.App {
+  height: 100%;
+}
+
 .main {
   height: 100%;
   overflow: hidden;

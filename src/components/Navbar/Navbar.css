@@ -15,7 +15,6 @@
   align-items: center;
   column-gap: 1rem;
   margin-left: 4vh;
-
   margin-right: 4vh;
 }
 
@@ -70,6 +69,7 @@
 .nav_item a {
   font-family: "Roboto", serif;
   font-size: 1.75vh;
+  font-weight: 400;
   text-transform: uppercase;
   color: #000000;
   text-decoration: none;
@@ -98,21 +98,24 @@
     right: 0;
     width: 100%;
     background-color: white;
+    display: flex;
   }
 
   .show_menu_logo {
     display: flex;
+    align-content: flex-start;
     padding-bottom: 5vh;
-    padding-left: 0.35vh;
     margin-top: -0.25vh;
+    padding-left: 0.1vh;
+    width: 20vh;
   }
 
   .show_menu_logo ul {
     display: flex;
     flex-direction: row-reverse;
-
     padding: 0;
     margin: 0;
+    padding-left: 0.35vh;
   }
 
   .show_menu_logo h1 {
@@ -144,15 +147,23 @@
   .nav_list {
     display: flex;
     flex-direction: column;
-    column-gap: 2rem;
+    justify-content: center;
+    padding-left: 0;
+
+    width: 80vh;
   }
 
   .nav_item {
-    padding-top: 1rem;
+    padding: 1rem;
+  }
+  .nav_item a {
+    font-size: 2.5vh;
+    padding: 0;
   }
 
   .facebook_item {
     padding-top: 1rem;
+    font-size: 2.5vh;
   }
 
   .numer_czasopisma {
@@ -163,14 +174,13 @@
     position: absolute;
     right: 1.3rem;
     top: 0.5rem;
-    font-size: 1.5rem;
+    font-size: 5vh;
     cursor: pointer;
     color: black;
-    font-size: 2rem;
   }
 
   .nav_toggle {
-    font-size: 2rem;
+    font-size: 5vh;
     cursor: pointer;
   }
 
@@ -187,11 +197,15 @@
   .header {
     width: 100%;
   }
-  .nav_menu {
-    padding: 1vh 1.5vh 1vh;
+
+  .nav_list {
+    padding-left: 0;
   }
+
   .show_menu_logo {
     display: flex;
-    flex-direction: column;
+    padding-bottom: 5vh;
+    margin-top: -0.25vh;
+    width: 8vh;
   }
 }

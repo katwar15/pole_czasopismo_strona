@@ -1,8 +1,11 @@
 .left_menu {
+  display: flex;
   background-color: transparent;
   justify-content: flex-start;
-  width: 15rem;
+  width: 20vh;
   margin-top: 9vh;
+  position: absolute;
+  z-index: 1;
 }
 
 .logo {
@@ -28,7 +31,8 @@
 
 .left_menu_item a {
   font-family: "Roboto", serif;
-  font-size: 1.75vh;
+  font-size: 1.5vh;
+  font-weight: 400;
   text-transform: uppercase;
   color: #000000;
   text-decoration: none;

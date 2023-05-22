@@ -40,11 +40,6 @@ const Navbar = () => {
           <ul className="nav_list">
             <li className="nav_item">
               <a href="" className="nav_link">
-                Archiwalia
-              </a>
-            </li>
-            <li className="nav_item">
-              <a href="" className="nav_link">
                 Redakcja
               </a>
             </li>

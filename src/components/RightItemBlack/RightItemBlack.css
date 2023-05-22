@@ -27,9 +27,3 @@
   width: 5.7vh;
   z-index: 100;
 }
-
-@media screen and (max-width: 400px) {
-  .right_item_black {
-    visibility: hidden;
-  }
-}
