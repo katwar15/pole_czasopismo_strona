@@ -1,5 +1,7 @@
 import React from "react";
 import "./Mapa.css";
+import { Link } from "react-router-dom";
+
 import wstep from "../../assets/wstep.png";
 import poezja from "../../assets/poezja.png";
 import proza from "../../assets/proza.png";
@@ -19,60 +21,62 @@ const Mapa = () => {
   return (
     <div className="main_mapa">
       <div className="mapa_wstep">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={wstep}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={wstep_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
+
       <div className="mapa_poezja">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={poezja}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={poezja_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
+
       <div className="mapa_proza">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={proza}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={proza_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="mapa_archiwalia">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={archiwalia}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={archiwalia_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="mapa_recenzje">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={recenzje}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={recenzje_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="mapa_eseistyka">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={eseistyka}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={esej_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="mapa_varia">
-        <a className="mapa_a">
+        <Link className="mapa_a">
           <img className="mapa_img" src={varia}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={varia_hover}></img>
           </div>
-        </a>
+        </Link>
       </div>
     </div>
   );

@@ -42,3 +42,15 @@
   cursor: pointer;
   transition: 0.6s;
 }
+
+@media screen and (max-width: 820px) {
+  .svg_map {
+    visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .svg_map {
+    visibility: hidden;
+  }
+}

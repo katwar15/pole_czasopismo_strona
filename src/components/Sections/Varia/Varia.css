@@ -1,4 +1,4 @@
-.poezja_section {
+.varia_section {
   margin-top: 9vh;
   width: 100%;
   height: 85vh;
@@ -26,12 +26,6 @@
 
 .forward_img:hover {
   transform: scaleX(1);
-}
-
-.img_map {
-  width: 100%;
-  height: 100%;
-  padding-right: 10vh;
 }
 
 .svg_map {

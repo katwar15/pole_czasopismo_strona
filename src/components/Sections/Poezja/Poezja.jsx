@@ -13,7 +13,7 @@ const Poezja = () => {
 
   return (
     <div className="poezja_section">
-      <Link className="forward_button">
+      <Link className="forward_button" to="/">
         <img className="forward_img" src={forward_button}></img>
       </Link>
       <svg className="svg_map" viewBox="0 0 2000 1277">

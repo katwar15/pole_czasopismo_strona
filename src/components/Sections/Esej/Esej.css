@@ -1,4 +1,4 @@
-.poezja_section {
+.esej_section {
   margin-top: 9vh;
   width: 100%;
   height: 85vh;
@@ -28,16 +28,12 @@
   transform: scaleX(1);
 }
 
-.img_map {
-  width: 100%;
-  height: 100%;
-  padding-right: 10vh;
-}
-
 .svg_map {
   width: 100%;
   height: 100%;
   position: relative;
+  margin-left: 10vh;
+  margin-right: 5vh;
 }
 
 .circle_one,
