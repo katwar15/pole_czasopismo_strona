@@ -1,0 +1,11 @@
+.redakcja_page {
+  display: flex;
+  background-color: white;
+  height: 100%;
+}
+
+@media screen and (max-width: 350px) {
+  .black {
+    display: none;
+  }
+}

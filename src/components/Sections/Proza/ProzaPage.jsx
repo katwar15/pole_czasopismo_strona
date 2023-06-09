@@ -4,6 +4,7 @@ import "./ProzaPage.css";
 import LeftMenu from "../../LeftMenu/LeftMenu";
 import RightItem from "../../RightItem/RightItem";
 import Proza from "./Proza";
+import Footer from "../../Footer/Footer";
 
 const ProzaPage = () => {
   return (
@@ -11,6 +12,7 @@ const ProzaPage = () => {
       <LeftMenu />
       <Proza />
       <RightItem />
+      <Footer />
     </div>
   );
 };

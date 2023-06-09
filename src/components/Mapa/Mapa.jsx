@@ -21,7 +21,7 @@ const Mapa = () => {
   return (
     <div className="main_mapa">
       <div className="mapa_wstep">
-        <Link className="mapa_a">
+        <Link to="/" className="mapa_a">
           <img className="mapa_img" src={wstep}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={wstep_hover}></img>
@@ -30,7 +30,7 @@ const Mapa = () => {
       </div>
 
       <div className="mapa_poezja">
-        <Link className="mapa_a">
+        <Link to="/poezja" className="mapa_a">
           <img className="mapa_img" src={poezja}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={poezja_hover}></img>
@@ -39,7 +39,7 @@ const Mapa = () => {
       </div>
 
       <div className="mapa_proza">
-        <Link className="mapa_a">
+        <Link to="/proza" className="mapa_a">
           <img className="mapa_img" src={proza}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={proza_hover}></img>
@@ -47,7 +47,7 @@ const Mapa = () => {
         </Link>
       </div>
       <div className="mapa_archiwalia">
-        <Link className="mapa_a">
+        <Link to="/archiwalia" className="mapa_a">
           <img className="mapa_img" src={archiwalia}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={archiwalia_hover}></img>
@@ -55,7 +55,7 @@ const Mapa = () => {
         </Link>
       </div>
       <div className="mapa_recenzje">
-        <Link className="mapa_a">
+        <Link to="/recenzje" className="mapa_a">
           <img className="mapa_img" src={recenzje}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={recenzje_hover}></img>
@@ -63,7 +63,7 @@ const Mapa = () => {
         </Link>
       </div>
       <div className="mapa_eseistyka">
-        <Link className="mapa_a">
+        <Link to="/esej" className="mapa_a">
           <img className="mapa_img" src={eseistyka}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={esej_hover}></img>
@@ -71,7 +71,7 @@ const Mapa = () => {
         </Link>
       </div>
       <div className="mapa_varia">
-        <Link className="mapa_a">
+        <Link to="/varia" className="mapa_a">
           <img className="mapa_img" src={varia}></img>
           <div className="overlay">
             <img className="mapa_a_hover" src={varia_hover}></img>

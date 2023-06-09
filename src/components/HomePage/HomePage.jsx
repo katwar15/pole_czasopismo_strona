@@ -5,6 +5,7 @@ import RightItem from "../RightItem/RightItem";
 import Mapa from "../Mapa/Mapa";
 import LeftMenuBlack from "../LeftMenuBlack/LeftMenuBlack";
 import RightItemBlack from "../RightItemBlack/RightItemBlack";
+import Footer from "../Footer/Footer";
 
 const HomePage = () => {
   return (
@@ -14,6 +15,7 @@ const HomePage = () => {
       <Mapa />
       <RightItem />
       {/* <RightItemBlack /> */}
+      <Footer />
     </div>
   );
 };

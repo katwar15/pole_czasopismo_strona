@@ -4,6 +4,7 @@ import { BiVolumeFull, BiVolumeMute } from "react-icons/bi";
 import logo from "../../assets/pole_logo.png";
 import audio from "../../assets/pole_sound.mp3";
 import PlayButton from "../PlayButton/PlayButton";
+import { Link } from "react-router-dom";
 
 const LeftMenu = () => {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -25,34 +26,39 @@ const LeftMenu = () => {
         <div className="left_menu_list">
           <ul>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/wstep" className="left_menu_link">
+                wstęp
+              </Link>
+            </li>
+            <li className="left_menu_item">
+              <Link to="/poezja" className="left_menu_link">
                 poezja
-              </a>
+              </Link>
             </li>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/proza" className="left_menu_link">
                 proza
-              </a>
+              </Link>
             </li>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/archiwalia" className="left_menu_link">
                 archiwalia
-              </a>
+              </Link>
             </li>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/recenzje" className="left_menu_link">
                 recenzje
-              </a>
+              </Link>
             </li>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/esej" className="left_menu_link">
                 esej
-              </a>
+              </Link>
             </li>
             <li className="left_menu_item">
-              <a href="" className="left_menu_link">
+              <Link to="/varia" className="left_menu_link">
                 varia
-              </a>
+              </Link>
             </li>
             <li>
               <audio src={audio} ref={audioElement}></audio>

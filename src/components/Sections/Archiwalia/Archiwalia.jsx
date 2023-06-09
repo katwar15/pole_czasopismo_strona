@@ -13,7 +13,7 @@ const Archiwalia = () => {
 
   return (
     <div className="archiwalia_section">
-      <Link className="forward_button">
+      <Link to="/" className="forward_button">
         <img className="forward_img" src={forward_button}></img>
       </Link>
       <svg className="svg_map" viewBox="0 0 1896 1697">

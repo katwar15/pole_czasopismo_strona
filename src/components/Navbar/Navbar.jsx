@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
+
 import "./Navbar.css";
 import {
   BiMenu,
@@ -15,7 +17,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <nav className="nav">
-        <a href="" className="numer_czasopisma">
+        <Link to="/" className="numer_czasopisma">
           <ul>
             <li>
               <h1>Pole</h1>
@@ -24,10 +26,10 @@ const Navbar = () => {
               <h1>Dwumiesięcznik</h1>
             </li>
           </ul>
-        </a>
+        </Link>
 
         <div className={toggle ? "nav_menu show_menu" : "nav_menu"}>
-          <a href="" className="show_menu_logo">
+          <Link to="/" className="show_menu_logo">
             <ul>
               <li>
                 <h1>Pole</h1>
@@ -36,25 +38,25 @@ const Navbar = () => {
                 <h1>Dwumiesięcznik</h1>
               </li>
             </ul>
-          </a>
+          </Link>
           <ul className="nav_list">
             <li className="nav_item">
-              <a href="" className="nav_link">
+              <Link to="/redakcja" className="nav_link">
                 Redakcja
-              </a>
+              </Link>
             </li>
             <li className="nav_item">
-              <a href="" className="nav_link">
+              <Link to="/kontakt" className="nav_link">
                 Kontakt
-              </a>
+              </Link>
             </li>
             <li className="facebook_item">
-              <a
+              <Link
                 className="nav_link"
-                href="https://www.facebook.com/profile.php?id=100090668847272"
+                to="https://www.facebook.com/profile.php?id=100090668847272"
               >
                 <FaFacebook />
-              </a>
+              </Link>
             </li>
           </ul>
           <i className="nav_close" onClick={() => showMenu(!toggle)}>

@@ -4,6 +4,7 @@ import "./RecenzjePage.css";
 import LeftMenu from "../../LeftMenu/LeftMenu";
 import RightItem from "../../RightItem/RightItem";
 import Recenzje from "./Recenzje";
+import Footer from "../../Footer/Footer";
 
 const RecenzjePage = () => {
   return (
@@ -11,6 +12,7 @@ const RecenzjePage = () => {
       <LeftMenu />
       <Recenzje />
       <RightItem />
+      <Footer />
     </div>
   );
 };

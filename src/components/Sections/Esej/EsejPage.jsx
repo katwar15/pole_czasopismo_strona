@@ -4,6 +4,7 @@ import "./EsejPage.css";
 import LeftMenu from "../../LeftMenu/LeftMenu";
 import RightItem from "../../RightItem/RightItem";
 import Esej from "./Esej";
+import Footer from "../../Footer/Footer";
 
 const EsejPage = () => {
   return (
@@ -11,6 +12,7 @@ const EsejPage = () => {
       <LeftMenu />
       <Esej />
       <RightItem />
+      <Footer />
     </div>
   );
 };

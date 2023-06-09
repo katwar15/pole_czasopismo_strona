@@ -12,6 +12,8 @@ import ArchiwaliaPage from "./components/Sections/Archiwalia/ArchiwaliaPage";
 import RecenzjePage from "./components/Sections/Recenzje/RecenzjePage";
 import EsejPage from "./components/Sections/Esej/EsejPage";
 import VariaPage from "./components/Sections/Varia/VariaPage";
+import RedakcjaPage from "./components/Redakcja/RedakcjaPage";
+import Wstep from "./components/Sections/Wstep/Wstep";
 
 function App() {
   return (
@@ -20,16 +22,19 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/wstep" element={<Wstep />} />
           <Route path="/poezja" element={<PoezjaPage />} />
           <Route path="/proza" element={<ProzaPage />} />
           <Route path="/archiwalia" element={<ArchiwaliaPage />} />
           <Route path="/recenzje" element={<RecenzjePage />} />
           <Route path="/esej" element={<EsejPage />} />
           <Route path="/varia" element={<VariaPage />} />
+          <Route path="/redakcja" element={<RedakcjaPage />} />
+          <Route path="/redakcja" element={<RedakcjaPage />} />
         </Routes>
-        <Footer />
         {/* <FooterBlack /> */}
       </BrowserRouter>
+      {/* <Footer /> */}
     </div>
   );
 }
