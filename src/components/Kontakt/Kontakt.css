@@ -1,0 +1,115 @@
+.kontakt {
+  margin-top: 9vh;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 0;
+  padding-bottom: 6vh;
+}
+
+.forward_button_kontakt {
+  position: absolute;
+  z-index: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  padding: 5vh;
+  margin: 0;
+}
+
+.forward_img_kontakt {
+  transition: 0.2s;
+  transform: scaleX(0.9);
+  transform-origin: 0%;
+  transition-duration: 0.8;
+  transition-delay: 0s;
+  transition-timing-function: ease;
+  width: 12vh;
+}
+
+.forward_img:hover {
+  transform: scaleX(1);
+}
+
+.content_kontakt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10vh;
+  padding-bottom: 3vh;
+  padding-left: 5vh;
+  padding-right: 5vh;
+}
+
+.img_anna_kontakt {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 2vh;
+  width: 70%;
+}
+
+.kontakt_img {
+  width: 100%;
+}
+
+.p_kontakt {
+  margin: 0;
+
+  align-self: flex-end;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  font-size: 1.25vh;
+}
+
+.h1_kontakt_pole {
+  font-size: 3vh;
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+.h1_kontakt {
+  font-size: 2vh;
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.h2_kontakt {
+  font-size: 2vh;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  margin: 1vh;
+}
+
+.h3_kontakt {
+  font-size: 1.75vh;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding: 4vh 10vh;
+  margin: 0.1vh;
+}
+
+@media screen and (max-width: 800px) {
+  .img_anna_kontakt {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .img_anna_kontakt {
+    width: 100%;
+  }
+  .right_item_black {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .img_anna_kontakt {
+    width: 100%;
+  }
+}

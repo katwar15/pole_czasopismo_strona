@@ -30,7 +30,7 @@
   transform: scaleX(1);
 }
 
-.content {
+.content_redakcja {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,8 +44,8 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding-bottom: 5vh;
-  width: 80%;
+  padding-bottom: 2vh;
+  width: 60%;
 }
 
 .redakcja_img {
@@ -62,9 +62,10 @@
 }
 
 .h1_redakcja {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-family: "Playfair Display", sans-serif;
   text-align: center;
+  padding: 0;
 }
 
 .h2_redakcja {
@@ -72,4 +73,44 @@
   font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: center;
+  margin: 0.1vh;
+}
+
+@media screen and (max-width: 800px) {
+  .img_anna {
+    width: 90%;
+  }
+  .h1_redakcja {
+    font-size: 1rem;
+  }
+  .h2_redakcja {
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .img_anna {
+    width: 100%;
+  }
+  .right_item_black {
+    display: none;
+  }
+  .h1_redakcja {
+    font-size: 0.75rem;
+  }
+  .h2_redakcja {
+    font-size: 0.6rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .img_anna {
+    width: 100%;
+  }
+  .h1_redakcja {
+    font-size: 0.75rem;
+  }
+  .h2_redakcja {
+    font-size: 0.6rem;
+  }
 }

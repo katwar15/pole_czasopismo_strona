@@ -10,7 +10,7 @@ const Redakcja = () => {
       <Link to="/" className="forward_button_redakcja">
         <img className="forward_img_redakcja" src={forward_button}></img>
       </Link>
-      <div className="content">
+      <div className="content_redakcja">
         <div className="img_anna">
           <img className="redakcja_img" src={redakcja}></img>
           <p className="p_redakcja">rys. Anna Baumgart</p>

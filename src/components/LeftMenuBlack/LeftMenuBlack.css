@@ -58,4 +58,24 @@
   .left_menu_black {
     margin-top: 9vh;
   }
+
+  .left_menu_list_black ul {
+    margin-left: 1vh;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .left_menu_list_black ul {
+    margin-left: 1vh;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .left_menu_list_black ul {
+    margin-left: 1vh;
+  }
+
+  .left_menu_black {
+    width: 10vh;
+  }
 }

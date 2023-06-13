@@ -25,6 +25,9 @@ html {
 
   /*COLORS*/
 
+  /* background-color: #d6b484; */
+  background-color: white;
+
   --primary-color: white;
   --text-color: black;
   --bg-color-alt: hsl(213, 10%, 21%);

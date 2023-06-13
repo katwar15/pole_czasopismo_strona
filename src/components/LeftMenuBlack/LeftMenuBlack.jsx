@@ -31,7 +31,7 @@ const LeftMenuBlack = () => {
               </Link>
             </li>
             <li className="left_menu_item_black">
-              <Link to="/poezje" className="left_menu_link_black">
+              <Link to="/poezja" className="left_menu_link_black">
                 poezja
               </Link>
             </li>

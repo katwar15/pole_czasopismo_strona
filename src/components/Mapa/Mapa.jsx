@@ -21,7 +21,7 @@ const Mapa = () => {
   return (
     <div className="main_mapa">
       <div className="mapa_wstep">
-        <Link to="/" className="mapa_a">
+        <Link to="/wstep" className="mapa_a">
           <img className="mapa_img" src={wstep}></img>
           <div className="overlay_right">
             <img className="mapa_a_hover" src={wstep_hover}></img>

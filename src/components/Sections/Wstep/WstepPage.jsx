@@ -1,13 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./WstepPage.css";
-import Footer from "../../Footer/Footer";
 import Wstep from "./Wstep";
-import LeftMenuBlack from "../../LeftMenuBlack/LeftMenuBlack";
-import RightItemBlack from "../../RightItemBlack/RightItemBlack";
 import FooterBlack from "../../FooterBlack/FooterBlack";
+import RightItemBlack from "../../RightItemBlack/RightItemBlack";
+import LeftMenuBlack from "../../LeftMenuBlack/LeftMenuBlack";
 
-const VariaPage = () => {
+const WstepPage = () => {
   return (
     <div className="wstep_main">
       <LeftMenuBlack />
@@ -18,4 +17,4 @@ const VariaPage = () => {
   );
 };
 
-export default VariaPage;
+export default WstepPage;

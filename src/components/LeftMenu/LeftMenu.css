@@ -46,17 +46,28 @@
   color: white;
 }
 
-/* @media screen and (max-width: 992px) {
+@media screen and (max-width: 350px) {
   .left_menu {
+    margin-top: 9vh;
   }
-} */
-/* for medium devices */
-/* @media screen and (max-width: 768px) {
-  .left_menu {
+
+  .left_menu_list ul {
+    margin-left: 1vh;
   }
 }
 
-@media screen and (max-width: 576px) {
-  .left_menu {
+@media screen and (max-width: 450px) {
+  .left_menu_list ul {
+    margin-left: 1vh;
   }
-} */
+}
+
+@media screen and (max-width: 675px) {
+  .left_menu_list ul {
+    margin-left: 1vh;
+  }
+
+  .left_menu {
+    width: 13vh;
+  }
+}

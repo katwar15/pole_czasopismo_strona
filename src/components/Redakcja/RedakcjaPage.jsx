@@ -11,7 +11,7 @@ const RedakcjaPage = () => {
     <div className="redakcja_page">
       <LeftMenuBlack />
       <Redakcja />
-      <RightItemBlack className="black" />
+      <RightItemBlack />
       <FooterBlack />
     </div>
   );
