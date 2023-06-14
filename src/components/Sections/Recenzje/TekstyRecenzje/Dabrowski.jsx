@@ -17,10 +17,10 @@ const Dabrowski = () => {
 
       <div className="content_wstep">
         <h2 className="h1_wstep">Ontologia smutku</h2>
-        <h2 className="h1_wstep">
+        <h3 className="h3_wstep">
           Unica Zürn, „Trąby jerychońskie”, przeł. Małgorzata Łukasiewicz i
           Maryna Ochab, Wydawnictwo Drzazgi, Okoniny 2021
-        </h2>
+        </h3>
 
         <p className="h2_wstep">
           Minął już ponad rok, od kiedy w Wydawnictwie Drzazgi ukazały się

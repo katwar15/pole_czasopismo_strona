@@ -85,6 +85,15 @@
   color: white;
 }
 
+@media (hover: none) {
+  .nav_item a:active {
+    background: blue;
+    color: #ffffff;
+    border-color: blue;
+    cursor: pointer;
+  }
+}
+
 /* BREAKPOINTS */
 /* for medium devices */
 @media screen and (max-width: 768px) {

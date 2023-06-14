@@ -20,14 +20,7 @@ import varia_hover from "../../assets/varia_hover.png";
 const Mapa = () => {
   return (
     <div className="main_mapa">
-      <div className="mapa_wstep">
-        <Link to="/wstep" className="mapa_a">
-          <img className="mapa_img" src={wstep}></img>
-          <div className="overlay_right">
-            <img className="mapa_a_hover" src={wstep_hover}></img>
-          </div>
-        </Link>
-      </div>
+      <div className="mapa_wstep"></div>
 
       <div className="mapa_poezja">
         <Link to="/poezja" className="mapa_a">

@@ -17,10 +17,10 @@ const Polak = () => {
         <h2 className="h1_wstep">
           Medycyna paliatywna jest mistrzem z Francji
         </h2>
-        <h2 className="h1_wstep">
+        <h3 className="h3_wstep">
           Michel Houellebecq, „Unicestwianie”, przeł. Beata Geppert, W.A.B.,
           Warszawa 2022
-        </h2>
+        </h3>
 
         <h2 className="h2_wstep">
           „Unicestwianie”, najnowsza powieść Michela Houellebecqa trafiła na

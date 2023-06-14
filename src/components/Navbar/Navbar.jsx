@@ -41,12 +41,20 @@ const Navbar = () => {
           </Link>
           <ul className="nav_list">
             <li className="nav_item">
-              <Link to="/redakcja" className="nav_link">
+              <Link
+                to="/redakcja"
+                className="nav_link"
+                onClick={() => showMenu(false)}
+              >
                 Redakcja
               </Link>
             </li>
             <li className="nav_item">
-              <Link to="/kontakt" className="nav_link">
+              <Link
+                to="/kontakt"
+                className="nav_link"
+                onClick={() => showMenu(false)}
+              >
                 Kontakt
               </Link>
             </li>

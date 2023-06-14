@@ -11,9 +11,9 @@ const PlayButton = ({ audioElement, isPlaying, setIsPlaying }) => {
   return (
     <button className="button_music">
       {isPlaying ? (
-        <BiVolumeMute onClick={PlayPause} />
-      ) : (
         <BiVolumeFull onClick={PlayPause} />
+      ) : (
+        <BiVolumeMute onClick={PlayPause} />
       )}
     </button>
   );

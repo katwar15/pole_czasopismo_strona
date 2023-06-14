@@ -53,3 +53,9 @@
     width: 7vh;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .right_item {
+    display: none;
+  }
+}

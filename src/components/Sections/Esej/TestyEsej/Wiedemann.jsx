@@ -16,9 +16,9 @@ const Wiedemann = () => {
 
       <div className="content_wstep">
         <h2 className="h1_wstep">Majtki i nowa sztuka</h2>
-        <h2 className="h1_wstep">
+        <h3 className="h3_wstep">
           [z okazji wystawy malarstwa Juliusza Lewandowskiego]
-        </h2>
+        </h3>
         <p className="h2_wstep">
           Biogramy artysty nie pozostawiają wątpliwości: jest to Jeden z
           nielicznych twórców sztuki erotycznej w Polsce bądź też Malarz samouk,

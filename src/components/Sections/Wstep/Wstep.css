@@ -98,6 +98,14 @@
   text-indent: 3vh;
   padding: 0;
 }
+.h3_wstep {
+  font-size: 0.9rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0;
+}
 
 .p_wstep {
   font-size: 0.9rem;

@@ -14,15 +14,15 @@ const Pyzik = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Koniec romansu.</h2>
         <h2 className="h1_wstep">
-          Komunizm, seks i melancholia w dzienniku Annie Ernaux
+          Koniec romansu.<br></br> Komunizm, seks i melancholia w dzienniku
+          Annie Ernaux
         </h2>
-        <h2 className="h1_wstep">„Se perdre”, Gallimard, Paris 2001;</h2>
-        <h2 className="h1_wstep">
-          „ Getting Lost ”, trans. Allison L. Strayer, Seven Stories Press, New
-          York 2022.
-        </h2>
+
+        <h3 className="h3_wstep">
+          „Se perdre”, Gallimard, Paris 2001;<br></br>„ Getting Lost ”, trans.
+          Allison L. Strayer, Seven Stories Press, New York 2022.
+        </h3>
 
         <p className="h2_wstep">
           <i>

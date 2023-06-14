@@ -14,8 +14,9 @@ const Lemieszko = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">W swoją stronę:</h2>
-        <h2 className="h1_wstep">(wy)piski z dziennika</h2>
+        <h2 className="h1_wstep">
+          W swoją stronę:<br></br>(wy)piski z dziennika
+        </h2>
         <h2 className="h2_podpis">
           Przekonamy się jeszcze raz, czytając te zapiski - tak, są to raczej
           piski na temat mojego życia. Chciałoby się ponarzekać nad swym życiem
