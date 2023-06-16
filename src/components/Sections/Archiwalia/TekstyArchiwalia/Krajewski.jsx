@@ -11,12 +11,12 @@ const Krajewski = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Łukasz Krajewski</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           Od etnografki dzieciństwa do galerniczki wrażliwości: historia Laure
         </h2>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h2_wstep">
           Colette Peignot, bo tak naprawdę nazywała się autorka „Sacrum”,
           zostawiła po sobie skąpy i eklektyczny korpus dzieł. Należą do niego
@@ -49,9 +49,9 @@ const Krajewski = () => {
             wszystkich materiałów, którymi możemy dysponować, te pochodzące z
             dzieciństwa mają szansę być najmniej wyrafinowane
           </i>{" "}
-          1. Francuska poetka stosuje się w swoim tekście do powyższych zaleceń,
-          które jej przyjaciel, Michel Leiris, formułuje w eseju „Sacrum w życiu
-          codziennym”.
+          <sup>1</sup>. Francuska poetka stosuje się w swoim tekście do
+          powyższych zaleceń, które jej przyjaciel, Michel Leiris, formułuje w
+          eseju „Sacrum w życiu codziennym”.
         </h2>
         <h2 className="h2_wstep">
           Do naukowej wykładni tego pojęcia Laure odnosi się nonszalancko, raz
@@ -77,11 +77,11 @@ const Krajewski = () => {
           proponowanym przez nią ujęciu sacrum musi być odczuwane przede
           wszystkim <i>we wspólnocie z innymi</i>. Można by wyciągnąć stąd
           wniosek, że jego nośnikiem są ekstatyczne – czyli, dosłownie,
-          <i>wypychające nas poza własne granice</i>, jak sama pisze – formy
+          <i> wypychające nas poza własne granice</i>, jak sama pisze – formy
           interakcji, nad którymi nie unosi się odium komunikacyjnego
           konwenansu. Francuska poetka zastrzega jednak, że aby spełnić wymogi
           narzucone przez jej wykładnię, interakcje te muszą uwzględniać również
-          <i>konfrontację ze śmiercią</i>. Jako egzemplaryczny przykład
+          <i> konfrontację ze śmiercią</i>. Jako egzemplaryczny przykład
           doświadczenia sacrum Peignot wskazuje swoje spotkanie z ojcem
           odchodzącym na front, spotkanie naznaczone przeczuciem –
           <i>
@@ -99,14 +99,14 @@ const Krajewski = () => {
             zmysłowości i obrzędowości [...] w dramacie miłości, rozstania i
             śmierci
           </i>
-          2. I rzeczywiście, dla Laure sacrum pojawia się w chwili kontaktu
-          między osobami połączonymi zażyłą więzią, które nagle konfrontują się
-          z namacalnym ryzykiem jej utraty. Choć ta
-          <i>nieustająca groźba śmierci jest upajającym absolutem</i>, jak pisze
-          Peignot, to jednak sama śmierć nie staje się u niej obiektem kultu:
-          sacrum powstaje na progu istnienia i niebytu wskutek napięcia między
-          tymi biegunami, w obrębie relacji, gdzie poczucie głębokiej wspólnoty
-          z drugą osobą umożliwia wyjście poza orbitę własnego Ja.
+          <sup>2</sup>. I rzeczywiście, dla Laure sacrum pojawia się w chwili
+          kontaktu między osobami połączonymi zażyłą więzią, które nagle
+          konfrontują się z namacalnym ryzykiem jej utraty. Choć ta
+          <i> nieustająca groźba śmierci jest upajającym absolutem</i>, jak
+          pisze Peignot, to jednak sama śmierć nie staje się u niej obiektem
+          kultu: sacrum powstaje na progu istnienia i niebytu wskutek napięcia
+          między tymi biegunami, w obrębie relacji, gdzie poczucie głębokiej
+          wspólnoty z drugą osobą umożliwia wyjście poza orbitę własnego Ja.
         </h2>
         <h2 className="h2_wstep">
           Dlaczego więc francuska poetka w tak krótkim tekście tyle uwagi
@@ -136,10 +136,11 @@ const Krajewski = () => {
           matkę, która na koniec wyrzuciła córce, że ma serce z kamienia. Ta nie
           pozostała jej dłużna:
           <i>
+            {" "}
             Przyparta do komody, odpowiedziałam: „Nie – z marmuru, bo jest
             zimniejszy”
           </i>
-          3.
+          <sup>3</sup>.
         </h2>
         <h2 className="h2_wstep">
           Nic więc dziwnego, że Peignot prędko zaczęła odrzucać katolicyzm,
@@ -156,7 +157,7 @@ const Krajewski = () => {
             jakby źródłem radości nie były jedynie rzadkie rozrywki nadpsute
             lękiem budzącym się na myśl o tym, co przyniesie jutro
           </i>
-          4.
+          <sup>4</sup>.
         </h2>
         <h2 className="h2_wstep">
           Awanturniczą, choć krótką biografię dorosłej Peignot wypełniają
@@ -166,13 +167,13 @@ const Krajewski = () => {
           ostatnie lata swojego życia, korzystając ze spadku po ojcu, wspierała
           finansowo pismo <i>La Critique sociale</i>, na łamach którego
           publikowała teksty publicystyczne pod pseudonimem Claude Araxe –
-          nazwisko skradzione zakaukaskiej <i>rzece, która mosty zrywa</i>, jak
+          nazwisko skradzione zakaukaskiej <i> rzece, która mosty zrywa</i>, jak
           pisze Wergiliusz w „Eneidzie”. To znamienny wybór. Zjawiska naturalne,
           które Laure przywołuje w swoich tekstach, przeważnie pochodzą spoza
           porządku natury postrzeganej jako domena uregulowanych i racjonalnych
           praw, dzięki czemu mogą pełnić funkcję alegorii transcendencji – jak
           wybuch wulkanu symbolizujący
-          <i>wyrzucenie na zewnątrz fundamentu naszego jestestwa</i> (być może
+          <i> wyrzucenie na zewnątrz fundamentu naszego jestestwa</i> (być może
           jest to wspomnienie wspinaczki Laure i Bataille’a na Etnę) albo
           meteoryt szturmujący orbitę planety. Nadrzędnym przypadkiem
           konfrontacji z tkwiącym w porządku natury absolutem okazuje się
@@ -196,9 +197,9 @@ const Krajewski = () => {
             idzie do końca i rzuca się między rogi, by w odpowiednim momencie
             zadać śmiertelne pchnięcie
           </i>
-          5. Jeśli znaczy to tyle, że jego rola polega na aktywnym buncie
-          wymierzonym we współczesne mu społeczeństwo i jego konformistyczne
-          struktury (
+          <sup>5</sup>. Jeśli znaczy to tyle, że jego rola polega na aktywnym
+          buncie wymierzonym we współczesne mu społeczeństwo i jego
+          konformistyczne struktury (
           <i>
             ciągłość form, ciągłość zewnętrznych okoliczności, które nie
             odzwierciedlają prawdy bytu lub przestały ją odzwierciedlać
@@ -207,9 +208,10 @@ const Krajewski = () => {
           sacrum), Laure bez wątpienia by się z taką interpretacją zgodziła. Pod
           tym względem przypomina hołubionego zresztą przez nią Rimbauda, który
           rzuca wyzwanie swojej epoce, ogłaszając:
-          <i>moje oczy zamknięte są na wasze światło</i>6. Francuska autorka
-          także przedkłada romantyzm obłędu nad bezpieczeństwo płynące z
-          uległości wobec skompromitowanego w jej oczach społecznego porządku (
+          <i> moje oczy zamknięte są na wasze światło</i>
+          <sup>6</sup>. Francuska autorka także przedkłada romantyzm obłędu nad
+          bezpieczeństwo płynące z uległości wobec skompromitowanego w jej
+          oczach społecznego porządku (
           <i>
             Niektórzy zawsze będą wybierali utratę gruntu pod stopami – za cenę
             dowolnego ryzyka: szaleństwa lub śmierci – byleby życie wciąż trwało
@@ -230,7 +232,7 @@ const Krajewski = () => {
           rozumieć ujmowanie w formę literacką treści i doświadczeń, które są
           budulcem jej tożsamości, zwłaszcza tych, które pochodzą z lat
           dziecięcych: tam właśnie Peignot odnajduje pierwotne doświadczenie
-          sacrum, które stanowi dla niej <i>rację życia i rację śmierci</i>.
+          sacrum, które stanowi dla niej <i> rację życia i rację śmierci</i>.
         </h2>
         <h1 className="h1_wstep">III</h1>
         <h2 className="h2_wstep">
@@ -238,11 +240,11 @@ const Krajewski = () => {
           jej własne teksty. Z wypowiedzi mężczyzn, którzy byli jej bliscy,
           trudno wydobyć rzeczowe informacje dotyczące jej zainteresowań
           intelektualnych, pasji ideologicznych czy głównych inspiracji w
-          zakresie poezji7. Nie znajdziemy ich nawet u Bataille’a, jej kochanka,
-          z którym spędziła ostatnie lata swojego życia. Owszem, w wielu
-          miejscach pisze on o Peignot z afektacją i wzruszeniem, ale choć jego
-          wypowiedzi są pełne życzliwości, ostatecznie układają się raczej w
-          sentymentalny panegiryk. Symptomatycznym przykładem tego uwielbienia
+          zakresie poezji <sup>7</sup>. Nie znajdziemy ich nawet u Bataille’a,
+          jej kochanka, z którym spędziła ostatnie lata swojego życia. Owszem, w
+          wielu miejscach pisze on o Peignot z afektacją i wzruszeniem, ale choć
+          jego wypowiedzi są pełne życzliwości, ostatecznie układają się raczej
+          w sentymentalny panegiryk. Symptomatycznym przykładem tego uwielbienia
           jest powieść „Błękit nieba”, w której Laure, sportretowana pod
           wymownym pseudonimem Dirty, odgrywa rolę libertyńskiej muzy narratora,
           który opłakuje kres ich romansu. Porte-parole Bataille’a rozpamiętuje
@@ -250,24 +252,25 @@ const Krajewski = () => {
           powierniczką jego żali jest kobieta nosząca równie mało subtelnie
           dobrane imię – Lazare – która
           <i>
+            {" "}
             w owym czasie była jedyną istotą, która pozwalała mu wyrwać się z
             przygnębienia, mimo że była […] brzydka i zaniedbana (kobiety, z
             którymi chodziłem wcześniej, były – przeciwnie – dobrze ubrane i
             ładne)
           </i>
-          8. Postać ta miała z kolei swój pierwowzór w osobie Simone Weil. Cała
-          trójka z „Błękitu nieba” rzeczywiście się znała, Weil i Peignot
-          przyjaźniły się ze sobą i przez pewien czas regularnie widywały w
-          paryskim bistrze, by prowadzić dyskusje przy lunchu.
+          <sup>8</sup>. Postać ta miała z kolei swój pierwowzór w osobie Simone
+          Weil. Cała trójka z „Błękitu nieba” rzeczywiście się znała, Weil i
+          Peignot przyjaźniły się ze sobą i przez pewien czas regularnie
+          widywały w paryskim bistrze, by prowadzić dyskusje przy lunchu.
           <i>
             Obie miały niepohamowany apetyt intelektualny, dobre kontakty
             towarzyskie i zainteresowania obejmujące większość dziedzin kultury.
             Obie pisały, dążąc do duchowej transcendencji w warunkach
             ustanowionych przez współczesną im epokę
           </i>
-          9, pisze Chris Kraus. Jeśli podobieństwo między ich osobowościami
-          ujmiemy na tyle szeroko – zgoda. Na ile jednak były one sobie
-          faktycznie bliskie w swoich poglądach i fascynacjach?
+          <sup>9</sup>, pisze Chris Kraus. Jeśli podobieństwo między ich
+          osobowościami ujmiemy na tyle szeroko – zgoda. Na ile jednak były one
+          sobie faktycznie bliskie w swoich poglądach i fascynacjach?
         </h2>
         <h2 className="h2_wstep">
           Weil dała się poznać jako idiosynkratyczna komunistka: aktywnie
@@ -275,7 +278,7 @@ const Krajewski = () => {
           wsparcia jako publicystka czy uczestniczka strajków. Chciała realnego
           zaangażowania: rzuciła pracę nauczycielki i zatrudniła się w fabryce,
           aby w dosłownym sensie solidaryzować się z proletariuszami. Ten sam
-          <i>paniczny altruizm</i>, jak podsumowuje jej postawę Kraus, skłonił
+          <i> paniczny altruizm</i>, jak podsumowuje jej postawę Kraus, skłonił
           ją później do zaciągnięcia się do armii walczącej w hiszpańskiej
           wojnie domowej. Kruche zdrowie i słaby wzrok nie czyniły z niej jednak
           zbyt sprawnej żołnierki. Pod koniec życia, przebywając w Ameryce, z
@@ -294,19 +297,20 @@ const Krajewski = () => {
           wzmacniać i chronić. W jednym z wierszy wyobraża sobie, jak
           przyjaciele rozszarpują ją na strzępy:{" "}
           <i>Obecna i niewidzialna […] widziałam, jak dzielą się moim życiem</i>
-          10. Utrata własnego Ja nie zostaje tu jednak przypieczętowana, to
-          raczej echo koszmarnych wspomnień Laure, która, przywołując je w
-          „L’histoire d’une petite fille”, pisze zarazem o woli odzyskania
-          swojej tożsamości, w tym ciała, które tak długo{" "}
-          <i>kazano jej ignorować</i>11. Dążąc do ukonstytuowania własnego Ja,
-          poetka waha się, czy te próby nie skończą się klęską:{" "}
+          <sup>10</sup>. Utrata własnego Ja nie zostaje tu jednak
+          przypieczętowana, to raczej echo koszmarnych wspomnień Laure, która,
+          przywołując je w „L’histoire d’une petite fille”, pisze zarazem o woli
+          odzyskania swojej tożsamości, w tym ciała, które tak długo{" "}
+          <i>kazano jej ignorować</i>
+          <sup>11</sup>. Dążąc do ukonstytuowania własnego Ja, poetka waha się,
+          czy te próby nie skończą się klęską:{" "}
           <i>
             Czy nigdy nie będę w stanie odcisnąć w rzeczywistości śladu własnej
             woli? Gdy tylko przestaję być sama, przestaję też być sobą, co
             robić? Czy świat zawsze będzie dla mnie tylko źródłem cierpienia, a
             nie czymś, co mogłabym zmienić?
           </i>
-          12.
+          <sup>12</sup>.
         </h2>
         <h2 className="h2_wstep">
           Wydaje się, że ostatecznie Laure znalazła jednak – no właśnie, co:

@@ -10,14 +10,14 @@ const Fitzgibbon = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">[Listy do Pana Dyrektora (1)]</h2>
-        <h2 className="h2_wstep">31/10/2022</h2>
-        <h2 className="h2_wstep">
-          155 Makowska<br></br> 31/10/2022<br></br> 02.566 Warszawa
-        </h2>
+        <h2 className="h1_wstep">[Listy do Pana Dyrektora (1)]</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h2_wstep_right">31/10/2022</h2>
+        <h2 className="h2_non_indent">
+          155 Makowska<br></br> 31/10/2022<br></br> 02.566 Warszawa
+        </h2>
         <h2 className="h2_wstep">Szanowny Panie Dyrektorze,</h2>
         <h2 className="h2_wstep">
           Przeprowadiłem do Polski dwa mięsące temu i mam nadzieję, że jak

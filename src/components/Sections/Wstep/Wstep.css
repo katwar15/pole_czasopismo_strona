@@ -33,17 +33,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 10vh;
+  padding-top: 15vh;
   padding-bottom: 3vh;
-  padding-left: 5vh;
-  padding-right: 5vh;
+
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .content_wstep {
   display: flex;
   flex-direction: column;
   padding-top: 1vh;
-  padding-bottom: 3vh;
+  padding-bottom: 10vh;
   padding-left: 20%;
   padding-right: 20%;
 }
@@ -98,6 +99,17 @@
   text-indent: 3vh;
   padding: 0;
 }
+
+.h2_wstep_right {
+  font-size: 0.9rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  line-height: 1.5;
+  text-indent: 3vh;
+  padding: 0;
+}
+
 .h3_wstep {
   font-size: 0.9rem;
   font-family: "Playfair Display", sans-serif;
@@ -125,6 +137,22 @@
   line-height: 1.5;
 }
 
+.h2_non_justify {
+  font-size: 0.9rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.h2_non_indent_right {
+  font-size: 0.9rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  line-height: 1.5;
+}
+
 .h2_podpis {
   font-size: 0.9rem;
   font-family: "Playfair Display", sans-serif;
@@ -147,6 +175,16 @@
   padding-top: 3vh;
 }
 
+.h2_left_bez {
+  font-size: 0.9rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: left;
+  line-height: 1.5;
+  font-style: italic;
+  padding-top: 3vh;
+}
+
 .h2_podpis_img {
   font-size: 0.9rem;
   font-family: "Playfair Display", sans-serif;
@@ -160,6 +198,7 @@
 .img_text {
   padding-top: 3vh;
   padding-bottom: 1vh;
+  width: 100%;
 }
 
 @media screen and (max-width: 768px) {
@@ -175,7 +214,9 @@
   .h2_wstep,
   .h2_dialog,
   .h2_podpis,
-  .h2_non_indent {
+  .h2_non_indent,
+  .h2_left_bez,
+  .h2_non_justify {
     font-size: 0.85rem;
     line-height: 1.5;
   }
@@ -184,7 +225,7 @@
 @media screen and (max-width: 350px) {
   .content_wstep {
     padding-left: 2%;
-    padding-right: 2%;
+    padding-right: 4%;
   }
 
   .h1_wstep_autor {

@@ -11,12 +11,12 @@ const Lemieszko = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Piotr Lemieszko</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           W swoją stronę:<br></br>(wy)piski z dziennika
         </h2>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h2_podpis">
           Przekonamy się jeszcze raz, czytając te zapiski - tak, są to raczej
           piski na temat mojego życia. Chciałoby się ponarzekać nad swym życiem
@@ -120,7 +120,7 @@ const Lemieszko = () => {
           Popołudnie spędziłem dziś przepisując. To był dobry czas, który
           próbuję odtwarzać teraz, pisząc to, co przechodzi przez palce, głowę,
           niespokojne nogi, jakby to powiedział:
-          <i>nogi, które przebierają w butach do ubrania</i>. A zimowe buty są
+          <i> nogi, które przebierają w butach do ubrania</i>. A zimowe buty są
           tylko jedne.
         </p>
         <p className="h2_wstep">
@@ -272,6 +272,7 @@ const Lemieszko = () => {
           stał zaraz przy schodach do restauracji. <i>Czy mogę jakoś pomóc?</i>,
           zapytałem.
           <i>
+            {" "}
             Tak, niech pan powie w tej restauracji, że jak zaraz ktoś nie
             przestawi samochodu, dzwonię po policję
           </i>

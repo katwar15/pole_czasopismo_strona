@@ -11,12 +11,12 @@ const Marianna = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Marianna ze Ślęków Pilotowa</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           My, z Siedlikowa Ślęki (fragment wspomnień)
         </h2>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h2_wstep">
           Urodziłam się 24 października 1911 roku w Siedlikowie powiat
           Ostrzeszów województwo poznańskie. Rodzice moi Walenty Ślęk i

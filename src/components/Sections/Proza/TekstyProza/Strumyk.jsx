@@ -11,10 +11,10 @@ const Ola = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Grzegorz Strumyk</h1>
+        <h2 className="h1_wstep">W uliczkach</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">W uliczkach</h2>
         <p className="h2_wstep">
           Idę za nią. Jednokolorowa, ubrana na czarno, ze srebrnym łańcuszkiem
           przy spodniach, przyciągającym oczy, nie ręce. W przedpokoju poprawia

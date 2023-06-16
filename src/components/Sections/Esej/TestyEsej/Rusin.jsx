@@ -11,10 +11,10 @@ const Rusin = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Wiktor Rusin</h1>
+        <h2 className="h1_wstep">Krach mitu Europy Środkowej?</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Krach mitu Europy Środkowej?</h2>
         <p className="h2_wstep">
           Czy są jeszcze Czesi, ci Czesi, którzy dla polskich inteligentów (być
           może już nie ma też polskich inteligentów, lecz ten wniosek wydaje mi
@@ -83,19 +83,19 @@ const Rusin = () => {
           sensacją… zresztą dla gwiazd bardziej wtedy kasowych nie było
           odpowiednich aren. Czeska reprezentacja zdobyła wicemistrzostwo Europy
           w piłce nożnej, naszą jedenastkę rozgrzeszał po kolejnym blamażu
-          eliminacyjnym komentator, mówiąc – tekst godny filmów Formana – że 90
-          minut dla tych chłopców to na razie dużo. Innymi słowy, w epoce,
-          której początek datowałbym gdzieś na koniec pierwszej połowy lat
-          90-ych, kiedy okazało się, że transformacja gospodarcza obok czysto
-          ekonomicznych skutków ubocznych przyniosła ze sobą parę kulturowych
-          minikataklizmów, kiedy umarło paru luminarzy kultury bardzo cenionych
-          na świecie (na przykład Lutosławski, czy przedwcześnie Kieślowski), a
-          późno-PRL-owski rock alternatywny został wyparty przez chodnikowe
-          disco, właśnie człowiek kultury miał prawo czuć szczególne
-          przygnębienie: roztrwoniliśmy wszystkie nasze sztuczki wypracowane w
-          czasach w zasadzie dużo gorszych i nawet zwykłe reguły gry na boisku
-          pełnowymiarowym są dla nas zbyt wymagające, podczas gdy nad Wełtawą
-          nie mają kompleksów nawet w starciu z głównymi faworytami.
+          eliminacyjnym komentator, mówiąc – tekst godny filmów Formana – że{" "}
+          <i>90 minut dla tych chłopców to na razie dużo</i>. Innymi słowy, w
+          epoce, której początek datowałbym gdzieś na koniec pierwszej połowy
+          lat 90-ych, kiedy okazało się, że transformacja gospodarcza obok
+          czysto ekonomicznych skutków ubocznych przyniosła ze sobą parę
+          kulturowych minikataklizmów, kiedy umarło paru luminarzy kultury
+          bardzo cenionych na świecie (na przykład Lutosławski, czy
+          przedwcześnie Kieślowski), a późno-PRL-owski rock alternatywny został
+          wyparty przez chodnikowe disco, właśnie człowiek kultury miał prawo
+          czuć szczególne przygnębienie: roztrwoniliśmy wszystkie nasze sztuczki
+          wypracowane w czasach w zasadzie dużo gorszych i nawet zwykłe reguły
+          gry na boisku pełnowymiarowym są dla nas zbyt wymagające, podczas gdy
+          nad Wełtawą nie mają kompleksów nawet w starciu z głównymi faworytami.
         </p>
         <p className="h2_wstep">
           To chyba dawniejsze czasy. Próbowałem wybadać, czy w ciągu ostatnich
@@ -115,43 +115,46 @@ const Rusin = () => {
         </p>
         <p className="h2_wstep">
           Nie mam pewności, czy naprawdę czeska sztuka jest w kryzysie. Ale
-          myślę na serio o kryzysie Środkowej Europy jako szczególnego pojęcia,
-          bliskiego polskim intelektualistom, figury, która na pewno była cenna
-          dla czeskich artystów powojennych i w jakimś stopniu stała się
-          podstawą kultu czeskiej sztuki w Polsce.
+          myślę na serio o <b>kryzysie Środkowej Europy</b> jako szczególnego
+          pojęcia, bliskiego polskim intelektualistom, figury, która na pewno
+          była cenna dla czeskich artystów powojennych i w jakimś stopniu stała
+          się podstawą kultu czeskiej sztuki w Polsce.
         </p>
         <p className="h2_wstep">
           To oczywiste, że Czesi w odbiorze polskiego, umiarkowanie
           „ojkofobicznego” inteligenta są zmitologizowani, o czym już mówił
-          ciekawie w wywiadzie dla Wyborczej tłumacz Aleksander Kaczorowski.
-          Oczywiście, ten akurat wątek mniej dotyczy Czech niż Polski, a może
-          nawet Czech prawie w ogóle nie dotyczy. W końcu Spinoza uczył, że
-          jeżeli Paweł mówi coś o Piotrze, to niekoniecznie mówi prawdę na temat
-          Piotra, ale jest w tym, co mówi, wiele prawdy na temat samego Pawła i
-          jego uczuć. „Czechofilia” polskiej klasy średniej w jej obiegowym
-          wydaniu bywa swoistym fikołkiem umysłowym, w którym człowiek próbuje
-          się wywyższyć poprzez zmniejszanie. Spróbujmy podsumować całkiem
-          poważny problem, w sposób celowo zbyt prosty: kompleks polski między
-          innymi opiera się na prostym fakcie: Polska to kraj jak na Europę
-          dosyć duży, jest enfant terrible wciśniętym między świat niemiecki i
-          świat prawosławia, nie pasującym, nawet gdybyśmy bardzo się o to
-          starali, do pejzażu oryginalnych mniejszych krewnych i kuzynów
-          habsburskiej Europy. Trudno Polsce, krajowi „skrwawionych ziem” z
-          książki Timothy Snydera, przestawić się na tory państwa
-          „niewielkiego”, którego powodem do dumy może być samo przetrwanie
-          językowej czy kulturowej odrębności, a jednocześnie którego wszystkie
-          aspiracje są rozsądne, oddolne, raczej pragmatyczne. Tym bardziej
-          jednak upadły aspiracje imperialne, a próby grania mocarstwa kończą
-          się tragedią albo bufonadą – na szczęście ostatnio częściej bufonadą –
-          i w tym sensie jesteśmy jednocześnie krajem o wiele „zbyt małym”.
-          Niestrudzone roszczenia do wielkiego formatu, choćby retoryczne –
-          jeżeli nie da się inaczej – są jedną z naturalnych reakcji na ten
-          „brak wyważonej skali”, który powoduje, że nie możemy czuć się ani
-          Słoweńcami czy Estończykami, ani Brytyjczykami czy Niemcami; to częsta
-          reakcja prawicowa, choć może bezwzględne przypisanie jej do
-          prawicowości jest nieporozumieniem (romantyzm polski miewał momenty
-          megalomanii raczej lewicowej, internacjonalistycznej, ale to inna
-          kwestia).
+          ciekawie w{" "}
+          <a href="https://wyborcza.pl/7,75517,25212301,polacy-czechizuja-sie-gwaltownym-tempie-stajemy-sie-nudnym.html?fbclid=IwAR1kFEEhF7rTpZ2gb2M4LXLLrurpMPhANm4jrCmWMbklN4-Vzsr2PjqfAnI">
+            wywiadzie dla <i>Wyborczej</i>
+          </a>{" "}
+          tłumacz Aleksander Kaczorowski. Oczywiście, ten akurat wątek mniej
+          dotyczy Czech niż Polski, a może nawet Czech prawie w ogóle nie
+          dotyczy. W końcu Spinoza uczył, że jeżeli Paweł mówi coś o Piotrze, to
+          niekoniecznie mówi prawdę na temat Piotra, ale jest w tym, co mówi,
+          wiele prawdy na temat samego Pawła i jego uczuć. „Czechofilia”
+          polskiej klasy średniej w jej obiegowym wydaniu bywa swoistym
+          fikołkiem umysłowym, w którym człowiek próbuje się wywyższyć poprzez
+          zmniejszanie. Spróbujmy podsumować całkiem poważny problem, w sposób
+          celowo zbyt prosty: kompleks polski między innymi opiera się na
+          prostym fakcie: Polska to kraj jak na Europę dosyć duży, jest{" "}
+          <i>enfant terrible</i> wciśniętym między świat niemiecki i świat
+          prawosławia, nie pasującym, nawet gdybyśmy bardzo się o to starali, do
+          pejzażu oryginalnych mniejszych krewnych i kuzynów habsburskiej
+          Europy. Trudno Polsce, krajowi „skrwawionych ziem” z książki Timothy
+          Snydera, przestawić się na tory państwa „niewielkiego”, którego
+          powodem do dumy może być samo przetrwanie językowej czy kulturowej
+          odrębności, a jednocześnie którego wszystkie aspiracje są rozsądne,
+          oddolne, raczej pragmatyczne. Tym bardziej jednak upadły aspiracje
+          imperialne, a próby grania mocarstwa kończą się tragedią albo bufonadą
+          – na szczęście ostatnio częściej bufonadą – i w tym sensie jesteśmy
+          jednocześnie krajem o wiele „zbyt małym”. Niestrudzone roszczenia do
+          wielkiego formatu, choćby retoryczne – jeżeli nie da się inaczej – są
+          jedną z naturalnych reakcji na ten „brak wyważonej skali”, który
+          powoduje, że nie możemy <i>czuć się</i> ani Słoweńcami czy
+          Estończykami, ani Brytyjczykami czy Niemcami; to częsta reakcja
+          prawicowa, choć może bezwzględne przypisanie jej do prawicowości jest
+          nieporozumieniem (romantyzm polski miewał momenty megalomanii raczej
+          lewicowej, internacjonalistycznej, ale to inna kwestia).
         </p>
         <p className="h2_wstep">
           Mieszczański liberalny sceptyk może jednak właśnie pójść w przeciwną
@@ -275,54 +278,61 @@ const Rusin = () => {
           kinematografii, interesującym, chociaż też dosyć manipulacyjnym:
           sfrustrowani ludzie, którzy dali się nabrać na otwarcie
           nieistniejącego supermarketu na przedmieściach Pragi oferującego
-          gigantyczne promocje. Reżyserów spektaklu (bo w sensie artystycznym
-          nie był to może „film pełną gębą”) było dwóch: rodowici prażanie,
-          młodzi zdolni absolwenci dosyć znanej filmówki: Filip Remunda miał
-          wtedy równo trzydzieści, Vit Klusák niecałe dwadzieścia cztery lata. W
-          pierwszych scenach autorzy pokazują kulisy własnej mistyfikacji.
-          Ustawieni w miejscu, w którym miał rzekomo powstać hipermarket, wydają
-          się typami na przecięciu epok: coś jeszcze z klimatu zgrywusów i
-          satyryków dawnej daty, następców Mentzla i Formana, a może po prostu
-          dobrych kabareciarzy tamtych lat, ale już wiele z klimatów, które
-          krytykują: cynicznych pracowników showbiznesu albo agencji
-          reklamowych, upozowanych zgodnie z hipsterskim sznytem na luzaków,
-          tworzących kolejny viral albo inny kontrowersyjny kontent o dużym
-          zasięgu (naturalnie twórcy byli świadomi takiego zaszufladkowania i
-          swoją pozycję nieźle problematyzowali). Przypomnieć tu można parę
-          ekspertów od social mediów z „The Square” Rubena Östlunda (2015) – w
-          ogóle jest to dosyć podobny sposób „wkręcania” bohaterów i widza, choć
-          Östlund, będąc mniej sympatycznym manipulatorem, tworzy filmy „czysto
-          fabularne”.
+          gigantyczne promocje. Reżyserów <i>spektaklu</i> (bo w sensie
+          artystycznym nie był to może „<i>film</i> pełną gębą”) było dwóch:
+          rodowici prażanie, młodzi zdolni absolwenci dosyć znanej filmówki:
+          Filip Remunda miał wtedy równo trzydzieści, Vit Klusák niecałe
+          dwadzieścia cztery lata. W pierwszych scenach autorzy pokazują kulisy
+          własnej mistyfikacji. Ustawieni w miejscu, w którym miał rzekomo
+          powstać hipermarket, wydają się typami na przecięciu epok: coś jeszcze
+          z klimatu zgrywusów i satyryków dawnej daty, następców Mentzla i
+          Formana, a może po prostu dobrych kabareciarzy tamtych lat, ale już
+          wiele z klimatów, które krytykują: cynicznych pracowników showbiznesu
+          albo agencji reklamowych, upozowanych zgodnie z hipsterskim sznytem na
+          luzaków, tworzących kolejny viral albo inny kontrowersyjny kontent o
+          dużym zasięgu (naturalnie twórcy byli świadomi takiego
+          zaszufladkowania i swoją pozycję nieźle problematyzowali). Przypomnieć
+          tu można parę ekspertów od social mediów z „The Square” Rubena
+          Östlunda (2015) – w ogóle jest to dosyć podobny sposób „wkręcania”
+          bohaterów i widza, choć Östlund, będąc mniej sympatycznym
+          manipulatorem, tworzy filmy „czysto fabularne”.
         </p>
         <p className="h2_wstep">
           Wikipedia dość trafnie oddaje istotę samego zamysłu:
         </p>
         <p className="h2_wstep">
-          Przedsięwzięcie polegało na otwarciu wielkiego hipermarketu w praskiej
-          dzielnicy Letňany (gdzie znajdują się już hipermarkety Tesco i Globus)
-          31 maja 2003. Przed tą datą zorganizowana była bardzo silna kampania
-          reklamowa w prasie, radiu i telewizji, rozprowadzono także ogromną
-          liczbę ulotek reklamowych, rozklejono plakaty i ustawiono
-          przydrożne billboardy. Hasła głoszone w tych reklamach przewrotnie
-          wzywały: „Nie przychodź!”, „Nie kupuj!” (…)
+          <i>
+            Przedsięwzięcie polegało na otwarciu wielkiego hipermarketu w
+            praskiej dzielnicy Letňany (gdzie znajdują się już
+            hipermarkety Tesco i Globus) 31 maja 2003. Przed tą datą
+            zorganizowana była bardzo silna kampania reklamowa w prasie, radiu i
+            telewizji, rozprowadzono także ogromną liczbę ulotek reklamowych,
+            rozklejono plakaty i ustawiono przydrożne billboardy. Hasła głoszone
+            w tych reklamach przewrotnie wzywały: „Nie przychodź!”, „Nie kupuj!”
+            (…)
+          </i>
         </p>
         <p className="h2_wstep">
-          Pierwszy klient pojawił się o godzinie 7 rano (hipermarket według
-          ogłoszeń miał być otwarty o 10:00), wyjaśniając organizatorom, że
-          wstał tak wcześnie po to, żeby obejrzeć zaćmienie Słońca (na ten dzień
-          rzeczywiście wczesnym rankiem przypadało w Europie, w tym i
-          w Czechach, częściowe zaćmienie Słońca).
+          <i>
+            Pierwszy klient pojawił się o godzinie 7 rano (hipermarket według
+            ogłoszeń miał być otwarty o 10:00), wyjaśniając organizatorom, że
+            wstał tak wcześnie po to, żeby obejrzeć zaćmienie Słońca (na ten
+            dzień rzeczywiście wczesnym rankiem przypadało w Europie, w tym i
+            w Czechach, częściowe zaćmienie Słońca).
+          </i>
         </p>
         <p className="h2_wstep">
-          W rzeczywistości widziana z oddali ściana była tylko rozwieszoną
-          na rusztowaniach atrapą z wymalowanym – znanym niedoszłym klientom z
-          reklamowej kampanii – logo rzekomej firmy Český sen, a ludzie
-          zmierzający pieszo do „hipermarketu” i ich reakcje po tym, jak
-          zorientowali się, że zostali wprowadzeni w błąd, posłużyły do
-          nakręcenia filmu. Tylko część niedoszłych klientów zrozumiała
-          przesłanie przedsięwzięcia, część ze wstydem bagatelizowała własną
-          naiwność („łyknąć trochę świeżego powietrza nigdy nie zaszkodzi”), a
-          znaczna ich liczba domagała się surowych kar dla jego organizatorów.
+          <i>
+            W rzeczywistości widziana z oddali ściana była tylko rozwieszoną
+            na rusztowaniach atrapą z wymalowanym – znanym niedoszłym klientom z
+            reklamowej kampanii – logo rzekomej firmy Český sen, a ludzie
+            zmierzający pieszo do „hipermarketu” i ich reakcje po tym, jak
+            zorientowali się, że zostali wprowadzeni w błąd, posłużyły do
+            nakręcenia filmu. Tylko część niedoszłych klientów zrozumiała
+            przesłanie przedsięwzięcia, część ze wstydem bagatelizowała własną
+            naiwność („łyknąć trochę świeżego powietrza nigdy nie zaszkodzi”), a
+            znaczna ich liczba domagała się surowych kar dla jego organizatorów.
+          </i>
         </p>
         <p className="h2_wstep">
           W tej dosyć zgrabnej notatce zabrakło może kilku ciekawych szczegółów.
@@ -348,22 +358,22 @@ const Rusin = () => {
           odpowiedzialność „Wielkiego Innego”, o tyle dzisiaj trudniej odnaleźć
           takie przeniesienie. W nowym kapitalizmie nabrany człowiek mimo
           wszystko wstydzi się sam siebie. W tym miejscu ktoś dodaje na
-          usprawiedliwienie: Myślałem, że era kłamstw się skończyła. Ktoś inny
-          wskazuje, że pomysł był koniec końców znakomity, gdyż zwrócił uwagę na
-          różnego rodzaju przekręty i „atrapy” na dużo większą skalę. (Nasi
-          politycy są o wiele gorsi). Ktoś wreszcie twierdzi, że Czesi byli
-          zawsze naiwni i dodaje: To bolesne przebudzenie.
+          usprawiedliwienie: <i>Myślałem, że era kłamstw się skończyła</i>. Ktoś
+          inny wskazuje, że pomysł był koniec końców znakomity, gdyż zwrócił
+          uwagę na różnego rodzaju przekręty i „atrapy” na dużo większą skalę. (
+          <i>Nasi politycy są o wiele gorsi</i>). Ktoś wreszcie twierdzi, że
+          Czesi byli zawsze naiwni i dodaje: <i>To bolesne przebudzenie</i>.
         </p>
         <p className="h2_wstep">
           Faktycznie ten film, nie tak wybitny jak najlepsze utwory Formana, ale
           będący jakimś odpowiednikiem i późnym następstwem rzeczy w rodzaju
           „Pali się, moja Panno”, ma jedną poznawczą wartość: pokazuje upadek
           mitu i azylu „Środkowej Europy”, pomimo – a może dlatego? – że wciąż
-          się jeszcze trzyma jedną nogą konwencji humorystycznych z jej epoki.
-          To właśnie jest tym przebudzeniem. Czy to nie dlatego „Czeski sen”,
-          który wciąż kontynuuje stereotypowy „czeski humor”, był jednym z
-          ostatnich jak dotąd docenionych na świecie filmów z tej
-          kinematografii? Premierę miał w roku przystąpienia Czech do Unii
+          się jeszcze trzyma jedną nogą konwencji humorystycznych{" "}
+          <i>z jej epoki</i>. To właśnie jest tym przebudzeniem. Czy to nie
+          dlatego „Czeski sen”, który wciąż kontynuuje stereotypowy „czeski
+          humor”, był jednym z ostatnich jak dotąd docenionych na świecie filmów
+          z tej kinematografii? Premierę miał w roku przystąpienia Czech do Unii
           Europejskiej, która – co ciekawe – cieszy się tam dzisiaj mniejszym
           zaufaniem niż w Polsce, chociaż żaden rząd czeski nie wszedł w otwarty
           konflikt z Brukselą. Pewna identyfikacja, która być może dawała
@@ -375,15 +385,18 @@ const Rusin = () => {
         <p className="h2_wstep">
           Jest to całkowicie zrozumiałe. Jeżeli Kundera w eseju pod tytułem
           zawiłym i bardzo wymownym „Zachód porwany albo tragedia Europy
-          Środkowej” miał rację, twierdząc, co następuje: Europa, którą nazywam
-          środkową, odczuwa zmianę swego losu po roku 1945 nie tylko jako
-          katastrofę polityczną, lecz jako zakwestionowanie swej cywilizacji.
-          Głęboką racją oporu krajów środkowoeuropejskich jest obrona ich
-          tożsamości, albo inaczej – obrona ich zachodniości – to znaczy, że
-          Europa Środkowa w sytuacji, w której wektor zmian kieruje się znów z
-          Zachodu, traci znaczną część swojej racji bytu i aktualności jako
-          pewna figura mentalna oraz kulturowa, z którą związane były różne
-          rytuały oraz style narracji warstw inteligenckich.
+          Środkowej” miał rację, twierdząc, co następuje:{" "}
+          <i>
+            Europa, którą nazywam środkową, odczuwa zmianę swego losu po roku
+            1945 nie tylko jako katastrofę polityczną, lecz jako
+            zakwestionowanie swej cywilizacji. Głęboką racją oporu krajów
+            środkowoeuropejskich jest obrona ich tożsamości, albo inaczej –
+            <b> obrona ich zachodniości</b>
+          </i>{" "}
+          – to znaczy, że Europa Środkowa w sytuacji, w której wektor zmian
+          kieruje się znów z Zachodu, traci znaczną część swojej racji bytu i
+          aktualności jako pewna figura mentalna oraz kulturowa, z którą
+          związane były różne rytuały oraz style narracji warstw inteligenckich.
         </p>
         <p className="h2_wstep">
           Ponieważ jest to Zachód często trzeciorzędny albo przynajmniej Zachód
@@ -449,7 +462,7 @@ const Rusin = () => {
           Problem natomiast wydaje się w obu krajach ten sam. Eduard Louis,
           młody pisarz francuski o lewicowych poglądach, podobno dojeżdżając
           pociągiem z Warszawy do Poznania wyjrzał przez okno i rzucił do
-          kolegi: Merde, to jest Pikardia. Autor pochodzi z najbardziej
+          kolegi: <i>Merde, to jest Pikardia</i>. Autor pochodzi z najbardziej
           spauperyzowanej północno-wschodniej Francji, gdzie najwięcej głosów
           dostała Marine Le Pen (mimo relatywnie najniższej imigracji), rejonów
           poprzemysłowych, z klimatami, które przed Louisem i Didierem Eribonem
@@ -486,34 +499,38 @@ const Rusin = () => {
           ich następcy są raczej przerażeni.
         </p>
         <p className="h2_wstep">
-          Pisał Kundera: Czym bowiem jest Europa dla Węgra, Czecha albo Polaka?
-          Narody te od początku należały do części Europy zakorzenionej w
-          rzymskim świecie chrześcijańskim. Uczestniczyły we wszystkich fazach
-          jego historii. Dla nich słowo „Europa” nie oznacza zjawiska ze sfery
-          geografii, lecz jest pojęciem duchowym, synonimem słowa „Zachód”. Z
-          chwilą, gdy Węgry przestają być Europą, tzn. Zachodem, wyrzucone
-          zostają z kolein własnego losu, ze swej historii – tracą najgłębszą
-          istotę swojej tożsamości. Europa geograficzna, rozciągająca się od
-          Atlantyku po Ural, zawsze była podzielona na dwie odrębnie rozwijające
-          się połowy; jedna była związana ze starożytnym Rzymem i z kościołem
-          katolickim (jej znakiem szczególnym jest alfabet łaciński), druga zaś
-          była zakotwiczona w Bizancjum i w kościele prawosławnym (znak
-          szczególny: cyrylica). Po 1945 roku granica między dwiema Europami
-          przesunęła się o kilkaset kilometrów na zachód i narody, które dotąd
-          uważały się za zachodnie, obudziwszy się pewnego poranka stwierdziły,
-          że znajdują się na Wschodzie.
+          Pisał Kundera:{" "}
+          <i>
+            Czym bowiem jest Europa dla Węgra, Czecha albo Polaka? Narody te od
+            początku należały do części Europy zakorzenionej w rzymskim świecie
+            chrześcijańskim. Uczestniczyły we wszystkich fazach jego historii.
+            Dla nich słowo „Europa” nie oznacza zjawiska ze sfery geografii,
+            lecz jest pojęciem duchowym, synonimem słowa „Zachód”. Z chwilą, gdy
+            Węgry przestają być Europą, tzn. Zachodem, wyrzucone zostają z
+            kolein własnego losu, ze swej historii – tracą najgłębszą istotę
+            swojej tożsamości. Europa geograficzna, rozciągająca się od
+            Atlantyku po Ural, zawsze była podzielona na dwie odrębnie
+            rozwijające się połowy; jedna była związana ze starożytnym Rzymem i
+            z kościołem katolickim (jej znakiem szczególnym jest alfabet
+            łaciński), druga zaś była zakotwiczona w Bizancjum i w kościele
+            prawosławnym (znak szczególny: cyrylica). Po 1945 roku granica
+            między dwiema Europami przesunęła się o kilkaset kilometrów na
+            zachód i narody, które dotąd uważały się za zachodnie, obudziwszy
+            się pewnego poranka stwierdziły, że znajdują się na Wschodzie
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Jest w tym zbyt wiele uproszczeń; to tylko jedna z możliwych i
           niekoniecznie najbardziej przekonujących definicji ewentualnego
           odrębnego statusu „Środkowej Europy”, być może wynikająca z
           popularyzatorskich zamysłów artykułu, w symbolicznym roku 1984
-          opublikowanego w New York Review of Books (cytaty z tłumaczenia w
-          Zeszytach Literackich). W innych esejach Kundera sięgał głębiej. Ale
-          nawet jeśli rozumienie Środkowej Europy jako Zachodu (być może,
-          owszem, już wcześniej peryferyjnego), który od reszty Zachodu został
-          siłą oderwany, jest niekoniecznie najtrafniejszym podejściem do tematu
-          z perspektywy historycznej, na pewno współtworzyło mitologię i
+          opublikowanego w <i>New York Review of Books</i> (cytaty z tłumaczenia
+          w <i>Zeszytach Literackich</i>). W innych esejach Kundera sięgał
+          głębiej. Ale nawet jeśli rozumienie Środkowej Europy jako Zachodu (być
+          może, owszem, już wcześniej peryferyjnego), który od reszty Zachodu
+          został siłą oderwany, jest niekoniecznie najtrafniejszym podejściem do
+          tematu z perspektywy historycznej, na pewno współtworzyło mitologię i
           autoidentyfikację autorów i autorek, którzy w dużej mierze pod wpływem
           tego rodzaju tekstów zaczęli pozycjonować się jako Środkowi
           Europejczycy.
@@ -539,16 +556,23 @@ const Rusin = () => {
           poczuciem całkowitej marginalności.
         </p>
         <p className="h2_wstep">
-          Jeśli Kundera pisał: Dziś Europa środkowa jest podporządkowana Rosji,
-          z wyjątkiem malutkiej Austrii, która raczej szczęśliwym trafem niż z
-          innego powodu zachowała niepodległość, ale wyrwana ze
-          środkowoeuropejskiego otoczenia straciła wiele ze swej odrębności i
-          nie ma już zupełnie znaczenia. Zniknięcie środkowoeuropejskiego
-          ogniska kultury było niewątpliwie jednym z największych wydarzeń
-          stulecia dla całej cywilizacji zachodniej, to mógł wyrażać również
-          sprzeczne wrażenia względem własnej siły sprawczej. Nie tylko jednak
-          siły „indywidualnej”: był to fragment ogólniejszej kondycji
-          intelektualistów pochodzących z tej części Europy.
+          Jeśli Kundera pisał:{" "}
+          <i>
+            Dziś Europa środkowa jest podporządkowana Rosji, z wyjątkiem
+            malutkiej Austrii, która raczej szczęśliwym trafem niż z innego
+            powodu zachowała niepodległość, ale wyrwana ze środkowoeuropejskiego
+            otoczenia straciła wiele ze swej odrębności i nie ma już zupełnie
+            znaczenia.{" "}
+            <b>
+              Zniknięcie środkowoeuropejskiego ogniska kultury było niewątpliwie
+              jednym z największych wydarzeń stulecia dla całej cywilizacji
+              zachodniej
+            </b>
+          </i>
+          , to mógł wyrażać również sprzeczne wrażenia względem własnej siły
+          sprawczej. Nie tylko jednak siły „indywidualnej”: był to fragment
+          ogólniejszej kondycji intelektualistów pochodzących z tej części
+          Europy.
         </p>
         <p className="h2_wstep">
           Z jednej strony, kiedy czytamy takie teksty, widzimy jawne pretensje
@@ -563,9 +587,9 @@ const Rusin = () => {
           kraj z „rodowodem” bardziej świeckim i sceptycznym mogły być mniej
           podatne) przejście części solidarnościowych opozycjonistów na pozycje,
           które dzisiaj określa się jako skrajnie prawicowe, wynikało właśnie z
-          poczucia utraty tego dwuznacznego przywileju pochodzenia z Europy
-          Szczególnej, który w jakimś stopniu próbował wymusić na Zachodzie
-          natychmiastowe dostrzeżenie własnych racji.
+          poczucia utraty tego dwuznacznego przywileju pochodzenia z{" "}
+          <i>Europy Szczególnej</i>, który w jakimś stopniu próbował wymusić na
+          Zachodzie natychmiastowe dostrzeżenie własnych racji.
         </p>
         <p className="h2_wstep">
           Paradoks jest następujący: Środkowa Europa zasłania się, chroni oraz
@@ -600,21 +624,25 @@ const Rusin = () => {
         </p>
         <p className="h2_wstep">
           Co więc zamyka czeskie albo środkowo-europejskie doświadczenie w
-          klatce? Jest to chyba kult stylu, a zwłaszcza klimatu, widziany często
-          w poetyce polskich adeptów i fanów Mitteleuropy. Diagnoza ta może być
-          w sumie banalna, ale prymat idiomatycznego nastroju, jak bardzo wiele
-          rzeczy, jest przykładem „strategii”, która od pewnego momentu staje
-          się pułapką. Jeżeli również w sztuce historyczny przełom powtarza się
-          jako farsa, to chyba właśnie w kontekście nastrojowości. Kiedy mówimy
-          pierwszy raz: „Tego nie warto rozumieć – po prostu trzeba się poddać
-          temu klimatowi”, jest to nobilitacja, która wyławia naprawdę
-          niecodzienny utwór z grona w końcu bardzo wielu „dobrze napisanych”,
-          „sprawnych warsztatowo” czy „interesujących”. Kiedy bezrefleksyjnie
-          powtarzamy: „Tego nie warto rozumieć – po prostu trzeba się poddać
-          temu klimatowi”, prawdopodobnie duchy bardziej wybiegające w
-          przyszłość i krytyczne poczują mdłości drobnomieszczańskiego, coraz
-          bardziej już tylko udającego awangardę manieryzmu; przykładem takiej
-          wtórności w kinie czeskim był na przykład ów oscarowy „Kola”.
+          klatce?{" "}
+          <b>
+            Jest to chyba kult stylu, a zwłaszcza <i>klimatu</i>
+          </b>
+          , widziany często w poetyce polskich adeptów i fanów Mitteleuropy.
+          Diagnoza ta może być w sumie banalna, ale prymat idiomatycznego
+          nastroju, jak bardzo wiele rzeczy, jest przykładem „strategii”, która
+          od pewnego momentu staje się pułapką. Jeżeli również w sztuce
+          historyczny przełom powtarza się jako farsa, to chyba właśnie w
+          kontekście nastrojowości. Kiedy mówimy pierwszy raz: „Tego nie warto
+          rozumieć – po prostu trzeba się poddać temu klimatowi”, jest to
+          nobilitacja, która wyławia naprawdę niecodzienny utwór z grona w końcu
+          bardzo wielu „dobrze napisanych”, „sprawnych warsztatowo” czy
+          „interesujących”. Kiedy bezrefleksyjnie powtarzamy: „Tego nie warto
+          rozumieć – po prostu trzeba się poddać temu klimatowi”, prawdopodobnie
+          duchy bardziej wybiegające w przyszłość i krytyczne poczują mdłości
+          drobnomieszczańskiego, coraz bardziej już tylko udającego awangardę
+          manieryzmu; przykładem takiej wtórności w kinie czeskim był na
+          przykład ów oscarowy „Kola”.
         </p>
         <p className="h2_wstep">
           Szkoda, że w czeskiej albo polskiej literaturze po 1989 roku nie
@@ -654,20 +682,24 @@ const Rusin = () => {
         </p>
         <p className="h2_wstep">
           Co do Gombrowicza, bo jest to przykład zupełnie na miejscu: ostatnia
-          ankieta Nowego Napisu wzbudziła mieszaninę rozbawienia oraz oburzenia
-          mediów liberalnych (typowa ich reakcja na inicjatywy kojarzone z
-          prawicą, istotnie czasem trudno o inną). Faktycznie jest tam jakaś
-          „dziwna” niechęć do „Trans-atlantyku”, dziwna, lecz przecież dosyć
-          „zrozumiała politycznie”. Jednak ogólnie głosy przeciwko Gombrowiczowi
-          jako przecenianemu pojawiają się dwa. Jeden z nich warto zacytować:
-          Wszedł do polszczyzny, pozmieniał ją i wychował kilka pokoleń, ale w
-          XXI wieku znaleźliśmy się w gombrowiczowskiej pułapce. Jego
-          rozliczenia z polskością przestały być w jakikolwiek sposób adekwatne,
-          a my nie wymyśliliśmy nowego trybu lektury. A że można Gombrowicza
-          czytać inaczej, pokazał mi ostatnio César Aira (autor wydanych przez
-          Ossolineum „Trzech opowieści”), w którego twórczości argentyńskie
-          lektury Polaka uruchamiają niesamowity witalizm. Zanim tam dojdziemy,
-          postuluję kilkadziesiąt lat przerwy od Gombra (Mateusz Górniak).
+          ankieta <i>Nowego Napisu</i> wzbudziła mieszaninę rozbawienia oraz
+          oburzenia mediów liberalnych (typowa ich reakcja na inicjatywy
+          kojarzone z prawicą, istotnie czasem trudno o inną). Faktycznie jest
+          tam jakaś „dziwna” niechęć do „Trans-atlantyku”, dziwna, lecz przecież
+          dosyć „zrozumiała politycznie”. Jednak ogólnie głosy przeciwko
+          Gombrowiczowi jako przecenianemu pojawiają się dwa. Jeden z nich warto
+          zacytować:{" "}
+          <i>
+            Wszedł do polszczyzny, pozmieniał ją i wychował kilka pokoleń, ale w
+            XXI wieku znaleźliśmy się w gombrowiczowskiej pułapce. Jego
+            rozliczenia z polskością przestały być w jakikolwiek sposób
+            adekwatne, a my nie wymyśliliśmy nowego trybu lektury. A że można
+            Gombrowicza czytać inaczej, pokazał mi ostatnio César Aira (autor
+            wydanych przez Ossolineum „Trzech opowieści”), w którego twórczości
+            argentyńskie lektury Polaka uruchamiają niesamowity witalizm. Zanim
+            tam dojdziemy, postuluję kilkadziesiąt lat przerwy od Gombra
+          </i>{" "}
+          (Mateusz Górniak).
         </p>
         <p className="h2_wstep">
           To sprawa na osobną rozmowę: z tą wypowiedzią bardzo się nie zgadzam
@@ -685,12 +717,13 @@ const Rusin = () => {
           literaturze popularniejszej (na przykład u Michała Witkowskiego;
           pozytywnym wyjątkiem będą na przykład nieco gombrowiczowskie fragmenty
           „Nicusia” Maksa Wolskiego) pozostaje z niego właśnie pewien styl:
-          próby dziwolążenia się ze słowotworem, ewentualnie szablonowe wypiski
-          (ale to nie jest dowód na szablonowość Gombrowicza) z uwag autora na
-          temat „przekleństw polskości”.
+          próby <i>dziwolążenia się ze słowotworem</i>, ewentualnie szablonowe
+          wypiski (ale to nie jest dowód na szablonowość Gombrowicza) z uwag
+          autora na temat „przekleństw polskości”.
         </p>
         <p className="h2_wstep">
-          To jest właśnie moment, w którym kult autora jako unikalnego stylisty
+          To jest właśnie moment, w którym kult autora jako{" "}
+          <i>unikalnego stylisty </i>
           oraz nosiciela pewnej aury (albo mówiąc prościej: pisarza tak zwanego
           „kultowego”, „klimatycznego”) osłabia twórczy wymiar jego wpływu.
           Myślę, że jest to szerszy problem całego regionu.

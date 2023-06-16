@@ -12,30 +12,33 @@ const Wiedemann = () => {
       <div className="content">
         <h2 className="h2_wstep">Wystawy, na których nie byłem (1)</h2>
         <h1 className="h1_wstep_autor">Adam Wiedemann</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">Majtki i nowa sztuka</h2>
         <h3 className="h3_wstep">
           [z okazji wystawy malarstwa Juliusza Lewandowskiego]
         </h3>
+      </div>
+
+      <div className="content_wstep">
         <p className="h2_wstep">
-          Biogramy artysty nie pozostawiają wątpliwości: jest to Jeden z
-          nielicznych twórców sztuki erotycznej w Polsce bądź też Malarz samouk,
-          tworzący prace o tematyce erotycznej. Tak się go właśnie postrzega,
-          pójdźmy więc tym tropem, bo jeśli nawet w jego twórczości da się bez
-          trudu wyśledzić i wątki polityczne („Polski chaos”, 2022), i religijne
-          („W czyśćcu”, 2021), to jednak znakiem rozpoznawczym pozostaje
-          powtarzający się motyw gołego chłopaka w majtkach, siedzącego na
-          krześle, w fotelu, albo też leżącego na tapczanie. Celowo piszę
-          „gołego”, nie jest on bowiem ani nagi, ani ubrany, majtki sytuują go
-          gdzieś pośrodku tych dwóch stanów uważanych tradycyjnie za
-          przeciwstawne. Erotyzm tych przedstawień jest tyleż niewątpliwy, co i
-          nieprzesadny, można by nawet uznać, że widzimy na tych obrazach jakieś
-          zwykłe, codzienne sytuacje, chłopak w majtkach jest przecież trochę
-          jakby ubrany, a może nawet całkiem ubrany (w przeciwieństwie do
-          dziewczyny w majtkach, która ubrana już nie jest), lecz jednak:
-          mężczyzna maluje chłopaka, zatem w grę musi wchodzić erotyzm.
+          Biogramy artysty nie pozostawiają wątpliwości: jest to{" "}
+          <i>
+            Jeden z nielicznych twórców sztuki erotycznej w Polsce bądź też
+            Malarz samouk, tworzący prace o tematyce erotycznej
+          </i>
+          . Tak się go właśnie postrzega, pójdźmy więc tym tropem, bo jeśli
+          nawet w jego twórczości da się bez trudu wyśledzić i wątki polityczne
+          („Polski chaos”, 2022), i religijne („W czyśćcu”, 2021), to jednak
+          znakiem rozpoznawczym pozostaje powtarzający się motyw gołego chłopaka
+          w majtkach, siedzącego na krześle, w fotelu, albo też leżącego na
+          tapczanie. Celowo piszę „gołego”, nie jest on bowiem ani nagi, ani
+          ubrany, majtki sytuują go gdzieś pośrodku tych dwóch stanów uważanych
+          tradycyjnie za przeciwstawne. Erotyzm tych przedstawień jest tyleż
+          niewątpliwy, co i nieprzesadny, można by nawet uznać, że widzimy na
+          tych obrazach jakieś zwykłe, codzienne sytuacje, chłopak w majtkach
+          jest przecież trochę jakby ubrany, a może nawet całkiem ubrany (w
+          przeciwieństwie do dziewczyny w majtkach, która ubrana już nie jest),
+          lecz jednak: mężczyzna maluje chłopaka, zatem w grę musi wchodzić
+          erotyzm.
         </p>
 
         <p className="h2_wstep">
@@ -89,8 +92,12 @@ const Wiedemann = () => {
           ćwiczebny. Modele w majtkach pozowali też kobietom, które coraz
           powszechniej zaczęły sięgać po pędzel, czego przykładem akty malowane
           przez Annę Bilińską-Bohdanowiczową w 1885-ym roku (jak zauważa Paweł
-          Leszkowicz, wszystkie majtki na jej obrazach są czerwone, co akcentuje
-          newralgiczną strefę i jej podminowany charakter).
+          Leszkowicz,{" "}
+          <i>
+            wszystkie majtki na jej obrazach są czerwone, co akcentuje
+            newralgiczną strefę i jej podminowany charakter
+          </i>
+          ).
         </p>
         <p className="h2_wstep">
           Wraz z początkiem XX-go wieku artyści coraz śmielej zaczęli

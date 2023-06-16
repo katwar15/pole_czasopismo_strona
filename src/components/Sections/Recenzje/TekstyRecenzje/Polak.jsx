@@ -11,9 +11,6 @@ const Polak = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Marcin Polak</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           Medycyna paliatywna jest mistrzem z Francji
         </h2>
@@ -21,7 +18,9 @@ const Polak = () => {
           Michel Houellebecq, „Unicestwianie”, przeł. Beata Geppert, W.A.B.,
           Warszawa 2022
         </h3>
+      </div>
 
+      <div className="content_wstep">
         <h2 className="h2_wstep">
           „Unicestwianie”, najnowsza powieść Michela Houellebecqa trafiła na
           polski rynek wydawniczy w przekładzie Beaty Geppert, za pośrednictwem
@@ -131,6 +130,7 @@ const Polak = () => {
           tak, że pesymizm ma tam ostatnie słowo, wszak człowieka można kochać
           do końca, co więcej,
           <i>
+            {" "}
             wielu ludzi kocha swój zawód i z przyjemnością objaśnia go laikom
           </i>
           . Michel Houellebecq, który w niedalekiej przyszłości, 26 lutego 2026

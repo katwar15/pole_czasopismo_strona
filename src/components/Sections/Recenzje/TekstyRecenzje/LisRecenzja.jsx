@@ -111,7 +111,7 @@ const LisRecenzja = () => {
           krew” [mimochodem, czyli jakby bez wysiłku, z własnej natury poetki]:
         </p>
 
-        <p className="h2_left">
+        <p className="h2_left_bez">
           więc przyjechałam do wioski,<br></br> w której się urodziłam, i
           wąchałam<br></br> deskę z płotu, czy pachnie<br></br> tak samo, a w
           moim ciele tlił się<br></br> strach o losy miasta, nie wiem,<br></br>
@@ -119,7 +119,7 @@ const LisRecenzja = () => {
           czy owce i barany
         </p>
         <p className="h2_wstep">[z wiersza „miastowa”]</p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           jest niedzielny poranek, ptaki krzyczą mi do ucha<br></br>
           niezrozumiałe słowa w ich języku. on jest piękny,<br></br> ale nasz
           język też jest piękny, dlatego piszę nim<br></br> wiersze o ptakach,
@@ -201,7 +201,7 @@ const LisRecenzja = () => {
           autorka stosuje tu wobec czytelnika taką oto słowną zasłonę (czyli
           mówi do góry nogami):
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           moje pisanie<br></br> jest jak mamrotanie pod nosem<br></br> tak
           naprawdę nie obchodzi mnie<br></br> czy ktoś słucha<br></br> czuję
           potrzebę mamrotania<br></br> choćby w centrum placu pigalle<br></br>
@@ -243,7 +243,7 @@ const LisRecenzja = () => {
           się reminiscencje jakoby z Holokaustu, a na pewno z rekwizytami
           żydowskimi, wspomniany jest Paryż i okolice (np.):
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           miał w ustach wszystkie<br></br> pejzaże prowansji i rzymu<br></br>
           jedliśmy winogrona<br></br> soki moich owoców spływały do ziemi
           <br></br> jakbym miała się w nim ukorzenić<br></br> jakby paryż był
@@ -258,7 +258,7 @@ const LisRecenzja = () => {
           daleki od życiorysowych standardów (muszę tu znów zacytować cały
           wiersz, bo inaczej to nie będzie to):
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           odchodzili kolejno zabierając wielkanocne <br></br>
           cukrowe kurczęta <br></br>w porze karmienia puchły powieki <br></br>
           palce należały do boga <br></br>
@@ -287,7 +287,7 @@ const LisRecenzja = () => {
           wierszu poetka wyznaje, że w poezji nie znajduje miejsca na wstyd i że
           sama mogłaby być wierszem:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           jeśli kiedyś napiszę wiersz <br></br>
           przesypię się w nim z rąk <br></br>
           prosto do ziemi <br></br>
@@ -420,7 +420,7 @@ const LisRecenzja = () => {
           2000 r.], w którym zstępuje on do piekła własnego ja, sam jednak w to
           nie wierząc:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           Czyżbym zszedł do inferno mego ja? Lecz się wydaje, <br></br>
           że blask wszechświata nie podlega śmierci, <br></br>
           gdyż nie zauważyłem zmian w jego naturze. <br></br>
@@ -445,7 +445,7 @@ const LisRecenzja = () => {
           takiego utworu, napisanego z dystansem do tematu, jest poświęcony p.
           Ryszardowi Machowi, przyjacielowi poety, wiersz bez tytułu:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           W nocy jesiennej przed bramą cmentarza<br></br>
           zatrzymuje się smutny, stary wół: <br></br>
           śmierć sobie swoją wyobraża, <br></br>
@@ -487,7 +487,7 @@ const LisRecenzja = () => {
           Piekle) wpada on nawet w ton oskarżycielski w tym względzie na
           szczeblu ojczyzny:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           Znów na rodzinnej ziemi, znów całuję<br></br>i zjadam tę ziemię jak
           chleb. <br></br>
           Twarz mi pożółkła. <br></br>
@@ -526,7 +526,7 @@ const LisRecenzja = () => {
           <i>Andrzej, ja już cały w wizję wszedłem!</i>2. Przykładowym wierszem
           w tej materii jest „Chłop i piorun”:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           Oto we wiosce chłop oswoił piorun<br></br>i do pługa go swego
           zaprzągł, <br></br>o zmierzchu w drewnianym domu<br></br>
           spożywają razem kolację. <br></br>W zimie piorun izbę ogrzewa<br></br>
@@ -563,7 +563,7 @@ const LisRecenzja = () => {
           [bezcielesna] matura chodzi w płaszczu z czarnych świadectw, a szkolne
           koleżanki zmieniają się w miasta:
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           Skrzypią podłogi szkoły w każdą noc –<br></br>
           to moja umarła matura<br></br>w płaszczu z czarnych świadectw<br></br>
           tak chodzi po klasach, bibliotece, korytarzach, <br></br>
@@ -584,7 +584,7 @@ const LisRecenzja = () => {
           oto miniaturę, która zawsze robiła na mnie duże wrażenie (czytam ją co
           kilka lat):
         </p>
-        <p className="h2_left">
+        <p className="h2_left_bez">
           Gdzieś nad Wiarem, w biednej wiosce, <br></br>w której grusze, wierzby
           szumią, <br></br>
           czarny piesek do mnie podszedł<br></br>i powiedział: Ja wiem co to

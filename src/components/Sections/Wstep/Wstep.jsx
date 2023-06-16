@@ -11,10 +11,10 @@ const Wstep = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Piotr Skalski</h1>
+        <h2 className="h1_wstep">Koniec. Końcówka</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Koniec. Końcówka</h2>
         <h2 className="h2_wstep">
           ...mówić tak, żeby było słychać. Inaczej położony akcent zmienia sens
           wszystkiego: dlatego pojęli po jakimś czasie niektórzy, że pierwsze

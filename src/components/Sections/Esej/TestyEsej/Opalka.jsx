@@ -11,13 +11,13 @@ const Opalka = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Ewa Opałka</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           Chuć ukryta za jałowcem.<br></br> O śmiesznych koniach i cnocie
           niewieściej
         </h2>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           Ze śmiesznymi końmi tak naprawdę chodziłoby o jaja. Ekstensywną,

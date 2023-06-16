@@ -87,9 +87,9 @@
 
 @media (hover: none) {
   .nav_item a:active {
-    background: blue;
+    background: none;
     color: #ffffff;
-    border-color: blue;
+    border-color: none;
     cursor: pointer;
   }
 }

@@ -20,7 +20,7 @@ const Poezja = () => {
       <svg className="svg_map_poezja" viewBox="0 0 2260 1809">
         <PoezjaSection></PoezjaSection>
         <Link
-          to="/"
+          to="/samanthakitsch"
           onMouseEnter={() => setIsShownOne(true)}
           onMouseLeave={() => setIsShownOne(false)}
         >
@@ -50,7 +50,7 @@ const Poezja = () => {
           )}
         </Link>
         <Link
-          to="/"
+          to="/jozefkurylak"
           onMouseEnter={() => setIsShownTwo(true)}
           onMouseLeave={() => setIsShownTwo(false)}
         >
@@ -76,7 +76,7 @@ const Poezja = () => {
           )}
         </Link>
         <Link
-          to="/"
+          to="/szymonkowalski"
           onMouseEnter={() => setIsShownThree(true)}
           onMouseLeave={() => setIsShownThree(false)}
         >
@@ -102,7 +102,7 @@ const Poezja = () => {
           )}
         </Link>
         <Link
-          to="/"
+          to="/biankarolando"
           onMouseEnter={() => setIsShownFour(true)}
           onMouseLeave={() => setIsShownFour(false)}
         >
@@ -128,7 +128,7 @@ const Poezja = () => {
           )}
         </Link>
         <Link
-          to="/"
+          to="/filipmatwiejczuk"
           onMouseEnter={() => setIsShownFive(true)}
           onMouseLeave={() => setIsShownFive(false)}
         >
@@ -156,7 +156,7 @@ const Poezja = () => {
       </svg>
 
       <svg className="svg_map_poezja_tablet" viewBox="0 0 1152 934.68">
-        <Link to="/">
+        <Link to="/filipmatwiejczuk">
           <svg id="svg2">
             <g clipPath="url(#clip0_261_8)">
               <rect
@@ -186,7 +186,7 @@ const Poezja = () => {
             </g>
           </svg>
         </Link>
-        <Link to="/">
+        <Link to="/jozefkurylak">
           <svg id="svg2">
             <g clipPath="url(#clip0_261_8)">
               <rect
@@ -216,7 +216,7 @@ const Poezja = () => {
             </g>
           </svg>
         </Link>
-        <Link to="/">
+        <Link to="/biankarolando">
           <svg id="svg2">
             <g clipPath="url(#clip0_261_8)">
               <rect
@@ -246,7 +246,7 @@ const Poezja = () => {
             </g>
           </svg>
         </Link>
-        <Link to="/">
+        <Link to="/szymonkowalski">
           <svg id="svg2">
             <g clipPath="url(#clip0_261_8)">
               <rect
@@ -276,7 +276,7 @@ const Poezja = () => {
             </g>
           </svg>
         </Link>
-        <Link to="/">
+        <Link to="/samanthakitsch">
           <svg>
             <g>
               <rect
@@ -311,27 +311,27 @@ const Poezja = () => {
       <div className="svg_map_mobile_poezja">
         <ul className="section_list">
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/szymonkowalski" className="section_list_link">
               Szymon Kowalski
             </Link>
           </li>
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/biankarolando" className="section_list_link">
               Bianka Rolando
             </Link>
           </li>
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/jozefkurylak" className="section_list_link">
               Józef Kurylak
             </Link>
           </li>
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/filipmatwiejczuk" className="section_list_link">
               Filip Matwiejczuk
             </Link>
           </li>
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/samanthakitsch" className="section_list_link">
               Samatha Kitsch
             </Link>
           </li>

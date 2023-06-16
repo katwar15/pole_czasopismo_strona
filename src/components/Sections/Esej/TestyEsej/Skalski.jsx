@@ -11,13 +11,14 @@ const Skalski = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Piotr Skalski</h1>
+        <h2 className="h1_wstep">Początek przejścia do czynu</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Początek przejścia do czynu</h2>
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
-          To było tak: żył kiedyś Henryk Bereza, lecz zmarł. Pismo Mały Format
+          To było tak: żył kiedyś Henryk Bereza, lecz zmarł. Pismo{" "}
+          <i>Mały Format </i>
           zaplanowało numer poświęcony Berezie. Do planowanego numeru wysłał
           tekst Donat Kirsch. Bereza cenił był Kirscha. Kirsch ceni Berezę.
           <br></br> Tu kończy się uwertura, zaczyna się, powiedzmy, coś na
@@ -26,23 +27,24 @@ const Skalski = () => {
         <h2 className="h1_wstep">2</h2>
         <p className="h2_wstep">
           A zatem Kirsch, pisarz przez Berezę, krytyka literackiego, ceniony,
-          skorzystał ze sposobności, jakiej jemu i innym dostarczył Mały Format,
-          ażeby przedstawić swój pogląd na losy i dziedzictwo tego rodzaju
-          krytyki literackiej, jaką swego czasu uprawiał Bereza, ponieważ zaś
-          własną perspektywę rzeczywiście Kirsch miał, toteż napisał tekst i
-          wysłał. Tymczasem Mały Format, choć na pewno uznał, że tekst Kirscha
-          jest na temat, postanowił, że go do publikacji nie przyjmie,
-          przypuszczam – może wrócę do tego – z tej racji, że okazał się aż za
-          bardzo na temat: kolejny raz sprawdziłaby się mądrość nakazująca
-          rozwagę, gdy się o coś prosi, gdyż istnieje ryzyko, że się to naprawdę
-          dostanie.
+          skorzystał ze sposobności, jakiej jemu i innym dostarczył{" "}
+          <i>Mały Format</i>, ażeby przedstawić swój pogląd na losy i
+          dziedzictwo tego rodzaju krytyki literackiej, jaką swego czasu
+          uprawiał Bereza, ponieważ zaś własną perspektywę rzeczywiście Kirsch
+          miał, toteż napisał tekst i wysłał. Tymczasem Mały Format, choć na
+          pewno uznał, że tekst Kirscha jest na temat, postanowił, że go do
+          publikacji nie przyjmie, przypuszczam – może wrócę do tego – z tej
+          racji, że okazał się aż za bardzo na temat: kolejny raz sprawdziłaby
+          się mądrość nakazująca rozwagę, gdy się o coś prosi, gdyż istnieje
+          ryzyko, że się to naprawdę dostanie.
         </p>
         <p className="h2_wstep">
-          Mały Format Kirscha odrzucił, Kirsch zatem – za podpowiedzią
-          Wiedemanna, którego później w numerze o Berezie Mały Format akurat
-          opublikował – nie chcąc, by tekst całkiem przepadł, wysłał go do
-          gdyńskiej Blizy. Wkrótce potem Bliza także tekst odrzuciła, choć
-          należy jej policzyć na plus, że przynajmniej go nie zgubiła.
+          <i>Mały Format</i> Kirscha odrzucił, Kirsch zatem – za podpowiedzią
+          Wiedemanna, którego później w numerze o Berezie <i>Mały Format</i>{" "}
+          akurat opublikował – nie chcąc, by tekst całkiem przepadł, wysłał go
+          do gdyńskiej <i>Blizy</i>. Wkrótce potem <i>Bliza</i> także tekst
+          odrzuciła, choć należy jej policzyć na plus, że przynajmniej go nie
+          zgubiła.
         </p>
         <p className="h2_wstep">
           Tym samym tekstu Kirscha o losach dziedzictwa Berezy postanowiły nie
@@ -53,8 +55,8 @@ const Skalski = () => {
           W tej sytuacji z pomocą Kirschowi przyszedł literaturoznawca Andrzej
           Śnioszek, profesjonalnie zajmujący się Berezą i bliskimi mu twórcami,
           i pomógł mu wydać w postaci książkowej zbiorek dwóch esejów, z których
-          jeden był drukowany w Twórczości w dawnych czasach, gdy pismo to
-          współtworzył Bereza, drugim zaś był tekst omawiany tu właśnie, raz
+          jeden był drukowany w <i>Twórczości</i> w dawnych czasach, gdy pismo
+          to współtworzył Bereza, drugim zaś był tekst omawiany tu właśnie, raz
           zamówiony, dwakroć odrzucony. Dawniejszy esej klęskę Berezy wieszczył,
           nowy zaś jej dzieje spisywał.
         </p>
@@ -113,21 +115,21 @@ const Skalski = () => {
           reszta dziejów.
         </p>
         <p className="h2_wstep">
-          Polemika z Libichem miała ukazać się w Twórczości, która, jak się
-          rzekło, przed laty publikowała i Berezę, i Kirscha, niemniej jednak,
-          mimo że Libich Kirscha krytykował, a od Berezy się dystansował,
-          Twórczość postanowiła polemikę Kirscha odrzucić, ponieważ była
-          bardziej polemiczna, niż polemice przystoi.
+          Polemika z Libichem miała ukazać się w <i>Twórczości</i>, która, jak
+          się rzekło, przed laty publikowała i Berezę, i Kirscha, niemniej
+          jednak, mimo że Libich Kirscha krytykował, a od Berezy się
+          dystansował, <i>Twórczość</i> postanowiła polemikę Kirscha odrzucić,
+          ponieważ była bardziej polemiczna, niż polemice przystoi.
         </p>
         <p className="h2_wstep">Prawa symetrii żądały podjęcia nowej próby.</p>
         <p className="h2_wstep">
           Zdawało się, że ta będzie nawet bardziej stosowna, albowiem jeszcze
-          wtedy istniało pismo eleWator, wydawane przez fundację imienia, no
-          właśnie, samego Berezy.
+          wtedy istniało pismo <i>eleWator</i>, wydawane przez fundację imienia,
+          no właśnie, samego Berezy.
         </p>
         <p className="h2_wstep">
-          W odpowiedzi Kirschowi eleWator stwierdził wszakże (jak sam Kirsch
-          sprawozdaje), że stosunki z Libichem są mu droższe niż z nim,
+          W odpowiedzi Kirschowi <i>eleWator</i> stwierdził wszakże (jak sam
+          Kirsch sprawozdaje), że stosunki z Libichem są mu droższe niż z nim,
           sojusznikiem Berezy, i także tekst odrzucił.
         </p>
         <p className="h2_wstep">Niedługo potem przestał istnieć.</p>
@@ -137,23 +139,15 @@ const Skalski = () => {
           dosyć do siebie podobne, gdyż oba drukowane i oba pod znakiem Berezy:
           jedno Berezy żywego, drugie Berezy martwego.
         </p>
+
         <p className="h2_wstep">
           W tej sytuacji Śnioszek znów przyszedł Kirschowi z pomocą i pomógł mu
           wydać w postaci książkowej zbiorek dwóch jego esejów, z których jeden,
-          odrzucony przez Mały Format i Blizę, ukazał się już we wcześniejszej
-          książce, komentowanej przez Libicha, drugim zaś był właśnie tu
-          omawiany komentarz do komentarza Libicha, odrzucony przez Twórczość i
-          eleWatora. Tak powstała jako współprodukt odrzutów „Prounowa eksmisja
-          Henryka Berezy” ukazała się w 2020 roku.
-        </p>
-        <p className="h2_wstep">
-          W tej sytuacji Śnioszek znów przyszedł Kirschowi z pomocą i pomógł mu
-          wydać w postaci książkowej zbiorek dwóch jego esejów, z których jeden,
-          odrzucony przez Mały Format i Blizę, ukazał się już we wcześniejszej
-          książce, komentowanej przez Libicha, drugim zaś był właśnie tu
-          omawiany komentarz do komentarza Libicha, odrzucony przez Twórczość i
-          eleWatora. Tak powstała jako współprodukt odrzutów „Prounowa eksmisja
-          Henryka Berezy” ukazała się w 2020 roku.
+          odrzucony przez <i>Mały Format</i> i <i>Blizę</i>, ukazał się już we
+          wcześniejszej książce, komentowanej przez Libicha, drugim zaś był
+          właśnie tu omawiany komentarz do komentarza Libicha, odrzucony przez
+          <i>Twórczość</i> i <i>eleWatora</i>. Tak powstała jako współprodukt
+          odrzutów „Prounowa eksmisja Henryka Berezy” ukazała się w 2020 roku.
         </p>
         <h2 className="h1_wstep">5</h2>
         <p className="h2_wstep">
@@ -161,13 +155,13 @@ const Skalski = () => {
           skoro cały ten balet odrzuceń, polemik, republikacji poznałem w jednym
           rzucie i w tej postaci, w kontekście całości, zrobił on na mnie takie,
           nie inne wrażenie. Mógłbym snuć wizje możliwych, a nie spełnionych
-          światów: zagaiłem był resztę zespołu po rozpoczęciu prac nad Polem, a
-          gdybyśmy to my otrzymali ów pierwszy artykuł Kirscha, czy
-          postąpilibyśmy jak Mały Format i po prostu go odrzucili, powodowani
-          być może idiosynkrazją lub strachem? Na szczęście zespół odpowiedział
-          na moje pytanie właściwie, czyli je zignorował (po kilku stronach
-          Bożek stwierdziła, że tekst ją nudzi), wykazując się w ten sposób
-          zbiorowym wyczuciem natury problemu: przewidywanie sytuacji
+          światów: zagaiłem był resztę zespołu po rozpoczęciu prac nad{" "}
+          <i>Polem</i>, a gdybyśmy to my otrzymali ów pierwszy artykuł Kirscha,
+          czy postąpilibyśmy jak <i>Mały Format</i> i po prostu go odrzucili,
+          powodowani być może idiosynkrazją lub strachem? Na szczęście zespół
+          odpowiedział na moje pytanie właściwie, czyli je zignorował (po kilku
+          stronach Bożek stwierdziła, że tekst ją nudzi), wykazując się w ten
+          sposób zbiorowym wyczuciem natury problemu: przewidywanie sytuacji
           wyjątkowych w oparciu o wyjątkowe jest bezsensowną stratą czasu, do
           marnowania którego mamy i tak już w naszej grupie wyjątkową skłonność.
         </p>
@@ -205,8 +199,12 @@ const Skalski = () => {
           kultury, której wspólnym patronem, niezależnie od podziałów
           światopoglądowych i politycznych, jest mnich Jorge z „Imienia róży”,
           ten, co wziął sobie zanadto do serca regułę świętego Benedykta,
-          traktującą o śmiechu; przypomnę: niestosowne żarty oraz gadanie puste
-          i pobudzające do śmiechu potępiamy zawsze i wszędzie.
+          traktującą o śmiechu; przypomnę:{" "}
+          <i>
+            niestosowne żarty oraz gadanie puste i pobudzające do śmiechu
+            potępiamy zawsze i wszędzie
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Tymczasem jednak właśnie owa zgodna odmowa śmiechu jest śmieszna, a to
@@ -237,16 +235,16 @@ const Skalski = () => {
         </p>
         <p className="h2_wstep">
           Kiedy już wchodzi w grę waga tak ciężka, a przecież cały czas o nią
-          chodzi, hasło pamięci o Berezie musi być traktowane z elementarną
-          powagą, bo inaczej zamieni polemikę w mimowolną autoparodię, jak
-          wtedy, gdy na tezę jednej strony, że pamięć o Berezie uległa
-          systematycznemu wyparciu, druga strona odrzeknie, że pamięć przecież
-          trwa, skoro wznawia się Berezę i o Berezie pisze – co właściwie
-          oznacza, że należy się cieszyć, bo mogłoby być gorzej, żywotność
-          dzieła Berezy mogłaby być mniejsza niż pierwszego lepszego mędrca
-          antykwarycznego, którego zawsze przecież ktoś wyda, a ktoś inny na nim
-          obroni licencjat. Kirsch konstatuje, że jest to pamięć zapewniona
-          eksponatowi muzealnemu, ma w tym oczywistą rację.
+          chodzi, hasło <i>pamięci o Berezie</i> musi być traktowane z
+          elementarną powagą, bo inaczej zamieni polemikę w mimowolną
+          autoparodię, jak wtedy, gdy na tezę jednej strony, że pamięć o Berezie
+          <i> uległa systematycznemu wyparciu</i>, druga strona odrzeknie, że
+          pamięć przecież trwa, skoro wznawia się Berezę i o Berezie pisze – co
+          właściwie oznacza, że należy się cieszyć, bo mogłoby być gorzej,
+          żywotność dzieła Berezy mogłaby być mniejsza niż pierwszego lepszego
+          mędrca antykwarycznego, którego zawsze przecież ktoś wyda, a ktoś inny
+          na nim obroni licencjat. Kirsch konstatuje, że jest to pamięć
+          zapewniona eksponatowi muzealnemu, ma w tym oczywistą rację.
         </p>
         <p className="h2_wstep">
           W tym wypadku rozminięcie się intencji jest tym bardziej zaskakujące,
@@ -265,13 +263,14 @@ const Skalski = () => {
         <h2 className="h1_wstep">7</h2>
         <p className="h2_wstep">
           Przesadzam już pewnie w udawanej naiwności, mówiąc o jakiejś
-          elementarnej powadze, obie strony mają rozum i powagą rozporządzają
-          dokładnie tak, jak chcą. Uczciwiej jest nie tyle stwierdzić, że Libich
-          w krytyce Kirscha zmarnował szereg narzucających się sposobności, by
-          stanąć na jednym gruncie ze swym adwersarzem, ile podnieść po prostu
-          możliwość innej lektury, potencjalnie bardziej owocnej, bo, tak to
-          ujmę, życzliwszej, czerpiącej z własnych założeń Kirscha, a nie tylko
-          miotającej na niego gromy z obłoków prawdziwszej wiary.
+          <i> elementarnej powadze</i>, obie strony mają rozum i powagą
+          rozporządzają dokładnie tak, jak chcą. Uczciwiej jest nie tyle
+          stwierdzić, że Libich w krytyce Kirscha zmarnował szereg narzucających
+          się sposobności, by stanąć na jednym gruncie ze swym adwersarzem, ile
+          podnieść po prostu możliwość innej lektury, potencjalnie bardziej
+          owocnej, bo, tak to ujmę, życzliwszej, czerpiącej z własnych założeń
+          Kirscha, a nie tylko miotającej na niego gromy z obłoków prawdziwszej
+          wiary.
         </p>
         <p className="h2_wstep">
           Weźmy chociażby ten moment, w którym Libich zarzuca Kirschowi, że nie
@@ -279,7 +278,7 @@ const Skalski = () => {
           pozwala mu dostrzec takich różnic, których istnienie jest już
           przedmiotem utrwalonej i powszechnej wiedzy. Trzeba zaiste
           szczególnego rodzaju ignorancji bądź fanatyzmu, żeby nurt Nowej Fali
-          przedstawiać jako zaledwie nową falę realizmu socjalistycznego,
+          przedstawiać jako zaledwie <i>nową falę realizmu socjalistycznego</i>,
           krzewiącego w nowocześniejszym, modniejszym przebraniu wciąż tę samą
           ewangelię marksizmu: socrealizm był realizmem rzeczywistości takiej,
           jaką miała być, realizm nowofalowy miał przedstawiać rzeczywistość
@@ -296,11 +295,15 @@ const Skalski = () => {
           Kirsch chętnie cytuje:
         </p>
         <p className="h2_wstep">
-          Gdy czytamy „Ucieczkę od wolności” Ericha Fromma i w jego opisie
-          mechanizmów degradujących człowieka w społeczeństwie kapitalistycznym
-          z niechęcią odnajdujemy zjawiska znane nam z naszego terenu, nie
-          potrafimy ocenić, jak daleko zaszliśmy w kształtowaniu nowych postaw
-          ludzkich, a ile jeszcze w nich pozostało z przeszłości.
+          <i>
+            Gdy czytamy „Ucieczkę od wolności” Ericha Fromma i w jego opisie
+            mechanizmów degradujących człowieka w społeczeństwie
+            kapitalistycznym z niechęcią odnajdujemy zjawiska znane nam z
+            naszego terenu, nie potrafimy ocenić, jak daleko zaszliśmy w
+            kształtowaniu nowych postaw ludzkich, a ile jeszcze w nich pozostało
+            z przeszłości
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Wiedząc to, co wiedzieć powinniśmy, bez trudu dostrzegamy w tych
@@ -332,13 +335,14 @@ const Skalski = () => {
         </p>
         <p className="h2_wstep">
           Co to za mianownik, to akurat wiadomo, bo Kirsch sam odmienia wyrazy
-          norma, obowiązek, wytyczne przez wszystkie przypadki. Libich
-          poprzestaje na stwierdzeniu, że powinności wynikające z ideologicznego
-          schematyzmu socrealistycznego są czymś drastycznie odmiennym od
-          powinności nowofalowego poszukiwania prawdy, lecz nie zwraca uwagi, że
-          to właśnie powinność, nieważne jaka, jeżeli wskazana zostaje
-          literaturze programowo z zewnątrz, ma ideologiczny charakter nawet
-          wtedy, gdy jej ambicją jest prawda. Takie przynajmniej było stanowisko
+          <i> norma</i>, <i>obowiązek</i>, <i>wytyczne</i> przez wszystkie
+          przypadki. Libich poprzestaje na stwierdzeniu, że powinności
+          wynikające z ideologicznego <i>schematyzmu</i> socrealistycznego są
+          czymś drastycznie odmiennym od powinności nowofalowego{" "}
+          <i>poszukiwania prawdy</i>, lecz nie zwraca uwagi, że to właśnie
+          powinność, nieważne jaka, jeżeli wskazana zostaje literaturze
+          <i> programowo</i> z zewnątrz, ma ideologiczny charakter nawet wtedy,
+          gdy jej ambicją jest prawda. Takie przynajmniej było stanowisko
           Berezy, takie stanowisko za nim przyjął Kirsch, na tego stanowiska
           gruncie Nową Falę z socrealizmem łączyła główna myśl, wedle której
           literaturę kazano oceniać za pomocą kryteriów pozaliterackich,
@@ -367,8 +371,8 @@ const Skalski = () => {
           Nazwy schorzenia, które dotknęło pole, są liczne.
         </p>
         <p className="h2_wstep">
-          Normatywizm, logika deontyczna, także pozytywizm, to najogólniejsze z
-          nich.
+          <i>Normatywizm, logika deontyczna</i>, także <i>pozytywizm</i>, to
+          najogólniejsze z nich.
         </p>
         <p className="h2_wstep">
           Wszystkie służą wyrażeniu jednej uporczywej myśli, zgodnie z którą
@@ -385,7 +389,7 @@ const Skalski = () => {
           I mniej więcej w tym miejscu mógłbym zakończyć, gdybym zapragnął z
           jakichś powodów idiotycznie udawać, że choroba nie ma wedle Kirscha
           także mniej ogólnych, konkretnych, polityczno-historycznych nazw,
-          mianowicie – zamiennie – socjalizmu, komunizmu, marksizmu.
+          mianowicie – zamiennie – <i>socjalizmu, komunizmu, marksizmu</i>.
         </p>
         <p className="h2_wstep">
           Ten komunizm, którego moc jest tak wielka, że rozciągnął swoje
@@ -398,25 +402,27 @@ const Skalski = () => {
           przywróceniu mu awangardowej aury, zatraconej chyba już ze sto lat
           temu, ten komunizm tak przerośnięty jest, rozdęty w swej potędze tak
           bardzo ponad miarę, że jego niszczycielskie widmo rozśmieszyło mnie w
-          podobnym stopniu, jak reakcja Libicha, który powiada, że nie krążymy
-          tu wokół sporów ideologicznych, bo jeśli nie wokół ideologii krążymy,
-          to wokół czego? Otóż chyba właśnie każdy, Kirsch i Libich, obraca się
-          wokół własnej ideologicznej osi, z tą różnicą jednak, że Kirsch w
-          Libicha ciska gromy, widząc w nim oczywiście kolejnego otumanionego
-          lub cynicznego marksistę, podczas gdy Libich współczuje Kirschowi, że
-          tak niezręcznie rozmija się z oczywistą prawdą współczesnego świata,
-          która to prawda, rzecz jasna, nie ma żadnej ideologicznej nazwy.
+          podobnym stopniu, jak reakcja Libicha, który powiada, że{" "}
+          <i>nie krążymy tu wokół sporów ideologicznych</i>, bo jeśli nie wokół
+          ideologii krążymy, to wokół czego? Otóż chyba właśnie każdy, Kirsch i
+          Libich, obraca się wokół własnej ideologicznej osi, z tą różnicą
+          jednak, że Kirsch w Libicha ciska gromy, widząc w nim oczywiście
+          kolejnego otumanionego lub cynicznego marksistę, podczas gdy Libich
+          współczuje Kirschowi, że tak niezręcznie rozmija się z oczywistą
+          prawdą współczesnego świata, która to prawda, rzecz jasna, nie ma
+          żadnej ideologicznej nazwy.
         </p>
         <p className="h2_wstep">
           Kirsch nazywa to marksizmem, natomiast widać dobrze, że w wyliczankach
           dzisiejszych bolączek, których zacytowania zresztą Libich sobie nie
           odmówił, gdyż same w sobie mają niewątpliwy efekt humorystyczny (to
           one, pozwalam sobie zgadywać, mogły przesądzić o odrzuceniu tekstu
-          przez Mały Format, przy czym humor był tu raczej ofiarą uboczną: za
-          publikację pomstowań na islamofilię, feminizm, geizm, postmodernizm,
-          antyizraelizm i im podobne oczekiwano by posypania głów redakcyjnych
-          popiołem, którego nie ma w internecie w dostatecznych ilościach), otóż
-          więc w wyliczankach tych Kirsch wziął sobie na cel po prostu globalnie
+          przez <i>Mały Format</i>, przy czym humor był tu raczej ofiarą
+          uboczną: za publikację pomstowań na
+          <i> islamofilię, feminizm, geizm, postmodernizm, antyizraelizm</i> i
+          im podobne oczekiwano by posypania głów redakcyjnych popiołem, którego
+          nie ma w internecie w dostatecznych ilościach), otóż więc w
+          wyliczankach tych Kirsch wziął sobie na cel po prostu globalnie
           wszelkie możliwe ambicje i postępowe marzenia dzisiejszego poczciwego
           świata liberalnego, wszystkie cele, wokół których tworzą się
           jakiekolwiek zaangażowane wspólnoty, o ile podstawą ich tożsamości nie
@@ -427,8 +433,12 @@ const Skalski = () => {
         </p>
         <p className="h2_wstep">
           Pozostaje zadać sobie pytanie, dlaczego Bereza stwierdził, a Kirsch te
-          słowa przytoczył, że dyskurs doktrynalny zastąpić dyskursem
-          antydoktrynalnym to tkwić po same uszy w tym, co się zwalcza.
+          słowa przytoczył, że{" "}
+          <i>
+            dyskurs doktrynalny zastąpić dyskursem antydoktrynalnym to tkwić po
+            same uszy w tym, co się zwalcza
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Tak, wiem, oczywiście, najpierw kontekst! W kontekście słowa te mają
@@ -439,8 +449,11 @@ const Skalski = () => {
         <p className="h2_wstep">
           Tyle że słowa te służą do wyrażenia ogólniejszego prawidła i nie
           miałoby sensu zakładać, że Kirsch o tym zapomniał, tym bardziej że sam
-          pisał podobnie w liście do Śnioszka, że większość działań przeciw
-          komunizmowi zmienia się w jego kontynuację.
+          pisał podobnie w liście do Śnioszka, że{" "}
+          <i>
+            większość działań przeciw komunizmowi zmienia się w jego kontynuację
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Większość działań, ale nie wszystkie, bo skrajne zagrożenie wymaga

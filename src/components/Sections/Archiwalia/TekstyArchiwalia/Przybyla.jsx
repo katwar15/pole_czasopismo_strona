@@ -11,15 +11,14 @@ const Przybyla = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Wiesław Przybyła</h1>
+        <h2 className="h1_wstep">Pani na morgach</h2>
+        <h3 className="h3_wstep">
+          Marianna ze Ślęków Pilotowa, „My, z Siedlikowa Ślęki. Wspomnienia
+          rodzinne”, Oficyna Kulawiak, Warszawa–Ostrzeszów 2022
+        </h3>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Pani na morgach</h2>
-        <h2 className="h3_wstep">
-          Marianna ze Ślęków Pilotowa, „My, z Siedlikowa Ślęki. Wspomnienia
-          rodzinne”, Oficyna Kulawiak, Warszawa–Ostrzeszów 2022
-        </h2>
-
         <h2 className="h2_wstep">
           Ktoś, kto pisze takie wspomnienia, dziedziczy zarówno włościańską
           „złotą legendę”, jak i niedolę codziennego boju o przetrwanie.
@@ -57,6 +56,7 @@ const Przybyla = () => {
           uczonych nazw i spekulacji. Pięknie o tym gmachu wieśniaczych wartości
           pisał Roch Sulima:
           <i>
+            {" "}
             Kultura chłopska, wybierając jedną z możliwości bytu, jedną stronę
             świata, tę, którą odrzucił podszyty racjonalizmem „postęp”, […] być
             może przechowała i ocaliła dla przyszłości te treści, które
@@ -108,6 +108,7 @@ const Przybyla = () => {
           klęski. Najczęściej bowiem, jak pisze Antonina M. Tosiek, chłopi w
           pamiętnikach dawali
           <i>
+            {" "}
             wyraz literackiego oporu względem nieustająco pogarszającej się
             sytuacji życia na wsi oraz braku pomocy ze strony państwa
           </i>

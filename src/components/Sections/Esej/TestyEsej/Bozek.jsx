@@ -12,10 +12,10 @@ const Bozek = () => {
       <div className="content">
         <h2 className="h2_wstep">Dzienniki opiekunki (1)</h2>
         <h1 className="h1_wstep_autor">Renata Bożek</h1>
+        <h2 className="h1_wstep">Matka patrzy</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Matka patrzy</h2>
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           Jej dłoniom nie dałabym więcej niż 50 lat. Małe, pulchne, jasnoróżowe;
@@ -103,16 +103,19 @@ const Bozek = () => {
           matkę cały czas, po kraniec życia.
         </p>
         <p className="h2_wstep">
-          Teraz, kiedy piszę te słowa, oczy matki spoczywają na mnie – czytam po
-          raz kolejny pierwsze zdanie i dociera do mnie jego potworność. A co,
-          jeśli to nie jest egzaltacja i iluzja, że Oczy matki wszystko widzące
-          patrzą na urodziny patrzą przez całe życie i patrzą po śmierci z
-          „tamtego świata”? A co, jeśli tak jest? Oczy, które cały czas na nas
-          patrzą. Nigdzie się schować. Nigdzie uciec. Matka zawsze będzie z
-          nami. Może umrzeć, może leżeć w grobie, gnić i rozpadać się, a i tak
-          świdruje cię wszystkowidzącymi oczami. Cokolwiek robisz, jej oczy,
-          oczy kury wiecznie żywej patrzą i widzą ziarno zboża, córcię, dziecko.
-          Czy kura wie, że jestem człowiekiem?
+          <i>Teraz, kiedy piszę te słowa, oczy matki spoczywają na mnie</i> –
+          czytam po raz kolejny pierwsze zdanie i dociera do mnie jego
+          potworność. A co, jeśli to nie jest egzaltacja i iluzja, że{" "}
+          <i>
+            Oczy matki wszystko widzące patrzą na urodziny patrzą przez całe
+            życie i patrzą po śmierci z „tamtego świata”
+          </i>
+          ? A co, jeśli tak jest? Oczy, które cały czas na nas patrzą. Nigdzie
+          się schować. Nigdzie uciec. Matka zawsze będzie z nami. Może umrzeć,
+          może leżeć w grobie, gnić i rozpadać się, a i tak świdruje cię
+          wszystkowidzącymi oczami. Cokolwiek robisz, jej oczy, oczy kury
+          wiecznie żywej patrzą i widzą ziarno zboża, córcię, dziecko. Czy kura
+          wie, że jestem człowiekiem?
         </p>
         <p className="h2_wstep">
           Uwiązanie do spojrzenia matki widać wyraźnie w głośnych w ostatnich
@@ -125,13 +128,16 @@ const Bozek = () => {
           chciałabym pochwalić się mojej, zasłużyć na jej uznanie.
         </p>
         <p className="h2_wstep">
-          Opisać umieranie – czy to w ogóle możliwe? – pyta prof. Grażyna
-          Borkowska na okładce książki Augustyniak i tłumaczy, że autorka sięga
-          po różne konwencje i języki – układa treny i rapsodie, śpiewa pieśni i
-          elegie, wchodzi w świat okrutnej baśni. Matka, choć często zbyt słaba,
-          by unieść powieki, jest królową tej krainy, punktem centralnym, osią,
-          wokół której wszystko się porusza. Jej władza, władza miłości, sięga
-          aż po grób.
+          <i>Opisać umieranie – czy to w ogóle możliwe?</i> – pyta prof. Grażyna
+          Borkowska na okładce książki Augustyniak i tłumaczy, że autorka{" "}
+          <i>
+            sięga po różne konwencje i języki – układa treny i rapsodie, śpiewa
+            pieśni i elegie, wchodzi w świat okrutnej baśni. Matka, choć często
+            zbyt słaba, by unieść powieki, jest królową tej krainy, punktem
+            centralnym, osią, wokół której wszystko się porusza. Jej władza,
+            władza miłości, sięga aż po grób
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Baśń Augustyniak przypomina mi baśń Perraulta pod tytułem „Wróżki”.
@@ -170,16 +176,20 @@ const Bozek = () => {
         </p>
         <p className="h2_wstep">
           Mirze Marcinów też zazdroszczę od pierwszego zerknięcia na okładkę:
-          „Bezmatek” to historia wielkiej i zachłannej miłości, jaka może
-          wydarzyć się między matką i córką. Książka podobna do Augustyniak, też
-          pełno w niej światła na stronach i fajerwerków córczynej miłości, ale
-          gorzej napisana i lepiej skomponowana, przez to ciekawsza, wciągająca
-          w historie dziecka wpatrzonego w matkę malującą powieki, matkę
-          gotującą egzotyczne dania, popijającą wódkę piwem, pijaną, matkę
-          czytającą Twój Styl, uwielbiającą „Sto lat samotności” i kawę w kubku
-          z duralexu, bawiącą się z córkami w niedzielne poranki, wiec bez
-          obowiązkowej, jak u mnie, mszy (szczęśliwe dzieci, które nie były
-          pędzone do kościoła, znów zazdroszczę).
+          „Bezmatek” to{" "}
+          <i>
+            historia wielkiej i zachłannej miłości, jaka może wydarzyć się
+            między matką i córką
+          </i>
+          . Książka podobna do Augustyniak, też pełno w niej światła na stronach
+          i fajerwerków córczynej miłości, ale gorzej napisana i lepiej
+          skomponowana, przez to ciekawsza, wciągająca w historie dziecka
+          wpatrzonego w matkę malującą powieki, matkę gotującą egzotyczne dania,
+          popijającą wódkę piwem, pijaną, matkę czytającą <i>Twój Styl</i>,
+          uwielbiającą „Sto lat samotności” i kawę w kubku z duralexu, bawiącą
+          się z córkami w niedzielne poranki, wiec bez obowiązkowej, jak u mnie,
+          mszy (szczęśliwe dzieci, które nie były pędzone do kościoła, znów
+          zazdroszczę).
         </p>
         <p className="h2_wstep">
           W „Bezmatku” jest dużo o dzieciństwie w biedzie, o braku pieniędzy na
@@ -191,11 +201,15 @@ const Bozek = () => {
           przyzwyczaić. Nie na darmo matka całe życie porównywała mnie z innymi,
           lepszymi (braci i ojca też, choć to akurat żadna dla mnie pociecha).
           Do tego, co z książką Marcinów jest nie tak, można już dojść po
-          pierwszym akapicie, tak fajnym, że przepiszę go w całości: Lekcja
-          matki: na oczko w rajstopach najlepszy jest lakier do paznokci. Żeby
-          nie poszło dalej. Jak już rajstopy muszą być cieliste, to tylko w
-          zimnym odcieniu, wtedy nogi wyglądają zgrabniej. Ciepły pogrubia. I
-          nikt nie może się dowiedzieć, że jestem próżna.
+          pierwszym akapicie, tak fajnym, że przepiszę go w całości:{" "}
+          <i>
+            Lekcja matki: na oczko w rajstopach najlepszy jest lakier do
+            paznokci. Żeby nie poszło dalej. Jak już rajstopy muszą być
+            cieliste, to tylko w zimnym odcieniu, wtedy nogi wyglądają
+            zgrabniej. Ciepły pogrubia. I nikt nie może się dowiedzieć, że
+            jestem próżna
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Ciąg dalszy to refleksje i wspomnienia skrojone na jedno zdanie na
@@ -208,9 +222,11 @@ const Bozek = () => {
           między wersami:
         </p>
         <p className="h2_wstep">
-          Co było pierwsze: jajko czy kura?<br></br> Bądź wola twoja,<br></br>
-          Jajko w niebie, tak i na ziemi<br></br> A na koniec powiedziała
-          „jajko”,
+          <i>
+            Co było pierwsze: jajko czy kura?<br></br> Bądź wola twoja,<br></br>
+            Jajko w niebie, tak i na ziemi<br></br> A na koniec powiedziała
+            „jajko”,
+          </i>
         </p>
         <p className="h2_wstep">
           więc po tej końcówce nie mogę się pozbyć poczucia, że o ile „Kochałam,
@@ -239,7 +255,8 @@ const Bozek = () => {
           Umarła wcześniej? Raczej nie. Dlaczego nie pojawiła się ani w
           szpitalu, ani na pogrzebie, ani w żadnym zdaniu o miłości między matką
           a córką? Dlaczego została wycięta z rodzinnego obrazka? Może siostra
-          sobie tego zażyczyła. Może historia miłości wielkiej i zachłannej
+          sobie tego zażyczyła. Może{" "}
+          <i>historia miłości wielkiej i zachłannej </i>
           między matką a córką nie znosi konkurencji (pochodzę z wielodzietnej
           rodziny i wiem coś o tym). Może Marcinów, wywijając literackie 1 1
           hołubce przed oczami matki (zobacz mamo jaka jestem fajna, jaka godna
@@ -307,23 +324,25 @@ const Bozek = () => {
           zaczynam lekturę.
         </p>
         <p className="h2_wstep">
-          We wstępie Wicha objaśnia: moja matka powiedziała: „Nie wszystko w
-          życiu da się zamienić na śmieszne historyjki”. Wiedziałem, że to
-          prawda. Mimo to próbowałem. Tak obiecał, tak robi. Książka skrzy się i
-          lśni, a wszystko w dobrym gatunku, ładne, zabawne, zaskakujące.
-          Anegdota po anegdocie, a każda ciekawa, wciągająca, ucząca, a przy tym
-          głęboka i prowadząca gdzieś w inne rejony: poważne, metafizyczne,
-          socjologiczne, historyczne, polityczne, klasowe, rasowe, warszawskie,
-          polskie, żydowskie, europejskie, ludzkie nawet. Fajerwerki jeden po
-          drugim, 1 1 sztuczne ognie literatury. Dobrze napisane, dobrze się
-          czyta, z przyjemnością i poczuciem, że jest to literatura
-          lekkostrawna, nietłusta, a przy tym pożywna, podobna do diety
-          pudełkowej ustalonej przez solidną dietetyczkę. Wszystko dobrze
-          przyswajalne, urozmaicone, interesujące, w miły sposób chłodne, jak
-          prosecco z lodówki w gorący dzień. Po dwudziestu stronach wiem, co
-          dalej, ale – już w towarzystwie łagodnej twarzy mamy, lekko
-          posapującej przez sen – czytam dalej, wszak do dziesiątej mam jeszcze
-          pół godziny.
+          We wstępie Wicha objaśnia: moja matka powiedziała:{" "}
+          <i>
+            „Nie wszystko w życiu da się zamienić na śmieszne historyjki”.
+            Wiedziałem, że to prawda. Mimo to próbowałem
+          </i>
+          . Tak obiecał, tak robi. Książka skrzy się i lśni, a wszystko w dobrym
+          gatunku, ładne, zabawne, zaskakujące. Anegdota po anegdocie, a każda
+          ciekawa, wciągająca, ucząca, a przy tym głęboka i prowadząca gdzieś w
+          inne rejony: poważne, metafizyczne, socjologiczne, historyczne,
+          polityczne, klasowe, rasowe, warszawskie, polskie, żydowskie,
+          europejskie, ludzkie nawet. Fajerwerki jeden po drugim, 1 1 sztuczne
+          ognie literatury. Dobrze napisane, dobrze się czyta, z przyjemnością i
+          poczuciem, że jest to literatura lekkostrawna, nietłusta, a przy tym
+          pożywna, podobna do diety pudełkowej ustalonej przez solidną
+          dietetyczkę. Wszystko dobrze przyswajalne, urozmaicone, interesujące,
+          w miły sposób chłodne, jak prosecco z lodówki w gorący dzień. Po
+          dwudziestu stronach wiem, co dalej, ale – już w towarzystwie łagodnej
+          twarzy mamy, lekko posapującej przez sen – czytam dalej, wszak do
+          dziesiątej mam jeszcze pół godziny.
         </p>
         <p className="h2_wstep">
           Cały czas porównuję panią Wichową do mamy lub mamę do pani Wichowej,
@@ -338,15 +357,17 @@ const Bozek = () => {
           To zdumiewające, jak wiele skojarzeń, wspomnień, obrazów wywołuje
           czytanie Wichy (oraz Augustyniak i Marcinów), jak trudno odłożyć
           książkę, choć tym swoim urozmaiceniem i dbałością o czytelnika, żeby
-          się broń boże nie znużył i nie zmęczył, mnie nudzi. W tej książce nie
-          ma sentymentalizmu – matka go nie znosiła – są za to czułość, uśmiech
-          i próba zrozumienia losu najbliższej osoby – opis na okładce wyjaśnia
-          kwestię oczu, które przyglądają się pisarzowi. Punkt dla niego, że
-          tego nie ukrywa. Dobry, zdolny syn, spokojnie można spacerować przed
-          czujnymi matczynymi oczami, która umiera tak jak żyła, elegancko,
-          zdecydowanie, bez sentymentu. W towarzystwie ukraińskiej, całodobowej
-          opiekunki i koleżanek, wiernie trwających przy jej boku. Koniec mojej
-          mamy jest mniej towarzyski.
+          się broń boże nie znużył i nie zmęczył, mnie nudzi.{" "}
+          <i>
+            W tej książce nie ma sentymentalizmu – matka go nie znosiła – są za
+            to czułość, uśmiech i próba zrozumienia losu najbliższej osoby
+          </i>{" "}
+          – opis na okładce wyjaśnia kwestię oczu, które przyglądają się
+          pisarzowi. Punkt dla niego, że tego nie ukrywa. Dobry, zdolny syn,
+          spokojnie można spacerować przed czujnymi matczynymi oczami, która
+          umiera tak jak żyła, elegancko, zdecydowanie, bez sentymentu. W
+          towarzystwie ukraińskiej, całodobowej opiekunki i koleżanek, wiernie
+          trwających przy jej boku. Koniec mojej mamy jest mniej towarzyski.
         </p>
         <p className="h2_wstep">
           Teraz nikt nie przychodzi, nikt jej nie odwiedzi, skarży się i oskarża
@@ -436,35 +457,40 @@ const Bozek = () => {
         <h2 className="h1_wstep">3</h2>
 
         <p className="h2_wstep">
-          Czy matka Magdaleny Tulli też suwała ręką po ceracie? Jej choroba była
-          jak schyłek imperium. Armie cofały się, opuszczały przyczółki zajęte w
-          czasach minionej świetności, posągi kruszały, pałace zarastały
-          zielskiem. Urzędnicy cesarstwa nie myśleli już o wielkości, tylko o
-          przetrwaniu, to znaczy o tym, co najbardziej doczesne i najbliższe
-          ciału, a przez opuszczone punkty graniczne przenikali obcy – wirusy,
-          bakterie – i przejmowali rządy.<br></br> Pod koniec codziennie przed
-          południem robiłam jej zastrzyk.
+          Czy matka Magdaleny Tulli też suwała ręką po ceracie?{" "}
+          <i>
+            Jej choroba była jak schyłek imperium. Armie cofały się, opuszczały
+            przyczółki zajęte w czasach minionej świetności, posągi kruszały,
+            pałace zarastały zielskiem. Urzędnicy cesarstwa nie myśleli już o
+            wielkości, tylko o przetrwaniu, to znaczy o tym, co najbardziej
+            doczesne i najbliższe ciału, a przez opuszczone punkty graniczne
+            przenikali obcy – wirusy, bakterie – i przejmowali rządy.<br></br>{" "}
+            Pod koniec codziennie przed południem robiłam jej zastrzyk.
+          </i>
         </p>
         <p className="h2_wstep">
-          – A kto pani płaci? – interesowała się. – Rodzina?
+          <i>– A kto pani płaci? – interesowała się. – Rodzina?</i>
         </p>
         <p className="h2_wstep">
           O rękach suwających po ceracie i usiłujących złożyć koc, o dziwnych
           formach, które przy tym powstają, nic Tulli nie pisze. A szkoda, bo by
           napisała pięknie i prawdziwie. „Włoskie szpilki” (Nisza, 2011) czyta
           się długo, choć trudno je odłożyć. Justyna Sobolewska trafnie zauważa,
-          że Niesłychane są te oba portrety: zarówno niekochanej dziewczynki,
-          jak i jej matki, która nie potrafi kochać. Dziewczynka jest
-          przekonana, że jest winna wszystkiemu, co złe. Czy dlatego zajmuje się
-          matką aż do końca, śpi w jej mieszkaniu, lekkim snem, budzi się
-          zawsze, kiedy matka zaczyna krążyć po domu, przestraszona, że nie wie,
-          kim jest. Na szczęście mojej mamy to nie trapi. Lub o tym nie wiem. Co
-          ja zresztą wiem o niej, o tym, kim jest teraz? Urodziła się dwa lata i
-          siedem miesięcy po pacyfikacji wsi, 31 lipca 1946 roku. „Nieżywe
-          dziecko leżało w stodole” – tak zawsze zaczynała opowieść o Akcji, w
-          której zginęli jej dziadkowie, dwóch wujów i 18-letnia córka ciotki, a
-          oprócz nich czterdziestu ośmiu mieszkańców wsi, kobiety, mężczyźni,
-          dzieci.
+          że{" "}
+          <i>
+            Niesłychane są te oba portrety: zarówno niekochanej dziewczynki, jak
+            i jej matki, która nie potrafi kochać. Dziewczynka jest przekonana,
+            że jest winna wszystkiemu, co złe
+          </i>
+          . Czy dlatego zajmuje się matką aż do końca, śpi w jej mieszkaniu,
+          lekkim snem, budzi się zawsze, kiedy matka zaczyna krążyć po domu,
+          przestraszona, że nie wie, kim jest. Na szczęście mojej mamy to nie
+          trapi. Lub o tym nie wiem. Co ja zresztą wiem o niej, o tym, kim jest
+          teraz? Urodziła się dwa lata i siedem miesięcy po pacyfikacji wsi, 31
+          lipca 1946 roku. „Nieżywe dziecko leżało w stodole” – tak zawsze
+          zaczynała opowieść o Akcji, w której zginęli jej dziadkowie, dwóch
+          wujów i 18-letnia córka ciotki, a oprócz nich czterdziestu ośmiu
+          mieszkańców wsi, kobiety, mężczyźni, dzieci.
         </p>
         <p className="h2_wstep">
           Wojna naznacza też matkę Tulli. Żydówka, przeżyła obóz, pracowała na
@@ -555,18 +581,22 @@ const Bozek = () => {
         <p className="h2_wstep">
           Bielecki nad codziennością pozbawionej siebie matki przechodzi
           bezboleśnie, pięknie opisując jej wyjście z domu i zagubienie na
-          ulicach rodzinnego miasta. Alzheimer rzucił na mamę swój czar w 2012
-          roku. Coś się mamie przyśniło i wstała. Raz i drugi. Trzeci, czwarty i
-          piąty. A w 2016 roku czar jej podpowiedział: „Idź, Krysiu, w świat”. I
-          poszła. Nikt nie wiedział i nie wie do tej pory, jak mama wyszła z
-          domu. Może przystanęła na tarasie, „idź, Krysiu, idź”, i zobaczyła
-          cudowną jak tęcza poręcz? W lewej ręce taszczyła kulę, która łamała
-          jej życie. Kula zaczepiała a to mamę, a to złamane słońce na niebie.
-          Mama chwyciła się tęczy prawą ręką i ścisnęła ją kurczowo.<br></br>{" "}
-          Bardzo mocno, ponad stan. Alzheimer ostrzegał domowników, że
-          zainteresowany lubi ściskać coś nadspodziewanie mocno i że to cud.
-          Mama schodziła schodek po schodku, „idź, Krysiu, idź”, raczej
-          ześlizgiwała się ze schodków, a tęcza jej ze wszystkich sił pomagała.
+          ulicach rodzinnego miasta.{" "}
+          <i>
+            Alzheimer rzucił na mamę swój czar w 2012 roku. Coś się mamie
+            przyśniło i wstała. Raz i drugi. Trzeci, czwarty i piąty. A w 2016
+            roku czar jej podpowiedział: „Idź, Krysiu, w świat”. I poszła. Nikt
+            nie wiedział i nie wie do tej pory, jak mama wyszła z domu. Może
+            przystanęła na tarasie, „idź, Krysiu, idź”, i zobaczyła cudowną jak
+            tęcza poręcz? W lewej ręce taszczyła kulę, która łamała jej życie.
+            Kula zaczepiała a to mamę, a to złamane słońce na niebie. Mama
+            chwyciła się tęczy prawą ręką i ścisnęła ją kurczowo.<br></br>{" "}
+            Bardzo mocno, ponad stan. Alzheimer ostrzegał domowników, że
+            zainteresowany lubi ściskać coś nadspodziewanie mocno i że to cud.
+            Mama schodziła schodek po schodku, „idź, Krysiu, idź”, raczej
+            ześlizgiwała się ze schodków, a tęcza jej ze wszystkich sił
+            pomagała.
+          </i>
         </p>
         <p className="h2_wstep">
           Mamo, też by ci się oczy uśmiechały z aprobatą, gdybym tak ładnie
@@ -580,11 +610,15 @@ const Bozek = () => {
           się, jakby poznawała i cieszyła się obecnością tych, którzy wciąż są
           jej bliscy. Wygląda wtedy na szczęśliwą. Czasami trwa to przez kilka
           minut, czasami kilka godzin. Po czym wraca do siebie. Tej tak dobrze
-          opisanej w „Cienniku”: Na jej matowej twarzy roiły się jakieś epidemie
-          smutku, zapatrzenia w cokolwiek, w kawałek podłogi, we fragment okna,
-          w ułamek człowieka, który akurat dokądś się udawał i przez prawie dwie
-          sekundy przebywał w okolicach martwej mamy. Jej oczy nie umiały
-          powiedzieć ani słowa.
+          opisanej w „Cienniku”:{" "}
+          <i>
+            Na jej matowej twarzy roiły się jakieś epidemie smutku, zapatrzenia
+            w cokolwiek, w kawałek podłogi, we fragment okna, w ułamek
+            człowieka, który akurat dokądś się udawał i przez prawie dwie
+            sekundy przebywał w okolicach martwej mamy. Jej oczy nie umiały
+            powiedzieć ani słowa
+          </i>
+          .
         </p>
         <p className="h2_wstep">
           Im dłużej myślę o książce Bieleckiego, tym bardziej doceniam zdania

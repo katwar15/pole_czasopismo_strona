@@ -13,15 +13,14 @@ const Dabrowski = () => {
       <div className="content">
         <h2 className="h2_wstep">Pola semantyczne (1)</h2>
         <h1 className="h1_wstep_autor">Jakub Dąbrowski</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">Ontologia smutku</h2>
         <h3 className="h3_wstep">
           Unica Zürn, „Trąby jerychońskie”, przeł. Małgorzata Łukasiewicz i
           Maryna Ochab, Wydawnictwo Drzazgi, Okoniny 2021
         </h3>
+      </div>
 
+      <div className="content_wstep">
         <p className="h2_wstep">
           Minął już ponad rok, od kiedy w Wydawnictwie Drzazgi ukazały się
           „Trąby jerychońskie” Uniki Zürn. Książka spotkała się z przychylnym
@@ -35,6 +34,7 @@ const Dabrowski = () => {
           (MAHHSA), gdzie przebywała artystka w krytycznych okresach, dr
           Anne-Marie Dubois pisała na temat interpretacji jej sztuki:
           <i>
+            {" "}
             życie, nierzadko tragiczne, odcisnęło swoje piętno na jej
             twórczości, była przedmiotem najróżniejszych fantazji oraz projekcji
             wyobrażeń czy interpretacji
@@ -95,6 +95,7 @@ const Dabrowski = () => {
           słownych obrazów, bez zlewających się wizji umknęłoby nam wszystko to,
           co dostrzegają zmysły,
           <i>
+            {" "}
             język który jest w stanie wyrazić cały smutek świata i którego nikt
             poza nimi [Uniką i Elisą] nie rozumie. Ten język składa się jedynie
             z samogłosek
@@ -119,6 +120,7 @@ const Dabrowski = () => {
           W pierwszym opowiadaniu jednym z najważniejszych obiektów jest męski
           członek.
           <i>
+            {" "}
             Obserwując swojego brata dowiaduje się, co kryje się w spodniach.
             To, co widzi między jego nogami, kiedy brat rozbiera się do snu,
             kojarzy się jej z kluczem, ona sama nosi na łonie zamek do niego
@@ -127,13 +129,14 @@ const Dabrowski = () => {
           obiektu, jednostkowości oraz izolacji. Jako symbol uwidocznić może się
           w każdym bycie, równie dobrze w języku matki:
           <i>
+            {" "}
             kobieta rzuca się na dziewczynkę z otwartymi, wilgotnymi ustami,
             skąd sterczy drgający język, długi i nagi jak ta rzecz, którą brat
             chowa w spodniach
           </i>
           . Może też z klucza przemienić się w nóż, który przekształci zamek w
           ranę:
-          <i>Rzuca się na nią i wbija „nóż” (jak to nazywa) w jej „ranę”</i>.
+          <i> Rzuca się na nią i wbija „nóż” (jak to nazywa) w jej „ranę”</i>.
           Kolejne porównanie podkreśla pierwotność członka jako symbolu oraz
           łączy go z doświadczeniem bólu. Odtąd penis, obiekt będący symbolem
           wszystkiego co jednostkowe, jest świadectwem procesu, który pozostawia
@@ -147,7 +150,7 @@ const Dabrowski = () => {
         </p>
         <img className="img_text" src={dabrowski_img}></img>
         <h2 className="h2_podpis_img">
-          Tomasz Przybyłek, bez tytułu, rysunek piórem kulkowym
+          Tomasz Przybyłek, <i>bez tytułu</i>, rysunek piórem kulkowym
         </h2>
 
         <p className="h2_wstep">

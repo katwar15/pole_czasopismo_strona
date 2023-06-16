@@ -11,9 +11,6 @@ const Pyzik = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Agata Pyzik</h1>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h1_wstep">
           Koniec romansu.<br></br> Komunizm, seks i melancholia w dzienniku
           Annie Ernaux
@@ -23,7 +20,9 @@ const Pyzik = () => {
           „Se perdre”, Gallimard, Paris 2001;<br></br>„ Getting Lost ”, trans.
           Allison L. Strayer, Seven Stories Press, New York 2022.
         </h3>
+      </div>
 
+      <div className="content_wstep">
         <p className="h2_wstep">
           <i>
             Czuliśmy, że żyjemy gdzieś obok tych wielkich wydarzeń, zazdroszcząc
@@ -39,7 +38,7 @@ const Pyzik = () => {
             ich lubiło przedtem, gdy stali w kolejkach po kiełbasę i książki,
             pozbawieni wszystkiego...
           </i>
-          <br></br>Annie Ernaux, „Lata” 1
+          <br></br>Annie Ernaux, „Lata” <sup>1</sup>.
         </p>
         <p className="h2_wstep">
           Koniec romansu zbiegający się z końcem komunizmu. Wielka historia
@@ -82,7 +81,7 @@ const Pyzik = () => {
           pokoju hotelowym jest tym bardziej intensywne. Namiętność od razu
           wyzwala w Ernaux fatalizm życiowy. Nawet jeśli pisarstwo Ernaux i
           aktywny podmiot kobiecy w jej książkach można uznać za przeciwieństwo
-          <i>bowaryzmu</i>, a Ernaux-bohaterka stara się odrzeć swój romans z
+          <i> bowaryzmu</i>, a Ernaux-bohaterka stara się odrzeć swój romans z
           wszelkich romantyzujących klisz, powracają one rykoszetem ze zdwojoną
           siłą. Im bardziej Ernaux stara się wyzbyć iluzji typowych dla Emmy
           Bovary, tym silniej potem im ulega.
@@ -221,7 +220,7 @@ const Pyzik = () => {
           tłumaczeniu „Zdarzyło się”, pochodzi z 2021) głównym powodem aborcji
           jest pragnienie ukończenia studiów. Ciąża zniszczyłaby plan Ernaux
           ucieczki ze wsi i uzyskania innego życia niż to jej rodziców, a więc
-          <i>de facto</i> możliwość wyrwania się ze swojej pozycji społecznej.
+          <i> de facto</i> możliwość wyrwania się ze swojej pozycji społecznej.
           Gdyby nie zabieg, jesteśmy niemal pewni, że nie byłoby pisarki, jaką
           znamy – utknęłaby jako panna z dzieckiem, otoczona ostracyzmem, w
           rodzinnej wsi. Zdeterminowałoby to całe jej życie. Można powiedzieć,

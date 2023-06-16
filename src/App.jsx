@@ -38,6 +38,11 @@ import PolakPage from "./components/Sections/Recenzje/TekstyRecenzje/PolakPage";
 import DabrowskiPage from "./components/Sections/Recenzje/TekstyRecenzje/DabrowskiPage";
 import PyzikPage from "./components/Sections/Recenzje/TekstyRecenzje/PyzikPage";
 import LisRecenzjaPage from "./components/Sections/Recenzje/TekstyRecenzje/LisRecenzjaPage";
+import KowalskiPage from "./components/Sections/Poezja/TestyPoezja/KowalskiPage";
+import RolandoPage from "./components/Sections/Poezja/TestyPoezja/RolandoPage";
+import KurylakPage from "./components/Sections/Poezja/TestyPoezja/KurylakPage";
+import KitschPage from "./components/Sections/Poezja/TestyPoezja/KitschPage";
+import MatwiejczukPage from "./components/Sections/Poezja/TestyPoezja/MatwiejczukPage";
 
 function App() {
   return (
@@ -86,6 +91,12 @@ function App() {
           <Route path="/jakubdabrowski" element={<DabrowskiPage />} />
           <Route path="/agatapyzik" element={<PyzikPage />} />
           <Route path="/romanlis" element={<LisRecenzjaPage />} />
+          {/* Poezja */}
+          <Route path="/szymonkowalski" element={<KowalskiPage />} />
+          <Route path="/biankarolando" element={<RolandoPage />} />
+          <Route path="/jozefkurylak" element={<KurylakPage />} />
+          <Route path="/samanthakitsch" element={<KitschPage />} />
+          <Route path="/filipmatwiejczuk" element={<MatwiejczukPage />} />
         </Routes>
         {/* <FooterBlack /> */}
       </BrowserRouter>
