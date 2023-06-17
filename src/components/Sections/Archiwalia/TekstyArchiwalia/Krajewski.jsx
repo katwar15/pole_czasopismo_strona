@@ -372,6 +372,48 @@ const Krajewski = () => {
         </h2>
 
         <h2 className="h2_podpis">Siedlików, w sierpniu 1987 r.</h2>
+
+        <p className="h2_non_justify ">
+          1 Michel Leiris, „Sacrum w życiu codziennym”, przeł. Joanna Pawelczyk,
+          w: Konteksty. Polska Sztuka Ludowa, nr 3-4/2007, s. 29.
+        </p>
+        <p className="h2_non_justify ">
+          2 Georges Bataille, „Literatura a zło”, przeł. Maria
+          Wodzyńska-Balicka, Oficyna Literacka, Kraków 1992, s. 153.
+        </p>
+        <p className="h2_non_justify ">
+          3 Laure, „L’histoire d’une petite fille”, Édition hors commerce, Paris
+          1943, s. 39.
+        </p>
+        <p className="h2_non_justify ">4 Ibidem, s. 19-20.</p>
+        <p className="h2_non_justify ">
+          5 Michel Leiris, „Lustro Tauromachii”, przeł. Maryna Ochab,
+          słowo/obraz terytoria, Gdańsk 1999, s. 25.
+        </p>
+        <p className="h2_non_justify ">
+          6 Arthur Rimbaud, „Zła krew”, w: „Sezon w piekle. Iluminacje”, przeł.
+          Artur Międzyrzecki, Prószyński i S-ka, Warszawa 1999, s. 21.
+        </p>
+        <p className="h2_non_justify ">
+          7 Por. Paulina Tarasewicz, „La vie de Laure?”, w: <i>Cahiers ERTA</i>,
+          nr 10/2016, s. 217-251.
+        </p>
+        <p className="h2_non_justify ">
+          8 Georges Bataille, „Błękit nieba”, w: „Historia oka i inne historie”,
+          przeł. Tadeusz Komendant, słowo/obraz terytoria, Gdańsk 2010, s. 181.
+        </p>
+        <p className="h2_non_justify ">
+          9 Chris Kraus, „Aliens and Anorexia”, Tuskar Rock Press, London 2018,
+          s. 153.
+        </p>
+        <p className="h2_non_justify ">
+          10 Laure, „Le Sacré. Suivi par de poèmes et de divers écrits”, Édition
+          hors commerce, Paris 1939, s. 23.
+        </p>
+        <p className="h2_non_justify ">
+          11 „L’histoire d’une petite fille”, s. 18.
+        </p>
+        <p className="h2_non_justify ">12 Ibidem, s. 40.</p>
       </div>
     </div>
   );

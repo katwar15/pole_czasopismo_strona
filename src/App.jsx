@@ -43,6 +43,8 @@ import RolandoPage from "./components/Sections/Poezja/TestyPoezja/RolandoPage";
 import KurylakPage from "./components/Sections/Poezja/TestyPoezja/KurylakPage";
 import KitschPage from "./components/Sections/Poezja/TestyPoezja/KitschPage";
 import MatwiejczukPage from "./components/Sections/Poezja/TestyPoezja/MatwiejczukPage";
+import LaurePage from "./components/Sections/Archiwalia/TekstyArchiwalia/LaurePage";
+import LisPage from "./components/Sections/Proza/TekstyProza/LisPage";
 
 function App() {
   return (
@@ -65,6 +67,8 @@ function App() {
           <Route path="/olakolodziejek" element={<KolodziejekPage />} />
           <Route path="/grzegorzstrumyk" element={<StrumykPage />} />
           <Route path="/darekfoks" element={<FoksPage />} />
+          <Route path="/romanliszolnierz" element={<LisPage />} />
+
           {/* VARIA */}
           <Route path="/wieslawaptaszyk" element={<PtaszykPage />} />
           <Route
@@ -78,6 +82,7 @@ function App() {
           <Route path="/lukaskrajeski" element={<KrajewskiPage />} />
           <Route path="/wieslawprzybyla" element={<PrzybylaPage />} />
           <Route path="/mariannapilotowa" element={<MariannaPage />} />
+          <Route path="/laure" element={<LaurePage />} />
 
           {/* ESEJE */}
           <Route path="/piotrskalski" element={<SkalskiPage />} />

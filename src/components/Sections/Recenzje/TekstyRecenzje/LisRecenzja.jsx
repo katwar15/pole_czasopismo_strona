@@ -118,14 +118,14 @@ const LisRecenzja = () => {
           czy gdybym mogła wybrać,<br></br> wybrałabym ludzi z miasta<br></br>
           czy owce i barany
         </p>
-        <p className="h2_wstep">[z wiersza „miastowa”]</p>
+        <p className="h2_non_indent">[z wiersza „miastowa”]</p>
         <p className="h2_left_bez">
           jest niedzielny poranek, ptaki krzyczą mi do ucha<br></br>
           niezrozumiałe słowa w ich języku. on jest piękny,<br></br> ale nasz
           język też jest piękny, dlatego piszę nim<br></br> wiersze o ptakach,
           koniczynie, stokrotkach i makach.
         </p>
-        <p className="h2_wstep">[z wiersza „oda do bólu”]</p>
+        <p className="h2_non_indent">[z wiersza „oda do bólu”]</p>
         <p className="h2_wstep">
           Ale nich wystarczą te dwa przykłady, bo zauważyłem też, że wyrwanie
           fragmentu z wiersza Jarockiej zuboża ten wiersz, czyli zastosowanie
@@ -143,6 +143,7 @@ const LisRecenzja = () => {
           książce!
         </p>
         <p className="h2_podpis">Montrouge, 28 I 2023</p>
+        <hr className="hr_line"></hr>
         <h2 className="h1_wstep">(IV)</h2>
 
         <h2 className="h1_wstep">1</h2>
@@ -211,7 +212,7 @@ const LisRecenzja = () => {
           wiersz jest śmiercią<br></br> umarłam tyle razy<br></br> że mogę się
           tylko śmiać
         </p>
-        <p className="h2_wstep">[* * * (bez tytułu)]</p>
+        <p className="h2_non_indent">[* * * (bez tytułu)]</p>
         <p className="h2_wstep">
           Udając, że mamrocze (i śmieje się zza grobu po tylu śmierciach),
           poetka chce też odwrócić uwagę od niewątpliwej hermetyczności swoich
@@ -249,7 +250,7 @@ const LisRecenzja = () => {
           <br></br> jakbym miała się w nim ukorzenić<br></br> jakby paryż był
           moim domem<br></br> i ibsena
         </p>
-        <p className="h2_wstep">[„noc w saint-cloud” (fragment)]</p>
+        <p className="h2_non_indent">[„noc w saint-cloud” (fragment)]</p>
         <p className="h2_wstep">
           Z informacji na okładce tomiku wynika, że poetka urodziła się w Polsce
           w określonym czasie, tak więc powyższe domniemywania mogą dotyczyć
@@ -272,7 +273,7 @@ const LisRecenzja = () => {
           wpadałam w każdą szparę w podłodze <br></br>
           do każdej drzazgi mówiąc - mamo <br></br>
         </p>
-        <p className="h2_wstep">
+        <p className="h2_non_indent">
           [„przyszłam na świat w siedemdziesiątym siódmym”]
         </p>
         <p className="h2_wstep">
@@ -292,7 +293,7 @@ const LisRecenzja = () => {
           przesypię się w nim z rąk <br></br>
           prosto do ziemi <br></br>
         </p>
-        <p className="h2_wstep">[„śmierć trwa tylko chwilę”]</p>
+        <p className="h2_non_indent">[„śmierć trwa tylko chwilę”]</p>
         <p className="h2_wstep">
           – traktując twórczość jako potrzebę fizjologii duchowej, mającej
           bezpośredni związek ze śmiercią. To tylko potwierdza fakt
@@ -428,7 +429,7 @@ const LisRecenzja = () => {
           która właściwie nie ma źródła. <br></br>
           Do Ostatecznego celu przeznaczona. <br></br>
         </p>
-        <p className="h2_wstep">[„Drohobycz”]</p>
+        <p className="h2_non_indent">[„Drohobycz”]</p>
         <p className="h2_wstep">
           Ciemność byłaby zatem potężniejsza? Przyznam się, że trochę tu nie
           rozumiem poety [ale w poezji nie wszystko musi być zrozumiałe, tak jak
@@ -460,7 +461,7 @@ const LisRecenzja = () => {
           zapłacze cicho – aż noc drży. <br></br>I ja się w nocy pod tą bramą
           zjawiam, <br></br>a groby plują na mnie – bom zły. <br></br>
         </p>
-        <p className="h2_wstep">[* * *]</p>
+        <p className="h2_non_indent">[* * *]</p>
         <p className="h2_wstep">
           Pan Ryszard Mach słynął z tego, że należał do tych nielicznych osób, z
           którymi Józef Kurylak lubił słuchać muzyki [poeta jest znawcą i
@@ -576,7 +577,7 @@ const LisRecenzja = () => {
           chociaż zatarły się, pokryły kurzem<br></br>
           granice między mistrzami a uczniem. <br></br>
         </p>
-        <p className="h2_wstep">[„Liceum Ekonomiczne w Przemyślu”]</p>
+        <p className="h2_non_indent">[„Liceum Ekonomiczne w Przemyślu”]</p>
         <p className="h2_wstep">
           O stosunku tego poety do zwierząt było głośno już pod koniec XX w.,
           gdy wydał swój tomik „Tragedia zwierząt” [w ekskluzywnym Wydawnictwie
@@ -590,7 +591,7 @@ const LisRecenzja = () => {
           czarny piesek do mnie podszedł<br></br>i powiedział: Ja wiem co to
           jest trumna. <br></br>
         </p>
-        <p className="h2_wstep">[* * *]</p>
+        <p className="h2_non_indent">[* * *]</p>
         <h2 className="h1_wstep">3</h2>
 
         <p className="h2_wstep">Genus irritabile vatum</p>

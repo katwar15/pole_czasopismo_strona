@@ -234,7 +234,7 @@ const Archiwalia = () => {
             </Link>
           </li>
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/laure" className="section_list_link">
               laure
             </Link>
           </li>

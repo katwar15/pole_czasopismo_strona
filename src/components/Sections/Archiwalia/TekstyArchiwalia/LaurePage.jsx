@@ -4,17 +4,17 @@ import "../../Wstep/WstepPage.css";
 import FooterBlack from "../../../FooterBlack/FooterBlack";
 import RightItemBlack from "../../../RightItemBlack/RightItemBlack";
 import LeftMenuBlack from "../../../LeftMenuBlack/LeftMenuBlack";
-import Lis from "./Lis";
+import Laure from "./Laure";
 
-const LisPage = () => {
+const LaurePage = () => {
   return (
     <div className="wstep_main">
       <LeftMenuBlack />
-      <Lis></Lis>
+      <Laure></Laure>
       <RightItemBlack />
       <FooterBlack />
     </div>
   );
 };
 
-export default LisPage;
+export default LaurePage;

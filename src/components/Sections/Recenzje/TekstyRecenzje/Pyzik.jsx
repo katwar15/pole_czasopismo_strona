@@ -21,7 +21,6 @@ const Pyzik = () => {
           Allison L. Strayer, Seven Stories Press, New York 2022.
         </h3>
       </div>
-
       <div className="content_wstep">
         <p className="h2_wstep">
           <i>
@@ -255,6 +254,12 @@ const Pyzik = () => {
           siebie, autounicestwienia, samozatracenia, w obliczu którego można
           chyba tylko komuś, kto się mu dobrowolnie poddaje, towarzyszyć bez
           słowa.
+        </p>
+      </div>
+      <div className="content_wstep">
+        <p className="h2_non_justify ">
+          [1] Annie Ernaux, „Lata”, tłum. Krzysztof Jarosz i Magdalena
+          Budzińska, Wołowiec 2022, s.164-165.
         </p>
       </div>
     </div>

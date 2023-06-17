@@ -110,7 +110,7 @@ const Proza = () => {
         </Link>
 
         <Link
-          to="/"
+          to="/romanliszolnierz"
           onMouseEnter={() => setIsShownFour(true)}
           onMouseLeave={() => setIsShownFour(false)}
         >
@@ -266,7 +266,7 @@ const Proza = () => {
             />
           </svg>
         </Link>
-        <Link to="/">
+        <Link to="/romanliszolnierz">
           <svg>
             <path
               d="M838.126 645h-94.694c-5.761 0-10.432 4.671-10.432 10.432v7.223c0 5.761 4.671 10.432 10.432 10.432h94.694c5.762 0 10.432-4.671 10.432-10.432v-7.223c0-5.761-4.67-10.432-10.432-10.432z"
@@ -294,7 +294,7 @@ const Proza = () => {
       <div className="svg_map_mobile_proza">
         <ul className="section_list">
           <li className="section_list_item">
-            <Link to="/" className="section_list_link">
+            <Link to="/romanliszolnierz" className="section_list_link">
               roman lis
             </Link>
           </li>
