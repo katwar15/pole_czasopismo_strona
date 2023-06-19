@@ -11,10 +11,11 @@ const Skalski = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Piotr Skalski</h1>
-        <h2 className="h1_wstep">Początek przejścia do czynu</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Początek przejścia do czynu</h2>
+
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           To było tak: żył kiedyś Henryk Bereza, lecz zmarł. Pismo{" "}

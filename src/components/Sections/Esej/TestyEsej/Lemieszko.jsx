@@ -11,12 +11,12 @@ const Lemieszko = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Piotr Lemieszko</h1>
-        <h2 className="h1_wstep">
-          W swoją stronę:<br></br>(wy)piski z dziennika
-        </h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">
+          W swoją stronę:<br></br>(wy)piski z dziennika
+        </h2>
         <h2 className="h2_podpis">
           Przekonamy się jeszcze raz, czytając te zapiski - tak, są to raczej
           piski na temat mojego życia. Chciałoby się ponarzekać nad swym życiem

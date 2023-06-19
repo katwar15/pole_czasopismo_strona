@@ -12,8 +12,6 @@ const Kurylak = () => {
       <div className="content">
         <h1 className="h1_wstep_autor">Józef Kurylak</h1>
 
-        <h2 className="h1_wstep_padding">Pięć wierszy</h2>
-
         <div className="content_center">
           <h2 className="h1_wstep">Marzenie</h2>
           <p className="h2_non_indent ">

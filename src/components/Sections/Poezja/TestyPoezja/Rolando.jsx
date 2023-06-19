@@ -12,8 +12,6 @@ const Rolando = () => {
       <div className="content">
         <h1 className="h1_wstep_autor">Bianka Rolando</h1>
 
-        <h2 className="h1_wstep_padding">Cztery wiersze</h2>
-
         <div className="content_center">
           <h2 className="h1_wstep_padding">Biały wąż z Jawy</h2>
 

@@ -13,14 +13,14 @@ const Dabrowski = () => {
       <div className="content">
         <h2 className="h2_wstep">Pola semantyczne (1)</h2>
         <h1 className="h1_wstep_autor">Jakub Dąbrowski</h1>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h1_wstep">Ontologia smutku</h2>
         <h3 className="h3_wstep">
           Unica Zürn, „Trąby jerychońskie”, przeł. Małgorzata Łukasiewicz i
           Maryna Ochab, Wydawnictwo Drzazgi, Okoniny 2021
         </h3>
-      </div>
-
-      <div className="content_wstep">
         <p className="h2_wstep">
           Minął już ponad rok, od kiedy w Wydawnictwie Drzazgi ukazały się
           „Trąby jerychońskie” Uniki Zürn. Książka spotkała się z przychylnym

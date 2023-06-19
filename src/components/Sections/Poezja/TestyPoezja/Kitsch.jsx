@@ -12,8 +12,6 @@ const Kitsch = () => {
       <div className="content">
         <h1 className="h1_wstep_autor">Samantha Kitsch</h1>
 
-        <h2 className="h1_wstep_padding">Trzy wiersze</h2>
-
         <div className="content_center">
           <h2 className="h1_wstep_padding">Sestyna z dawnych lat</h2>
 

@@ -12,10 +12,11 @@ const Foks = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Darek Foks</h1>
-        <h2 className="h1_wstep">Jak naprostować węża przed zimą</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Jak naprostować węża przed zimą</h2>
+
         <img className="img_text" src={foks_img}></img>
         <h2 className="h2_podpis_img">fot. Darek Foks</h2>
         <p className="h2_wstep">

@@ -11,10 +11,11 @@ const Rusin = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Wiktor Rusin</h1>
-        <h2 className="h1_wstep">Krach mitu Europy Środkowej?</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Krach mitu Europy Środkowej?</h2>
+
         <p className="h2_wstep">
           Czy są jeszcze Czesi, ci Czesi, którzy dla polskich inteligentów (być
           może już nie ma też polskich inteligentów, lecz ten wniosek wydaje mi

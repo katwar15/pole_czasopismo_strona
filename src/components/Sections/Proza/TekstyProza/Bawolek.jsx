@@ -11,12 +11,12 @@ const Waldemar = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Waldemar Bawołek</h1>
-        <h2 className="h1_wstep">
-          [<i>Wracam na Iwicką</i>]
-        </h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">
+          [<i>Wracam na Iwicką</i>]
+        </h2>
         <p className="h2_wstep">
           Wracam na Iwicką; znowu do góry po schodach, by dostać się do
           mieszkania. Stanąwszy pod drzwiami, wyczuwam zapach papierosów. Czyżby

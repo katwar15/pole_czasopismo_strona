@@ -11,11 +11,11 @@ const Laure = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Laure</h1>
-        <h2 className="h1_wstep">Sacrum </h2>
-        <h3 className="h3_wstep">przełożył Łukasz Krajewski </h3>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Sacrum </h2>
+        <h3 className="h3_wstep">przełożył Łukasz Krajewski </h3>
         <p className="h2_wstep">
           <i>
             …Nie w życiu mieszkałam, lecz w śmierci. <br></br>

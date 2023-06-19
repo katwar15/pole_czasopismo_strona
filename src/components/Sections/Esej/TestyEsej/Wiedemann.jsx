@@ -12,13 +12,13 @@ const Wiedemann = () => {
       <div className="content">
         <h2 className="h2_wstep">Wystawy, na których nie byłem (1)</h2>
         <h1 className="h1_wstep_autor">Adam Wiedemann</h1>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h1_wstep">Majtki i nowa sztuka</h2>
         <h3 className="h3_wstep">
           [z okazji wystawy malarstwa Juliusza Lewandowskiego]
         </h3>
-      </div>
-
-      <div className="content_wstep">
         <p className="h2_wstep">
           Biogramy artysty nie pozostawiają wątpliwości: jest to{" "}
           <i>

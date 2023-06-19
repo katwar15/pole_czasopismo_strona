@@ -12,9 +12,11 @@ const Kowalski = () => {
       <div className="content">
         <h1 className="h1_wstep_autor">Szymon Kowalski</h1>
 
-        <h2 className="h1_wstep_padding">Bazylika Mariacka na środku targu</h2>
-
         <div className="content_center">
+          <h2 className="h1_wstep_padding">
+            Bazylika Mariacka na środku targu
+          </h2>
+
           <h2 className="h1_wstep">I</h2>
 
           <h2 className="h2_non_indent ">Przybyłem tu nad ranem.</h2>

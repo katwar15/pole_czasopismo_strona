@@ -12,10 +12,11 @@ const WiedemannSzumlewicz = () => {
       <div className="content">
         <h2 className="h2_wstep">[Sen Adama – Sen Kasi (1)]</h2>
         <h1 className="h1_wstep_autor">Adam Wiedemann</h1>
-        <h2 className="h1_wstep">Pierwsze drzwi na lewo</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Pierwsze drzwi na lewo</h2>
+
         <h2 className="h2_wstep">
           Śniła mi się historia, będąca częścią większej historii, w której sam
           występowałem, ale jej nie pamiętam, o pisarce-plagiatorce, piszącej

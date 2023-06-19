@@ -11,12 +11,12 @@ const Krajewski = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Łukasz Krajewski</h1>
-        <h2 className="h1_wstep">
-          Od etnografki dzieciństwa do galerniczki wrażliwości: historia Laure
-        </h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">
+          Od etnografki dzieciństwa do galerniczki wrażliwości: historia Laure
+        </h2>
         <h2 className="h2_wstep">
           Colette Peignot, bo tak naprawdę nazywała się autorka „Sacrum”,
           zostawiła po sobie skąpy i eklektyczny korpus dzieł. Należą do niego

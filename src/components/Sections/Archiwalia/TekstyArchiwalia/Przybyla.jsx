@@ -11,14 +11,14 @@ const Przybyla = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Wiesław Przybyła</h1>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h1_wstep">Pani na morgach</h2>
         <h3 className="h3_wstep">
           Marianna ze Ślęków Pilotowa, „My, z Siedlikowa Ślęki. Wspomnienia
           rodzinne”, Oficyna Kulawiak, Warszawa–Ostrzeszów 2022
         </h3>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h2_wstep">
           Ktoś, kto pisze takie wspomnienia, dziedziczy zarówno włościańską
           „złotą legendę”, jak i niedolę codziennego boju o przetrwanie.

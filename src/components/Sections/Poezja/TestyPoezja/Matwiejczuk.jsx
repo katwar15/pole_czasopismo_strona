@@ -12,9 +12,9 @@ const Kitsch = () => {
       <div className="content">
         <h1 className="h1_wstep_autor">Filip Matwiejczuk</h1>
 
-        <h2 className="h1_wstep_padding">Fragment poematu </h2>
-
         <div className="content_center">
+          <h2 className="h1_wstep_padding">Fragment poematu </h2>
+
           <h2 className="h1_wstep">2. Władza i moc</h2>
 
           <p className="h2_non_justify ">

@@ -13,9 +13,9 @@ const Dmitroca = () => {
         <h2 className="h2_wstep">[Straszny dziadunio (1)]</h2>
         <h1 className="h1_wstep_autor">Zbigniew Dmitroca</h1>
 
-        <h2 className="h1_wstep_padding">Nieproszony gość</h2>
-
         <div className="content_center">
+          <h2 className="h1_wstep_padding">Nieproszony gość</h2>
+
           <h2 className="h2_non_indent ">
             Błąka się po całym świecie,<br></br> Wzdłuż i wszerz.<br></br> A kto
             taki? Kto to taki?<br></br> Dobrze wiesz!

@@ -11,10 +11,11 @@ const Kolodziejek = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Ola Kołodziejek</h1>
-        <h2 className="h1_wstep">Patroni</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">Patroni</h2>
+
         <p className="h2_wstep">
           Pierwsze zimno i mgły pojawiały się w dolinach zazwyczaj tuż przed
           naszą urodzinową imprezą. A tego roku wszystko jakoś przyspieszyło.

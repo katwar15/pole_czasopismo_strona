@@ -10,12 +10,14 @@ const Bozek = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">Dzienniki opiekunki (1)</h2>
         <h1 className="h1_wstep_autor">Renata Bożek</h1>
-        <h2 className="h1_wstep">Matka patrzy</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h2_wstep_center">Dzienniki opiekunki (1)</h2>
+
+        <h2 className="h1_wstep">Matka patrzy</h2>
+
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           Jej dłoniom nie dałabym więcej niż 50 lat. Małe, pulchne, jasnoróżowe;

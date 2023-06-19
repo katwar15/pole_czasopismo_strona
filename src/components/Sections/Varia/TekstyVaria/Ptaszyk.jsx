@@ -11,10 +11,11 @@ const Ptaszyk = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Wiesława Ptaszyk</h1>
-        <h2 className="h1_wstep">O świniobiciu i pewnej niesubordynacji</h2>
       </div>
 
       <div className="content_wstep">
+        <h2 className="h1_wstep">O świniobiciu i pewnej niesubordynacji</h2>
+
         <h2 className="h2_wstep">
           Zaraz po Świętym Marcinie przychodziła pora na świniaka. Niczego
           nieświadomy, dobrze podtuczony zwierzak drzemał pewnie jeszcze w

@@ -24,13 +24,13 @@ const Lis = () => {
       </Link>
       <div className="content">
         <h1 className="h1_wstep_autor">Roman Lis</h1>
+      </div>
+
+      <div className="content_wstep">
         <h2 className="h1_wstep">
           Żołnierz strzegący mrowiska koło Ustrzyk Górnych
         </h2>
         <h3 className="h1_wstep">(wspomnienie)</h3>
-      </div>
-
-      <div className="content_wstep">
         <h2 className="h2_wstep_right"> Dla Piotrka i Kasi</h2>
         <p className="h2_non_indent">spis treści:</p>
         <p className="h2_non_indent">
