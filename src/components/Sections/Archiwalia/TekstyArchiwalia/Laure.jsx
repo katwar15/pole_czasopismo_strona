@@ -81,7 +81,7 @@ const Laure = () => {
         <p className="h2_wstep">
           Jeśli jakaś istota nie może doznawać tego uczucia albo tę możliwość
           straciła, jej życie jest jakby pozbawione sensu, pozbawione
-          <i>sacrum</i>.
+          <i> sacrum</i>.
         </p>
         <p className="h2_wstep">
           Określenia, które zwykliśmy łączyć z pojęciem sacrum, takie jak
@@ -143,7 +143,7 @@ const Laure = () => {
         <p className="h2_wstep">
           Co natomiast pozbawia nas możliwości odczuwania sacrum: ciągłość form,
           ciągłość zewnętrznych okoliczności, które nie odzwierciedlają
-          <i>prawdy</i>
+          <i> prawdy </i>
           bytu lub przestały ją odzwierciedlać.
         </p>
         <p className="h2_wstep">
@@ -243,14 +243,14 @@ const Laure = () => {
         <p className="h2_wstep">
           Myślę po prostu, że, tak jak miało to miejsce w przypadku przygody w
           ogrodzie, ten pierwszy kontakt z ideą nieskończoności (z którą dziecko
-          <i>bawi się, za nic w świecie</i> nie chcąc, by ktoś je na tej zabawie
-          przyłapał) ma w sobie coś z sacrum, zabawie towarzyszy bowiem lęk,
-          toczy się ona wyłącznie w określonej porze, kiedy wiemy, że „nikogo
-          nie ma”, przybierając formę ożywionej medytacji. Stan powracający jak
-          wspomnienia w niektórych przejmujących chwilach mojego życia. Trwałość
-          tego wrażenia przywodzi na myśl zderzenie tkwiącej w nas cząstki
-          wieczności ze światem, brakuje tu jednak: 1) świadomości śmierci,
-          obecnej jednak w fizycznym odczuciu, 2) wspólnoty „z innymi”.
+          <i> bawi się, za nic w świecie</i> nie chcąc, by ktoś je na tej
+          zabawie przyłapał) ma w sobie coś z sacrum, zabawie towarzyszy bowiem
+          lęk, toczy się ona wyłącznie w określonej porze, kiedy wiemy, że
+          „nikogo nie ma”, przybierając formę ożywionej medytacji. Stan
+          powracający jak wspomnienia w niektórych przejmujących chwilach mojego
+          życia. Trwałość tego wrażenia przywodzi na myśl zderzenie tkwiącej w
+          nas cząstki wieczności ze światem, brakuje tu jednak: 1) świadomości
+          śmierci, obecnej jednak w fizycznym odczuciu, 2) wspólnoty „z innymi”.
         </p>
         <p className="h2_wstep">
           Wspomnienie, które, jak sądzę, pozwoli mi w wyczerpujący sposób
@@ -283,7 +283,7 @@ const Laure = () => {
           Dochodzę do sposobu rozumienia tego pojęcia przez socjologów
           <sup>4</sup> – sacrum miesza się z tym, co społeczne, aby to, co
           społeczne, stało się
-          <i>święte</i>.
+          <i> święte</i>.
         </p>
         <p className="h2_wstep">
           W moim rozumieniu, aby takim <i>się stało</i>, musi być odczuwane

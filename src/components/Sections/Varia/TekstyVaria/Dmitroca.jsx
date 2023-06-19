@@ -38,7 +38,7 @@ const Dmitroca = () => {
           </h2>
           <h2 className="h2_non_indent ">
             On się tym nie przejmie wcale<br></br> I raz dwa<br></br> Znów
-            pokaże ci, że czystość W nosie ma.
+            pokaże ci, że czystość<br></br> W nosie ma.
           </h2>
         </div>
       </div>

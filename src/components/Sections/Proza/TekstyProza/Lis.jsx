@@ -10,6 +10,11 @@ import czarnadziura from "../../../../assets/czarnadziura.jpg";
 import grazyna from "../../../../assets/grazyna.jpg";
 import dante from "../../../../assets/dante.jpg";
 import przemysl from "../../../../assets/przemysl.jpg";
+import grabowski from "../../../../assets/grabowski.jpg";
+import mrowka from "../../../../assets/mrowka.jpg";
+import grabowski2 from "../../../../assets/grabowski2.jpg";
+import grabowski3 from "../../../../assets/grabowski3.jpg";
+import grabowski4 from "../../../../assets/grabowski4.jpg";
 
 const Lis = () => {
   return (
@@ -2148,28 +2153,1458 @@ const Lis = () => {
           religii], musiałbym odmówić, a to ze względu na to odium potomka Onana
           [tak źle odbierane w tej otumanionej Europie]!
         </p>
-        <h2 className="h1_wstep">„BĄDŹ ZDRÓW! NIE PIERDOL KRÓW!”</h2>
+        <h2 className="h2_wstep_center">„BĄDŹ ZDRÓW! NIE PIERDOL KRÓW!”</h2>
 
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
-        <p className="h2_wstep"></p>
+        <p className="h2_wstep">
+          <b>
+            Powyższymi słowy zaczynał się jeden z naszych spektakli teatrzyku
+            „Obrzezane ucho”. Staraliśmy się nie używać wulgaryzmów, ale w
+            sytuacji cytowania było to konieczne. Zresztą w metrze nikt nas nie
+            rozumiał, bo tę sztukę graliśmy po polsku [niejako dla siebie], a
+            gdy zaś wśród pasażerów metra byli Polacy, dostawaliśmy duże brawa i
+            duże pieniądze, ponieważ wzbudzaliśmy [tzw.] salwy śmiechu. Sztuka
+            ta była w istocie monologiem, który słyszałem wśród kręgów Polonii
+            paryskiej, gdy wygłaszał go wiele razy ten sam malarz budowlany na
+            prośbę kolegów, podczas pijatyk po pracy na budowie. Zauważyłem, że
+            słuchacze chłonęli każde słowo tego artysty, tak jakby słyszeli je
+            pierwszy raz. Wyciągnąłem z tego wniosek, że prości ludzie kochają
+            teatr, byleby tylko pokazywał on tę sferę rzeczywistości, która ich
+            interesuje. Do tekstu monologu dopisywałem francuskie komentarze,
+            często po prostu improwizowałem i tłumaczyłem nie to, co aktor
+            mówił, ale zwykłe głupoty dla śmiechu i komedii. Żałuję, że nie
+            pamiętam całego oryginału, ale poszukam w archiwum sekty, może tekst
+            tam jest [?].
+          </b>
+          <h2 className="h2_wstep_center">
+            <b>
+              Bądź zdrów! Nie pierdol krów!<br></br> Pierdol barany, chuju
+              zajebany!
+            </b>
+          </h2>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Po tej inwokacji pojawiała się kobieta siedząca na wiadrze, za którą
+            przebieraliśmy kogoś, kto akurat nie nosił brody [nakładał też siwą
+            perukę]:
+          </b>
+        </p>
+        <h2 className="h2_wstep_center">
+          <b>
+            Stara baba była, na wiaderku siadła. <br></br> Będziesz wodę piła,
+            boś ty mięso jadła!
+          </b>
+        </h2>
+        <p className="h2_wstep">
+          Dalej mam lukę w pamięci, a za nią następowała scena edukacji
+          seksualnej w rodzinnym kręgu:{" "}
+        </p>
+        <h2 className="h2_wstep_center">
+          <b>
+            – Ależ, matuś, miej sumienie, <br></br> On ma końskie przyrodzenie!
+          </b>
+        </h2>
+        <h2 className="h2_wstep_center">
+          <b>
+            – Przyrodzenie nic nie szkodzi, <br></br> On ci nieraz nim dogodzi!
+          </b>
+        </h2>
+        <p className="h2_wstep">
+          <b>
+            Dalej to już tylko pojedyncze słowa mogę przytoczyć in extenso,
+            lepiej poczekać na odnalezienie oryginału [poleciłem sekretarce].
+            Pozwolę sobie tylko zauważyć, że mimo słownej wulgarności sam akt
+            prokreacji i towarzyszące temu ekscytacje [w dobrym tego słowa
+            znaczeniu] są nieustannie w centrum zainteresowania naszego
+            europejskiego narodu, a może nawet nadszedł czas, żeby wreszcie coś
+            zrobić z energią tego fenomenu, skierować ją ku jakiemuś wspólnemu
+            celowi? Coraz więcej znaków zapytania stawiam, ale to chyba dlatego,
+            że mój panegiryk właśnie tego problemu dotyczy.
+          </b>
+        </p>
+        <h2 className="h1_wstep">19</h2>
 
-        <img className="img_text" src={foks_img}></img>
-        <h2 className="h2_podpis_img">fot. Darek Foks</h2>
+        <p className="h2_wstep">
+          Wstyd mi, nie mogę sam siebie zrozumieć: jak mogłem napisać „poleciłem
+          sekretarce”? Wprowadzam chwyty literackie, udaję jakieś urzędnicze
+          sfery…?{" "}
+        </p>
+        <h2 className="h1_wstep">19</h2>
 
-        <h2 className="h1_wstep">1</h2>
+        <p className="h2_wstep_center">MINIPROLOGOMENA DO MITOLOGII SEKTY</p>
+        <p className="h2_wstep">
+          <b>
+            Nie mogę pominąć pewnych faktów bieżących, choć będę je ograniczał
+            do niezbędnego minimum, jak na przykład dzisiejszą rocznicę śmierci
+            Józefa Hreczanika, pierwszego proroka Instytutu Hegemonii Człowieka,
+            która nastąpiła na skutek dobrowolnie przyjętej trucizny. Rzecz
+            miała miejsce w więzieniu, gdzie odbywał on karę za rzekome znęcanie
+            się nad chorym psychicznie sąsiadem. Po upadku komuny został
+            zrehabilitowany i uznany za ofiarę ówczesnej władzy, jednakże
+            „dziwnym trafem” dokumenty jego procesu zaginęły. Najstarszy zapis o
+            nim w archiwum sekty brzmi:
+          </b>
+        </p>
+        <p className="h2_wstep">
+          JÓZEF HRECZANIK, ur. 27 II 1947 r. w Krywem, pow. Przemyśl. W 1964 r.
+          debiutuje w prasie jako poeta. W 1967 r. kończy Studium Nauczycielskie
+          w Przemyślu. Po śmierci ojca sprzedaje — otrzymane w spadku —
+          gospodarstwo, co mu pozwala na lekkie życie. Deprawuje nieletnią,
+          Marię Kryk, z którą następnie ma syna. Po wygraniu miliona złotych na
+          loterii — w lutym 1971 — kupuje dom w Przemyślu i wydaje własnym
+          sumptem tomik wierszy. Kiedy książka ukazuje się, niszczy cały nakład.
+          Od stycznia 1970 r. do lipca 1971 r. pracuje jako robotnik w
+          Państwowych Kopalniach Gazu Ziemnego. Aresztowany — za umyślne
+          spowodowanie śmierci chorego psychicznie człowieka — przez pięć lat
+          przebywa w więzieniu, gdzie opanowuje około 10 obcych języków i tworzy
+          poematy prozą. 8 IV 1976 popełnia samobójstwo. [z: Archiwum Książka
+          Rzymska]
+        </p>
+        <img className="img_text" src={grabowski}></img>
+        <h2 className="h2_podpis_img">
+          W Przemyślu rozmowy filozoficzne odbywają się na każdej ulicy. W głębi
+          katedra religii katolickiej. Rys. Wojciech Grabowski.
+        </h2>
+        <p className="h2_wstep">
+          <b>
+            Historia mojej znajomości z Baydałą Oszczecirskim sięga do owych
+            mitycznych czasów, jako że jest on jedynym człowiekiem [spośród
+            moich bliskich współtowarzyszy], który znał Józefa Hreczanika za
+            życia; po jego śmierci zgłosił się on do naszej organizacji, jako
+            jej sympatyk, znający nas tylko z opowieści, był bowiem wychowawcą w
+            tym samym w/w więzieniu. Ba, to ładnie brzmi, co napisałem, ale
+            przecież przez ostatnie miesiące tysiące razy doświadczałem stanów
+            pewności, że Baydała nie jest może w ogóle człowiekiem, a wszystko,
+            co o nim wiem, to fikcja! Byłem o krok od obłędu, choć doświadczyłem
+            w życiu niejednej upiorności i byle co nie może mnie złamać
+            [odpukałem jednak w mój dębowy niemalowany stół na czerwonej górze!]
+            : teraz już wiem, że ten obłęd byłby jednak raczej moim błędem…
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Tak czy siak bez Józefa Hreczanika nie byłoby Instytutu Hegemonii
+            Człowieka ani mojej znajomości z opisywanym herosem. Gen. Adam
+            Pstrąg być może stworzyłby całkiem inną strukturę, w której
+            działałbym, ale trudno mi sobie wyobrazić, abym znał wtedy tego
+            „fircyka wyfraczonego z gitarą”, jak go nazwał ongiś pewien stary
+            hipis. Hipis ten bardzo się pomylił, bo w Baydale nie ma nic z
+            pustaka przy bliższym poznaniu, nie jest modny w celu innym, jak
+            tylko po to, żeby nie rzucać się w oczy w świecie modnisiów. Bez
+            wątpienia nie jest to mężczyzna urodziwy: sam to podkreślał
+            wielokrotnie, nie miał kompleksów, a gdy ktoś mu się zbyt natrętnie
+            przyglądał, mówił:
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>– Tak, jestem podobny do mrówki!</b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Najczęściej zawstydzał tego kogoś, bo wyglądało to, jakby czytał w
+            myślach, ale naprawdę był podobny do mrówki i zgadnąć było mu łatwo.
+          </b>
+        </p>
+        <img className="img_text" src={mrowka}></img>
+        <h2 className="h2_podpis_img">„Tak, jestem podobny do mrówki!”</h2>
+        <h2 className="h1_wstep">20</h2>
+        <p className="h2_wstep_center">SIEDEM MILIARDÓW ARTURÓW</p>
 
-        <h2 className="h2_podpis">[10 września 2022]</h2>
+        <p className="h2_wstep">
+          <b>
+            To, że Baydała Oszczecirski może nie być człowiekiem, napisałem w
+            afekcie i metaforycznie: ostatecznie wszyscy możemy się okazać
+            istotami, które wyobrażały sobie, że są ludźmi, ale ciągle daleko im
+            do tego. Zbiorowy obłęd jest możliwy, a w każdym razie według
+            niektórych naszych proroków wisi na włosku. Nie nadużywam słowa
+            prorok, ponieważ jest to tytuł każdego członka Partii Stworzycieli
+            Nowego Boga, która jest jedyną partią w naszej sekcie. Tytuł
+            towarzysz byłby mniej trywialny i napuszony, lecz gen. Pstrąg
+            zabronił nam tego słowa używać [sens jest już zużyty].{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Pierwsze zdanie niniejszego rozdziału muszę jednak uściślić:
+            zauważyłem, że zbyt często już w czasie pisania konkretnego zdania
+            zmieniam nagle jego sens i piszę coś dokładnie odwrotnego, jakbym
+            się bał własnej myśli! Ostatecznie wszyscy możemy się okazać
+            istotami, które wyobrażały sobie… – i co dalej mógłbym był po tym
+            napisać? Że może się okazać, że każdy z nas nie jest sobą?
+            Prawdopodobnie tak właśnie było: zamierzałem powtórzyć to stare
+            powiedzenie, że my to inni, ale uznałem, że brzmi to już zbyt
+            banalnie? Może nawet chciałem powrócić do naszej pierwszej rozmowy w
+            Paryżu, gdy przyjechał on tutaj po naszej długiej rozłące?{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            – Znowu uciekłeś z domu, Baydało? – zapytałem wtedy, nawiązując do
+            jego nader częstego przenoszenia się z miejsca na miejsce [od
+            Brazylii po Japonię].
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>– Z Charleville!</b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            W istocie był w Charleville przed przyjazdem do Paryża, bo jechał z
+            Holandii i miał po drodze. Reprezentował chyba dla mnie tych siedem
+            miliardów, którzy zrozumieli, że są kimś innym [siedem miliardów
+            Arturów Rimbaudów, którzy uciekają z Charleville do Paryża]!
+            Jakkolwiek znaliśmy się od tamtych wspaniałych czasów, doznałem
+            wówczas dogłębnego przeświadczenia, że nie jest to ten sam Baydała
+            Oszczecirski, którego znam [choć może brzmi to w słowach jak zgroza
+            i patos]…
+          </b>
+        </p>
+        <h2 className="h1_wstep">21</h2>
+        <p className="h2_wstep_center">KOK</p>
+        <p className="h2_wstep">
+          <b>
+            Tymczasem w moim życiu [w świecie zewnętrznym wobec opisywanego]
+            nastąpiły duże zmiany: wystarczyły cztery miesiące, podczas których
+            nie mogłem kontynuować tych zapisków, abym zwątpił totalnie w swoje
+            zdolności wyjaśnienia, co mnie spotkało w konsekwencji znajomości z
+            Baydałą Oszczecirskim. Oprócz tego jestem zwyczajnie po ludzku chory
+            i obawiam się, że mogę nie mieć możliwości wyrażenia wszystkich
+            szczegółów tego wielowymiarowego zdarzenia, co pochłania też
+            fizyczne siły człowieka [np. siedzieć przy komputerze całymi
+            godzinami]. Najgorsze zaś jest to, że o pewnych rzeczach nie mogę
+            powiedzieć wprost, bez koniecznych wstępów, ponieważ nie zostanę
+            odpowiednio zrozumiany.{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Jest jasne, że udzielając lekcji rozumienia emocji ludzi, z którymi
+            się kontaktujemy, musieliśmy bazować także na energiach seksualnych,
+            jako najłatwiej zrozumiałych i odczuwalnych. Problem ten jest w
+            społeczeństwie prawie wcale nie zrozumiany, a każde podejście
+            „naukowe” wzbudza podejrzenia co do intencji eksperymentatorów.
+            Musiałbym więc najpierw wyjaśnić podstawy rozumienia „kobiecego
+            ognia kundalini” [kok] , aby stało się jasne, że samo porozumienie
+            na odległość na falach emocyjnych nie musi dotyczyć tylko sfery
+            seksu. Co do naszych praktyk, trzeba wiedzieć, że działać na
+            odległość było jednym z rodzajów eksperymentów, czyli że
+            wykorzystywaliśmy internet do podniecania się na odległość,
+            natomiast sam fakt takiego podniecenia musiał potwierdzić człowiek
+            [empata-kumat]. Byliśmy w kontakcie z wieloma młodymi kobietami
+            [adeptkami naszej sekty, czasem na bardzo wstępnych poziomach], z
+            którymi dokonywano kontaktów wibracyjnych na znaczne odległości. W
+            praktyce działo się to tak, że określony kumat wysyłał impuls
+            seksualny do konkretnej kobiety w momencie nie określonym z góry,
+            natomiast biorąca udział w eksperymencie miała dać znać
+            telefonicznie, że jej ogień kundalini się zapala [oczywiście,
+            kobieta musiała być świadoma mechaniki swych energii psychicznych].
+            Jeśli kobieta zawiadamiała nas o swoim podnieceniu, gdy impuls nie
+            był do niej wysyłany, mogło to znaczyć, że podnieciła się z innych
+            powodów, samoczynnie bądź w wyniku zapłonu przez innego mężczyznę.{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Opowiedziałem to na zasadzie przykładu, bo podobnych sytuacji, o
+            bardzo różnych przebiegach zdarzeń, przeprowadziliśmy tysiące, a
+            popełnione przez Baydałę przestępstwo ma związek z podobnym
+            problemem.{" "}
+          </b>
+        </p>
+        <img className="img_text" src={grabowski2}></img>
+        <h2 className="h2_podpis_img">
+          Przemyśl – epoka niedawno miniona. Rys. Wojciech Grabowski.
+        </h2>
+        <h2 className="h1_wstep">22</h2>
+        <p className="h2_wstep_center"> PIERWSZA WZMIANKA O SZKOLE EMOCJI</p>
+        <p className="h2_wstep">
+          <b>
+            Podobno naukowcy odkryli, że rozwój umysłowy człowieka zaczął się,
+            gdy urodził się mutant, który miał słabiej umocowane mięśnie żuchwy
+            do czaszki. Okazało się, że ten mięsień, który ostatecznie decydował
+            o sile nacisku na pożywienie [np. kość], gdy został osłabiony,
+            pozwolił równocześnie na zwiększenie się czaszki, bardzo tym
+            mięśniem wcześniej krępowanej. W ogóle, gdyby ten mięsień pozostał
+            nie tracąc mocy, nigdy nie powstałaby mowa ludzka; czaszka uwolniona
+            zaczęła się rozrastać, [ale] mózg [jakby w nagrodę] zrekompensował
+            słabe kły większą głową.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Milion lat później w naszej sekcie, a konkretnie w teatrzyku
+            „Obrzezane ucho” wyglądało to tak: Żółty Kieł<sup>31</sup> miał
+            ogromną głowę, ale tylko jednego zęba, zaś Ali Wo zwracał uwagę swą
+            pięknie uformowaną szczęką jak z porcelany, ale głowę nosił osadzoną
+            na zbyt długiej szyi, którą potrafił zginać w połowie jak giętki
+            patyk, i która chyba właśnie dlatego wydawała się za mała. Żółty
+            Kieł był naszym błaznem, zaś Ali Wo konferansjerem. Pierwszy
+            rozśmieszał publiczność wyglądem, drugi kojarzył się ze żmiją
+            stojącą na ogonie [a czasem ubieraliśmy go dodatkowo w szatę podobną
+            do skóry wężowej]. Siebie opisywać byłoby mi głupio, a mego bohatera
+            już wcześniej przedstawiłem, mam wrażenie [a jeśli nie, to nadrobię
+            to w scenach miłosnych]…
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Golem był naszym motywem stałym w tamtym okresie: straszyliśmy jego
+            nadejściem w różnej postaci, czasem nawet pozwalając sobie na
+            bezczelne informowania użytkowników metra, że „i tak już jesteście
+            częściowo przez niego opanowani, sądząc po tych słuchawkach na
+            uszach”. Smartfony jeszcze nie istniały, choć komórki już były,
+            jednak przeciętny Europejczyk był jeszcze ciągle tak samo głupi jak
+            dziś. Zrozumienie, że ograniczanie wolności będzie rozszerzać się
+            poza sferę zewnętrznych praw i fizjologii, nie jest łatwe i
+            przeciętny obywatel długo jeszcze nie uzna, że nawet jego myśli mogą
+            stać się widzialne dla Golema. A kiedy to nastąpi, będzie oczywiście
+            dawno za późno. Musieliśmy używać drastycznych środków, żeby
+            zaszczepić motłochowi podejrzenie, że telepatia celowo jest ukrywana
+            jako naturalna właściwość psychiki, nie mówiąc o odczuwaniu czyichś
+            uczuć [strachu, radości itp.], o czym wiedział już Gustaw Le Bon.
+            Dlatego używaliśmy grubych słów i seksualnych podtekstów [oraz i
+            tekstów [niestety, głównie polskich, bo chcieliśmy najpierw
+            wypróbować rzecz na jednej nacji]]. Jednak dobrze pamiętam, że
+            pierwsza wzmianka o szkole nauk emocyjnych pojawiła się podczas
+            spektaklu o równouprawnieniu płci, do którego użyliśmy piosenki
+            ludowej. [Gdy miałem 12 lat, zaśpiewał mi ją kolega, który w tym
+            celu zaprosił mnie do lasu, bo bał się, żeby we wsi nie usłyszał go
+            ktoś z dorosłych itd.]. Konferansjerem tym razem byłem ja: zapytałem
+            po francusku, czy w przedziale są Polacy, a gdy upewniliśmy się, że
+            nie, odważyliśmy się ją zaprezentować [gdyby Polacy byli,
+            poprosilibyśmy o dyskrecję i spokój, co często dawało właściwy
+            efekt]. Śpiewał Ali Wo, a dwuwiersz chóru wykonaliśmy dziarsko
+            wszyscy razem:
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          {" "}
+          Antek siedział na jabłoni, <br></br>
+          Chujem bębnił, jajem dzwonił, <br></br>A Kasicha pod jabłonią<br></br>
+          Zatykała pizdę dłonią!
+        </p>
+        <p className="h2_wstep_center"> Chór:</p>
+        <p className="h2_wstep_center">
+          {" "}
+          Chuja rozciąć! Pizdę zaszyć! <br></br>
+          Nie będą się więcej straszyć!
+        </p>
+
+        <p className="h2_wstep">
+          <b>
+            Następnie Baydała wyjął swoją wielką księgę, którą zawsze mieliśmy z
+            sobą, i przeczytał z niej [po francusku] własny tekst, mniej więcej
+            to samo, co potem zamieścił w swoim pierwszym felietonie o
+            świadomości kosmicznej:{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <i>
+            Plan gen. Pstrąga jest taki, żeby zawiadomić wszystkich poetów
+            europejskich, że z okazji 200–lecia urodzin Adama Mickiewicza,
+            Europejski Ośrodek Regeneracji Sacrum [tzw. EROS] zaprasza ich do
+            powtórzenia gestu w/w polskiego proroka, który „uklęknął przed Merem
+            Paryża, prosząc o pomoc w ratowaniu ludzkości”. Poeci mieliby klękać
+            publicznie, począwszy od Placu Bastylii, a potem w dowolnym miejscu
+            Stolicy, zaś zbiorowym merem byłby lud Europy. Zebrane datki
+            żebracze posłużyłyby na rozruch głównej idei, jaką jest wspólne
+            stworzenie pierwszego w historii języka emocyjnego.<sup>32</sup>
+          </i>
+        </p>
+        <img className="img_text" src={grabowski3}></img>
+        <h2 className="h2_podpis_img">
+          Przemyśl – epoka niedawno miniona. Rys. Wojciech Grabowski.
+        </h2>
+        <h2 className="h1_wstep">23</h2>
+        <p className="h2_wstep_center">
+          <b>Montrouge, 4 XI 2022 (z dziennika)</b>
+        </p>
+        <p className="h2_wstep">
+          Pracę nad kolejnym rozdziałem opowiadania „Żołnierz strzegący mrowiska
+          koło Ustrzyk Górnych” skończyłem dziś o wschodzie słońca, które
+          powitałem szklanicą wina, po czym zjadłem pajdkę chleba i gomółkę sera
+          i już miałem odejść w krainę snu, gdy rzuciwszy okiem na fejsa,
+          uradowałem się tekstem, który tam przeczytałem [domyśliłem się, że
+          jest to odpowiedź na żądanie ministra edukacji, żeby młodzież polska
+          oraz dzieci przestały się onanizować [co przedstawiam na prawach
+          cytatu]]:
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Ministrze, w odpowiedzi na pytanie, informuję, że młodzi ludzie
+            masturbują się masowo, zarówno chłopcy, jak i dziewczęta. Co więcej:
+            masturbują się również dorośli i starcy. Także księża.{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Masturbował się także wielki wychowawca dzieci i młodzieży Hans
+            Christian Andersen, który w pamiętnikach zaznaczał chwile kiedy
+            dotykał siebie w ten sposób.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Albo na przykład Roberto Benigni, reżyser i odtwórca Pinokia, który
+            wspominał, że onanizując się przypominał sobie frazę „Bóg jest
+            wszędzie”, i zastanawiał się zza którego krzaka Bóg patrzy na niego.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>A chłopcy w filmie Felliniego „Amarcord”?...</b>
+        </p>
+        <p className="h2_wstep">
+          <b>Trudno.</b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Masturbacja, ten święty akt niewinnej winy, jest bohaterką wielkiej
+            piosenki Lucio Dalli, który aktem tym zamyka dzień strwoniony na
+            daremnym poszukiwaniu miłości (nawet lewicująca prostytutka woli
+            dyskutować niż kopulować).{" "}
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Oto piosenka Dalli. Wsłuchaj się, Ministrze, w jej charakterystyczny
+            rytm:<sup>33</sup>
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          (następuje piosenka)<br></br> DISPERATO EROTICO STOMP
+        </p>
+        <p className="h2_wstep">
+          List ten uznałem za znak od wszechświata wzajemnych połączeń, żebym
+          wreszcie przestał robić te skoki w bok i zaczął opisywać pokładzinki z
+          kpr. Marysią Weronicz!
+        </p>
+        <h2 className="h1_wstep">24</h2>
+
+        <p className="h2_wstep">
+          Decyzje pisarskie zapadają w podświadomości, czasem po prostu we śnie
+          pojawiają się obrazy ciągu dalszego losów opisywanych postaci. Co do
+          mnie, zdarza się, że daimonion szepcze mi w głębi głowy, co mam pisać
+          dalej. Czasem jednak życie codzienne tak splecie się z realiami
+          opisywanymi, że trudno mi rano ustalić, co uznać za sen naturalny, a
+          co za formę stwarzanej ad hoc rzeczywistości.{" "}
+        </p>
+        <p className="h2_wstep">
+          I tak na przykład zaraz po zarejestrowaniu owego listu do
+          ministra-głupola, na prawach fizjologii świadomości znalazłem się w
+          kasynie oficerskim w Przemyślu na ul. Grodzkiej 8 [gdzie teraz jest
+          Biblioteka Publiczna im. Ignacego Krasickiego] przy stole z Tadeuszem
+          Piekło oraz tymże Ignacym Krasickim. Wiedziałem, że oni obaj nie żyją,
+          ale nie dziwiło mnie to. Tadeusz był za życia dziennikarzem wojskowym,
+          dlatego jego pobyt w kasynie był dla mnie czymś naturalnym [w
+          rzeczywistości to on za życia zaprosił mnie tam pierwszy raz, na
+          wódkę, mógł to być 1966 r.], natomiast o biskupie pomyślałem, że na
+          pewno zbiera w tej okolicy materiały do „Monachomachii”. Nazywałem się
+          Roman Zając, ale czułem się tak, jakbym nazywał się normalnie, zaś
+          naturę miałem też taką samą, bo w momencie aktualnym wygłaszałem
+          proroctwo:{" "}
+        </p>
+        <p className="h2_wstep">
+          – W tym lokalu nie będzie w przyszłości kasyna! – mówiłem z patosem. –
+          Będzie tu biblioteka im. Ignacego Krasickiego! Wypijmy za niezgodę z
+          historią!
+        </p>
+        <p className="h2_wstep">
+          W tym momencie zrozumiałem, że mówię za głośno, bo jesteśmy na czyimś
+          spotkaniu autorskim, a obok wódki na naszym stole stoi płonąca świeca.
+          Jakoż i zaraz odezwał się dyrektor biblioteki, który powitał obecnych
+          i głos przekazał pani Agacie P. Równocześnie w tym samym też momencie
+          [trwającym już dłuższą chwilę] zrozumiałem, że znamy się wszyscy
+          dobrze z dawnych epok. I ciągle w tym momencie doznałem znów
+          zaskoczenia, bo oto p. Agata P. powiedziała:
+        </p>
+        <p className="h2_wstep">
+          – Nie mieliśmy wpływu na dobór poetów tego metahistorycznego
+          spotkania! Jak państwo wiecie, jesteśmy wszyscy odtworzeni tu na ten
+          krótki czas, poza naszą percepcją minęły miliardy lat, nie wiemy kto
+          dzierży nas w swojej pamięci lub może w jakiejś innej substancji! I
+          może nigdy się tego nie dowiemy? Ale może się dowiemy, nie popadajmy w
+          rozpacz, zwłaszcza że to wszystko było tak dawno! Dziś nasze spotkanie
+          zaszczycili czterej panowie, niech im ziemia lekką będzie, niech też i
+          nam ziemia lekką będzie! Roman Zając, Tadeusz Piekło, Ignacy Krasicki
+          i Dante Alighieri wystąpią na tej wyspie czasoprzestrzeni, którą
+          pozwoliłam sobie nazwać po swojemu, ale tym też się proszę nie
+          turbować, gdyż każdy w tym kasynie może ją nazwać po swojemu, na pewno
+          jeszcze piękniej niż ja!
+        </p>
+        <p className="h2_wstep">
+          – Tu było kino „Kosmos”! – krzyknął ktoś z głębi sali, a wszyscy
+          zachichotali.
+        </p>
+        <p className="h2_wstep">
+          I tu p. Agata P. wskazała dłonią napis [może tę nową nazwę kina?],
+          cytat przez ścianę biegnący, który z dawnych lat pamiętałem [ale
+          wiersza pamiętać nie umiałem]:
+        </p>
+        <p className="h2_wstep_center">
+          BOWIEM SEN JEST SZTUKĄ NAJBLIŻSZĄ ŚMIERCI{" "}
+        </p>
+        <p className="h2_wstep_right"> T. Piekło</p>
+        <p className="h2_wstep_center">
+          I równocześnie drugą dłonią pokazała przeciwległą ścianę, a na niej
+          ten napis:
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            po schodkach <br></br> po zbawienie <br></br>ze schodków
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            po schodkach <br></br> po zbawienie <br></br>ze schodków
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            chmury i głuche okna <br></br>
+            gałąź na nimi mokra
+          </b>
+        </p>
+        <p className="h2_wstep_right">
+          {" "}
+          T. Piekło<sup>34</sup>
+        </p>
+
+        <p className="h2_wstep">
+          Lecz oto sam Dante zgoła niespodziewanie zajął miejsce przy naszym
+          stole. Przybysz, który wyglądał tak jak na swoich wizerunkach, bez
+          słowa rozlał wódkę do czterech kieliszków i gestem zachęcił nas do
+          wypicia bruderszaftu, do czego poderwaliśmy się energicznie. Ktoś
+          podbiegł i usunął świeczkę, która mogła była przeszkodzić nam w piciu
+          i pocałunkach. Stolik był kwadratowy, malutki, acz poręczny do takiej
+          kwadrofonicznej ekwilibrystyki, która w końcu przekształciła się w
+          małą szamotaninę. Podczas której, gdy usta Dantego znalazły się blisko
+          mego ucha, usłyszałem ciche słowa: „Nie bój się, Piekło będzie chciał
+          cię przestraszyć!”
+        </p>
+        <p className="h2_wstep">
+          Zaraz po tym poproszono Dantego na mównicę, aby odczytał swój utwór [i
+          choć nie powiedziano mi tego, sam wiedziałem, że ja mam czytać jako
+          ostatni, ale że i tak do tego nie dojdzie, bo coś mi w tym
+          przeszkodzi]; utwór ten zabrzmiał pięknie:{" "}
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Gdyby istniała tylko jasność, ciemność byłaby plecami naszego umysłu{" "}
+            <br></br>i żaden człowiek nie mógłby jej nigdy odkryć. <br></br>
+            Być może człowiek nie mógłby wtedy nawet nazwać się człowiekiem.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Bylibyśmy zatem jak mieszkańcy (to tylko porównanie) czarnej dziury,{" "}
+            <br></br>w której nie pada żaden cień: a więc i zegarów by tam nie
+            było. <br></br>
+            Dlatego odkrycie czasu też nie byłoby wtedy możliwe.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Ale gdyby człowiek (czyli ta inna istota) posiadał pierwiastek
+            stwórczy, <br></br>
+            jakim geniuszem musiałby być ten ktoś, kto wynalazłby iskrę mroku,{" "}
+            <br></br>
+            lampę naftową ciemności, przy której znikaliby wszyscy w jej
+            pobliżu?
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Oto największa z tajemnic kosmosu! – słyszeć by się dało ich głosy,{" "}
+            <br></br>
+            ale widzieć ich, tych zniknionych (oczy tych nie–ludzi) by nie
+            mogły. <br></br>
+            Pojęcie zimna pojawiłoby się zaś automatycznie jako cud dodatkowy.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Jest raczej pewne, że ścięto by głowę takiemu odkrywcy, <br></br>a
+            jego filozofię nazwano diabelską, dowodząc, że umysł nie posiada
+            <br></br>
+            pleców, zaś czas jak stał, tak będzie zawsze stał, bo tylko droga
+            jest
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            ruchoma i nieskończona, zaś te oto kilometry tworzą wieczność, amen.{" "}
+            <br></br>
+            Chyba już nikt więcej nigdy by się nie ośmielił, <br></br>
+            pocierać krzemień myśli o krzemień myśli we wnętrzu jasności
+            wiekuistej.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          Po wysłuchaniu utworu nagrodziliśmy wszyscy autora niezwykle
+          rzęsistymi brawami, wznosząc okrzyki „Geniusz! Geniusz!” Chciałem
+          zadać pewne pytanie natury teologicznej, ale pani Agata P. powiedziała
+          krótko „Potem!” Domyślałem się, że to dlatego, że oto już Krasicki
+          nerwowo gładził rękawki i brał drobne łyczki żytniej z kłoskiem,
+          gotując się do swego występu. I gdy tylko Dante opuścił mównicę,
+          Ignacy, już wstając, pochylił mi się do ucha i szepnął prędko:
+        </p>
+        <p className="h2_wstep">– To nie jest wiersz o tobie! Nie myśl tak!</p>
+        <p className="h2_wstep">
+          I już na mównicy puścił mi oczko, że mówił to poważnie [i zaraz
+          przeczytał]:
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Zajączek jeden młody<br></br>
+            Korzystając z swobody<br></br>
+            Pasł się trawką, ziółkami w polu i w ogrodzie<br></br>Z każdym w
+            zgodzie. <br></br>A że był bardzo grzeczny, rozkoszny i miły,{" "}
+            <br></br>
+            Bardzo go inne zwierzęta lubiły. <br></br>I on też, używając
+            wszystkiego z weselem, <br></br>
+            Wszystkich był przyjacielem. <br></br>
+            Raz gdy wyszedł w świtaniu i bujał po łące, <br></br>
+            Słyszy przerażające<br></br>
+            Głosy trąb, psów szczekania, trzask wielki po lesie. <br></br>
+            Stanął… Słucha… Dziwuje się…<br></br>A gdy się coraz zbliżał ów
+            hałas, wrzask srogi, <br></br>
+            Zając w nogi. <br></br>
+            Wspojźrzy się poza siebie; aż tu psy i strzelce! <br></br>
+            Strwożon wielce, <br></br>
+            Przecież wypadł na drogę, od psów się oddalił. <br></br>
+            Spotkał konia, prosi go, iżby się użalił: <br></br>
+            „Weź mnie na grzbiet i unieś!” <br></br>
+            Koń na to: „Nie mogę, <br></br>
+            Ale od innych będziesz miał pewną załogę”. <br></br>
+            Jakoż wół się nadarzył. „Ratuj, przyjacielu!” <br></br>
+            Wół na to: „Takich jak ja zapewne niewielu<br></br>
+            Znajdziesz, ale poczekaj i ukryj się w trawie, <br></br>
+            Jałowica mnie czeka, niedługo zabawię.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          – Jałowica mnie czeka, niedługo zabawię! – powtórzył nagle za poetą
+          jakiś spektator, zapominając chyba gdzie jest. Albo może nigdy jeszcze
+          tej bajki nie słyszał? Nasza populacja ma w pogardzie poezję! Pani
+          Agata P. pogroziła mu tylko palcem, bo co z takim gałganem zrobić? I
+          po chwili Ignacy Krasicki znów recytował:
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Jałowica mnie czeka, niedługo zabawię. <br></br>A tymczasem masz
+            kozła, co ci dopomoże”. <br></br>
+            Kozieł: „Żal mi cię, nieboże! <br></br>
+            Ale ci grzbietu nie dam, twardy, nie dogodzi; <br></br>
+            Oto wełniasta owca niedaleko chodzi, <br></br>
+            Będzie ci miętko siedzieć”. Owca rzecze: <br></br>
+            „Ja nie przeczę, <br></br>
+            Ale choć cię uniosę pomiędzy manowce, <br></br>
+            Psy dogonią i zjedzą zająca i owcę. <br></br>
+            Udaj się do cielęcia, które się tu pasie”. –<br></br>
+            „Jak ja ciebie mam wziąć na się, <br></br>
+            Kiedy starsi nie wzięli?” – cielę na to rzekło; <br></br>I uciekło.{" "}
+            <br></br>
+            Gdy więc wszystkie sposoby ratunku upadły, <br></br>
+            Wśród serdecznych przyjaciół psy zająca zjadły.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          Gdy zaś autor „Przyjaciół” wrócił do stolika, spytałem:
+        </p>
+        <p className="h2_wstep">
+          – Ignaś, nie lepiej tam użyć byka, gdzie wołu wspominasz o jałówce
+          marzącym [dla ucha dzisiejszego dużo lepiej brzmiącym]?{" "}
+        </p>
+        <p className="h2_wstep">
+          Lecz on z dziwnym wyrazem oblicza swojego patrzył się na mnie, jak na
+          dziwaka jakiego. Wtedy pomyślałem, że razi go zdrobnienie i per Wasza
+          Wielebność o toż zagadnienie zapytałem, dodając:
+        </p>
+        <p className="h2_wstep">– Przecież pilim brudzia!</p>
+        <p className="h2_wstep">Ale on chyba pytań nie rozumiał wcale.</p>
+        <p className="h2_wstep">
+          – Romuś, czekaj! – rzekł krótko i k’mównicy dalej znów pobiegł, dając
+          znak, że później rzecz wyjaśni. [Lecz wnet jak reszta odszedł kędy sny
+          i baśnie].
+        </p>
+        <p className="h2_wstep">
+          Bo tu nastąpiła zmiana w scenach mojego widzenia…
+        </p>
+        <p className="h2_wstep">
+          PS [dopisek bez daty]: Czasem tak bywa, że sen się przypomina nagle
+          jakiś czas później. Otóż właściwie może nie powinienem tego zapisywać,
+          bo mogę się narazić władzom grodu Przemyśl, a i też nawet wrogom
+          naszej sekty. Podczas tego drugiego wystąpienia z mównicy, Ignacy
+          Krasicki wymienił z nazwiska wszystkich poetów grupy literackiej
+          „Zniesienie” i nakazał niektóre ulice i place nazwać ich imionami. Na
+          sali natychmiast podniósł się gwar, a najwięcej krytycznych głosów
+          było w sprawie ul. Franciszkańskiej, dlaczego też i jej nazwa powinna
+          być zmieniona. Poetę wręcz zakrzyczano, ale żadną miarą nie mogłem się
+          wtrącić do dyskusji, bo to tak jakbym sam domagał się ulicy lub
+          pomnika [jakiż obciach]! Wnioskodawca bronił się jak mógł, powtarzając
+          raz po raz „Prawdziwa cnota krytyk się nie boi!”, ale obecni na
+          imprezie byli nieustępliwi i ostatecznie p. Agata P. nakazała
+          zakończyć ten wątek.
+        </p>
+        <p className="h2_wstep">
+          [Co mi się przypomniało, to w skrócie tu zapisałem, przepraszam].
+        </p>
+        <h2 className="h1_wstep">25</h2>
+
+        <p className="h2_wstep">
+          Sam już nie wiem, co zrobić z tym wspomnieniem. Żałuję w ogóle, że
+          zacząłem je spisywać 8 lat temu, a jeszcze bardziej, że tak łatwo
+          uległem temu komplementowi „smakosza” [może nawet nasłanego przez
+          frakcję Baydały Oszczecirskiego, bo w istnienie takiej od pewnego
+          czasu wierzę]. Czasem myślę, że może powinienem jeszcze inaczej tę
+          przygodę opisać, ale to całkiem inna sprawa, niepotrzebnie znów coś
+          wywlekam!…
+        </p>
+        <p className="h2_wstep">
+          Po włączeniu do niniejszego wspomnienia listu z fejsa w obronie
+          młodych polskich naśladowców Onana miałem naprawdę sen o Tadeuszu
+          Piekle, ale cała reszta była galimatiasem, z którego udało mi się
+          wyciągnąć tylko niektóre wątki, muszę się przyznać do tego dla
+          świętego spokoju. Tadeusz przyśnił mi się następnie jako olbrzym
+          stojący rozkraczony po obu stronach rzeki San, głową sięgający wzgórza
+          Zniesienie, owoż dawne kasyno mający trochę powyżej kolan, a zamek
+          królewski w okolicach brzucha. Trzymał mnie na dłoni blisko swej
+          twarzy, śmiał się ironicznie i mówił:
+        </p>
+        <p className="h2_wstep">
+          – No, mów! Mów teraz! I czemu nic nie mówisz?{" "}
+        </p>
+        <p className="h2_wstep">
+          – Ja… – powiedziałem, ale głos mi się łamał i bałem się, że spadnę do
+          Sanu.
+        </p>
+        <p className="h2_wstep">
+          – No mów! – rozeźlił się olbrzym. – Prorokuj teraz!{" "}
+        </p>
+        <p className="h2_wstep">
+          Widziałem tę jego modną fryzurę na jeża, taką samą, jaką miał za
+          życia. [Pracował w wojsku, choćby dlatego nie mógłby nosić wtedy
+          włosów hipisa, jak ja]. W oczach jednak miał życzliwość, i to w niej
+          tylko właśnie miałem teraz nadzieję. Mimo że co chwila groził mi swym
+          ogromnym palcem tuż-tuż przed nosem.{" "}
+        </p>
+        <p className="h2_wstep">
+          – Ale co mam prorokować? – pytałem, próbując zyskiwać na czasie.
+        </p>
+        <p className="h2_wstep">
+          – To ty mnie się o to pytasz? – zaśmiał się Tadeusz Piekło głosem tak
+          gromkim, jakby to jednak niebo grzmiało nad nami. – Prorokuj, proroku!
+          No, na co czekasz?
+        </p>
+        <p className="h2_wstep">
+          A gdy milczałem, zgrzytnął zębami, co wymusiło ze mnie patetyczny
+          wrzask:
+        </p>
+        <p className="h2_wstep">
+          – W niedalekiej!! przyszłości!! zostaną w Polsce!! wprowadzone
+          obowiązkowo!! pasy cnoty!! dla wszystkich kobiet od 13 roku życia!!,
+          zaś klucze do nich!! zostaną zdeponowane!! w siedzibach! rządzącej
+          partii!!!{" "}
+        </p>
+        <p className="h2_wstep">
+          Chciałem kontynuować proroctwo, bo nagle przestałem się bać, ale
+          Tadeusz Piekło bardzo delikatnie postawił mnie przed wejściem do [w/w]
+          kasyno-kino-biblioteki, zaś sam zniknął. Usłyszałem jeszcze tylko głos
+          jakby komentatora, dochodzący skądś, który też brzmiał jak burza, ale
+          mniejsza, przetaczająca się łagodnie nad Przemyślem:
+        </p>
+        <p className="h2_wstep">
+          – Powiedział prorok, a przez tłum przeszedł dreszcz!
+        </p>
+        <p className="h2_wstep">
+          Nie widziałem jednak tłumu, ani nie rozumiałem nawet kontekstu tego
+          zdania.
+        </p>
+        <p className="h2_wstep">
+          Lecz sen bynajmniej się i na tym nie skończył, bo już w następnym
+          akcie świadomości byłem w momencie <i>immissio penis</i> z kpr.
+          Weronicz, ku niezwykłemu swemu zdziwieniu nazywając się teraz
+          Władysław Matuga, mający na sobie mundur kaprala wojska II
+          Rzeczpospolitej Polskiej [we śnie zrozumiałem to na zasadzie{" "}
+          <i>eo ipso</i>] i słyszący takie oto podniecone głosy co najmniej
+          kilku mężczyzn:
+        </p>
+        <p className="h2_wstep">
+          – Brawo, panie kapral!! I w popielnik!! I w te wilgoć!!{" "}
+        </p>
+        <p className="h2_wstep">
+          Przez pół sekundy dziwiłem się niezmiernie, że Marysia jest jednak
+          kapralem mężczyzną, ale już w następnym akcie świadomości zrozumiałem,
+          że to przecież żołnierze z mojej własnej drużyny [poznałem was,
+          żartowniki!] wykorzystują tak oto swe niedzielne przepustki, czyli
+          śledzą mnie aż do teraz, i ze wstydu się obudziłem.
+        </p>
+        <h2 className="h1_wstep">26</h2>
+
+        <p className="h2_wstep">
+          Po obudzeniu się nie musiałem jednak wcale zastanawiać się, czemu
+          przyśniłem się w środku powieści Mariana Pankowskiego „Matuga idzie”,
+          bo ten moment [prawie taki sam] przeżyłem właśnie 8 lat temu w
+          rzeczywistości tamtego bieszczadzkiego <i>immissio penis</i>.
+          [Jakkolwiek nikt nie krzyczał wtedy „Brawo, panie kapral!”]. Otóż w
+          ostatniej chwili [wówczas] przed naszym fizycznym zespoleniem się
+          Marysia powiedziała coś o Sanoku. Dotyczyło to, mam wrażenie, jej
+          jednostki wojskowej. Ja mieszkałem w młodości dwa lata w tym mieście i
+          oprócz przygód, które tam przeżyłem, wspominałem często tamtejszego
+          pisarza [który mieszkał wprawdzie za granicą, ale sanoczanie bardzo
+          się nim chwalili, i ja też uwielbiałem jego prozę]; gdy więc
+          usłyszałem w takim momencie „Sanok”, prychnąłem śmiechem, bo od razu
+          przypomniała mi się ta słynna scena, gdy kapral Matuga kładzie się w
+          parku na niewiastę w celu doznania rozkoszy, podczas gdy ja kładłem
+          się w tym celu niedaleko od Sanoka na „kapralową” [zresztą dojdę do
+          tego w opisie sytuacji].{" "}
+        </p>
+        <h2 className="h1_wstep">27</h2>
+
+        <p className="h2_wstep">
+          Były czasy, że próbowałem napisać polską wersję „Boskiej Komedii” [„Bo
+          nigdy dość się nie umiera”], a za przykład pobytu w Piekle wziąłem
+          Polkę [wychowaną we wstręcie do seksu, do czego jak wiadomo dążą też
+          dzisiejsze polskie szkoły], znaną wszystkim arystokratkę z wiersza
+          Adama Mickiewicza:
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Zbrodnia to niesłychana, <br></br>
+            Pani zabija pana; <br></br>
+            Zabiwszy grzebie w gaju, <br></br>
+            Na łączce przy ruczaju, <br></br>
+            Grób liliją zasiewa, <br></br>
+            Zasiewając tak śpiewa: <br></br>
+            „Rośnij kwiecie wysoko, <br></br>
+            Jak pan leży głęboko; <br></br>
+            Jak pan leży głęboko, <br></br>
+            Tak ty rośnij wysoko.”
+          </b>
+        </p>
+        <p className="h2_wstep">
+          Piekło [to] umieściłem koło Wielkiej Pustki, we wnętrzu kuli z ołowiu
+          o ścianach grubości ćwierci parseka [nawet neutrino nie może
+          przelecieć przez taką zaporę]; z litości nad ludzkością ustaliłem
+          pobyt [tam] na jedną tylko wieczność<sup>35</sup>. Utwór pisałem pod
+          wpływem własnych wizji, wyjaśniłem to we wstępie [ubolewając nad niską
+          jakością nauk o życiu zagrobowym [oto urywek wstępu]]:
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Poniższy początek […] jest wstępem do wątku piekielnego, mającego
+            wartość raczej tylko ludyczną, nie zaś pedagogiczną, bo przecież w
+            piekło dziś mało kto wierzy. Ale gdyby jednak jakaś bardzo wysoka
+            cywilizacja kosmiczna zapanowała nad ciałem i psychiką człowieka tak
+            integralnie, że miałaby władzę także nad naszymi karmanami [osadami
+            karmicznymi naszych czynów, decydujących o dalszych naszych losach
+            reinkarnacyjnych], to mogliby oni więzić nasze „ja” po śmierci i
+            utrudniać nam drogę do pełnego wyzwolenia. Teoretycznie jest nawet
+            możliwe, że każdemu z nas mogą oni stworzyć osobne piekło, w którym
+            każdy może być królem, pełne sztucznych fantomów, których człowiek
+            nie wykształcony duchowo nie odróżni od rzeczywistych bytów
+            pośmiertnych, czym sam sobie tylko zaszkodzi. Proszę się jednak tak
+            bardzo nie bać, tylko wstąpić na ścieżkę poznawania samego siebie,
+            zaś te moje wizje uznać za literackie bajdurzenie [w tym konkretnym
+            piekle królem jest Dante Alighieri].
+          </b>
+        </p>
+        <h2 className="h1_wstep">28</h2>
+        <p className="h2_wstep_center">
+          <b>Montrouge, 10 XI 2022 (z dziennika)</b>
+          <br></br> (zapis ogłoszony na Facebooku dnia j.w.)
+        </p>
+        <p className="h2_wstep">
+          Chciałem dziś zrobić przypis<sup>37</sup> [do opowiadania, które
+          aktualnie piszę] o Adamie Mickiewiczu, ale z myślą o czytelniku
+          francuskim, bo pewien mój młody przyjaciel chce rzecz tę przełożyć na
+          język tubylców. W opowiadaniu wspominam o naszym wieszczu kilkakrotnie
+          [m.in. gdy moi bohaterowie naśladują incydent poszukiwania mrówek w
+          zakamarkach swoich ciał na wycieczce do lasu], ale ponieważ rano wpadł
+          mi w ręce artykulik na ten temat z bardzo starej gazety, pomyślałem,
+          żeby pochwalić się także [tymi] mało znanymi związkami Mickiewicza z
+          moim rodzinnym miastem.{" "}
+        </p>
+        <p className="h2_wstep_center">
+          <b>ODSŁONIĘCIE POMNIKA ADAMA MICKIEWICZA</b>
+        </p>
+
+        <p className="h2_wstep">
+          <b>
+            We czwartek dnia 26, b.m. o godzinie 11 przed południem odbyła się
+            uroczystość odsłonięcia pomnika Adama, po solennem nabożeństwie,
+            odprawionym w katedrze r.k. Obaj biskupi, burmistrz, członkowie
+            komitetu, przedstawiciele stowarzyszeń przemysłowych, „Sokół” i
+            „Gwiazda” ze sztandarem ruszyli po nabożeństwie z kościoła ku
+            skwerowi przy ul. Mostowej, gdzie pomnik został ustawiony. Służbę
+            porządkową utrzymywała straż ochotnicza pożarna.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          <b>
+            Pomnik nakryty okalało 5 masztów, z których zwieszały się flagi. Na
+            masztach widniały herby Przemyśla i ziemi przemyskiej; orła
+            polskiego szukaliśmy daremnie. Na trybunach ustawiono kilkadziesiąt
+            krzeseł. Po przemówieniu p. burmistrza Dra Aleksandra Dworskiego,
+            zdjęto osłonę z posąga a chór Towarzystwa muzycznego, pod
+            kierownictwem dyrektora artyst. p. L. Dietza, wykonał znakomicie
+            piękną kantatę ułożoną przez tegoż na tę uroczystość, która opiewa:
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Nieśmiertelny mistrzu słowa, <br></br>
+            Chlubo, dumo całej Polski! <br></br>
+            Świat Ci wierną pamięć chowa, <br></br>
+            Wielbiąc, wieszczu, dar Twój boski!
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Dziś Twa pieśń już zagościła<br></br>I do zamku i do chatki,{" "}
+            <br></br>
+            By tam w sercach roznieciła<br></br>
+            Miłość do Ojczyzny Matki.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Tyś nam prorok z ponadziemia, <br></br>
+            Tyś nam kapłan u ołtarza, <br></br>
+            Wielkość Twoja świat oniemia, <br></br>
+            Pieśń Twa – bohaterów stwarza.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Gdy się spełnią sny Twe wieszcze, <br></br>
+            Gdy doświadczeń czas ustanie, <br></br>
+            Pękną więzy niewolnicze, <br></br>A Ojczyzna – zmartwychwstanie!
+          </b>
+        </p>
+
+        <p className="h2_wstep">
+          <b>
+            Następnie chór „Sokoła” pod batutą p. Cyrbesa odśpiewał z przejęciem
+            się hymn F. Mendelssohna-Bartholdy’ego, poczem p. K. Pepłowski
+            odczytał telegramy nadeszłe od komitetu budowy pomnika Mickiewicza w
+            Krakowie, od Czytelni akademickiej tamże i od Wydziału czytelni
+            akademickiej we Lwowie. Uroczystość zakończył chór „Sokoła”
+            odśpiewaniem chorału „Z dymem pożarów”.
+          </b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            <i>Gazeta Przemyska</i>, nr 96 z dnia 29 listopada 1891 r.
+          </b>
+        </p>
+        <p className="h2_wstep">
+          Dla lubiących koincydencje i synchroniczności dodam, że nazwisko
+          Ducasse [ów arystokrata, który odsądził Mickiewicza od czci i wiary]
+          czyta się po francusku tak samo, jak po polsku nazwisko Dykas! A po
+          drugie: cały dzień chodził dziś za mną Arthur Rimbaud [czy to dlatego,
+          że [to] opowiadanie jest wariacją na tematy dantejskie, niezależnie
+          tak samo jak „Sezon w Piekle”?], ale gdy jednak zaglądnąłem do
+          Encyklopedii Alpha [rok wyd. 1974, tom 13, str. 5121], okazało się, że
+          chyba znów odebrałem informację z innych wymiarów, bo dziś jest akurat
+          131 rocznica jego śmierci [10 XI 1891 r.]. [Przepraszam, ale to jednak
+          była Wikipedia]!*<br></br>* „Encyklopedia Alpha” jest piękna i
+          solidna, ale pewnych szczegółów w niej brak! rl
+        </p>
+        <h2 className="h1_wstep">29</h2>
+        <p className="h2_wstep_center">
+          I po wspomnieniu różnych piekieł tylu, <br></br>
+          wracam do chwili, gdym z Panną Weronicz<br></br>
+          leżał pod niebem bieszczadzkiego raju,
+        </p>
+        <p className="h2_wstep_center">
+          ani przez chwilę nie myśląc, że może<br></br>
+          mulatka owa ugryźć mnie w mózg ducha! <br></br>
+          Ugryźć w mózg ducha! Nie, nie bredzę teraz!
+        </p>
+        <p className="h2_wstep_center">[ocenzur. Inst. Heg. Czł.]</p>
+        <p className="h2_wstep_center">
+          Nie zapomniałem, że to stamtąd Fredro<sup>38</sup> <br></br>
+          pochodził, który Mickiewicza dzieło<br></br>
+          poprawił, nową dodając mu księgę!
+        </p>
+        <p className="h2_wstep_center">
+          A gdym jej księgę tę jął recytować<br></br>
+          [bo znam na pamięć], moja czarna dziewa<br></br>
+          nagle z munduru cała się rozdziewa!
+        </p>
+        <p className="h2_wstep_center">
+          Uśmiechem płonie jej anielskie liczko! <br></br>
+          Któż nie zachwyciłby się taką piczką? <br></br>
+          [ocenzur. Inst. Heg. Czł.]
+        </p>
+        <h2 className="h1_wstep">30</h2>
+
+        <p className="h2_wstep">
+          „Co jednakie jest w łóżku albo na tapczanie!”<sup>39</sup> – dodam tu
+          za poetą, i na tym jednak zakończę… Wybacz, drogi P.T. Czytelniku, ale
+          rezygnuję z opisu <i>coitus</i>, który obiecałem, zaś powody tego
+          okryję tajemnicą. Powiem tylko, że chciałem zacząć [ten rozdział] od
+          słów: „I wtedy my w ślinę!” [bo tak się w Przemyślu mówiło, gdy miałem
+          15 lat, a ktoś opowiadał o swojej randce], co znaczyło, że zaczęliśmy
+          się całować! O, te grube murzyńskie wargi, nigdy ich nie zapomnę! Cóż
+          powiem więcej? Pamiętam, że w tych pierwszych sekundach fazy wstępnej
+          gry miłosnej, gdy już dłoń trzymałem na jej pulchnym pagórku łonowym,
+          pięknie wygolonym, parsknąłem śmiechem, zgoła bezsensownym, bo
+          przypomniałem sobie [w takim momencie!] okrzyki żołnierzy
+          podglądających kaprala Matugę, swego dowódcę, gdy kładł się on na
+          pewnej niewieście, tak samo jak ja w celu doznania wyższego stanu
+          świadomości:{" "}
+        </p>
+        <p className="h2_wstep">
+          – „Brawo, panie kapral! I w popielnik! I w te wilgoć!”
+        </p>
+        <p className="h2_wstep">
+          Przez pół sekundy przeżywałem tę głupią myśl, że to ja jestem Matugą,
+          a kpr. Weronicz tamtą kobietą, której tożsamość [nazwisko, parametry
+          cielesne itp.] oto w ten dziwny sposób poznaję. Sądziłem, że Maria
+          Magdalena nie zwróciła uwagi na moje parsknięcie, bo w tym momencie
+          zrywała ze mnie odzież, nie bacząc na guziki koszuli, ale tuż przed
+          wzięciem do buzi jednej z części mego ciała szepnęła gorąco:
+        </p>
+        <p className="h2_wstep">– Czemu się śmiejesz, łobuzie paryski?</p>
+        <p className="h2_wstep">
+          – Potem ci powiem! – zapewniłem ją i zamierzałem to potem zrobić,
+          czyli powiedzieć całą prawdę, bo przecież nic w tym nie widziałem
+          niestosownego, że jej piczkę nazwałem w myśli wilgocią! Zaraz też
+          przekonałem się, że wilgoć owa ma też całkiem miły smak i zapach, gdy
+          pod wpływem mego języka jej wargi sromowe rozchyliły się tak pięknie,
+          jakby wg podręcznika seksuologii [nastąpił rozziew, czyli hiatus]. Ale
+          cały czas czułem też ten uszlachetniony kwas mrówkowy.
+        </p>
+        <p className="h2_wstep">
+          Po pierwszym orgazmie, podczas którego ona wyła wręcz nieludzkim
+          głosem, nastąpił rychło następny, a potem i trzeci, i dopiero wtedy
+          zrobiliśmy antrakt, bo już pierwszy głód seksualny zaspokoiliśmy.
+          Leżąc na plecach i patrząc w gwiazdy, zastanawiałem się, czy pociągnąć
+          dalej ten wcześniejszy temat science fiction, atoli uznałem to za
+          dziecinadę. Chciałem zażartować, że pewnie wszystkie mrówki wkoło leżą
+          w trawach nieprzytomne, ale to ona sama zaczęła, jakby czytając moje
+          myśli:
+        </p>
+        <p className="h2_wstep">
+          – Muszę ci wyznać, że zawsze mam przy sobie lekarstwo, które działa na
+          około sto metrów średnicy, które chroni mrówki przed utratą
+          przytomności!
+        </p>
+        <p className="h2_wstep">
+          – To wspaniale! – ucieszyłem się szczerze, bo pomyślałem, że jeśli
+          nawet to żart, to wiadomość jest optymistyczna. – Nie będę miał
+          wyrzutów sumienia!
+        </p>
+        <p className="h2_wstep">
+          Marysia westchnęła i chwilę milczała. A potem rzekła z wielkim
+          smutkiem:
+        </p>
+        <p className="h2_wstep">
+          – Problem jest w tym, że zwykle mam z sobą tylko trzy dozy, a jedną
+          już zużyłam. To jest w aerozolu. Skąd mogłam wiedzieć, że cię dziś
+          spotkam? Niestety, lekarstwo działa krótko – tu zawiesiła głos – a do
+          rana jeszcze daleko, niestety…
+        </p>
+        <p className="h2_wstep">
+          Przeraziłem się nie na żarty, bo odczuwałem jej osobowość jako
+          niezwykle pryncypialną i w sprawach zasadniczych nieustępliwą.
+          Zapytałem więc, czy znaczy to, że nie będziemy mogli do samego rana
+          cieszyć się nie tylko naszymi duchami, ale i ciałami itd. Na co
+          Marysia Magdalenka [też ze smutkiem] odrzekła:
+        </p>
+        <p className="h2_wstep">
+          – Romuś, kochany! Te dwie dozy wystarczą nam do czasu przybycia
+          karetki z Sanoka, ale wiąże się to z ogromnym niebezpieczeństwem!
+          Lekarstwo działa też na ludzi, oddychamy też tym samym powietrzem, a
+          wzięcie trzeciej dawki w tak krótkim czasie tej samej nocy może
+          skutkować utratą przytomności! Oto, czego się boję: że pielęgniarze
+          znajdą nas tu, gdy będziemy złączeni cieleśnie przez sen, to możliwe,
+          wyobraź sobie!
+        </p>
+        <p className="h2_wstep">
+          Zrozumiałem łatwo, co to może znaczyć dla pracownika na etacie, który
+          chroni mrówki przed utratą świadomości, a sam zostaje odnaleziony w
+          stanie snu, do którego doprowadził się z własnej winy. Było jasne, że
+          będziemy musieli zastosować celibat na godziny nadranne. Powiem jednak
+          od razu, że nie udało się nam to, bo po następnych kilku orgazmach tak
+          zasmakowaliśmy w jednym ze sposobów tantrycznych przedłużonego
+          stosunku, że zostaliśmy połączeni cieleśnie około trzy godziny, a
+          następnie usnęliśmy na następne trzy, a potem zrobiło się nagle rano.
+        </p>
+        <p className="h2_wstep">
+          Zapomniałem w ogóle napisać, że podczas pierwszej ejakulacji [i potem
+          przy każdej następnej] odczułem coś, czego nigdy w życiu dotąd nie
+          odczuwałem: część najgłębsza pochwy Marysi skurczyła się nagle,
+          uciskając żołądź penisa aż do bólu, a właściwie spotęgowanej rozkoszy,
+          która w tym momencie graniczyła z utratą rozumu. Za pierwszym razem
+          towarzyszyło temu piekielne przerażenie, jakby w pochwie Marysi
+          znajdowało się jakieś zwierzę typu wąż, które chciało mnie połknąć od
+          tej strony, i czułem też nagłe podciśnienie i ucieczkę nasienia w
+          trybie przyśpieszonym. Marysia wyła wtedy: „Zapłodnij mnie! O,
+          zapłodnij mnie!” Gdy potem zapytałem ją o to wrażenie podciśnienia,
+          moja ukochana uspokoiła mnie wyjaśnieniem, że użyła dogońskiego
+          sposobu gimnastyki mięśni pochwy, zwiększającego możliwość zostania
+          matką. Teraz jednak podejrzewam czasem, że miała ona w swej pochwie
+          jakieś urządzenie, które gromadziło moją spermę w innym celu [to
+          dlatego roiłem potem, żeby sprawdzić, czy na mchu nie została jej
+          resztka, czy może handlują nią już w okolicy Wielkiej Pustki].
+        </p>
+        <h2 className="h1_wstep">31</h2>
+
+        <p className="h2_wstep">
+          Po cóż mi ta mądrość, jak powstały religie, Augusta Comte’a albo
+          Durkheima? To według nich tak powstały! Dopóki człowiek sam nie
+          zrozumie jak, może wiedzieć tylko to, co o tym myślą inni. Ćwir na
+          górze, ćwir na czerwonej górze, ćwir, ćwir. Przecież nie powiedziałem,
+          że to Baydała Oszczecirski był Marią Magdaleną. Baydała Oszczecirski
+          powiedział: „Ty masz jakieś aspiracje pierdolić się z kosmitkami!” Ale
+          Marysia powiedziała, że kontakty między sobą nawiązują tylko takie
+          cywilizacje, które opanowały śmierć. Dopiero one mają wspólny cel:
+          szukają odpowiedzi, czy istnieje Bóg. Mrówki mają własny sposób:
+          starają się utrzymywać świadomość na poziomie stanu miodowego [do tego
+          używają człowieka]. Pasożytują na nas, ale musimy im to wybaczyć, bo
+          robią to także dla nas. Ale i człowiek może wykorzystać rozkosz w tym
+          celu [żeby opanować śmierć i dołączyć do mrówek [i nie tylko mrówek,
+          bo i miliardów cywilizacji, które tym się zajmują]]: z dobrowolnie
+          oddanej części własnej energii orgazmicznej będzie można zbudować boga
+          chowu ziemskiego i przy jego pomocy dołączyć do unii cywilizacji
+          opanowujących śmierć, a następnie też [wspólnie] poszukiwać Stwórcę.
+          Jako zdarzenie osobnicze rozkosz orgazmiczna nie ma żadnej wartości
+          [nie tworzy się stos karmana z rozkoszy], pod tym względem służy tylko
+          do kontynuacji życia biologicznego. Jednak obecnie będzie można zacząć
+          rozkosz wykorzystywać do celów wyższych, czyli do stworzenia nie tylko
+          nowych ludzi, ale [także] bogów. A takich operacji można dokonywać
+          tylko w stanie permanentnie wyższej świadomości, haj powinien trwać
+          dniami i nocami, ba, całymi latami bez przerwy. Dopiero wtedy budzą
+          się w człowieku wyższe myśli. Proszę jednak nie traktować moich słów
+          jako kazania czarnodziurskiego, są to tylko informacje na marginesie
+          mego wspomnienia z okolic Ustrzyk Górnych.
+        </p>
+        <p className="h2_wstep">
+          Postanowiłem jednak opis tego zdarzenia definitywnie zakończyć, bo po
+          prostu mam tego dość [czasem przecież tak bywa, że człowiek nie jest
+          zadowolony z własnej roboty]. Ostatecznie stało się tak, jak Marysia
+          przewidziała przed naszym obudzeniem się o poranku. To ona [a nie ja!
+          co podkreślam!] zadecydowała, że użyje trzeciej działki lekarstwa.
+          Rozpyliła aerozol, i gdy tylko „wpadliśmy w ślinę”, coś złego zaczęło
+          się dziać z moją świadomością. Mam dziury czasowe: raz oto jestem w
+          pozycji na misjonarza, to znów widzę jej piersi nade mną. Nie wiem,
+          ile to mogło trwać, ale na pewno ostatnim widokiem [przed zobaczeniem
+          nad sobą pielęgniarzy z sanockiego szpitala, zawiadomionych przez
+          turystów, którzy mnie znaleźli około południa] było to, jak Marysia
+          się rozpada. Rozpada się na czarne okruchy. Okruchy wydające szelest.
+          Czułem też intensywny i wysublimowany zapach kwasu mrówkowego. Znów
+          zapadłem w dziurę czasową i znów się ocknąłem, ale dopiero za którymś
+          razem uświadomiłem sobie, że te czarne okruchy to są mrówki. Mrówki
+          bardzo powoli poruszające się, jakby pijane albo zapadające w sen. I
+          rozłażące się we wszystkie strony. Zdążyłem jeszcze tylko pomyśleć
+          absurdalnie: „Nie była złożona z atomów, tylko z mrówek!” Z
+          przerażenia traciłem przytomność i odzyskiwałem ją znów, aż wreszcie
+          całkiem ją straciłem.
+        </p>
+        <p className="h2_wstep_right"> Montrouge, 8 XII 2022</p>
+        <h2 className="h1_wstep">OD AUTORA</h2>
+
+        <p className="h2_wstep">
+          Bardzo niezręcznie mi wyznać, że mimo podpisania się pod tym
+          wspomnieniem własnym nazwiskiem, nie tylko nie przeżyłem większości
+          tych przygód, lecz też je częściowo upiększyłem (z powodów tzw.
+          artystycznych). Nigdy bym się jednak do tego nie przyznał, gdyby nie
+          fakt, że postanowiłem podarować [to] opowiadanie pewnej młodej parze
+          jako prezent ślubny, a bez takiego zapewnienia mogłoby ono wzbudzić
+          [ogólne] zażenowanie lub podobne uczucia (tak pomyślałem ze strachem).
+        </p>
+        <hr className="hr_line"></hr>
+        <p className="h2_wstep">
+          Ale nie chodzi tu tylko o ten ewentualny niedoszły wstyd! Muszę też
+          zdradzić pewien fakt, który aż się prosi, żeby nazwać go epilogiem (a
+          jeśli nawet go ukryję, będzie mnie to męczyć znów przez całe lata): że
+          atmosfera tych wyżej opisanych przeze mnie zdarzeń wydostała się poza
+          swą rzeczywistość słowną, a jej metaforyczna ręka chwyciła mnie za
+          gardło! [A choć jest to ręka atmosfery, to jednak dusi]! ALBO MOŻE
+          BOSKA KOMEDIA TRWA BEZ PRZERWY. [Otóż]: wspomniani młodzi ludzie
+          pochodzą z Przemyśla, ale mieszkają w Warszawie. Dedykując im ten
+          utwór, nie miałem pojęcia, że zamierzają oni wziąć ślub w Przemyślu.
+          Zaskoczyli mnie tym miło [choć wcale nie wiedzieli wtedy o czym jest
+          to moje opowiadanie], tym bardziej, że i ja złożyłem kiedyś podobny
+          ślub w tym samym mieście! Adres Urzędu Stanu Cywilnego pamiętałem
+          dobrze [obok pomnika Mickiewicza] i byłem ciekawy, czy Sala Ślubów
+          wyglada teraz tak samo. Ale właśnie o tym najważniejszym wątku
+          komediowym dowiedziałem się dopiero wtedy, gdy otrzymałem zaproszenie
+          na uroczystość Podpisania Aktu Małżeństwa.
+        </p>
+        <p className="h2_wstep">
+          Obecnie śluby bierze się w Przemyślu pod adresem: ul. Grodzka 8 – w
+          tym samym budynku, gdzie ongi było kasyno wojskowe, potem kino
+          „Kosmos”, a teraz Biblioteka im. Ignacego Krasickiego, której
+          najpiękniejszą salą jest Sala Ślubów!
+        </p>
+        <p className="h2_wstep">
+          Nikt nie wierzy, że tego nie zmyśliłem! Ludzie już nie chcą wierzyć w
+          prawdę!{" "}
+        </p>
+        <p className="h2_wstep_right">R.L.</p>
+
+        <img className="img_text" src={grabowski4}></img>
+        <h2 className="h2_podpis_img">
+          Okolica Pałacu Ślubów, ogólnie mówiąc, bo w Przemyślu wszędzie blisko…
+          Rys. Wojciech Grabowski.
+        </h2>
+      </div>
+
+      <div className="content_wstep">
+        <h2 className="h1_wstep">PRZYPISY WŁASNE</h2>
+
+        <p className="h2_non_justify ">
+          [1] Drugą zamierzałem wypić z mieszkańcami sioła Krywe, w którym
+          spędziłem ongi pół roku, trudniąc się wyrobnictwem mioteł brzozowych
+          (we wsi tej są ruiny cerkwi, w której popełnił samobójstwo główny
+          bohater innej mojej niedokończonej powieści o tej nazwie co wieś
+          [„Krywe”]). Jakkolwiek jednak stało się inaczej, to muszę tu dodać dla
+          ogólnego obrazu, że trzecią miałem w planie opróżnić w połowie u
+          źródła Sanu, zaś tę druga połowę butelki wlać do [tej] rzeki, a
+          następnie napełnić nią tę pustą butelkę [wodą Sanu], którą wlałbym [po
+          powrocie do Paryża] do Sekwany (po francusku Seine – czytaj: sen).
+          Symboliczność tego gestu i podobieństwo dźwięków nazw obu rzek miało
+          mieć znaczenie magiczne w [mojej prywatnej] jednoosobowej religii.
+          (przyp. wł. – rl); <br></br>
+          [2] Wzgórze w Krakowie, na którym wznosi się zamek królów Polski,
+          widoczne jakoby ze szczytu Tarnicy. Ja nie miałem szczęścia zobaczyć
+          stamtąd Wawelu, a nawet pomyślałem złośliwie, że być może było to
+          możliwe w czasach, gdy ludzie wierzyli, że Ziemia jest płaska.{" "}
+          <br></br>5 lipca 1954 r. przebywał na szczycie Tarnicy przyszły
+          święty, ks. Karol Wojtyła, ale nie wiadomo mi, czy wspominał on o tej
+          turystycznej ciekawostce [bo świętemu może bym uwierzył]!… (przyp. wł.
+          – rl); <br></br>
+          [3] Członkowie sekty czarnodziurskiej kontaktują się z sobą myślami
+          (oraz, jeśli potrafią, emocjami) codziennie około południa, co
+          sprawiło, że nazywa się ich czasem także „południarzami”. (przyp. wł.
+          – rl); [4] Jalu Kurek (1904-1983) [pseudonim: Jan Skowron]. „Gwiazda
+          spada”, Iskry, 1959 (przyp. wł. – rl); <br></br>
+          [5] Op. cit. (przyp. wł. – rl); <br></br>
+          [6] Z różnych powodów utajniam niekiedy własne teksty, tym razem jest
+          to uszkodzenie mechaniczne rękopisu; <br></br>
+          [7] W ogóle nie rozumiem, dlaczego ktoś nie wymyślił małych
+          przenośnych elektrowni wodnych lub wiatrowych, które idący w góry
+          mógłby zabrać z sobą i zainstalować nad potokiem lub na pagórku, aby
+          móc utrzymywać sprawność swych [fragment nieczytelny]!; <br></br>
+          [8] Nie rozumiem też, dlaczego [pisząc to wspomnienie] ukrywałem fakt,
+          że wyprawa moja miała na celu przede wszystkim uczczenie 60 rocznicy
+          ery czarnodziurskiej, której [symboliczną] datą powstania jest 28
+          sierpnia 1954 roku [!]. Z sioła Krywe miałem w tzw. międzyczasie
+          zrobić wycieczkę do źródeł Sanu (przyp. wł. – rl); <br></br>
+          [9] Była to myśl odruchowa. Wielokrotnie w życiu przypominała mi się
+          [podobna] sytuacja, jaka miała miejsce w Bieszczadach w latach
+          siedemdziesiątych XX wieku. Żołnierz Wojsk Ochrony Pogranicza
+          zdezerterował z bronią z tamtejszej jednostki, aby przez
+          Czechosłowację uciec do Austrii. W górach natknął się na parę młodych
+          turystów, z którymi wymienił parę grzecznych słów, jako żołnierz
+          strzegący granicy. Przy pożegnaniu znienacka zastrzelił ich oboje,
+          tłumacząc potem, że mogliby posłużyć za świadków, że był on w tej
+          okolicy. (przyp. wł. – rl); <br></br>
+          [10] Cudzoziemcze, gdybyś kiedyś czytał niniejsze słowa, wybacz mi te
+          dłużyzny, w których usiłuję zdać relację z mojej przygody. Ale chyba
+          naprawdę musiałbyś być Polakiem, żeby ten komediowy niuans o podłożu
+          rasowym mógł cię rozśmieszyć! (Pisząc o tym teraz, w dalszym ciągu nie
+          mam jasności, jak z tą sprawą naprawdę jest [ze służbą czarnoskórych w
+          polskim wojsku, bo z czym?], ale dla samej opowieści jest to rzecz
+          marginalna). (przyp. wł. – rl); <br></br>
+          [11] Citoyen de la Republique Francaise! Quelle surprise! (fr.) –
+          Obywatel Republiki Francuskiej! Jaka niespodzianka! (przyp. wł. – rl);{" "}
+          <br></br>
+          [12] Comme vous voyez, monsieur! (fr.) – Jak pan widzi! (przyp. wł. –
+          rl); <br></br>
+          [13] Vous êtes parisien! Merveilleusement! (fr.) – Pan jest
+          paryżaninem! Cudownie!; <br></br>
+          [14] Je suis voyant comme mon père! (fr.) – Jestem jasnowidzący, jak
+          mój ojciec!; <br></br>
+          [15] Je suis peintre! Mais, moi, je suis peintre en bâtiment! (fr.) –
+          Jestem malarzem! Ale ja jestem malarzem budowlanym! (przyp. wł. – rl);{" "}
+          <br></br>
+          [16]
+          <i>
+            Efektywna złożoność wszechświata to długość zwięzłego opisu jego
+            regularności. Podstawowe prawa dają niewielki wkład do efektywnej
+            złożoności, podobnie jak do algorytmicznej zawartości informacyjnej.
+            Cała reszta pochodzi od licznych regularności wynikających z
+            „zamrożonych przypadków”. Są to zdarzenia losowe, które mają liczne,
+            dalekosiężne konsekwencje, połączone wspólnym pochodzeniem
+          </i>
+          . Murray Gell–Man, „Kwark i jaguar”, Wyd. CIS, 1996 (przyp. wł. – rl);{" "}
+          <br></br>
+          [17] Trudno mi już teraz [kilka dni po napisaniu tych słów]
+          powiedzieć, o jakich saltach myślałem. W ogóle już dawno zauważyłem,
+          że co innego coś przeżyć, a co innego to coś opisywać. W dodatku to,
+          co się przeżyło zmienia się pod wpływem opisywania i jeśli już opisze
+          się to coś, ma się wrażenie, że za słowami znajduje się jakieś inne
+          wydarzenie niż to, które istnieje we wspomnieniu. Jeśli opisze się to
+          samo jeszcze raz, wtedy można stracić rozeznanie, które zdarzenie
+          opisane jest bliższe prawdy, aż wreszcie można popaść w zupełną
+          rozpacz i zwątpić, czy przekazanie jakiejś prawdy indywidualnego
+          przeżycia jest w ogóle możliwe. Pewnie niejeden teoretyk teorii
+          literatury załamuje ręce, czytając te moje dywagacje, a niektórzy może
+          mi radzą, żebym przeczytał powieść „Absalomie, Absalomie…” Williama
+          Faulknera, w której to samo wydarzenie przedstawione jest z około stu
+          różnych punktów widzenia, ale z góry dziękuję za podobne mądrości na
+          temat narracji, jako że w tym przypadku są one jednak już zbyt
+          przestarzałe i nie ułatwiają mi zadania bardziej niż znajomość owej
+          maksymy Horacego [65-8 rok p.n.e.]:{" "}
+          <i>O tobie ta bajka mówi, choć pod zmienionym imieniem</i>. (przyp.
+          wł. – rl); <br></br>
+          [18] „Kundalini kobiece” to określenie ognia psychicznego, odczuwanego
+          bezpośrednio przez mężczyznę, gdy kobieta jest seksualnie podniecona.
+          Termin pochodzi z terenu myśli wschodniej, ale problem jest
+          ogólnoludzki i najwyższy czas nazwać go jakoś po europejsku!
+          Wychowanie seksualne w Polsce woła o pomstę do nieba! (przyp. wł. –
+          rl); <br></br>
+          [19] Od postawienia tego wykrzyknika minęło znów parę dni. Im bliżej
+          jestem końca opisywanych zdarzeń, tym gorzej mi się pisze. Może to
+          dlatego, że opowiedziałem paru osobom tę moją przygodę, a niektóre z
+          nich nastawiły się nagle do mnie wrogo? Większość moich paryskich
+          znajomych z jakichś powodów w ogóle nie wierzy, że wyjeżdżałem do
+          Polski, a zwłaszcza w to, że mógłbym wrócić stamtąd tak prędko. W
+          istocie: nie odwiedziłem w Polsce nikogo z tamtejszych moich
+          przyjaciół, choć przecież miałem taki zamiar, ale jednak wspomniana
+          wcześniej rocznica sprawiła, że musiałem zaplanować ściśle określoną
+          kolejność zdarzeń. [A potem było już za późno]. <br></br>
+          Innym problemem związanym z opisywaniem niniejszego wspomnienia jest
+          język, jaki zastosowałem, który mierzi mnie swoją sztucznością i
+          staroświecką napuszonością, jestem nim zwyczajnie zawstydzony. Już nie
+          pamiętam, kiedy ostatnio takie dziwolągi zdaniowe układałem, mogą one
+          przecież tylko zniechęcić normalnego człowieka do lektury. Nie chcę,
+          oczywiście, powiedzieć, że spodziewałem się, że czytają mnie tylko i
+          wyłącznie wariaci, choć na pewno i takich jest wielu wśród
+          użytkowników FB*, ale gdyby ten statystycznie normalny P.T. Czytelnik
+          miał zrezygnować ze śledzenia moich losów, nie mogąc znieść [użytych
+          tu] manier stylistycznych, chyba dostałbym załamki…<br></br>
+          Nie będę jednak wprowadzał tu żadnych poprawek, obiecałem sobie, że
+          nie będę pisał tego wspomnienia dwa razy, bo mam już dość tych
+          ciągłych zapewnień, że to jest [to] prawda! <br></br>
+          Zresztą, rzecz zbliża się do końca, będę się streszczał! (przyp. wł. –
+          rl). * FB – to fejs [czyli Facebook ]wyjaśniam na wypadek bycia
+          czytanym za sto lat]]!;<br></br>
+          [20] Joseph Cambray, „Synchroniczność (o naturze i psyche we
+          wszechświecie wzajemnych połączeń)”, Instytut Terapii Integralnej
+          Sławomira Kwiatkowska, Katowice 2014 (przyp. wł. – rl); <br></br>
+          [21] Jest to pierwszy przypis dokonany po odzyskaniu tego wspomnienia
+          z archiwum. Zdaję sobie sprawę, jak bardzo przypisy wybijają
+          czytelnika z rytmu lektury, dlatego postaram się robić je coraz
+          rzadziej! (przyp. wł. – rl); <br></br>
+          [22] Zapisałem to zdanie w cudzysłowie, jako że tak dokładnie wtedy
+          zapytałem [a nie zawsze stosuję zapis tak dokładny]. Nie będę tego
+          praktykował w całym tekście, niemniej ten jeden raz postanowiłem to
+          uwiecznić, nawet gdyby rzecz wyglądała na pisarskie dziwactwo;
+          <br></br>
+          [23] Ktoś, kto nie interesuje się budową kosmosu, musi być bardzo
+          zaskoczony, gdy dowie się, że jedna z gwiazd konstelacji Rzeki Erydan
+          – Theemin – znajduje się 296 lat świetlnych od Ziemi [czyli w naszej
+          Drodze Mlecznej], zaś Wielka Pustka to jeden z obiektów najdalej od
+          nas oddalonych [miliardy lat świetlnych]. Mowa tu jednak tylko o
+          kierunku patrzenia [a nie: „znajdujący się tam”]: wszechświat jest [w
+          miarę] przeźroczysty, trzeba więc sobie wyobrazić, że jeśli popatrzymy
+          w tamtym kierunku, to dopiero miliardy–miliardy razy dalej [niż
+          Erydan] jest owa w/w Wielka Pustka. Mam nadzieję, że wyraziłem to
+          jasno?;<br></br>
+          [24] Mon tire-bouchon! (fr.) – Mój trybuszon [korkociąg]!;<br></br>
+          [25] Sens publicznych spowiedzi w naszej sekcie wyjaśniam gdzie
+          indziej. Należy jednak wiedzieć, że w roli spowiednika może wystąpić
+          dowolna osoba, każdorazowo w masce innej osoby, znanej publicznie,
+          bądź nawet własnej, a prawo rejestracji imprezy ma tylko organizator.
+          [W tym wypadku są to: 1. tekst spisany z nagrań magnetofonowych, 2.
+          zdjęcia kilku masek, 3. dzwonek czarnodziurski z gliny, zaprojektowany
+          i wypalony przez Janusza Elisa Kowalskiego]. Do upowszechnienia
+          całości lub fragmentu spowiedzi potrzebna jest zgoda penitenta, jak
+          też osób, które biorą czynny udział w imprezie [jako spowiednicy];
+          <br></br>
+          [26] Dlatego [zanim nawiążemy z nim kontakt] przepraszam p. A. R.
+          Minkkinena, że publikuję wypowiedzi tej nieznanej osoby, która na ów
+          czas przybrała jego oblicze [a dotyczy to także p. Jerzego Olka, który
+          występuje w innej części utworu [sekta poszukuje kontaktu z p. J.
+          Olkiem!]; co zaś do innych uczestników uroczystości, to wszyscy
+          wyrazili zgodę na użycie ich wypowiedzi, które wszakże też zostały
+          wyrażone nie ich ustami [za co bardzo dziękuję];<br></br>
+          [27] Gdy pisałem początek tej historii (w pierwszym roku trzeciego
+          tysiąclecia), ilość psich odchodów na ulicach Paryża była znacznie
+          większa niż obecnie. Pod wieloma względami Paryż podupadł w ciągu
+          minionych dwudziestu lat, ale jeśli chodzi o <i>la merde</i>, można
+          mówić o wielkim postępie (liczne szalety publiczne, bezpłatne i
+          utrzymane w czystości)! – 17 VI 2020 [Pierwszy przypis do powieści
+          „Słońce smoków” – zrobiony in statu nascendi];<br></br>
+          [28] [Nasz pryncypał do nas wszystkich zwraca się per wasza wysokość],
+          ale gdy tak zażartował, poczułem się głupio, jakbym to ja sam był
+          przyłapany in flagranti na doświadczaniu przyjemności naszego
+          biblijnego przodka Onana [i nie tylko przecież jego]!;<br></br>
+          [29] W Polsce, jeśli się coś powie i od razu pożałuje tego, trzeba jak
+          najprędzej postukać palcem w niemalowane drewno – wtedy sens
+          wypowiedziany przestaje kusić los! Ten zwyczaj przestrzegany ze
+          szczerością skutkuje zawsze jak najlepsze zaklęcie! – 9 IV 2021.
+          [Przypis stworzony in statu nascendi dla powieści „Słońce smoków”.
+          Czerwona góra to francuska nazwa miejscowości, w której wtedy
+          mieszkałem: Montrouge];<br></br>
+          [30] Ten skrót kojarzy się z fryzurą kobiecą, ale używam go bardziej
+          ze względu na pamięć naszych ówczesnych rozmów w kręgu sekty, gdzie
+          używaliśmy go w sensie technicznym: „kobieta z kokiem” oznaczało, że
+          jest ona świadoma, w którym momencie jest wewnętrznie gotowa do
+          seksualnego kontaktu. – 10 X 2021. [J. w.];<br></br>
+          [31] Żółty Kieł był zdeklarowanym członkiem naszej sekty przez cały
+          czas swego pobytu w Paryżu jako „emigrant ekonomiczny”. Mieszkał w
+          naszej komunie, ale pracował na „swoich” budowach. Nie pamiętam, żeby
+          skarżył się na los, oprócz tego jednego tylko razu [mówił gwarą, choć
+          nie spod Przemyśla, skąd pochodził]: „Oni mje nazywajum Żółty Kieł!…
+          Nó, ali, pani Rómani, czy mję się ópłaca kupować szczuteczkię dó
+          jidnegu zębu?” – zapytał, a ja przyznałem mu rację. Gdy zjeżdżał do
+          kraju, nakazałem mu nie przyznawać się w swojej wsi, że należy do
+          „kociej wiary”, a on za tę radę mi podziękował;<br></br>
+          [32] Baydała Oszczecirski, „Świadomość kosmiczna (1)”,{" "}
+          <i>Teczka (pismo społeczno-kulturalne)</i>, nr 14, Paryż 1998. [W
+          skrócie naszego ośrodka – EROS – zawsze dla żartu przestawialiśmy
+          kolejność liter, ale nigdy nikt się nie zorientował];<br></br>
+          [33] Jarosław Mikołajewski [Facebook, 4 XI 2022]. Autor posta jest
+          radiowcem, poetą i tłumaczem z języka włoskiego. Niedawno ukazało się
+          jego pierwsze tłumaczenie prozą na język polski „Boskiej Komedii” A.
+          Dantego;<br></br>
+          [34] Tadeusz Piekło (1936–2007), poeta, dziennikarz, krytyk. Cytowany
+          fragment pochodzi z wiersza „ul. Katedralna” [z cyklu „Ulice
+          przemyskie”]. Drugi cytat [czyli nowa nazwa kina] pochodzi z wiersza,
+          którego tytułu nie udało mi się dotychczas ustalić;<br></br>
+          [35] „Boską Komedię” [mającą też tytuł „Bo nigdy dość się nie umiera”]
+          pisałem w 2015 r., czyli już wtedy prorokowałem, że wieczności są
+          liczne, co potwierdził niebawem fizyk R. Penrose, za co dostał Nagrodę
+          Nobla [w 2020 r.];<br></br>
+          [36] Przerwałem pisanie „Bo nigdy dość się nie umiera” na wieść, że
+          populistyczna partia wygrała wybory prezydenckie [2015], czekałem już
+          tylko na najgorsze. Spodziewałem się, że w każdym mieście polskim
+          stanie na rynku gilotyna [„bo co Francuz wymyśli, to Polak polubi” [a
+          Polska jest około 200 lat za Francją]]. Tymczasem nic podobnego nie
+          nastąpiło, zdemontowano tylko organy władzy pochodzenia
+          demokratycznego i wzmocniono religię państwową, czyniąc z kleru
+          najwyższą klasę społeczną. Ponieważ w pisaniu byłem już w przyszłości,
+          nie umiałem wybrnąć z sytuacji, bo wcześniej opisałem pierwszą
+          dekapitację z woli nowego prezydenta [i rzecz ogłosiłem w gazecie
+          naszej sekty [która już się nie ukazuje]]. Nie skazałem na śmierć
+          Donalda Tuska, który pełnił wówczas urząd szefa UE, bo był on poza
+          zasięgiem tej władzy, lecz najbardziej interesującego z ich wrogów,
+          Janusza P. Przykro mi bardzo, że się pomyliłem i posądziłem populistów
+          o tak niecne zamiary, no i też głupio mi bardzo wobec w/w polityka,
+          którego zawsze widziałem w roli prezydenta RP;<br></br>
+          [37] Polakom nie trzeba tłumaczyć, ale to tak, jakby Francuzom
+          powiedzieć: Rimbaud! Świętość narodowa! O tym, że Mickiewicz na
+          Zachodzie przez znawców poezji nazywany jest Naśladowcą Szatana,
+          przeciętny Polak nie wie [nazwał go tak hrabia de Lautreamont (Isidore
+          Ducasse)]. Gdy Mickiewicz zmarł, Rimbaud miał rok, miesiąc i tydzień;
+          <br></br>
+          [38] Aleksander Fredro (1793–1876), ur. w Surochowie [sioło między
+          Jarosławiem a Przemyślem], zmarł we Lwowie. Wspomniana XIII księga
+          „Pana Tadeusza”, domniemanego autorstwa Fredry, jest znana wszystkim
+          Polakom, a zwłaszcza młodzieży, łaknącej wiedzy na temat życia
+          seksualnego, gdyż nawet sens słów „rozkosz”, „orgazm” itp. szkolnictwo
+          polskie ukrywa przed dziećmi, twierdząc, że są to doznania z kręgu
+          patologii. W naszej sekcie trwają nieustanne modły o rozum polskich
+          władz!; <br></br>
+          [39] Z Eliota;
+        </p>
       </div>
     </div>
   );

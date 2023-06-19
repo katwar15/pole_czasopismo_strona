@@ -49,7 +49,9 @@ const LisRecenzja = () => {
         <p className="h2_wstep">
           Ewa Jarocka, „Zapalmy moją krew”, Wydawnictwo Kwadratura, Łódź 2022.
         </p>
-        <img className="img_text" src={jarocka_img}></img>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={jarocka_img}></img>
+        </div>
 
         <p className="h2_wstep">
           Poetce tej można zarzucić, że jej wiersze są trochę rozgadane. Ale
@@ -189,7 +191,10 @@ const LisRecenzja = () => {
           Monika Luque-Kurcz, „Portret Ubu”, Podkarpacki Instytut Książki i
           Marketingu, Rzeszów 2021.
         </p>
-        <img className="img_text" src={ubu_img}></img>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={ubu_img}></img>
+        </div>
+
         <p className="h2_wstep">
           – Drogie dzieci, dziś będziemy się uczyć o czymś, o czym niemożliwe
           jest opowiedzieć własnymi słowami, ani czego nie można streścić, można
@@ -403,7 +408,9 @@ const LisRecenzja = () => {
           Józef Kurylak, „Wojna tajemnic”, Wydawnictwo Nowy Świat, Warszawa
           2002.
         </p>
-        <img className="img_text" src={kurylak_img}></img>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={kurylak_img}></img>
+        </div>
 
         <p className="h2_wstep">
           W lecie 1940 roku w Drohobyczu Józef Kurylak siedział raz w kawiarni

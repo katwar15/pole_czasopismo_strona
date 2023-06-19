@@ -57,6 +57,19 @@
   padding-bottom: 3vh;
 }
 
+.content_photo {
+  display: flex;
+  justify-content: center;
+  padding-top: 1vh;
+  padding-bottom: 3vh;
+}
+
+.img_text_recenzje {
+  padding-top: 3vh;
+  padding-bottom: 1vh;
+  width: 50%;
+}
+
 .content_padding {
   display: flex;
   flex-direction: column;
@@ -95,6 +108,16 @@
   font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: justify;
+  line-height: 1.5;
+  text-indent: 3vh;
+  padding: 0;
+}
+
+.h2_wstep_center {
+  font-size: 1.25rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: center;
   line-height: 1.5;
   text-indent: 3vh;
   padding: 0;
@@ -222,7 +245,9 @@
   .h2_podpis,
   .h2_non_indent,
   .h2_left_bez,
-  .h2_non_justify {
+  .h2_non_justify,
+  .h2_wstep_right,
+  .h2_wstep_center {
     font-size: 0.85rem;
     line-height: 1.5;
   }

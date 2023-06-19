@@ -10,7 +10,6 @@ const Ptaszyk = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">[Kącik Wiesi (1)]</h2>
         <h1 className="h1_wstep_autor">Wiesława Ptaszyk</h1>
         <h2 className="h1_wstep">O świniobiciu i pewnej niesubordynacji</h2>
       </div>

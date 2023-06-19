@@ -221,9 +221,13 @@ const Bozek = () => {
           Po końcowych wersach, które przytaczam z dokładnością co do światła
           między wersami:
         </p>
-        <p className="h2_wstep">
+        <p className="h2_left_bez">
+          <i>Co było pierwsze: jajko czy kura?</i>
+        </p>
+
+        <p className="h2_left_bez">
           <i>
-            Co było pierwsze: jajko czy kura?<br></br> Bądź wola twoja,<br></br>
+            Bądź wola twoja,<br></br>
             Jajko w niebie, tak i na ziemi<br></br> A na koniec powiedziała
             „jajko”,
           </i>
@@ -443,11 +447,13 @@ const Bozek = () => {
           rozwikłać lub nie.
         </p>
         <p className="h2_wstep">
-          zadowolona, myślę i spoglądam w oczy zielonopiwne, okolone krótkimi
-          rzęsami i brwiami przyciemnionymi u kosmetyczki, w oczy matki zdrowej,
-          przed operacją, obrażone na to, co wyczynia jedyna córka, dobre
-          dziecko, ale postrzelone. Postrzelona jak dziadowski bicz, mówiła o
-          mnie, kiedy ją zezłościłam. Nigdy mnie nie uderzyła. Chyba że oczami.
+          Tak, mamo, gdybym opisała cię tak, jak opisuje Marcin Wicha swoją
+          matkę, byłabyś zadowolona, myślę i spoglądam w oczy zielonopiwne,
+          okolone krótkimi rzęsami i brwiami przyciemnionymi u kosmetyczki, w
+          oczy matki zdrowej, przed operacją, obrażone na to, co wyczynia jedyna
+          córka, dobre dziecko, ale postrzelone. Postrzelona jak dziadowski
+          bicz, mówiła o mnie, kiedy ją zezłościłam. Nigdy mnie nie uderzyła.
+          Chyba że oczami.
         </p>
         <p className="h2_wstep">
           Mamo, kim dla ciebie jestem? Człowiekiem czy ziarnkiem zboża? Którą
@@ -465,12 +471,11 @@ const Bozek = () => {
             wielkości, tylko o przetrwaniu, to znaczy o tym, co najbardziej
             doczesne i najbliższe ciału, a przez opuszczone punkty graniczne
             przenikali obcy – wirusy, bakterie – i przejmowali rządy.<br></br>{" "}
-            Pod koniec codziennie przed południem robiłam jej zastrzyk.
+            Pod koniec codziennie przed południem robiłam jej zastrzyk.<br></br>
+            – A kto pani płaci? – interesowała się. – Rodzina?
           </i>
         </p>
-        <p className="h2_wstep">
-          <i>– A kto pani płaci? – interesowała się. – Rodzina?</i>
-        </p>
+
         <p className="h2_wstep">
           O rękach suwających po ceracie i usiłujących złożyć koc, o dziwnych
           formach, które przy tym powstają, nic Tulli nie pisze. A szkoda, bo by

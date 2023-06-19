@@ -371,8 +371,6 @@ const Krajewski = () => {
           autorskim ujęciem sacrum pozbawionym religijnego rdzenia.
         </h2>
 
-        <h2 className="h2_podpis">Siedlików, w sierpniu 1987 r.</h2>
-
         <p className="h2_non_justify ">
           1 Michel Leiris, „Sacrum w życiu codziennym”, przeł. Joanna Pawelczyk,
           w: Konteksty. Polska Sztuka Ludowa, nr 3-4/2007, s. 29.

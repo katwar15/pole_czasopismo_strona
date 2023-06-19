@@ -10,7 +10,6 @@ const Wiszniewska = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">[Zaułek bez-troski (1)]</h2>
         <h1 className="h1_wstep_autor">Irena Wiszniewska</h1>
       </div>
 

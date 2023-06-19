@@ -21,10 +21,11 @@ const Wstep = () => {
           słowa księgi – <i>Na początku stworzył Pan niebo i ziemię</i> – to
           zaledwie tytuł rozdziału, wcale nie początek opowieści, lecz tylko
           opis jej treści. Punkt wyjścia przedstawiony jest tutaj, to są
-          pierwsze słowa: <i>Na początku stworzył Pan niebo i ziemię</i>.
-          Dopiero wtedy – kiedy? – ów <i>duch</i>, co <i>unosił się</i> cały
-          czas <i>nad wodami</i>, podjął decyzję – w końcu – by nadać porządek
-          owej materii bez kształtu, i zaczął, tak się złożyło, od światła.
+          pierwsze słowa:
+          <i> Ziemia była męt i zamęt, ciemno było nad odmętem</i>. Dopiero
+          wtedy – kiedy? – ów <i>duch</i>, co <i>unosił się</i> cały czas{" "}
+          <i>nad wodami</i>, podjął decyzję – w końcu – by nadać porządek owej
+          materii bez kształtu, i zaczął, tak się złożyło, od światła.
         </h2>
         <h2 className="h2_wstep">
           Dlatego warto mieć na względzie, że cofnięcie dzieła stworzenia jakimś
@@ -33,6 +34,8 @@ const Wstep = () => {
           się nie stało, ale wciąż może stać się wszystko, nawet światło, góra i
           gołąb, tak dla przykładu.
         </h2>
+        <hr className="hr_line"></hr>
+
         <h2 className="h2_wstep">
           Tu leży <i>Pole</i>.
         </h2>
@@ -66,6 +69,8 @@ const Wstep = () => {
           najróżniejszych powodów nie było.
         </h2>
         <h2 className="h2_wstep">Nie wiem, może się znudzimy.</h2>
+        <hr className="hr_line"></hr>
+
         <h2 className="h2_wstep">
           Nie ma jednego przepisu na zrzucenie uzdy, lecz próby wyuzdania
           przyjmują często formę uczynniania zaspałych organów, a nawet
@@ -109,6 +114,8 @@ const Wstep = () => {
           numer zatytułowany „Koniec” nie okaże się proroctwem, o które
           najwyraźniej tak bardzo się prosimy.
         </h2>
+        <hr className="hr_line"></hr>
+
         <h2 className="h2_wstep">
           „Koniec” to nie tyle temat, co postawa. Zapisywanie zdania, całego
           tekstu, całego życia można wyobrazić sobie jako serię decyzji, z
@@ -138,6 +145,8 @@ const Wstep = () => {
           W geście inwersji postanowiliśmy zatańczyć na cmentarzu, a wy zróbcie
           z tym, co chcecie.
         </h2>
+        <hr className="hr_line"></hr>
+
         <h2 className="h2_wstep">
           <i>Pole</i> z góry przeprasza osoby, które by mogły poczuć się urażone
           treściami obecnymi w tym piśmie. Będzie to tylko i wyłącznie

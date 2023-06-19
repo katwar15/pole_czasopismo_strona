@@ -21,8 +21,9 @@ const Skalski = () => {
           <i>Mały Format </i>
           zaplanowało numer poświęcony Berezie. Do planowanego numeru wysłał
           tekst Donat Kirsch. Bereza cenił był Kirscha. Kirsch ceni Berezę.
-          <br></br> Tu kończy się uwertura, zaczyna się, powiedzmy, coś na
-          kształt fugi.
+        </p>
+        <p className="h2_wstep">
+          Tu kończy się uwertura, zaczyna się, powiedzmy, coś na kształt fugi.
         </p>
         <h2 className="h1_wstep">2</h2>
         <p className="h2_wstep">

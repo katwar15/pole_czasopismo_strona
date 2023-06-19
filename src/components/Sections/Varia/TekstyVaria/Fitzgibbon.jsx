@@ -10,11 +10,11 @@ const Fitzgibbon = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
+        <h1 className="h1_wstep_autor">Gerald Fitzgibbon</h1>
         <h2 className="h1_wstep">[Listy do Pana Dyrektora (1)]</h2>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h2_wstep_right">31/10/2022</h2>
         <h2 className="h2_non_indent">
           155 Makowska<br></br> 31/10/2022<br></br> 02.566 Warszawa
         </h2>
