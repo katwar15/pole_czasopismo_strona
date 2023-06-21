@@ -16,7 +16,7 @@ const Bozek = () => {
       <div className="content_wstep">
         <h2 className="h2_wstep_center">Dzienniki opiekunki (1)</h2>
 
-        <h2 className="h1_wstep">Matka patrzy</h2>
+        <h2 className="h1_wstep_tytul">Matka patrzy</h2>
 
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">

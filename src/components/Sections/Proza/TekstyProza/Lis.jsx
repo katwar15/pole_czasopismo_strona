@@ -27,7 +27,7 @@ const Lis = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           Żołnierz strzegący mrowiska koło Ustrzyk Górnych
         </h2>
         <h3 className="h1_wstep">(wspomnienie)</h3>

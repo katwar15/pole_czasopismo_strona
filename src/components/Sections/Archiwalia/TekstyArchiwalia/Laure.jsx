@@ -14,7 +14,7 @@ const Laure = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Sacrum </h2>
+        <h2 className="h1_wstep_tytul">Sacrum </h2>
         <h3 className="h3_wstep">przełożył Łukasz Krajewski </h3>
         <p className="h2_wstep">
           <i>

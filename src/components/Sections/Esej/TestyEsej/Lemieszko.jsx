@@ -14,7 +14,7 @@ const Lemieszko = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           W swoją stronę:<br></br>(wy)piski z dziennika
         </h2>
         <h2 className="h2_podpis">

@@ -14,7 +14,7 @@ const Waldemar = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           [<i>Wracam na Iwicką</i>]
         </h2>
         <p className="h2_wstep">

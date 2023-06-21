@@ -14,7 +14,7 @@ const Marianna = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           My, z Siedlikowa Ślęki (fragment wspomnień)
         </h2>
         <h2 className="h2_wstep">

@@ -14,7 +14,7 @@ const Krajewski = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           Od etnografki dzieciństwa do galerniczki wrażliwości: historia Laure
         </h2>
         <h2 className="h2_wstep">

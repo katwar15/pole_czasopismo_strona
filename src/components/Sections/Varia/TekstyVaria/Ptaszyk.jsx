@@ -14,7 +14,9 @@ const Ptaszyk = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">O świniobiciu i pewnej niesubordynacji</h2>
+        <h2 className="h1_wstep_tytul">
+          O świniobiciu i pewnej niesubordynacji
+        </h2>
 
         <h2 className="h2_wstep">
           Zaraz po Świętym Marcinie przychodziła pora na świniaka. Niczego

@@ -14,7 +14,7 @@ const Kolodziejek = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Patroni</h2>
+        <h2 className="h1_wstep_tytul">Patroni</h2>
 
         <p className="h2_wstep">
           Pierwsze zimno i mgły pojawiały się w dolinach zazwyczaj tuż przed

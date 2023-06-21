@@ -15,7 +15,7 @@ const WiedemannSzumlewicz = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Pierwsze drzwi na lewo</h2>
+        <h2 className="h1_wstep_tytul">Pierwsze drzwi na lewo</h2>
 
         <h2 className="h2_wstep">
           Śniła mi się historia, będąca częścią większej historii, w której sam
@@ -45,7 +45,7 @@ const WiedemannSzumlewicz = () => {
         </h2>
         <div className="content">
           <h1 className="h1_wstep_autor">Katarzyna Szumlewicz</h1>
-          <h2 className="h1_wstep">Krokusy</h2>
+          <h2 className="h1_wstep_tytul">Krokusy</h2>
         </div>
         <h2 className="h2_wstep">
           Śniło mi się, że jestem w górach, topnieje śnieg, jest zimno. Wokół

@@ -13,7 +13,7 @@ const Pyzik = () => {
         <h1 className="h1_wstep_autor">Agata Pyzik</h1>
       </div>
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           Koniec romansu.<br></br> Komunizm, seks i melancholia w dzienniku
           Annie Ernaux
         </h2>

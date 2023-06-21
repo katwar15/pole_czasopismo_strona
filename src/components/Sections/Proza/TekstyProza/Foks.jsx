@@ -15,7 +15,7 @@ const Foks = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Jak naprostować węża przed zimą</h2>
+        <h2 className="h1_wstep_tytul">Jak naprostować węża przed zimą</h2>
 
         <img className="img_text" src={foks_img}></img>
         <h2 className="h2_podpis_img">fot. Darek Foks</h2>

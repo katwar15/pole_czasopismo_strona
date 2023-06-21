@@ -14,7 +14,7 @@ const Rusin = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Krach mitu Europy Środkowej?</h2>
+        <h2 className="h1_wstep_tytul">Krach mitu Europy Środkowej?</h2>
 
         <p className="h2_wstep">
           Czy są jeszcze Czesi, ci Czesi, którzy dla polskich inteligentów (być

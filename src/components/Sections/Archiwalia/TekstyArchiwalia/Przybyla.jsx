@@ -14,7 +14,7 @@ const Przybyla = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Pani na morgach</h2>
+        <h2 className="h1_wstep_tytul">Pani na morgach</h2>
         <h3 className="h3_wstep">
           Marianna ze Ślęków Pilotowa, „My, z Siedlikowa Ślęki. Wspomnienia
           rodzinne”, Oficyna Kulawiak, Warszawa–Ostrzeszów 2022

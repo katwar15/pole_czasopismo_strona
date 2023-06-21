@@ -14,7 +14,7 @@ const Polak = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           Medycyna paliatywna jest mistrzem z Francji
         </h2>
         <h3 className="h3_wstep">

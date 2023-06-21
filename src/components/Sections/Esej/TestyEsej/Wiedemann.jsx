@@ -15,7 +15,7 @@ const Wiedemann = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Majtki i nowa sztuka</h2>
+        <h2 className="h1_wstep_tytul">Majtki i nowa sztuka</h2>
         <h3 className="h3_wstep">
           [z okazji wystawy malarstwa Juliusza Lewandowskiego]
         </h3>

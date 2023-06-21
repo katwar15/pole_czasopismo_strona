@@ -17,7 +17,9 @@ const LisRecenzja = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h2_wstep">Poezja jako superdestylat ducha ludzkości</h2>
+        <h2 className="h1_wstep_tytul">
+          Poezja jako superdestylat ducha ludzkości
+        </h2>
 
         <h2 className="h1_wstep">(I)</h2>
         <h2 className="h1_wstep">1</h2>

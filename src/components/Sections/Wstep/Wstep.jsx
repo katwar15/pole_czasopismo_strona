@@ -14,7 +14,7 @@ const Wstep = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Koniec. Końcówka</h2>
+        <h2 className="h1_wstep_tytul">Koniec. Końcówka</h2>
 
         <h2 className="h2_wstep">
           ...mówić tak, żeby było słychać. Inaczej położony akcent zmienia sens

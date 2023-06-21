@@ -21,7 +21,9 @@ const LeftMenu = () => {
   return (
     <div className="left_menu">
       <div className="left_menu_container">
-        <img src={logo} className="logo"></img>
+        <Link to="/">
+          <img src={logo} className="logo"></img>
+        </Link>
 
         <div className="left_menu_list">
           <ul>

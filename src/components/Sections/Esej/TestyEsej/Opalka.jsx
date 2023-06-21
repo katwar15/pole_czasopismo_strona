@@ -14,7 +14,7 @@ const Opalka = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">
+        <h2 className="h1_wstep_tytul">
           Chuć ukryta za jałowcem.<br></br> O śmiesznych koniach i cnocie
           niewieściej
         </h2>

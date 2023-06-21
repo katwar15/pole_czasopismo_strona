@@ -14,7 +14,7 @@ const Skalski = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep">Początek przejścia do czynu</h2>
+        <h2 className="h1_wstep_tytul">Początek przejścia do czynu</h2>
 
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
