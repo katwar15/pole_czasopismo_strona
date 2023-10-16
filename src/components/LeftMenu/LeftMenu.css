@@ -2,7 +2,7 @@
   display: flex;
   background-color: transparent;
   justify-content: flex-start;
-  width: 20vh;
+  width: 19vh;
   margin-top: 9vh;
   position: absolute;
   z-index: 1;
@@ -31,11 +31,13 @@
 
 .left_menu_item a {
   font-family: "Roboto", serif;
-  font-size: 1.5vh;
+  font-size: 0.75rem;
   font-weight: 400;
+  letter-spacing: 3px;
   text-transform: uppercase;
   color: #000000;
   text-decoration: none;
+  transition: 0.3s;
 }
 
 .left_menu_item a:after {
@@ -43,7 +45,8 @@
 }
 
 .left_menu_item a:hover {
-  color: white;
+  font-size: 0.75rem;
+  font-weight: 900;
 }
 
 @media screen and (max-width: 350px) {

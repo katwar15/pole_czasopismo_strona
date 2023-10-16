@@ -502,7 +502,6 @@ const Waldemar = () => {
           się, że obraz woła i chce mu opowiedzieć historię. Arleta ścisnęła
           mocniej moją dłoń. Kątem oka zobaczyłem spadającą gwiazdę.
         </p>
-        <p className="h2_wstep">– Pomyślałeś sobie życzenie? – spytała. </p>
         <p className="h2_wstep">– Pomyślałeś sobie życzenie? – spytała.</p>
         <p className="h2_wstep">– Tak, chciałbym, żeby Marta... </p>
         <p className="h2_wstep">

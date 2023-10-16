@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../../Wstep/Wstep.css";
 import forward_button from "../../../../assets/forward_button.svg";
+import houellebecq from "../../../../assets/houellebecq.jpg";
 
 const Polak = () => {
   return (
@@ -50,6 +51,9 @@ const Polak = () => {
           reprezentant kultury europejskiej w jej odmianie francuskiej odniesie
           się do powyższego pomysłu z entuzjazmem.
         </h2>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={houellebecq}></img>
+        </div>
         <h2 className="h2_wstep">
           Lepszy niż w „Unicestwianiu” był Houellebecq w „Cząstkach
           elementarnych”, „Uległości”, „Platformie”, „Możliwości wyspy”, o wiele
@@ -162,9 +166,9 @@ const Polak = () => {
           Michela Houellebecqa, ewentualnie o objętym opieką paliatywną Michelu
           Houellebecqu, który konsultuje adaptację własnej powieści z reżyserem
           albo o Michelu Houellebecqu, objętym opieką paliatywną autorze
-          popularnych powieści, m. in. „Unicestwiania”, który po przekroczeniu
-          siedemdziesiątki zapragnął powrócić do matecznika poezji. Możliwości
-          jest wiele, zobaczymy, które się zrealizują.
+          popularnych powieści, między innymi „Unicestwiania”, który po
+          przekroczeniu siedemdziesiątki zapragnął powrócić do matecznika
+          poezji. Możliwości jest wiele, zobaczymy, które się zrealizują.
         </h2>
       </div>
     </div>

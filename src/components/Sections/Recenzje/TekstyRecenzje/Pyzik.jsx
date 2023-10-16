@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../../Wstep/Wstep.css";
 import forward_button from "../../../../assets/forward_button.svg";
+import ernaux from "../../../../assets/ernaux.jpg";
+import getting_lost from "../../../../assets/getting_lost.png";
 
 const Pyzik = () => {
   return (
@@ -37,7 +39,11 @@ const Pyzik = () => {
             ich lubiło przedtem, gdy stali w kolejkach po kiełbasę i książki,
             pozbawieni wszystkiego...
           </i>
-          <br></br>Annie Ernaux, „Lata” <sup>1</sup>.
+          <br></br>Annie Ernaux, „Lata”{" "}
+          <a id="footnote-1-ref" href="#footnote-1">
+            <sup>1</sup>
+          </a>
+          .
         </p>
         <p className="h2_wstep">
           Koniec romansu zbiegający się z końcem komunizmu. Wielka historia
@@ -59,6 +65,9 @@ const Pyzik = () => {
           „romans większy niż życie”, przeżywany przez „postać większą niż
           życie”.
         </p>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={ernaux}></img>
+        </div>
         <p className="h2_wstep">
           Ernaux opisuje to, co najbardziej przyziemne, a jej absolutna
           szczerość, niesentymentalizm, odzieranie języka z metafor, nagie
@@ -133,6 +142,10 @@ const Pyzik = () => {
           koszulę Pierre’a Cardina czy spodnie Benettona jak swego rodzaju
           relikwie, jest całkowicie bezbronny.
         </p>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={getting_lost}></img>
+        </div>
+
         <p className="h2_wstep">
           Ernaux, której się te łupy prezentuje, oczywiście śmieszy jego
           prostolinijność, jednak z litości nie poniża go. Jest już wtedy obytą
@@ -215,7 +228,7 @@ const Pyzik = () => {
           Ernaux od samego początku: przede wszystkim w historii z aborcją
           (Ernaux musiała pozbyć się ciąży nielegalnie w 1963, kiedy karane było
           to więzieniem). W filmie na podstawie opisującej to doświadczenie
-          książki („L’evenement” to powieść z 2000 roku, film, w polskim
+          książki („L’événement” to powieść z 2000 roku, film, w polskim
           tłumaczeniu „Zdarzyło się”, pochodzi z 2021) głównym powodem aborcji
           jest pragnienie ukończenia studiów. Ciąża zniszczyłaby plan Ernaux
           ucieczki ze wsi i uzyskania innego życia niż to jej rodziców, a więc
@@ -257,9 +270,9 @@ const Pyzik = () => {
         </p>
       </div>
       <div className="content_wstep">
-        <p className="h2_non_justify ">
-          [1] Annie Ernaux, „Lata”, tłum. Krzysztof Jarosz i Magdalena
-          Budzińska, Wołowiec 2022, s.164-165.
+        <p className="h2_non_justify" id="footnote-1">
+          <a href="#footnote-1-ref">[1]</a> Annie Ernaux, „Lata”, tłum.
+          Krzysztof Jarosz i Magdalena Budzińska, Wołowiec 2022, s.164-165.
         </p>
       </div>
     </div>

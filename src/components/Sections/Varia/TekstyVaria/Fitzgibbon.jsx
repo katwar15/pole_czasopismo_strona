@@ -10,15 +10,19 @@ const Fitzgibbon = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
+        <h2 className="h2_non_indent">Listy do Pana Dyrektora (1)</h2>
+
         <h1 className="h1_wstep_autor">Gerald Fitzgibbon</h1>
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep_tytul">[Listy do Pana Dyrektora (1)]</h2>
-
-        <h2 className="h2_non_indent">
-          155 Makowska<br></br> 31/10/2022<br></br> 02.566 Warszawa
-        </h2>
+        <div className="wstepdata">
+          <h2 className="h2_non_indent">
+            155 Makowska<br></br> 02.566 Warszawa
+          </h2>
+          <h2 className="h2_non_indent">31/10/2022</h2>
+        </div>
+        <br></br>
         <h2 className="h2_wstep">Szanowny Panie Dyrektorze,</h2>
         <h2 className="h2_wstep">
           Przeprowadiłem do Polski dwa mięsące temu i mam nadzieję, że jak

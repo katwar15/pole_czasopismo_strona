@@ -10,7 +10,7 @@ const Dmitroca = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">[Straszny dziadunio (1)]</h2>
+        <h2 className="h2_non_indent">Straszny dziadunio (1)</h2>
         <h1 className="h1_wstep_autor">Zbigniew Dmitroca</h1>
 
         <div className="content_center">

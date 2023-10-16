@@ -15,10 +15,10 @@ const Kitsch = () => {
         <div className="content_center">
           <h2 className="h1_wstep_padding">Sestyna z dawnych lat</h2>
 
-          <p className="h2_non_indent ">
-            [na oponie w dół lodowca na czczo bez zgrzytów i żadnych wątpliwości
-            pod tęczą!]
-          </p>
+          <h3 className="h3_wstep">
+            [na oponie w dół lodowca na czczo bez zgrzytów<br></br> i żadnych
+            wątpliwości pod tęczą!]
+          </h3>
           <p className="h2_non_indent ">
             Celem naszej wycieczki był lodowiec.<br></br>
             Aby z niego pozjeżdżać, taszczyliśmy ze sobą oponę, <br></br>
@@ -77,17 +77,12 @@ const Kitsch = () => {
             którą spływały oba lodowce. Bryzgi kropel wzbijały tęczę, <br></br>a
             my śmialiśmy się z naszych dawnych wątpliwości. Znów na czczo.
           </p>
-
-          <h2 className="h1_wstep_padding">próba</h2>
-
-          <p className="h2_non_indent "></p>
-
           <h2 className="h1_wstep_padding">pocałunek</h2>
 
           <p className="h2_non_indent ">
             jak trzy świerszcze spod łóżka żołnierza
           </p>
-          <p className="h2_non_indent_right">(sprzątać!!!)</p>
+          <p className="h2_non_indent_right_kitsch">(sprzątać!!!)</p>
           <p className="h2_non_indent ">
             zawsze miej w zanadrzu trzy fałszywe nutki –<br></br>
             to przedłuży ci życie o jeden dzień surrealizmu: <br></br>
@@ -99,7 +94,7 @@ const Kitsch = () => {
             falochronie od deski do deski<br></br>
             przetasował? przewertował? alfabet –
           </p>
-          <p className="h2_non_indent_right">od „s” do „cz”</p>
+          <p className="h2_non_indent_right_kitsch">od „s” do „cz”</p>
           <p className="h2_non_indent ">
             słońce spokojnie dłubie sobie w złotych zębach<br></br>
             słońce jeszcze nas wszystkich dobrze szturchnie! <br></br>
@@ -110,7 +105,6 @@ const Kitsch = () => {
             <br></br>z mordercą po imieniu – przez pomyłkę z mordercą: <br></br>
             przez pomyłkę pocałunek z mordercą
           </p>
-
           <h2 className="h1_wstep_padding">z dżdżemem</h2>
 
           <p className="h2_non_indent ">

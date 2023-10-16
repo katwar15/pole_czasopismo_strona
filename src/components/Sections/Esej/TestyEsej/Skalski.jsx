@@ -33,8 +33,8 @@ const Skalski = () => {
           <i>Mały Format</i>, ażeby przedstawić swój pogląd na losy i
           dziedzictwo tego rodzaju krytyki literackiej, jaką swego czasu
           uprawiał Bereza, ponieważ zaś własną perspektywę rzeczywiście Kirsch
-          miał, toteż napisał tekst i wysłał. Tymczasem Mały Format, choć na
-          pewno uznał, że tekst Kirscha jest na temat, postanowił, że go do
+          miał, toteż napisał tekst i wysłał. Tymczasem <i>Mały Format</i>, choć
+          na pewno uznał, że tekst Kirscha jest na temat, postanowił, że go do
           publikacji nie przyjmie, przypuszczam – może wrócę do tego – z tej
           racji, że okazał się aż za bardzo na temat: kolejny raz sprawdziłaby
           się mądrość nakazująca rozwagę, gdy się o coś prosi, gdyż istnieje
@@ -85,9 +85,9 @@ const Skalski = () => {
           Kirscha-Śnioszka okołoberezowy zbiorek „Eliminacja episteme” ukazał
           się w 2019 roku, powitany przez garść komentarzy, wśród których jeden,
           Macieja Libicha, był krytyczny na tyle, że wzbudził w Kirschu złość
-          zapewne tym większą, że wydrukowała go Twórczość, w dawnych czasach
-          pismo Berezy, dziś pismo żywe dzięki wspomnieniu owych dawnych czasów.
-          Do Twórczości posłał więc Kirsch polemikę z Libichem.
+          zapewne tym większą, że wydrukowała go <i>Twórczość</i>, w dawnych
+          czasach pismo Berezy, dziś pismo żywe dzięki wspomnieniu owych dawnych
+          czasów. Do <i>Twórczości</i> posłał więc Kirsch polemikę z Libichem.
         </p>
         <p className="h2_wstep">
           Już pośpieszna lektura obu tekstów, krytyki i polemiki, ujawnia, jak
@@ -110,7 +110,7 @@ const Skalski = () => {
         <p className="h2_wstep">
           Zresztą, lepiej: Mach w 1977, ale nie trzecia, lecz główna, a trzecia
           w konkursie Czytelnika, lecz w 1975, a mówiąc ściślej, nie tyle
-          trzecia tout court, co trzecia ex aequo.
+          trzecia <i>tout court</i>, co trzecia <i>ex aequo</i>.
         </p>
         <p className="h2_wstep">
           To mam nadzieję już jasne, ale więcej o treści za chwilę, najpierw
@@ -125,16 +125,15 @@ const Skalski = () => {
         </p>
         <p className="h2_wstep">Prawa symetrii żądały podjęcia nowej próby.</p>
         <p className="h2_wstep">
-          Zdawało się, że ta będzie nawet bardziej stosowna, albowiem jeszcze
-          wtedy istniało pismo <i>eleWator</i>, wydawane przez fundację imienia,
-          no właśnie, samego Berezy.
+          Zdawało się, że ta będzie nawet bardziej na miejscu, gdyż chodziło o
+          pismo <i>eleWator</i>, wydawane przez fundację imienia, no właśnie,
+          samego Berezy.
         </p>
         <p className="h2_wstep">
           W odpowiedzi Kirschowi <i>eleWator</i> stwierdził wszakże (jak sam
           Kirsch sprawozdaje), że stosunki z Libichem są mu droższe niż z nim,
           sojusznikiem Berezy, i także tekst odrzucił.
         </p>
-        <p className="h2_wstep">Niedługo potem przestał istnieć.</p>
         <p className="h2_wstep">
           Tym samym tekst Kirscha o losach jego tekstu skrytykowanego przez
           tekst Libicha odrzucony został przez dwa pisma literackie, tym razem
@@ -148,7 +147,7 @@ const Skalski = () => {
           odrzucony przez <i>Mały Format</i> i <i>Blizę</i>, ukazał się już we
           wcześniejszej książce, komentowanej przez Libicha, drugim zaś był
           właśnie tu omawiany komentarz do komentarza Libicha, odrzucony przez
-          <i>Twórczość</i> i <i>eleWatora</i>. Tak powstała jako współprodukt
+          <i> Twórczość</i> i <i>eleWatora</i>. Tak powstała jako współprodukt
           odrzutów „Prounowa eksmisja Henryka Berezy” ukazała się w 2020 roku.
         </p>
         <h2 className="h1_wstep">5</h2>

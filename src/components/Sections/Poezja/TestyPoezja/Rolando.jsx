@@ -73,7 +73,7 @@ const Rolando = () => {
           </p>
 
           <h2 className="h2_podpis">
-            [Wiersze z przygotowywanego tomu „Absyda”]
+            [<i>Wiersze z przygotowywanego tomu „Absyda”</i>]
           </h2>
         </div>
       </div>

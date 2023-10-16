@@ -20,10 +20,9 @@ const Navbar = () => {
         <Link to="/" className="numer_czasopisma">
           <ul>
             <li>
-              <h1>Pole</h1>
-            </li>
-            <li>
-              <h1>Dwumiesięcznik</h1>
+              <h1 className="pole_numer">
+                <b>Pole</b> / <b>Nr </b> 1 / 2023
+              </h1>
             </li>
           </ul>
         </Link>
@@ -32,10 +31,7 @@ const Navbar = () => {
           <Link to="/" className="show_menu_logo">
             <ul>
               <li>
-                <h1>Pole</h1>
-              </li>
-              <li>
-                <h1>Dwumiesięcznik</h1>
+                <h1 className="pole_numer">Pole / Nr 1 / 2023</h1>
               </li>
             </ul>
           </Link>

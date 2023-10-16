@@ -16,9 +16,6 @@ const Foks = () => {
 
       <div className="content_wstep">
         <h2 className="h1_wstep_tytul">Jak naprostować węża przed zimą</h2>
-
-        <img className="img_text" src={foks_img}></img>
-        <h2 className="h2_podpis_img">fot. Darek Foks</h2>
         <p className="h2_wstep">
           Pies pogryzł mi „Hard core” Lindy Williams w najmniej odpowiednim
           momencie, więc zadzwoniłem do Jolki. Ona jedna mnie rozumie i ma
@@ -40,12 +37,15 @@ const Foks = () => {
         <p className="h2_wstep">– Przecież jestem ubrana.</p>
         <p className="h2_wstep">Nie była, ale z nią nie wygrasz.</p>
         <p className="h2_wstep">
-          – Widzę, że koledze udało się przejść bezkolizyjnie przez nasz
+          – Widzę, że koledze udało się przejść bezkolizyjnie przez nasze
           osiedlowe pole literatury.
         </p>
         <p className="h2_wstep">
           – Jola, daj spokój. Dobrze wiesz, że nie ma żadnego pola.
         </p>
+        <img className="img_text" src={foks_img}></img>
+        <h2 className="h2_podpis_img">fot. Darek Foks</h2>
+
         <p className="h2_wstep">– Już zaorane?</p>
         <p className="h2_wstep">– Końcóweczka.</p>
         <p className="h2_wstep">
@@ -252,7 +252,9 @@ const Foks = () => {
           piaskownica, a za nią już tylko Polska.
         </p>
 
-        <h2 className="h2_podpis">[10 września 2022]</h2>
+        <h2 className="h2_non_indent_right">
+          [<i>10 września 2022</i>]
+        </h2>
       </div>
     </div>
   );

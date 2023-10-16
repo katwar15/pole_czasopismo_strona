@@ -10,7 +10,7 @@ const WiedemannSzumlewicz = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">[Sen Adama – Sen Kasi (1)]</h2>
+        <h2 className="h2_non_indent">Sen Adama – Sen Kasi (1)</h2>
         <h1 className="h1_wstep_autor">Adam Wiedemann</h1>
       </div>
 
@@ -51,15 +51,15 @@ const WiedemannSzumlewicz = () => {
           Śniło mi się, że jestem w górach, topnieje śnieg, jest zimno. Wokół
           mnie rosną krokusy i te krokusy to są mężczyźni. Coś do nich mówię i
           jak słoneczniki obracają się w moją stronę. Podchodzi Zuzanna,
-          lesbijka, laska chodząca po górach i nie ma przebacz, i mówi: „ale
-          wiesz że to tropizm? Oni cie nie słuchają”, na co wzruszyłam
+          lesbijka, laska chodząca po górach i nie ma przebacz, i mówi: „Ale
+          wiesz że to tropizm? Oni cię nie słuchają”, na co wzruszyłam
           ramionami. Potem się obudziłam z tego zimna i znów zapadłam w sen.
           Śniło mi się, że rozmawiam z Magdą, to była kiedyś bardzo piękna
           dziewczyna z wypisanym na czole „only toxic partners" – jest taki typ
           dziewczyn, szukają kolesia, który je zniszczy, po czym znajdują i on
           je niszczy. No i ja ją pytam dlaczego mój były mąż mnie z nią zdradzał
           (co nie miało miejsca, był on zbyt mało toksyczny by wzbudzić jej
-          zainteresowanie). A ona mi mówi: „po co mnie wypytujesz, przecież go
+          zainteresowanie). A ona mi mówi: „Po co mnie wypytujesz, przecież go
           nie kochasz".
         </h2>
       </div>

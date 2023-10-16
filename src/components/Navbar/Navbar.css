@@ -27,14 +27,14 @@
   padding: 0;
 }
 
-.numer_czasopisma h1 {
+.pole_numer {
+  font-family: "Roboto", serif;
+  font-size: 0.75rem;
+  font-weight: 400;
+  letter-spacing: 3px;
   text-transform: uppercase;
-  font-family: "Playfair Display", serif;
-  font-weight: 600;
-  line-height: 0.7;
-  padding: 0;
-  margin: 0;
-  font-size: 3vh;
+  color: #000000;
+  text-decoration: none;
 }
 
 .nav_toggle,
@@ -68,21 +68,18 @@
 
 .nav_item a {
   font-family: "Roboto", serif;
-  font-size: 1.75vh;
+  font-size: 0.75rem;
   font-weight: 400;
+  letter-spacing: 3px;
   text-transform: uppercase;
   color: #000000;
   text-decoration: none;
-  box-shadow: inset 0 0 0 0 black;
-  color: black;
-  margin: 0 -0.25rem;
-  padding: 0 0.25rem;
-  transition: color 0.6s ease-in-out, box-shadow 0.6s ease-in-out;
+  transition: 0.3s;
 }
 
 .nav_item a:hover {
-  box-shadow: inset 110px 0 0 0 black;
-  color: white;
+  font-size: 0.75rem;
+  font-weight: 900;
 }
 
 @media (hover: none) {
@@ -132,9 +129,9 @@
     margin: 0;
     bottom: 0;
     text-transform: uppercase;
-    font-family: "Playfair Display", serif;
-    font-weight: 600;
-    font-size: 8vh;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-size: 7vh;
     line-height: 0.7;
     writing-mode: vertical-lr;
   }

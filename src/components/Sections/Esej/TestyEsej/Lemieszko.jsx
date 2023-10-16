@@ -17,7 +17,7 @@ const Lemieszko = () => {
         <h2 className="h1_wstep_tytul">
           W swoją stronę:<br></br>(wy)piski z dziennika
         </h2>
-        <h2 className="h2_podpis">
+        <h2 className="h2_wstep">
           Przekonamy się jeszcze raz, czytając te zapiski - tak, są to raczej
           piski na temat mojego życia. Chciałoby się ponarzekać nad swym życiem
           bez celu, zdaje się jednak, że już z tego wyrosłem - wiem już, że
@@ -28,10 +28,11 @@ const Lemieszko = () => {
           Klucz - coś, co da dostęp do nieodkrytej jeszcze krainy. Przychodzą mi
           na myśl rojenia z okresu, gdy pracowałem na portierni, z kluczami
           miałem tam do czynienia; lubiłem, gdy oddawał je jeden z pracowników,
-          często gdy wychodził jeszcze chwilę gadaliśmy, było to bardzo miłe -
+          często gdy wychodził, jeszcze chwilę gadaliśmy, było to bardzo miłe -
           coś było w jego głosie, co określiłbym także znakiem zapytania, który
           przypisuję również pewnemu poecie.
         </p>
+        <p className="h2_wstep_center">* * *</p>
 
         <p className="h2_wstep">
           Niczego nie zakładam i niczego nie wykluczam, znaczy to chyba: przyjmę
@@ -44,10 +45,12 @@ const Lemieszko = () => {
           pracowałem na monitoringu i która nie miała ręki od łokcia. Nie wiem,
           co ten sen oznacza. Przyszła myśl, że jakoś się od mamy odseparowałem.
           Sen ten powrócił, była to sytuacja, że mama po raz drugi weszła do
-          mojego pokoju i ja ją zapytałem ‘A co ci się stało w rękę?’, mama,
-          nieco oburzona, odrzekła ‘To już od dawna przecież tak mam, a ty teraz
-          dopiero zauważyłeś?’
+          mojego pokoju i ja ją zapytałem „A co ci się stało w rękę?”, mama,
+          nieco oburzona, odrzekła „To już od dawna przecież tak mam, a ty teraz
+          dopiero zauważyłeś?”.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Przez chwilę miałem nieodparte poczucie cierpienia, którego może
           doświadczać znajoma. Gdy spotkałem się z nią w piątek, opowiedziała mi
@@ -61,6 +64,8 @@ const Lemieszko = () => {
           pacjentem, jego przeżyciami, które choć, być może, podobne,
           doświadczane są jako intymne.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Dawno tu nic nie pisałem - trochę się tego pisania boję - boję się
           powtarzalności, negatywnego zaklinania rzeczywistości; powtarzania
@@ -82,14 +87,14 @@ const Lemieszko = () => {
         <p className="h2_wstep">
           Powracająca do mnie metafora - woda łagodząca ogień pożądania, gasząca
           go, kończąca ledwie rozpoczętą znajomość. Takie myśli przyszły do
-          mnie, gdy kolega zaproponował, aby zamiast iść na Człowieka słonia,
-          wybrać się na Martwe wody, miałem odczucie, że nasza znajomość się tu
-          zakończy, tym bardziej, że przyszedł z innym kolegą. Miałem dojmujące
-          uczucie żalu, że nie postawiłem na swoim i nie wybraliśmy Człowieka
-          słonia. Nie żałuję obejrzenia francuskiego filmu, jednak jego tytuł
-          wprost znaczył dla mnie, że moja znajomość z nim doszła do martwego
-          punktu i nie powstanie z niej przyjaźń. Później był nasz rowerowy
-          wypad.
+          mnie, gdy kolega zaproponował, aby zamiast iść na „Człowieka słonia”,
+          wybrać się na „Martwe wody”, miałem odczucie, że nasza znajomość się
+          tu zakończy, tym bardziej, że przyszedł z innym kolegą. Miałem
+          dojmujące uczucie żalu, że nie postawiłem na swoim i nie wybraliśmy
+          „Człowieka słonia”. Nie żałuję obejrzenia francuskiego filmu, jednak
+          jego tytuł wprost znaczył dla mnie, że moja znajomość z nim doszła do
+          martwego punktu i nie powstanie z niej przyjaźń. Później był nasz
+          rowerowy wypad.
         </p>
         <p className="h2_wstep">
           Trochę wcześniej, w radiomaryjnej audycji, której słuchał mój ojciec,
@@ -107,6 +112,8 @@ const Lemieszko = () => {
           Łagodząca woda - chciałem użyć polskiego czasownika zelżeć, lecz
           zupełnie nie mam pojęcia, jaki jest w tym wypadku jego imiesłów.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Niestety nie mam do kogo pisać, przyznam Ci się więc, Andreasie, że
           powtarzalność tejże muzyki najpierw wprawiła mnie w znudzenie, teraz
@@ -116,6 +123,8 @@ const Lemieszko = () => {
           odłożyć do piwnicy, aby otworzyć, podważając wieko nożem i szczerbiąc
           nieco słoik kolejnego roku.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Popołudnie spędziłem dziś przepisując. To był dobry czas, który
           próbuję odtwarzać teraz, pisząc to, co przechodzi przez palce, głowę,
@@ -123,6 +132,8 @@ const Lemieszko = () => {
           <i> nogi, które przebierają w butach do ubrania</i>. A zimowe buty są
           tylko jedne.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Czym jest moja pamięć? To miałyby być zapiski o tym, co napawa mnie
           lękiem przed utratą zakotwiczenia, czegoś, co trzyma mnie na planecie
@@ -142,6 +153,8 @@ const Lemieszko = () => {
           przetłumaczyć papierową pamięć na żelazne wskazówki cyfrowego zegara?
           Czas minął i pozostała tylko pamięć.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           <i>Zeskrobanie</i> wzięło się z odnalezionej podczas pobieżnej lektury
           definicji tego, czym jest palimpsest. W zasadzie ważne w tym strzępku
@@ -150,9 +163,13 @@ const Lemieszko = () => {
           jednocześnie pierwotnie urodzony do pisania, a wszystko to z powodu
           oszczędności, chciałby się powiedzieć, na szczerozłotych słowach.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Czym jest <i>zeskrobana</i> pamięć? Skąpstwem?
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Odwiedzamy kościół św. Mikołaja w Dłużcu. Nie, jakby przypadkiem tam
           trafiamy, prowadzi nas tędy odnaleziony szlak, dukt naszej pieszej
@@ -170,12 +187,16 @@ const Lemieszko = () => {
           wtrętach, naleciałościach tureckich, jak zapamiętuje moja wypaczona
           pamięć.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           I wraca pytanie, <i>czym jest zeskrobana pamięć?</i> Teraz całe już w
           kursywie, jakby nie moje, jakby cytata ta miała napędzić los mego
           pisania, los zeskrobywania, powrotu do łona matki - tak, by wtedy już
           świadomie nie zgodzić się na narodziny.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Przyznam więc, że jestem pamięcią do zeskrobania – cóż, ta brutalna
           metafora domagania się przemocy wobec mnie i mej matki, gdy byłem jej
@@ -189,11 +210,15 @@ const Lemieszko = () => {
           balkonie - jak wiem to bardzo, że zwycięży on kiedyś w konkursie na
           najpiękniejszy zimowy balkon.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Oby ta zima była dobrą, proszę Matkę Bożą Śnieżną - kończę to pisanie
           na dziś, słuchając Gabriela Fauré, jego <i>Cantique de Jean Racine</i>
           .
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Chciałem pisać o tym, że coś jest nie tak z moją pamięcią, jest
           zasupłana. Próbuję sobie przypomnieć nic nie znaczące zakupy, na które
@@ -201,12 +226,14 @@ const Lemieszko = () => {
           konsultował telefonicznie cenę proszku do prania - to wszystko, nie ma
           o czym pisać, jednak ja to pamiętam. Strzępki jakiejś rozmowy, jak
           strzępki spędzonego płodu, tak silnie się w mnie odcisnęły, że nie
-          wiem już co znaczą te słowa. Bez sensu, bez określonego celu, ze
+          wiem już, co znaczą te słowa. Bez sensu, bez określonego celu, ze
           śmiechem, który ma ukryć zawstydzenie. Moczenie prania w proszku przed
           włożeniem go do pralki ma usunąć plamy krwi, plamy rozgniecionych
           pluskiew, do końca zniszczyć możliwość tego, że ktoś nas usłyszy,
           zrozumie, da jakąś nadzieję na dobre, spokojne życie.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Od rana właściwie tworzyliśmy dziś listę zakupów. Cóż, nic pewnie w
           tym dziwnego, jest ona już w dużym stopniu powtórką z powtórki -
@@ -225,6 +252,8 @@ const Lemieszko = () => {
           kawałki. Te kawałki są po prostu głodne, jakby to ujął klasyk. Czas na
           obiad.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Czas po prostu nie istnieje. Jest już powszechnie wiadoma ta
           psychologiczna zależność między umiejętnością odłożenia nagrody na
@@ -235,6 +264,8 @@ const Lemieszko = () => {
           który w ustach, dorosłego czy dziecka, rozpływa się tak samo długo,
           niezależnie kiedy się po niego sięgnie?
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           (...) Tak, takie pospieszne pisanie <i>nie serio</i> mi się marzy.
           Niech no sobie przypomnę, jak kiedyś pisałem ze stoperem w ręku,
@@ -245,10 +276,12 @@ const Lemieszko = () => {
           pewnością wyraża chęć gromadzenia, niekoniecznie jednak ułatwia
           łączenie tych skrawków w całość - jakby z tych wrzuconych do niej
           kości miał zmartwychpowstać pisarz lub pisarka - jak to u Airy:
-          bohater <i>Jak zostałam zakonnicą</i> jest chłopcem, który mówi o
-          sobie w rodzaju żeńskim - nieco dłuższy fragment prawdopodobnego
-          opowiadania czy innego rodzaju próby.
+          bohater „Jak zostałam zakonnicą” jest chłopcem, który mówi o sobie w
+          rodzaju żeńskim - nieco dłuższy fragment prawdopodobnego opowiadania
+          czy innego rodzaju próby.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Dziś, zgodnie z prognozą na komputerze, około dziesiątej zaczął padać
           śnieg. Bardzo lubię ten moment, gdy zbiera się na śnieg i gdy ten się
@@ -259,6 +292,8 @@ const Lemieszko = () => {
           ma być zima w tym roku, nie czytałem dotąd żadnych długoterminowych
           prognoz.
         </p>
+        <p className="h2_wstep_center">* * *</p>
+
         <p className="h2_wstep">
           Po pracy wybrałem się do sklepu skuszony wczoraj obejrzaną papierową
           reklamą - miałem zamiar kupić poduszkę. Oczywiście, gdy już miało

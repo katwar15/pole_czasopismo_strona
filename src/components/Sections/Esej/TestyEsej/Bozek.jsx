@@ -69,7 +69,7 @@ const Bozek = () => {
           nożyczkami do paznokci; krwi, co płynie wartko, zamienia się w rzekę
           przecinającą dolinę niesamowitości, w którą zamienia się sama i
           wszystko, co koło niej; rzeka pochłania dom i nas, dwie nieszczęśnice
-          sczepione ze sobą w mięsno-gliniano- chitynową postać, ni to
+          sczepione ze sobą w mięsno-gliniano-chitynową postać, ni to
           skorupiaka, ni człowieka. Zaciskam zęby, zamykam oczy i w środku
           słyszę tylko swój wrzask: „Kiedy to się skończy?”. Przecież wiem. Ale
           próbuję znaleźć jakąś inną odpowiedź, radę, ulgę, poczucie wspólnoty w
@@ -171,10 +171,10 @@ const Bozek = () => {
           rozum, że była sobą, nawet jak krew tryskała z osłabionych żył, że
           córka kocha ją i pisze o niej tak ślicznie jak moja matka by chciała
           być opisana przeze mnie. A może moja niechęć do tej książki wywodzi
-          się z zazdrości o miłość do 1 1 matki? O bliskość między matką a
-          córką, której ja – odkąd pamiętam zajęta udawaniem przed nią, że jest
-          ze mną lepiej niż jest, że sobie radzę, kiedy sobie nie radziłam –
-          nigdy nie miałam?
+          się z zazdrości o miłość do matki? O bliskość między matką a córką,
+          której ja – odkąd pamiętam zajęta udawaniem przed nią, że jest ze mną
+          lepiej niż jest, że sobie radzę, kiedy sobie nie radziłam – nigdy nie
+          miałam?
         </p>
         <p className="h2_wstep">
           Mirze Marcinów też zazdroszczę od pierwszego zerknięcia na okładkę:
@@ -224,14 +224,10 @@ const Bozek = () => {
           między wersami:
         </p>
         <p className="h2_left_bez">
-          <i>Co było pierwsze: jajko czy kura?</i>
-        </p>
-
-        <p className="h2_left_bez">
+          <i>Co było pierwsze: jajko czy kura?</i> <br></br>
           <i>
-            Bądź wola twoja,<br></br>
-            Jajko w niebie, tak i na ziemi<br></br> A na koniec powiedziała
-            „jajko”,
+            <br></br>Bądź wola twoja, Jajko w niebie, tak i na ziemi<br></br> A
+            na koniec powiedziała „jajko”,
           </i>
         </p>
         <p className="h2_wstep">
@@ -264,13 +260,13 @@ const Bozek = () => {
           sobie tego zażyczyła. Może{" "}
           <i>historia miłości wielkiej i zachłannej </i>
           między matką a córką nie znosi konkurencji (pochodzę z wielodzietnej
-          rodziny i wiem coś o tym). Może Marcinów, wywijając literackie 1 1
-          hołubce przed oczami matki (zobacz mamo jaka jestem fajna, jaka godna
-          miłości i podziwu, a przy tym niegrzeczna jak ty!), wreszcie ma okazję
-          mieć mamę tylko dla siebie? Ja bym chciała matkę oddać innym, niech
-          się nią zajmują ojciec, bracia, opiekunki, pielęgniarki. Nie umiem.
-          Nie jestem człowiekiem, nie jestem kobietą, nie jestem pisarką, nie
-          jestem żoną, jestem tylko ziarnem zasianym przez matkę.
+          rodziny i wiem coś o tym). Może Marcinów, wywijając literackie hołubce
+          przed oczami matki (zobacz mamo jaka jestem fajna, jaka godna miłości
+          i podziwu, a przy tym niegrzeczna jak ty!), wreszcie ma okazję mieć
+          mamę tylko dla siebie? Ja bym chciała matkę oddać innym, niech się nią
+          zajmują ojciec, bracia, opiekunki, pielęgniarki. Nie umiem. Nie jestem
+          człowiekiem, nie jestem kobietą, nie jestem pisarką, nie jestem żoną,
+          jestem tylko ziarnem zasianym przez matkę.
         </p>
         <p className="h2_wstep">
           Oczy matki patrzą na mnie i widzą dobrą córkę, innej przecież nie
@@ -330,18 +326,18 @@ const Bozek = () => {
           zaczynam lekturę.
         </p>
         <p className="h2_wstep">
-          We wstępie Wicha objaśnia: moja matka powiedziała:{" "}
+          We wstępie Wicha objaśnia:{" "}
           <i>
-            „Nie wszystko w życiu da się zamienić na śmieszne historyjki”.
-            Wiedziałem, że to prawda. Mimo to próbowałem
+            moja matka powiedziała: „Nie wszystko w życiu da się zamienić na
+            śmieszne historyjki”. Wiedziałem, że to prawda. Mimo to próbowałem
           </i>
           . Tak obiecał, tak robi. Książka skrzy się i lśni, a wszystko w dobrym
           gatunku, ładne, zabawne, zaskakujące. Anegdota po anegdocie, a każda
           ciekawa, wciągająca, ucząca, a przy tym głęboka i prowadząca gdzieś w
           inne rejony: poważne, metafizyczne, socjologiczne, historyczne,
           polityczne, klasowe, rasowe, warszawskie, polskie, żydowskie,
-          europejskie, ludzkie nawet. Fajerwerki jeden po drugim, 1 1 sztuczne
-          ognie literatury. Dobrze napisane, dobrze się czyta, z przyjemnością i
+          europejskie, ludzkie nawet. Fajerwerki jeden po drugim, sztuczne ognie
+          literatury. Dobrze napisane, dobrze się czyta, z przyjemnością i
           poczuciem, że jest to literatura lekkostrawna, nietłusta, a przy tym
           pożywna, podobna do diety pudełkowej ustalonej przez solidną
           dietetyczkę. Wszystko dobrze przyswajalne, urozmaicone, interesujące,
@@ -420,7 +416,7 @@ const Bozek = () => {
           Świerszczyk, baśnie Andersena i braci Grimm, aparat do wyświetlania
           filmów, który próbowała uruchomić i podarła przy tym rolkę z „Małą
           syrenką”, działo się to na górze, w pokoju dziennym wówczas, który
-          później zamienił się w gościnny, a 1 1 jeszcze później w mój pokój, w
+          później zamienił się w gościnny, a jeszcze później w mój pokój, w
           którym śpię teraz. Jaką baśń lubiła najbardziej? Wolała Andersena czy
           Grimmów? Z niepamięci wynurza się baśń Grimmów o Głupim Jasiu i żywej
           wodzie, i mama zadowolona jak mało kiedy. Było to chyba w latach
@@ -494,7 +490,7 @@ const Bozek = () => {
           przestraszona, że nie wie, kim jest. Na szczęście mojej mamy to nie
           trapi. Lub o tym nie wiem. Co ja zresztą wiem o niej, o tym, kim jest
           teraz? Urodziła się dwa lata i siedem miesięcy po pacyfikacji wsi, 31
-          lipca 1946 roku. „Nieżywe dziecko leżało w stodole” – tak zawsze
+          lipca 1946 roku. Nieżywe dziecko leżało w stodole – tak zawsze
           zaczynała opowieść o Akcji, w której zginęli jej dziadkowie, dwóch
           wujów i 18-letnia córka ciotki, a oprócz nich czterdziestu ośmiu
           mieszkańców wsi, kobiety, mężczyźni, dzieci.
@@ -505,10 +501,10 @@ const Bozek = () => {
           które córka zdradza we „Włoskich szpilkach” na swój zimny,
           przezroczysty i gęsty zarazem sposób. Pisanie Tulli przywodzi na myśl
           „Królową śniegu” i mrożone sorbety, raczej kwaśnawe niż słodkie.
-          Opowiadanie o końcu matki, 1 1 o jej zanikaniu to komnata utkana z
-          płatków śniegu i sopli błyszczących w słońcu. Czytasz i widzisz, jak
-          bycie sobą, osobą z imienia i nazwiska, jak przerażenie: Ja wiem, że
-          jestem człowiekiem, a nie ziarnem zboża, ale czy kura wie? są kruche i
+          Opowiadanie o końcu matki, o jej zanikaniu to komnata utkana z płatków
+          śniegu i sopli błyszczących w słońcu. Czytasz i widzisz, jak bycie
+          sobą, osobą z imienia i nazwiska, jak przerażenie: Ja wiem, że jestem
+          człowiekiem, a nie ziarnem zboża, ale czy kura wie? są kruche i
           pozbawione sensu. A jednocześnie Tulli, jak Królowa Śniegu, uwodzi
           czytelnika wspaniałym osuwaniem się w nic, w coś, czego nie ma. U
           matki chorej na otępienie mózgu nie ma żadnego ciała ani jego funkcji:
@@ -581,7 +577,7 @@ const Bozek = () => {
           załatwi na sedesie, zmiana majtek na pieluchomajtki, fotel przed
           telewizorem, okłady z rumianku na podrażnione oczy, teleturnieje i tvp
           info (ojciec ogląda tylko telewizję prorządową), kisiel na kolację,
-          wózek, łazienka, rozbieranie, 1 1 mycie zębów i twarzy, dźwiganie i
+          wózek, łazienka, rozbieranie, mycie zębów i twarzy, dźwiganie i
           kładzenie do łóżka, a w łóżku krople nawilżające do oczu i balsam na
           spierzchnięte usta.
         </p>

@@ -33,7 +33,28 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 20vh;
+  padding-top: 17vh;
+  padding-bottom: 3vh;
+
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.content_filip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 17vh;
+  padding-bottom: 3vh;
+
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.content_poezja {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   padding-bottom: 3vh;
 
   padding-left: 20%;
@@ -43,7 +64,7 @@
 .content_wstep {
   display: flex;
   flex-direction: column;
-  padding-top: 15vh;
+  padding-top: 12vh;
   padding-bottom: 10vh;
   padding-left: 20%;
   padding-right: 20%;
@@ -64,10 +85,17 @@
   padding-bottom: 3vh;
 }
 
+.content_photo_two {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1vh;
+  padding-bottom: 3vh;
+}
+
 .img_text_recenzje {
   padding-top: 3vh;
   padding-bottom: 1vh;
-  width: 50%;
+  width: 40%;
 }
 
 .content_padding {
@@ -78,10 +106,16 @@
   padding-right: 20%;
 }
 
+.wstepdata {
+  display: flex;
+  justify-content: space-between;
+}
+
 .h1_wstep_autor {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-family: Roboto, sans-serif;
-  font-weight: 400;
+  letter-spacing: 8px;
+  font-weight: 200;
   text-align: center;
   color: white;
   background-color: black;
@@ -91,6 +125,8 @@
 
 .h1_wstep_tytul {
   font-size: 2rem;
+  letter-spacing: 5px;
+  font-weight: 400;
   font-family: "Playfair Display", sans-serif;
   text-align: center;
   color: black;
@@ -98,14 +134,30 @@
 
 .h1_wstep {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   text-align: center;
   color: black;
 }
 
 .h1_wstep_padding {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  color: black;
+  margin-top: 20%;
+}
+
+.h1_wstep_poezja {
+  font-size: 1.25rem;
+  font-family: "Playfair Display", sans-serif;
+  text-align: center;
+  color: black;
+  padding-bottom: 4vh;
+}
+
+.h1_wstep_padding {
+  font-size: 1.25rem;
+  font-family: "Playfair Display", sans-serif;
   text-align: center;
   color: black;
   padding-top: 5vh;
@@ -113,95 +165,126 @@
 
 .h2_wstep {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: justify;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   padding: 0;
+  margin: 0.5vh;
 }
 
 .h2_wstep_center {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   padding: 0;
 }
 
 .h2_wstep_right {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: right;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   padding: 0;
 }
 
-.h3_wstep {
-  font-size: 1rem;
+.h2_wstep_right_italic {
+  font-size: 1.25rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  line-height: 1.7;
+  text-indent: 3vh;
+  padding: 0;
+  font-style: italic;
+}
 
-  font-family: Roboto, sans-serif;
+.h3_wstep {
+  font-size: 1.25rem;
+
+  font-family: "Playfair Display", sans-serif;
   font-weight: 600;
   text-align: center;
-  line-height: 1.5;
-  padding: 0;
+  line-height: 1.7;
+  padding-bottom: 4vh;
 }
 
 .p_wstep {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: center;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   padding: 0;
 }
 
 .h2_non_indent {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: left;
-  line-height: 1.5;
+  line-height: 1.7;
 }
 
 .h2_non_justify {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: justify;
-  line-height: 1.5;
+  line-height: 1.7;
 }
 
 .h2_non_indent_right {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: right;
-  line-height: 1.5;
+  line-height: 1.7;
+}
+
+.h2_non_indent_right_kitsch {
+  font-size: 1.25rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  line-height: 1.7;
+  padding-right: 30%;
 }
 
 .h2_podpis {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: right;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
-  font-style: italic;
   padding-top: 3vh;
+}
+
+.h2_podpis_italic {
+  font-size: 1.15rem;
+  font-family: "Playfair Display", sans-serif;
+  font-weight: 400;
+  text-align: right;
+  line-height: 1.7;
+  text-indent: 3vh;
+  padding-top: 3vh;
+  font-style: italic;
 }
 
 .h2_left {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: left;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   font-style: italic;
   padding-top: 3vh;
@@ -209,22 +292,23 @@
 
 .h2_left_bez {
   font-size: 1.25rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: left;
-  line-height: 1.5;
+  line-height: 1.7;
   font-style: italic;
   padding-top: 3vh;
 }
 
 .h2_podpis_img {
   font-size: 0.9rem;
-  font-family: Roboto, sans-serif;
+  font-family: "Playfair Display", sans-serif;
   font-weight: 400;
   text-align: right;
-  line-height: 1.5;
+  line-height: 1.7;
   text-indent: 3vh;
   padding-top: 1vh;
+  font-style: italic;
 }
 
 .img_text {
@@ -237,6 +321,19 @@
   width: 2vh;
 }
 
+.table {
+  width: 50%;
+}
+
+.table_tr {
+  height: 2vh;
+}
+
+.table_td {
+  height: 2vh;
+  width: 1.5vh;
+}
+
 @media screen and (max-width: 768px) {
   .content_wstep {
     padding-left: 10%;
@@ -244,7 +341,8 @@
   }
 
   .h1_wstep_autor,
-  .h1_wstep {
+  .h1_wstep,
+  .h1_wstep_padding {
     font-size: 1rem;
     padding: 0.5vh 1.5vh;
   }
@@ -255,9 +353,15 @@
   .h2_left_bez,
   .h2_non_justify,
   .h2_wstep_right,
-  .h2_wstep_center {
+  .h2_wstep_center,
+  .h2_non_indent_right,
+  .h2_non_indent_right_kitsch {
     font-size: 0.85rem;
     line-height: 1.5;
+  }
+
+  .h2_podpis_italic {
+    font-size: 0.75rem;
   }
 }
 
@@ -270,5 +374,11 @@
   .h1_wstep_autor {
     font-size: 1rem;
     padding: 0.5vh 1.5vh;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .content_filip {
+    padding-right: 4%;
   }
 }

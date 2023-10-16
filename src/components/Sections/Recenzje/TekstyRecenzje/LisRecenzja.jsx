@@ -20,41 +20,43 @@ const LisRecenzja = () => {
         <h2 className="h1_wstep_tytul">
           Poezja jako superdestylat ducha ludzkości
         </h2>
-
-        <h2 className="h1_wstep">(I)</h2>
+        <h3 className="h3_wstep">(cykl recenzji)</h3>
+        <h2 className="h1_wstep">I. Ewa Jarocka</h2>
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
-          Wstęp (zawsze inny)<br></br> Jeśli kiedyś dokończę ten cykl (są to
-          pierwsze jego słowa), wtedy pokuszę się o wyciągnięcie z
-          zarejestrowanych odkryć (mam nadzieję, że takich dokonam, dlatego
-          właśnie rozpoczynam tę pracę) jakichś ogólniejszych wniosków na temat
-          poezji, o której mam jak najlepsze zdanie od wielu lat. Sam kiedyś też
-          parałem się tworzeniem poezji, ale w końcu uznałem, że muszę zrobić
-          małą przerwę w pisaniu, inaczej mówiąc chyba zwątpiłem w siebie jako
-          poetę i tak minęło kilkadziesiąt lat (jedyną książkę z wierszami
-          wydałem w 1979 r.). Ale czytam poezję całe życie i nawet czasem,
-          bardzo rzadko, pisuję recenzje tomików, jednak uznawano mnie za
-          krytyka bardzo ostrego, więc przestałem dawać się we znaki artystom
-          słowa. Obecnie jednak postanowiłem robić użytek z bieżących lektur
-          tego gatunku piśmiennictwa, czyli zapisywać uwagi na marginesie
-          wpadających mi ręce utworów. Nie myślę ani trochę o esejach, tylko
-          właśnie o przelotnych myślach, które pojawiają się podczas lektury,
-          często są to olśnienia, które gubią się w codzienności, a może
-          wyniknie z nich jakiś konkretny obraz dzisiejszego świata (tak
-          pomyślałem, wprowadzając rzecz w czyn).<br></br>
+          <b>Wstęp (zawsze inny)</b>
+        </p>
+        <p className="h2_wstep">
+          Jeśli kiedyś dokończę ten cykl (są to pierwsze jego słowa), wtedy
+          pokuszę się o wyciągnięcie z zarejestrowanych odkryć (mam nadzieję, że
+          takich dokonam, dlatego właśnie rozpoczynam tę pracę) jakichś
+          ogólniejszych wniosków na temat poezji, o której mam jak najlepsze
+          zdanie od wielu lat. Sam kiedyś też parałem się tworzeniem poezji, ale
+          w końcu uznałem, że muszę zrobić małą przerwę w pisaniu, inaczej
+          mówiąc chyba zwątpiłem w siebie jako poetę i tak minęło kilkadziesiąt
+          lat (jedyną książkę z wierszami wydałem w 1979 r.). Ale czytam poezję
+          całe życie i nawet czasem, bardzo rzadko, pisuję recenzje tomików,
+          jednak uznawano mnie za krytyka bardzo ostrego, więc przestałem dawać
+          się we znaki artystom słowa. Obecnie jednak postanowiłem robić użytek
+          z bieżących lektur tego gatunku piśmiennictwa, czyli zapisywać uwagi
+          na marginesie wpadających mi w ręce utworów. Nie myślę ani trochę o
+          esejach, tylko właśnie o przelotnych myślach, które pojawiają się
+          podczas lektury, często są to olśnienia, które gubią się w
+          codzienności, a może wyniknie z nich jakiś konkretny obraz
+          dzisiejszego świata (tak pomyślałem, wprowadzając rzecz w czyn).
+        </p>
+        <p className="h2_wstep">
           We wstępie będę zawsze podawał jakieś własne mądrości sensu largo (ale
           proszę się nastawić na impresjowatość myśli, zaś wybór autorów to
           przypadek).
         </p>
         <h2 className="h1_wstep">2</h2>
-
         <p className="h2_wstep">
           Ewa Jarocka, „Zapalmy moją krew”, Wydawnictwo Kwadratura, Łódź 2022.
         </p>
         <div className="content_photo">
           <img className="img_text_recenzje" src={jarocka_img}></img>
         </div>
-
         <p className="h2_wstep">
           Poetce tej można zarzucić, że jej wiersze są trochę rozgadane. Ale
           jest to tylko wrażenie, bo okazuje się, że dają się przeczytać do
@@ -80,7 +82,7 @@ const LisRecenzja = () => {
           wykształcona, ale żyjąca wewnętrznie realiami lasów, gleby, kościołów
           i mamą mówiącą, że [ta] córka ma „nierówno pod sufitem”. [Pisarzom
           pochodzącym ze wsi zdarzało się często słyszeć w młodości takie
-          określania pod swym adresem]. Ta „sugestywność” to umiejętność
+          określenia pod swym adresem]. Ta „sugestywność” to umiejętność
           uchwycenia w używanych zdaniach [wyrażeniach – dlatego – poetyckich]
           samej siebie, z którą czytelnik kontaktuje się podczas lektury. Jest
           to zresztą wielka tajemnica twórczości w ogóle: umieć zawrzeć siebie w
@@ -89,7 +91,7 @@ const LisRecenzja = () => {
           poetka mówi z bardzo bliska, bez szamotania się z materią przekazu
           [właśnie słowami]… choć tu zawieszę swój sąd, bo może to być wynik
           albo: 1. mistrzowskiego opanowania własnego warsztatu [i władzy nad
-          słowami], albo: 2. natchnienie młodej i szczerej [nie zepsutej w
+          słowami], albo: 2. natchnienia młodej i szczerej [nie zepsutej w
           sensie rzemiosła] wiary w moc słowa… Ale właśnie dlatego nie ma w tym
           nudy; jakkolwiek jednak od razu wyrażę tu swoją obawę (można ją też
           nazwać nieuchronną konsekwencją): tak nie będzie zawsze! „Stara”
@@ -114,7 +116,6 @@ const LisRecenzja = () => {
           Oto piękne momenty robienia poezji mimochodem w tomiku „Zapalmy moją
           krew” [mimochodem, czyli jakby bez wysiłku, z własnej natury poetki]:
         </p>
-
         <p className="h2_left_bez">
           więc przyjechałam do wioski,<br></br> w której się urodziłam, i
           wąchałam<br></br> deskę z płotu, czy pachnie<br></br> tak samo, a w
@@ -131,12 +132,14 @@ const LisRecenzja = () => {
         </p>
         <p className="h2_non_indent">[z wiersza „oda do bólu”]</p>
         <p className="h2_wstep">
-          Ale nich wystarczą te dwa przykłady, bo zauważyłem też, że wyrwanie
+          Ale niech wystarczą te dwa przykłady, bo zauważyłem też, że wyrwanie
           fragmentu z wiersza Jarockiej zuboża ten wiersz, czyli zastosowanie
           pars pro toto nie jest często w przypadku utworów tej autorki możliwe.
         </p>
         <h2 className="h1_wstep">3</h2>
-        <p className="h2_wstep">Genus irritabile vatum</p>
+        <p className="h2_wstep">
+          <b>Genus irritabile vatum</b>
+        </p>
         <p className="h2_wstep">
           Przepraszam, że to tak mało, ale [publikuję to] dlatego, że znam
           siebie! Gdybym zostawił te kilka zdań, to nie wiem, czy bym do nich
@@ -147,12 +150,11 @@ const LisRecenzja = () => {
           książce!
         </p>
         <p className="h2_podpis">Montrouge, 28 I 2023</p>
-        <hr className="hr_line"></hr>
-        <h2 className="h1_wstep">(IV)</h2>
-
+        <h2 className="h1_wstep">IV. Monika Luque-Kurcz</h2>
         <h2 className="h1_wstep">1</h2>
-
-        <p className="h2_wstep">Wstęp (zawsze inny)</p>
+        <p className="h2_wstep">
+          <b>Wstęp (zawsze inny)</b>
+        </p>
         <p className="h2_wstep">
           Kandydat na poetę powinien przede wszystkim zdać sobie sprawę, że nie
           jest prawdą, że wszystko jest poezją. Poezja w ogóle nie istnieje w
@@ -188,7 +190,6 @@ const LisRecenzja = () => {
           równi jako osoby, a nie jako poeci!
         </p>
         <h2 className="h1_wstep">2</h2>
-
         <p className="h2_wstep">
           Monika Luque-Kurcz, „Portret Ubu”, Podkarpacki Instytut Książki i
           Marketingu, Rzeszów 2021.
@@ -196,7 +197,6 @@ const LisRecenzja = () => {
         <div className="content_photo">
           <img className="img_text_recenzje" src={ubu_img}></img>
         </div>
-
         <p className="h2_wstep">
           – Drogie dzieci, dziś będziemy się uczyć o czymś, o czym niemożliwe
           jest opowiedzieć własnymi słowami, ani czego nie można streścić, można
@@ -290,10 +290,10 @@ const LisRecenzja = () => {
           podłodze, i tak głupiutka jeszcze, że do każdej drzazgi mówiła „mamo”.
           Strach pomyśleć, ale to powinno pozwolić kandydatowi na czytelnika
           poezji zrozumieć, jak delikatna może być natura duchowa poetki. Zdania
-          matka nosiła zimny grysik w piersiach na pewno trudno będzie
+          <i> matka nosiła zimny grysik w piersiach</i> na pewno trudno będzie
           zapomnieć, za jego poetycką (oraz egzystencjalną) niezwykłość. W innym
-          wierszu poetka wyznaje, że w poezji nie znajduje miejsca na wstyd i że
-          sama mogłaby być wierszem:
+          wierszu poetka wyznaje, że w poezji nie znajduje{" "}
+          <i> miejsca na wstyd</i> i że sama mogłaby być wierszem:
         </p>
         <p className="h2_left_bez">
           jeśli kiedyś napiszę wiersz <br></br>
@@ -320,19 +320,20 @@ const LisRecenzja = () => {
           Ropczyc, może wtedy mi się uda).
         </p>
         <h2 className="h1_wstep">3</h2>
-
-        <p className="h2_wstep">Genus irritabile vatum</p>
+        <p className="h2_wstep">
+          <b>Genus irritabile vatum</b>
+        </p>
         <p className="h2_wstep">
           To głupie powtarzać za każdym razem, że tytuł rozdziału znaczy
           „drażliwa rasa wieszczów” i że dwa tysiące lat temu poeta Horacy
           nazywał tak środowisko literackie. Jego „List do Pizonów” należy do
           jednej z trzech tzw. poetyk klasycznych i zawiera rady dla poetów,
           które do dziś nie straciły na aktualności. Mówi np., że słowa w
-          wierszu powinny się sobie dziwić, jakby spotkały się pierwszy raz (co
-          oznacza, że w języku potocznym słowa służą na sposób, którego celem
-          jest raczej informacja, a nie to iskrzenie między nimi, które właśnie
-          nazywamy poezją). W dzisiejszych praktykach poetyckich myśl ta służy w
-          swej formie rozwiniętej, czyli rozumie się, że także związki
+          wierszu <i> powinny się sobie dziwić</i>, jakby spotkały się pierwszy
+          raz (co oznacza, że w języku potocznym słowa służą na sposób, którego
+          celem jest raczej informacja, a nie to iskrzenie między nimi, które
+          właśnie nazywamy poezją). W dzisiejszych praktykach poetyckich myśl ta
+          służy w swej formie rozwiniętej, czyli rozumie się, że także związki
           frazeologiczne powinny się sobie dziwić. Inną radą ponadczasową jest
           tworzenie nowych słów; można to zrozumieć tak, że poeta powinien
           wykorzystać swoje osobnicze doświadczenie do wyrażenia swych
@@ -348,10 +349,11 @@ const LisRecenzja = () => {
           niedaleko od centrum placu Pigalle (patrz ten sam wiersz bez tytułu).
         </p>
         <p className="h2_podpis">Montrouge, 19 II 2023</p>
-        <h2 className="h1_wstep">(VII)</h2>
+        <h2 className="h1_wstep">VII. Józef Kurylak</h2>
         <h2 className="h1_wstep">1</h2>
-
-        <p className="h2_wstep">Wstęp (zawsze inny)</p>
+        <p className="h2_wstep">
+          <b>Wstęp (zawsze inny)</b>
+        </p>
         <p className="h2_wstep">
           Ilość tajemnic w świecie jest nieznana, ale przy operatywności
           dzisiejszych komputerów na pewno by się dało je policzyć i
@@ -374,20 +376,24 @@ const LisRecenzja = () => {
             ograniczenia, dlatego filozof każe nam szukać sensu życia poza
             granicami języka
           </i>
-          1. Wyznam więc tu od razu, że moją nadzieją od co najmniej dwudziestu
+          <a id="footnote_1_lis_recenzja-ref" href="#footnote_1_lis_recenzja">
+            <sup>1</sup>
+          </a>
+          . Wyznam więc tu od razu, że moją nadzieją od co najmniej dwudziestu
           lat jest powstanie szkoły „języka emocyjnego” [na początek szłoby o
           to, aby uczniowie rozumieli proste emocje słodkie, które nauczyciel
           przesyła im bezpośrednio bez słów, jak też rozpoznawali czyjąś złość
           lub rozdrażnienie nawet wtedy, gdy ten ktoś miło się uśmiecha]. [Takie
           „praktyki emocyjne” są od dawna przedmiotem badań specjalistów od
-          empatii i wyższej jej formy, „kumacji” [to nazwa tymczasowa], ale tego
-          wątku nie będę tu rozwijał, to ogólna informacja].
+          empatii i wyższej jej formy, „kumacji” &#123;to nazwa
+          tymczasowa&#125;, ale tego wątku nie będę tu rozwijał, to ogólna
+          informacja].
         </p>
         <p className="h2_wstep">
           Wybór sposobu dokonywania spowiedzi słowami przed uchem ludzkości
           każdy poeta wybiera sam, zależnie od własnych predyspozycji,
           doświadczeń życiowych, oczytania, poczucia rytmu oraz innych cech
-          charakteru własnej osoby. Jeśli by formy wierszy porównać do słoików,
+          charakteru własnej osoby. Jeśliby formy wierszy porównać do słoików,
           to daje się ona zakonserwować w sonetach, dytyrambach, satyrach lub
           stanie wolnym, co poeci osiągają dzięki tym umiejętnościom, które
           sprawiają, że nazywa się ich artystami słowa [umieją panować nad
@@ -405,7 +411,6 @@ const LisRecenzja = () => {
           się sobie spowiadać.
         </p>
         <h2 className="h1_wstep">2</h2>
-
         <p className="h2_wstep">
           Józef Kurylak, „Wojna tajemnic”, Wydawnictwo Nowy Świat, Warszawa
           2002.
@@ -413,7 +418,6 @@ const LisRecenzja = () => {
         <div className="content_photo">
           <img className="img_text_recenzje" src={kurylak_img}></img>
         </div>
-
         <p className="h2_wstep">
           W lecie 1940 roku w Drohobyczu Józef Kurylak siedział raz w kawiarni
           ze swoją matką. Miał sześćdziesiąt lat, a jego matka miała wtedy
@@ -434,7 +438,7 @@ const LisRecenzja = () => {
           Czyżbym zszedł do inferno mego ja? Lecz się wydaje, <br></br>
           że blask wszechświata nie podlega śmierci, <br></br>
           gdyż nie zauważyłem zmian w jego naturze. <br></br>
-          Potężniejsza jest ciemność, <br></br>
+          <br></br>Potężniejsza jest ciemność, <br></br>
           która właściwie nie ma źródła. <br></br>
           Do Ostatecznego celu przeznaczona. <br></br>
         </p>
@@ -460,12 +464,15 @@ const LisRecenzja = () => {
           zatrzymuje się smutny, stary wół: <br></br>
           śmierć sobie swoją wyobraża, <br></br>
           wielką zieloną trumnę, wielki dół. <br></br>
+          <br></br>
           Lub zakonnica, lub powracający<br></br>
           pies bezdomny z beznadziejnej podróży. <br></br>
           Ubrana tam w żałobę biała róża<br></br>
           pociesza go w jesiennym chłodzie nocy. <br></br>
+          <br></br>
           Lub czarny, pusty dziecięcy wózek<br></br>
           nagle podjeżdża i kołysze się, kołysze się<br></br>i znika. <br></br>
+          <br></br>
           Czasem diabeł w postaci dziewczynki tam<br></br>
           zapłacze cicho – aż noc drży. <br></br>I ja się w nocy pod tą bramą
           zjawiam, <br></br>a groby plują na mnie – bom zły. <br></br>
@@ -481,15 +488,15 @@ const LisRecenzja = () => {
           nie słucha sam?” W odpowiedzi wyjaśnia się, że jeśli obaj słuchacze są
           wytrawnymi empatami, to mogą wzajemnie tak podnieść jakość emocji
           słodkich, jakiego nigdy nie osiągnie się w samotności. [Nie mówiąc o
-          koncercie, którego wszyscy słuchacze są empatami [a nawet pamiętam
-          pewien koncert – wprawdzie tylko jazzowy – po którym muzycy
+          koncercie, którego wszyscy słuchacze są empatami &#123;a nawet
+          pamiętam pewien koncert – wprawdzie tylko jazzowy – po którym muzycy
           wypowiadali się między sobą pod adresem publiczności: „Dobrze
-          żarło!”]]. W tym miejscu przepraszam, że nie przestrzegam własnego
-          zapewnienia, że nie będę rozszerzał informacji o szkole emocji, ale
-          uznałem, że ma to jednak bardzo ważny związek z poezją; a poeta ten
-          mógłby w podobnej szkole pracować jako znawca przedmiotu. [Dodam tu
-          jednak jeszcze, że słowa „empatia” nadużywa się obecnie w trochę innym
-          znaczeniu].
+          żarło!”&#125;]. W tym miejscu przepraszam, że nie przestrzegam
+          własnego zapewnienia, że nie będę rozszerzał informacji o szkole
+          emocji, ale uznałem, że ma to jednak bardzo ważny związek z poezją; a
+          poeta ten mógłby w podobnej szkole pracować jako znawca przedmiotu.
+          [Dodam tu jednak jeszcze, że słowa „empatia” nadużywa się obecnie w
+          trochę innym znaczeniu].
         </p>
         <p className="h2_wstep">
           Innym typowym tematem utworów Józefa Kurylaka jest śmierć. W wierszu
@@ -501,13 +508,16 @@ const LisRecenzja = () => {
           Znów na rodzinnej ziemi, znów całuję<br></br>i zjadam tę ziemię jak
           chleb. <br></br>
           Twarz mi pożółkła. <br></br>
+          <br></br>
           Znów ten las mówiący…<br></br>W nim spotykam świnię, <br></br>
           która wspięła się na drzewo<br></br>i nożem mi wygraża, gdyż zabito
           <br></br>
           jej matkę. Oczy ma od łez czerwone. <br></br>
+          <br></br>
           Całuję, zjadam tę ziemię jak chleb, <br></br>
           kompromituję się. <br></br>
           Oni nie rozumieją dźwięku mego dzwonu…<br></br>
+          <br></br>
           Gdyż w mojej ojczyźnie<br></br>
           wszystko obraca się w dowcip<br></br>i w seks. Nawet religia i śmierć.{" "}
           <br></br>
@@ -520,37 +530,44 @@ const LisRecenzja = () => {
           temu Roger Penrose otrzymał Nagrodę Nobla za wykazanie, że w naszym
           wszechświecie istnieją pozostałości z poprzedniej wieczności [trzeba
           tu jednak uwzględnić fakt, że fizycy liczą czas od Wielkiego Wybuchu,
-          gdyż czas przed tym momentem nie istniał [czas jest tylko aspektem
-          materii, której wcześniej nie było, zaś nie wiadomo, czy tę
+          gdyż czas przed tym momentem nie istniał &#123;czas jest tylko
+          aspektem materii, której wcześniej nie było, zaś nie wiadomo, czy tę
           osobliwość, która wybuchła, można na pewno nazwać materią w sensie nam
-          znanym]]; a gdyby się okazało, że jesteśmy dziećmi jeszcze jakiejś
-          starszej wieczności, powinniśmy się MOŻE uznać za NIE BEZ POWODU
-          MAJĄCYCH ROZUM (nazwa podręczna). Jednak tymczasem ta recenzja też
-          nabrała właściwości wybuchu, bo rozlatuje się w różne strony, a
+          znanym&#125;]; a gdyby się okazało, że jesteśmy dziećmi jeszcze
+          jakiejś starszej wieczności, powinniśmy się MOŻE uznać za NIE BEZ
+          POWODU MAJĄCYCH ROZUM (nazwa podręczna). Jednak tymczasem ta recenzja
+          też nabrała właściwości wybuchu, bo rozlatuje się w różne strony, a
           chciałem tylko zwrócić uwagę na czas.
         </p>
         <p className="h2_wstep">
           W świecie Józefa Kurylaka występują elementy fantastyczne, dominuje
           wizja i liryzm. Inny z moich znajomych pisarzy wprowadził osobę poety
           do swego opowiadania, w którym zwierza się on innemu poecie:{" "}
-          <i>Andrzej, ja już cały w wizję wszedłem!</i>2. Przykładowym wierszem
-          w tej materii jest „Chłop i piorun”:
+          <i>Andrzej, ja już cały w wizję wszedłem!</i>
+          <a id="footnote_2_lis_recenzja-ref" href="#footnote_2_lis_recenzja">
+            <sup>2</sup>
+          </a>
+          . Przykładowym wierszem w tej materii jest „Chłop i piorun”:
         </p>
         <p className="h2_left_bez">
           Oto we wiosce chłop oswoił piorun<br></br>i do pługa go swego
           zaprzągł, <br></br>o zmierzchu w drewnianym domu<br></br>
-          spożywają razem kolację. <br></br>W zimie piorun izbę ogrzewa<br></br>
+          spożywają razem kolację. <br></br>
+          <br></br>W zimie piorun izbę ogrzewa<br></br>
           lub przed Obrazem odmawia pacierze<br></br>
           albo dziecko kołysze i śpiewa, <br></br> albo jak pies gospodarstwa
           strzeże. <br></br>
+          <br></br>
           Czasem po niebie wędruje z chłopem<br></br>
           na wysokościach, jak Faust i Diabeł -<br></br>
           aż tam gdzie wieczny panuje niepokój, <br></br>
           aż tam gdzie dobro nie dociera żadne. <br></br>
+          <br></br>
           Coraz częściej piorun wspomina<br></br>
           odczuwając swej duszy boleść: <br></br>
           kiedyś zabił dziecko i dziewczynę, <br></br>
           gdy pod wierzbą schronili się w polu. <br></br>
+          <br></br>
           Wczoraj rozmawiałem z nim w półmroku boru, <br></br>
           gdzie zmarłych myśliwski przywołuje róg: <br></br>
           pytał mnie o wiersz, który jak piorun<br></br>
@@ -577,9 +594,11 @@ const LisRecenzja = () => {
           Skrzypią podłogi szkoły w każdą noc –<br></br>
           to moja umarła matura<br></br>w płaszczu z czarnych świadectw<br></br>
           tak chodzi po klasach, bibliotece, korytarzach, <br></br>
-          ona mi otworzyła bramy życia<br></br>i zamknie je. Matura-widmo.{" "}
+          ona mi otworzyła bramy życia<br></br>i zamknie je. Matura-widmo.
+          <br></br>
           <br></br>I pięknych koleżanek już nie poznam: <br></br>
           zmieniły się w nieznane wielkie miasta. <br></br>
+          <br></br>
           Kochałem bardziej drzewa niż naukę, <br></br>a jednak powinienem
           ucałować<br></br>
           próg szkoły, zanim ucałuję próg śmierci, <br></br>
@@ -602,15 +621,16 @@ const LisRecenzja = () => {
         </p>
         <p className="h2_non_indent">[* * *]</p>
         <h2 className="h1_wstep">3</h2>
-
-        <p className="h2_wstep">Genus irritabile vatum</p>
+        <p className="h2_wstep">
+          <b>Genus irritabile vatum</b>
+        </p>
         <p className="h2_wstep">
           <i>Drażliwa rasa wieszczów</i> [Kwintus Horacjusz Flakkus, 65-8 r.
           p.n.e.] – te słowa usłyszałem pierwszy raz w życiu z ust poety,
           którego tomik tu recenzuję. Było to w maju 1965 r., gdy zamiast do
           szkoły poszedłem na wagary, ponieważ dzień wcześniej ktoś dał mi adres
           Józefa Kurylaka, którego wiersze czytałem często w
-          <i>Nowinach Rzeszowskich</i>. Zawsze chciałem go poznać, uważałem, że
+          <i> Nowinach Rzeszowskich</i>. Zawsze chciałem go poznać, uważałem, że
           pisze genialne wiersze, a ich świeżość zdumiewa mnie do dziś (poeta
           nie chce do nich wracać, ale myślę, że nie zostaną one zapomniane).
           Dzięki temu w krótkim czasie poznałem twórczość poetów współczesnych,
@@ -623,15 +643,18 @@ const LisRecenzja = () => {
           ciemną stronę kosmosu], a przynajmniej w poezji Józefa Kurylaka. Ale
           nie dalej jak trzy dni temu (już w trakcie pisania tego tekstu)
           natknąłem się w internecie na wykład prof. fizyki teoretycznej
-          Krzysztofa Meissnera , na temat ogólnie zbieżny z ciemną materią. Jest
-          powszechnie wiadome, że pewnych rzeczy człowiek nigdy nie pozna
-          (głównie z powodu istnienia horyzontu zdarzeń), ale z wykładu wynika,
-          że są też inne postaci tajemnic, których na drodze fizyki nie da się
-          rozpoznać. Profesor wyciągnął z tego wniosek, że taka niewiedza dobrze
-          nauce robi, ale ja chciałbym tu do tego dodać, że w takim razie w
-          naturze kosmosu tajemnica jest jego częścią składową na zasadzie
-          konieczności [dla istot posiadających zmysły i centralny układ
-          orientacji].
+          Krzysztofa Meissnera
+          <a id="footnote_3_lis_recenzja-ref" href="#footnote_3_lis_recenzja">
+            <sup>3</sup>
+          </a>
+          , na temat ogólnie zbieżny z ciemną materią. Jest powszechnie wiadome,
+          że pewnych rzeczy człowiek nigdy nie pozna (głównie z powodu istnienia
+          horyzontu zdarzeń), ale z wykładu wynika, że są też inne postaci
+          tajemnic, których na drodze fizyki nie da się rozpoznać. Profesor
+          wyciągnął z tego wniosek, że taka niewiedza dobrze nauce robi, ale ja
+          chciałbym tu do tego dodać, że w takim razie w naturze kosmosu
+          tajemnica jest jego częścią składową na zasadzie konieczności [dla
+          istot posiadających zmysły i centralny układ orientacji].
         </p>
         <p className="h2_wstep">
           Tajemnica ciemnej materii jest prawdopodobnie do odkrycia, tak samo do
@@ -646,6 +669,23 @@ const LisRecenzja = () => {
           odium sztywności i powagi!
         </p>
         <p className="h2_podpis">Montrouge, 1 IV 2023</p>
+        <br></br>
+        <p className="h2_non_justify " id="footnote_1_lis_recenzja">
+          <a href="#footnote_1_lis_recenzja-ref">[1]</a> „Stanisław Dłuski,
+          „Władysław Sebyła wobec spraw ostatecznych”, Arcana (nr 169-170),
+          2023”;
+        </p>
+        <p className="h2_non_justify " id="footnote_2_lis_recenzja">
+          <a href="#footnote_2_lis_recenzja-ref">[2]</a> „Adam Wiedemann,
+          „Prawda”, Twórczość (nr 5), 2009. [Cytowałem z pamięci i popełniłem
+          błąd. W oryginale jest: Kurylak się dosiadł do Sosnowskiego i rzekł:
+          Wiesz, Andrzej, ja w mojej poezji już całkiem idę w wizję].”;
+        </p>
+        <p className="h2_non_justify " id="footnote_3_lis_recenzja">
+          <a href="#footnote_3_lis_recenzja-ref">[3]</a> „Krzysztof Meissner,
+          Fizyka i transcendencja. Wykład Mistrzowski, wygłoszony w Wyższym
+          Seminarium Duchownym w Łodzi, 27 III 2023 r.”;
+        </p>
       </div>
     </div>
   );

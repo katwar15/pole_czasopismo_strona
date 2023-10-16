@@ -43,15 +43,28 @@ const Krajewski = () => {
           uniwersalizmu, obiektem swoich refleksji Peignot czyni bowiem
           wyłącznie siebie samą:
           <i>
+            {" "}
             Czym jest dla mnie sacrum? A dokładniej – na czym polega moje
-            sacrum? […] Wydaje się oczywiste, że wszystko, co nas fascynowało w
-            dzieciństwie […] należy zbadać w pierwszej kolejności. Ponieważ ze
-            wszystkich materiałów, którymi możemy dysponować, te pochodzące z
-            dzieciństwa mają szansę być najmniej wyrafinowane
-          </i>{" "}
-          <sup>1</sup>. Francuska poetka stosuje się w swoim tekście do
-          powyższych zaleceń, które jej przyjaciel, Michel Leiris, formułuje w
-          eseju „Sacrum w życiu codziennym”.
+            sacrum?{" "}
+          </i>
+          […]
+          <i>
+            {" "}
+            Wydaje się oczywiste, że wszystko, co nas fascynowało w dzieciństwie{" "}
+          </i>
+          […]
+          <i>
+            {" "}
+            należy zbadać w pierwszej kolejności. Ponieważ ze wszystkich
+            materiałów, którymi możemy dysponować, te pochodzące z dzieciństwa
+            mają szansę być najmniej wyrafinowane
+          </i>
+          <a id="footnote_1_krajewski-ref" href="#footnote_1_krajewski">
+            <sup>1</sup>
+          </a>
+          . Francuska poetka stosuje się w swoim tekście do powyższych zaleceń,
+          które jej przyjaciel, Michel Leiris, formułuje w eseju „Sacrum w życiu
+          codziennym”.
         </h2>
         <h2 className="h2_wstep">
           Do naukowej wykładni tego pojęcia Laure odnosi się nonszalancko, raz
@@ -94,14 +107,15 @@ const Krajewski = () => {
           Bataille – drugi, poza Leirisem, intelektualista, który był dla Laure
           częstym partnerem w dyskusji i wymianie idei, a prywatnie jej
           kochankiem – zaliczyłby je do momentów
-          <i>
-            komunikacji w sensie mocnym […] które rodzą się dzięki wzruszeniom
-            zmysłowości i obrzędowości [...] w dramacie miłości, rozstania i
-            śmierci
-          </i>
-          <sup>2</sup>. I rzeczywiście, dla Laure sacrum pojawia się w chwili
-          kontaktu między osobami połączonymi zażyłą więzią, które nagle
-          konfrontują się z namacalnym ryzykiem jej utraty. Choć ta
+          <i>komunikacji w sensie mocnym</i> […]{" "}
+          <i>które rodzą się dzięki wzruszeniom zmysłowości i obrzędowości</i>{" "}
+          [...] <i>w dramacie miłości, rozstania i śmierci</i>
+          <a id="footnote_2_krajewski-ref" href="#footnote_2_krajewski">
+            <sup>2</sup>
+          </a>
+          . I rzeczywiście, dla Laure sacrum pojawia się w chwili kontaktu
+          między osobami połączonymi zażyłą więzią, które nagle konfrontują się
+          z namacalnym ryzykiem jej utraty. Choć ta
           <i> nieustająca groźba śmierci jest upajającym absolutem</i>, jak
           pisze Peignot, to jednak sama śmierć nie staje się u niej obiektem
           kultu: sacrum powstaje na progu istnienia i niebytu wskutek napięcia
@@ -140,7 +154,10 @@ const Krajewski = () => {
             Przyparta do komody, odpowiedziałam: „Nie – z marmuru, bo jest
             zimniejszy”
           </i>
-          <sup>3</sup>.
+          <a id="footnote_3_krajewski-ref" href="#footnote_3_krajewski">
+            <sup>3</sup>
+          </a>
+          .
         </h2>
         <h2 className="h2_wstep">
           Nic więc dziwnego, że Peignot prędko zaczęła odrzucać katolicyzm,
@@ -151,13 +168,20 @@ const Krajewski = () => {
             Egzystencja tych ludzi była szorstka i krucha, ani lepsza, ani
             gorsza od innych, przyglądając się ich twarzom, dostrzegałam jednak
             bezpośredni sens życia, które nabierało wyjątkowego posmaku, kiedy
-            myślałam o […] mojej matce i kobietach w czerni wychodzących z
-            kościoła, o ich wielkich uczuciach, z których niewiele wynikało.
-            Robotnicy, praczki, burdelmamy potrafiły cieszyć się życiem tak,
-            jakby źródłem radości nie były jedynie rzadkie rozrywki nadpsute
-            lękiem budzącym się na myśl o tym, co przyniesie jutro
+            myślałam o
+          </i>{" "}
+          […]{" "}
+          <i>
+            mojej matce i kobietach w czerni wychodzących z kościoła, o ich
+            wielkich uczuciach, z których niewiele wynikało. Robotnicy, praczki,
+            burdelmamy potrafiły cieszyć się życiem tak, jakby źródłem radości
+            nie były jedynie rzadkie rozrywki nadpsute lękiem budzącym się na
+            myśl o tym, co przyniesie jutro
           </i>
-          <sup>4</sup>.
+          <a id="footnote_4_krajewski-ref" href="#footnote_4_krajewski">
+            <sup>4</sup>
+          </a>
+          .
         </h2>
         <h2 className="h2_wstep">
           Awanturniczą, choć krótką biografię dorosłej Peignot wypełniają
@@ -197,9 +221,12 @@ const Krajewski = () => {
             idzie do końca i rzuca się między rogi, by w odpowiednim momencie
             zadać śmiertelne pchnięcie
           </i>
-          <sup>5</sup>. Jeśli znaczy to tyle, że jego rola polega na aktywnym
-          buncie wymierzonym we współczesne mu społeczeństwo i jego
-          konformistyczne struktury (
+          <a id="footnote_5_krajewski-ref" href="#footnote_5_krajewski">
+            <sup>5</sup>
+          </a>
+          . Jeśli znaczy to tyle, że jego rola polega na aktywnym buncie
+          wymierzonym we współczesne mu społeczeństwo i jego konformistyczne
+          struktury (
           <i>
             ciągłość form, ciągłość zewnętrznych okoliczności, które nie
             odzwierciedlają prawdy bytu lub przestały ją odzwierciedlać
@@ -209,7 +236,10 @@ const Krajewski = () => {
           tym względem przypomina hołubionego zresztą przez nią Rimbauda, który
           rzuca wyzwanie swojej epoce, ogłaszając:
           <i> moje oczy zamknięte są na wasze światło</i>
-          <sup>6</sup>. Francuska autorka także przedkłada romantyzm obłędu nad
+          <a id="footnote_6_krajewski-ref" href="#footnote_6_krajewski">
+            <sup>6</sup>
+          </a>
+          . Francuska autorka także przedkłada romantyzm obłędu nad
           bezpieczeństwo płynące z uległości wobec skompromitowanego w jej
           oczach społecznego porządku (
           <i>
@@ -240,37 +270,51 @@ const Krajewski = () => {
           jej własne teksty. Z wypowiedzi mężczyzn, którzy byli jej bliscy,
           trudno wydobyć rzeczowe informacje dotyczące jej zainteresowań
           intelektualnych, pasji ideologicznych czy głównych inspiracji w
-          zakresie poezji <sup>7</sup>. Nie znajdziemy ich nawet u Bataille’a,
-          jej kochanka, z którym spędziła ostatnie lata swojego życia. Owszem, w
-          wielu miejscach pisze on o Peignot z afektacją i wzruszeniem, ale choć
-          jego wypowiedzi są pełne życzliwości, ostatecznie układają się raczej
-          w sentymentalny panegiryk. Symptomatycznym przykładem tego uwielbienia
-          jest powieść „Błękit nieba”, w której Laure, sportretowana pod
-          wymownym pseudonimem Dirty, odgrywa rolę libertyńskiej muzy narratora,
-          który opłakuje kres ich romansu. Porte-parole Bataille’a rozpamiętuje
-          transgresje, jakich dokonywał wspólnie ze swoją kochanką, a
-          powierniczką jego żali jest kobieta nosząca równie mało subtelnie
-          dobrane imię – Lazare – która
+          zakresie poezji
+          <a id="footnote_7_krajewski-ref" href="#footnote_7_krajewski">
+            <sup>7</sup>
+          </a>
+          . Nie znajdziemy ich nawet u Bataille’a, jej kochanka, z którym
+          spędziła ostatnie lata swojego życia. Owszem, w wielu miejscach pisze
+          on o Peignot z afektacją i wzruszeniem, ale choć jego wypowiedzi są
+          pełne życzliwości, ostatecznie układają się raczej w sentymentalny
+          panegiryk. Symptomatycznym przykładem tego uwielbienia jest powieść
+          „Błękit nieba”, w której Laure, sportretowana pod wymownym pseudonimem
+          Dirty, odgrywa rolę libertyńskiej muzy narratora, który opłakuje kres
+          ich romansu. <i>Porte-parole</i> Bataille’a rozpamiętuje transgresje,
+          jakich dokonywał wspólnie ze swoją kochanką, a powierniczką jego żali
+          jest kobieta nosząca równie mało subtelnie dobrane imię – Lazare –
+          która
           <i>
             {" "}
             w owym czasie była jedyną istotą, która pozwalała mu wyrwać się z
-            przygnębienia, mimo że była […] brzydka i zaniedbana (kobiety, z
-            którymi chodziłem wcześniej, były – przeciwnie – dobrze ubrane i
-            ładne)
-          </i>
-          <sup>8</sup>. Postać ta miała z kolei swój pierwowzór w osobie Simone
-          Weil. Cała trójka z „Błękitu nieba” rzeczywiście się znała, Weil i
-          Peignot przyjaźniły się ze sobą i przez pewien czas regularnie
-          widywały w paryskim bistrze, by prowadzić dyskusje przy lunchu.
+            przygnębienia, mimo że była
+          </i>{" "}
+          […]{" "}
           <i>
+            brzydka i zaniedbana (kobiety, z którymi chodziłem wcześniej, były –
+            przeciwnie – dobrze ubrane i ładne)
+          </i>
+          <a id="footnote_8_krajewski-ref" href="#footnote_8_krajewski">
+            <sup>8</sup>
+          </a>
+          . Postać ta miała z kolei swój pierwowzór w osobie Simone Weil. Cała
+          trójka z „Błękitu nieba” rzeczywiście się znała, Weil i Peignot
+          przyjaźniły się ze sobą i przez pewien czas regularnie widywały w
+          paryskim bistrze, by prowadzić dyskusje przy lunchu.
+          <i>
+            {" "}
             Obie miały niepohamowany apetyt intelektualny, dobre kontakty
             towarzyskie i zainteresowania obejmujące większość dziedzin kultury.
             Obie pisały, dążąc do duchowej transcendencji w warunkach
             ustanowionych przez współczesną im epokę
           </i>
-          <sup>9</sup>, pisze Chris Kraus. Jeśli podobieństwo między ich
-          osobowościami ujmiemy na tyle szeroko – zgoda. Na ile jednak były one
-          sobie faktycznie bliskie w swoich poglądach i fascynacjach?
+          <a id="footnote_9_krajewski-ref" href="#footnote_9_krajewski">
+            <sup>9</sup>
+          </a>
+          , pisze Chris Kraus. Jeśli podobieństwo między ich osobowościami
+          ujmiemy na tyle szeroko – zgoda. Na ile jednak były one sobie
+          faktycznie bliskie w swoich poglądach i fascynacjach?
         </h2>
         <h2 className="h2_wstep">
           Weil dała się poznać jako idiosynkratyczna komunistka: aktywnie
@@ -295,22 +339,30 @@ const Krajewski = () => {
           uczyniła fundamentem swojej doktryny teologiczno-politycznej, o tyle
           dla Laure ciało i podmiotowość były czymś, co z całych sił pragnęła
           wzmacniać i chronić. W jednym z wierszy wyobraża sobie, jak
-          przyjaciele rozszarpują ją na strzępy:{" "}
-          <i>Obecna i niewidzialna […] widziałam, jak dzielą się moim życiem</i>
-          <sup>10</sup>. Utrata własnego Ja nie zostaje tu jednak
-          przypieczętowana, to raczej echo koszmarnych wspomnień Laure, która,
-          przywołując je w „L’histoire d’une petite fille”, pisze zarazem o woli
-          odzyskania swojej tożsamości, w tym ciała, które tak długo{" "}
-          <i>kazano jej ignorować</i>
-          <sup>11</sup>. Dążąc do ukonstytuowania własnego Ja, poetka waha się,
-          czy te próby nie skończą się klęską:{" "}
+          przyjaciele rozszarpują ją na strzępy: <i>Obecna i niewidzialna</i>{" "}
+          […] <i>widziałam, jak dzielą się moim życiem</i>
+          <a id="footnote_10_krajewski-ref" href="#footnote_10_krajewski">
+            <sup>10</sup>
+          </a>
+          . Utrata własnego Ja nie zostaje tu jednak przypieczętowana, to raczej
+          echo koszmarnych wspomnień Laure, która, przywołując je w „L’histoire
+          d’une petite fille”, pisze zarazem o woli odzyskania swojej
+          tożsamości, w tym ciała, które tak długo <i>kazano jej ignorować</i>
+          <a id="footnote_11_krajewski-ref" href="#footnote_11_krajewski">
+            <sup>11</sup>
+          </a>
+          . Dążąc do ukonstytuowania własnego Ja, poetka waha się, czy te próby
+          nie skończą się klęską:{" "}
           <i>
             Czy nigdy nie będę w stanie odcisnąć w rzeczywistości śladu własnej
             woli? Gdy tylko przestaję być sama, przestaję też być sobą, co
             robić? Czy świat zawsze będzie dla mnie tylko źródłem cierpienia, a
             nie czymś, co mogłabym zmienić?
           </i>
-          <sup>12</sup>.
+          <a id="footnote_12_krajewski-ref" href="#footnote_12_krajewski">
+            <sup>12</sup>
+          </a>
+          .
         </h2>
         <h2 className="h2_wstep">
           Wydaje się, że ostatecznie Laure znalazła jednak – no właśnie, co:
@@ -326,7 +378,7 @@ const Krajewski = () => {
           bierze się z tego, że umieszcza je ona poza religijnym kontekstem,
           który gwarantowałby temu pojęciu czytelnie skodyfikowaną wykładnię.
           Wyswobodzone z tego kontekstu nabiera ono widmowego charakteru i staje
-          się, jak pisze francuska poetka,{" "}
+          się, jak pisze francuska poetka,
           <i>stanem nieskończenie rzadko spotykanej łaski</i>.
         </h2>
         <h2 className="h2_wstep">
@@ -371,47 +423,58 @@ const Krajewski = () => {
           autorskim ujęciem sacrum pozbawionym religijnego rdzenia.
         </h2>
 
-        <p className="h2_non_justify ">
-          1 Michel Leiris, „Sacrum w życiu codziennym”, przeł. Joanna Pawelczyk,
-          w: Konteksty. Polska Sztuka Ludowa, nr 3-4/2007, s. 29.
+        <p className="h2_non_justify" id="footnote_1_krajewski">
+          <a href="#footnote_1_krajewski-ref">[1]</a> Michel Leiris, „Sacrum w
+          życiu codziennym”, przeł. Joanna Pawelczyk, w:
+          <i>Konteksty. Polska Sztuka Ludowa</i>, nr 3-4/2007, s. 29.
         </p>
-        <p className="h2_non_justify ">
-          2 Georges Bataille, „Literatura a zło”, przeł. Maria
-          Wodzyńska-Balicka, Oficyna Literacka, Kraków 1992, s. 153.
+        <p className="h2_non_justify" id="footnote_2_krajewski">
+          <a href="#footnote_2_krajewski-ref">[2]</a> Georges Bataille,
+          „Literatura a zło”, przeł. Maria Wodzyńska-Balicka, Oficyna Literacka,
+          Kraków 1992, s. 153.
         </p>
-        <p className="h2_non_justify ">
-          3 Laure, „L’histoire d’une petite fille”, Édition hors commerce, Paris
-          1943, s. 39.
+        <p className="h2_non_justify" id="footnote_3_krajewski">
+          <a href="#footnote_3_krajewski-ref">[3]</a> Laure, „L’histoire d’une
+          petite fille”, Édition hors commerce, Paris 1943, s. 39.
         </p>
-        <p className="h2_non_justify ">4 Ibidem, s. 19-20.</p>
-        <p className="h2_non_justify ">
-          5 Michel Leiris, „Lustro Tauromachii”, przeł. Maryna Ochab,
-          słowo/obraz terytoria, Gdańsk 1999, s. 25.
+        <p className="h2_non_justify" id="footnote_4_krajewski">
+          <a href="#footnote_4_krajewski-ref">[4]</a> Ibidem, s. 19-20.
         </p>
-        <p className="h2_non_justify ">
-          6 Arthur Rimbaud, „Zła krew”, w: „Sezon w piekle. Iluminacje”, przeł.
-          Artur Międzyrzecki, Prószyński i S-ka, Warszawa 1999, s. 21.
+        <p className="h2_non_justify" id="footnote_5_krajewski">
+          <a href="#footnote_5_krajewski-ref">[5]</a> Michel Leiris, „Lustro
+          Tauromachii”, przeł. Maryna Ochab, słowo/obraz terytoria, Gdańsk 1999,
+          s. 25.
         </p>
-        <p className="h2_non_justify ">
-          7 Por. Paulina Tarasewicz, „La vie de Laure?”, w: <i>Cahiers ERTA</i>,
-          nr 10/2016, s. 217-251.
+        <p className="h2_non_justify" id="footnote_6_krajewski">
+          <a href="#footnote_6_krajewski-ref">[6]</a> Arthur Rimbaud, „Zła
+          krew”, w: „Sezon w piekle. Iluminacje”, przeł. Artur Międzyrzecki,
+          Prószyński i S-ka, Warszawa 1999, s. 21.
         </p>
-        <p className="h2_non_justify ">
-          8 Georges Bataille, „Błękit nieba”, w: „Historia oka i inne historie”,
-          przeł. Tadeusz Komendant, słowo/obraz terytoria, Gdańsk 2010, s. 181.
+        <p className="h2_non_justify" id="footnote_7_krajewski">
+          <a href="#footnote_7_krajewski-ref">[7]</a> Por. Paulina Tarasewicz,
+          „La vie de Laure?”, w: <i>Cahiers ERTA</i>, nr 10/2016, s. 217-251.
         </p>
-        <p className="h2_non_justify ">
-          9 Chris Kraus, „Aliens and Anorexia”, Tuskar Rock Press, London 2018,
-          s. 153.
+        <p className="h2_non_justify" id="footnote_8_krajewski">
+          <a href="#footnote_8_krajewski-ref">[8]</a> Georges Bataille, „Błękit
+          nieba”, w: „Historia oka i inne historie”, przeł. Tadeusz Komendant,
+          słowo/obraz terytoria, Gdańsk 2010, s. 181.
         </p>
-        <p className="h2_non_justify ">
-          10 Laure, „Le Sacré. Suivi par de poèmes et de divers écrits”, Édition
-          hors commerce, Paris 1939, s. 23.
+        <p className="h2_non_justify" id="footnote_9_krajewski">
+          <a href="#footnote_9_krajewski-ref">[9]</a> Chris Kraus, „Aliens and
+          Anorexia”, Tuskar Rock Press, London 2018, s. 153.
         </p>
-        <p className="h2_non_justify ">
-          11 „L’histoire d’une petite fille”, s. 18.
+        <p className="h2_non_justify" id="footnote_10_krajewski">
+          <a href="#footnote_10_krajewski-ref">[10]</a> Laure, „Le Sacré. Suivi
+          par de poèmes et de divers écrits”, Édition hors commerce, Paris 1939,
+          s. 23.
         </p>
-        <p className="h2_non_justify ">12 Ibidem, s. 40.</p>
+        <p className="h2_non_justify" id="footnote_11_krajewski">
+          <a href="#footnote_11_krajewski-ref">[11]</a> „L’histoire d’une petite
+          fille”, s. 18.
+        </p>
+        <p className="h2_non_justify" id="footnote_12_krajewski">
+          <a href="#footnote_12_krajewski-ref">[12]</a> Ibidem, s. 40.
+        </p>
       </div>
     </div>
   );

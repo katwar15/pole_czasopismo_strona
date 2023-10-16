@@ -52,10 +52,16 @@ const Laure = () => {
             aż idealnie<br></br>
             wtopię się w krajobraz.
           </i>
-          <sup>1</sup>.
+          <a id="footnote_1_laure-ref" href="#footnote_1_laure">
+            <sup>1</sup>
+          </a>
         </p>
+        <br></br>
         <p className="h2_wstep">
-          „Jaki kolor ma dla mnie pojęcie sacrum?”<sup>2</sup>
+          „Jaki kolor ma dla mnie pojęcie sacrum?”
+          <a id="footnote_2_laure-ref" href="#footnote_2_laure">
+            <sup>2</sup>
+          </a>
         </p>
         <p className="h2_wstep">
           Sacrum to nieskończenie rzadka chwila, w której „cząstka wieczności”,
@@ -92,7 +98,7 @@ const Laure = () => {
           budzą w nas uczucie, że coś się dzieje.
         </p>
         <p className="h2_wstep">Dla mnie sacrum jest jednak gdzie indziej.</p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Jeśli sądzicie, że sacrum przejawia się w akcie obrony przyjaciela
           przed oszustami albo, lepiej, żarliwej i brutalnej walce w imię tego,
@@ -123,7 +129,7 @@ const Laure = () => {
           zmieniło, że za sprawą wyższej konieczności lub smutnej rezygnacji
           znalazłaś się sama ze sobą.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Korrida należy do sfery sacrum, ponieważ nieodłącznie towarzyszy jej
           groźba śmierci i śmierć prawdziwa, ale i odczuwana, przeżywana przez
@@ -133,9 +139,12 @@ const Laure = () => {
           Spróbujcie wyobrazić sobie korridę dla was jako jedynego widza.
         </p>
         <p className="h2_wstep">
-          (wyjaśnić obszerniej<sup>3</sup>)
+          (wyjaśnić obszerniej{" "}
+          <a id="footnote_3_laure-ref" href="#footnote_3_laure">
+            <sup>3</sup>)
+          </a>
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Sacrum to dla mnie wszystko, co wiąże się z racją bytu, racją jego
           trwania, racją życia, racją śmierci.
@@ -171,18 +180,18 @@ const Laure = () => {
           Przeciwko tym, którzy chcą zrobić z życia bagno – nigdy dość
           okrucieństwa, bezwzględności: unikać ich jak zarazy.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep"> „Wszelkie emocje poetyckie są święte”?</p>
         <p className="h2_wstep">
           Jeśli chodzi o przyczyny (dla przykładu i by ująć tę kwestię skrótowo)
           samobójstwa Nervala – zgoda. No dobrze, ale co z niszczycielskim
           dziełem Rimbauda?
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Chwila sacrum, stan nieskończenie rzadko spotykanej łaski.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Istnieją stany „przedsakralne”, które od sacrum dzieli zaledwie krok.
         </p>
@@ -221,7 +230,7 @@ const Laure = () => {
           znowu poczuć, jak ziemia się obraca, by zatracić się w tym uczuciu, w
           tym zawrocie głowy.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep"> Analogiczna sytuacja:</p>
         <p className="h2_wstep">
           w łazience mojej matki naprzeciwko siebie stały dwa wielkie lustra.
@@ -278,18 +287,21 @@ const Laure = () => {
           Spotkana w metrze koleżanka z klasy, w stroju wyrażającym głęboką
           żałobę z powodu śmierci ojca, przyprawia mnie o wstyd.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Dochodzę do sposobu rozumienia tego pojęcia przez socjologów
-          <sup>4</sup> – sacrum miesza się z tym, co społeczne, aby to, co
-          społeczne, stało się
+          <a id="footnote_4_laure-ref" href="#footnote_4_laure">
+            <sup>4</sup>
+          </a>
+          – sacrum miesza się z tym, co społeczne, aby to, co społeczne, stało
+          się
           <i> święte</i>.
         </p>
         <p className="h2_wstep">
           W moim rozumieniu, aby takim <i>się stało</i>, musi być odczuwane
           przez innych, we wspólnocie z innymi.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           Wyobraźcie sobie korridę dla jednego widza, którym jesteście wy.
         </p>
@@ -300,43 +312,48 @@ const Laure = () => {
           którą wymierzamy w nas samych, akt obnażenia, komunikowanie innym
           racji życia, mimo że racja ta nie jest żadną stałą.
         </p>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
         <p className="h2_wstep">
           To coś, co utwierdza mnie w sobie na tyle mocno, bym mogła sprzeciwiać
           się innym.
         </p>
       </div>
       <div className="content_wstep">
-        <p className="h2_non_justify ">
-          [1] Ten sam wiersz wykorzystuje Laure w prozie autobiograficznej
+        <p className="h2_non_justify" id="footnote_1_laure">
+          <a href="#footnote_1_laure-ref">[1]</a> Ten sam wiersz wykorzystuje
+          Laure w prozie autobiograficznej
           <i> L’histoire d’une petite fille</i>.
         </p>
-        <p className="h2_non_justify ">
-          [2] Pytanie bezpośrednio nawiązuje do ostatniego zdania eseju Michela
-          Leirisa „Sacrum w życiu codziennym”:
+        <p className="h2_non_justify" id="footnote_2_laure">
+          <a href="#footnote_2_laure-ref">[2]</a> Pytanie bezpośrednio nawiązuje
+          do ostatniego zdania eseju Michela Leirisa „Sacrum w życiu
+          codziennym”:
           <i>
+            {" "}
             Jeśli jest tak, że jednym z celów najbardziej świętych, jakie
             człowiek może sobie wyznaczyć, jest poznanie siebie tak dokładne i
             intensywne, jak to tylko możliwe, to wydaje się pożądane, żeby
             każdy, zgłębiając swe wspomnienia w sposób jak najbardziej uczciwy,
             sprawdził, czy nie może w nich odnaleźć kilku poszlak pozwalających
             wyodrębnić kolor, jak ma dla niego samo pojęcie sacrum
-          </i>
-          (Michel Leiris, „Sacrum w życiu codziennym”, przeł. Joanna Pawelczyk,
-          w: Konteksty. <i>Polska Sztuka Ludowa</i>, nr 3-4/2007, s. 33).
+          </i>{" "}
+          &#40;Michel Leiris, „Sacrum w życiu codziennym”, przeł. Joanna
+          Pawelczyk, w: <i>Konteksty. Polska Sztuka Ludowa</i>, nr 3-4/2007, s.
+          33&#41;.
         </p>
-        <p className="h2_non_justify ">
-          [3] Laure miała prawdopodobnie na myśli własny tekst pod tytułem
-          <i> Korrida</i>, który zdążyła zaledwie rozpocząć.
+        <p className="h2_non_justify" id="footnote_3_laure">
+          <a href="#footnote_3_laure-ref">[3]</a> Laure miała prawdopodobnie na
+          myśli własny tekst pod tytułem "Korrida", który zdążyła zaledwie
+          rozpocząć.
         </p>
-        <p className="h2_non_justify ">
-          [4] Laure mogła mieć na myśli zarówno Durkheima i jego „Elementarne
-          formy życia religijnego”, jak i – co bardziej prawdopodobne –
-          intelektualistów związanych z Collège de sociologie, założonej przez
-          Georges’a Bataille’a instytucji, która, wbrew pozorom, z socjologią
-          jako nauką ścisłą nie miała specjalnie wiele wspólnego – był to raczej
-          niesformalizowany kolektyw badawczy, który postawił sobie za cel
-          uprawianie „socjologii sacrum”.
+        <p className="h2_non_justify" id="footnote_4_laure">
+          <a href="#footnote_4_laure-ref">[4]</a> Laure mogła mieć na myśli
+          zarówno Durkheima i jego „Elementarne formy życia religijnego”, jak i
+          – co bardziej prawdopodobne – intelektualistów związanych z Collège de
+          sociologie, założonej przez Georges’a Bataille’a instytucji, która,
+          wbrew pozorom, z socjologią jako nauką ścisłą nie miała specjalnie
+          wiele wspólnego – był to raczej niesformalizowany kolektyw badawczy,
+          który postawił sobie za cel uprawianie „socjologii sacrum”.
         </p>
         <p className="h2_non_justify "></p>
       </div>

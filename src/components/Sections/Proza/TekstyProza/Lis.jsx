@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../../Wstep/Wstep.css";
 import forward_button from "../../../../assets/forward_button.svg";
-import foks_img from "../../../../assets/foks.jpg";
 import ruiny from "../../../../assets/ruiny.jpg";
 import front from "../../../../assets/front.png";
 import antonina from "../../../../assets/antonina.jpg";
@@ -31,44 +30,8 @@ const Lis = () => {
           Żołnierz strzegący mrowiska koło Ustrzyk Górnych
         </h2>
         <h3 className="h1_wstep">(wspomnienie)</h3>
-        <h2 className="h2_wstep_right"> Dla Piotrka i Kasi</h2>
-        <p className="h2_non_indent">spis treści:</p>
-        <p className="h2_non_indent">
-          [1 Podczas kilkudniowego pobytu w szpitalu…] <br></br>
-          [2 try ode mnie…] <br></br>
-          [3 Cztery następujące po sobie wpisy w dzienniku…]<br></br>
-          [4 Baydała Oszczecirski… ] <br></br>
-          [5 Co chciałaś powiedzieć, mówiąc, że mrówki zachowują się podobnie?]{" "}
-          <br></br>
-          [6 Nasza rozmowa miała sens inny… ] <br></br>
-          [7 Poczucie obowiązku, żeby nie upiększać swoich wspomnień…]<br></br>
-          [8 Muszę się przyznać… ] <br></br>
-          [9 Opowieść moja zatacza coraz szersze kręgi…]<br></br>
-          [10 Częściowe wyjaśnienie… ] <br></br>
-          [11 Fotograf Bogdan Konopka… ] <br></br>
-          [12 Gdybym był osiem lat temu wbrew sobie dokończył tę opowieść… ]{" "}
-          <br></br>
-          [13 A jednak jeszcze raz muszę to zrobić…]<br></br>
-          [14 Członkowie naszej sekty…]<br></br>
-          [15 Słońce smoków] <br></br>
-          [16 Nigdy nie skończyłem powieści „Słońce smoków”…] <br></br>
-          [17 To nie jest donos] <br></br>
-          [18 W naszej sekcie… ] <br></br>
-          [19 Wstyd mi…]<br></br>
-          [20 Siedem miliardów Arturów] <br></br>
-          [21 Kok] <br></br>
-          [22 Pierwsza wzmianka o szkole emocji] <br></br>
-          [23 Montrouge, 4 XI 2022 (z dziennika)] <br></br>
-          [24 Decyzje pisarskie zapadają w podświadomości…]<br></br>
-          [25 Sam już nie wiem…]<br></br>
-          [26 Po obudzeniu się… ] <br></br>
-          [27 Były czasy…]<br></br>
-          [28 Montrouge, 10 XI 2022 (z dziennika)] <br></br>
-          [29 I po wspomnieniu… ] <br></br>
-          [30 „Co jednakie jest w łóżku albo na tapczanie!”] <br></br>
-          [31 Po cóż mi ta mądrość…]<br></br>
-          [Od autora]
-        </p>
+        <h2 className="h2_wstep_right_italic"> Dla Piotrka i Kasi</h2>
+
         <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           Podczas kilkudniowego pobytu w szpitalu w Sanoku, po opisanej niżej
@@ -99,7 +62,10 @@ const Lis = () => {
           kocher itp. utensylia, niezbędne do życia na takim odludziu, ruszyłem
           w kierunku Tarnicy, aby na jej szczycie wypić butelkę wina, bo tak to
           sobie obiecywałem od lat. Miałem z sobą w ogóle trzy butelki wina
-          [francuskiego], każdą przeznaczoną na inną okazję<sup>1</sup>{" "}
+          [francuskiego], każdą przeznaczoną na inną okazję{" "}
+          <a id="footnote_1_lis-ref" href="#footnote_1_lis">
+            <sup>1</sup>
+          </a>
           (przypisy są na końcu – rl), niestety, udało się zrealizować tylko
           pierwszy z tych moich zamiarów, a to na skutek owych nieprzewidzianych
           dziwnych zdarzeń. Szczególnej pikanterii koincydencjalnej dodaje tej
@@ -131,13 +97,19 @@ const Lis = () => {
         </p>
         <p className="h2_wstep">
           Po wypiciu całej butelki wina i próbie zobaczenia na horyzoncie Wawelu
-          <sup>2</sup>, ogarnęła mnie przemożna senność, co nie zdziwiło mnie
-          wcale po dokonanym wyczynie. Pamiętam, że gdy ostatni raz spojrzałem
-          na ekran mego iPhone’a 5S, była godzina 11.57, czyli pora
-          najodpowiedniejsza na połączenie się myślami ze współpartycypantami
-          Czarnej Dziury<sup>3</sup>. Przez trzy następne minuty wysyłałem we
-          wszystkie strony świata fale emocji miodowych, po czym upadłem na
-          rozłożony śpiwór i natychmiast straciłem zmysły i pamięć.
+          <a id="footnote_2_lis-ref" href="#footnote_2_lis">
+            <sup>2</sup>
+          </a>{" "}
+          ogarnęła mnie przemożna senność, co nie zdziwiło mnie wcale po
+          dokonanym wyczynie. Pamiętam, że gdy ostatni raz spojrzałem na ekran
+          mego iPhone’a 5S, była godzina 11.57, czyli pora najodpowiedniejsza na
+          połączenie się myślami ze współpartycypantami Czarnej Dziury
+          <a id="footnote_3_lis-ref" href="#footnote_3_lis">
+            <sup>3</sup>
+          </a>
+          . Przez trzy następne minuty wysyłałem we wszystkie strony świata fale
+          emocji miodowych, po czym upadłem na rozłożony śpiwór i natychmiast
+          straciłem zmysły i pamięć.
         </p>
         <p className="h2_wstep">
           Obudziłem się nocą, zziębnięty, leżąc na plecach, nie wiedziałem,
@@ -148,40 +120,59 @@ const Lis = () => {
           przecięły błyski perseidów, a wraz z ich pojawieniem się wszystko inne
           też stało się jasne: w tzw. mgnieniu oka spadające gwiazdy wywołały
           przed kamerami mojej duszy stos guzików na okładce książki „Gwiazda
-          spada”<sup>4</sup>, potem niebieskie oczy jej autora, z którym
-          rozmawiam dwadzieścia lat po lekturze [tej powieści], miejsce, gdzie
-          to się dzieje, miasto wokół nas, moje ówczesne życie i równocześnie te
-          późniejsze jego meandry, doprowadzające mnie aż do owej chwili leżenia
-          na plecach na Tarnicy. I choć już rozumiem, po co tam jestem, sen
-          jeszcze ciągle trwa i jakaś inna część mojej osoby mówi do Jalu Kurka
-          jego własnymi słowami: „Wszystko umiera – nawet ciała niebieskie i
-          tylko marzenia są nieśmiertelne”. Opowiadam mu też, że był pierwszym
-          pisarzem, który trzynastolatkowi [mnie] dał pierwszą literacką lekcję
-          wychowania seksualnego!
+          spada”
+          <a id="footnote_4_lis-ref" href="#footnote_4_lis">
+            <sup>4</sup>
+          </a>
+          , potem niebieskie oczy jej autora, z którym rozmawiam dwadzieścia lat
+          po lekturze [tej powieści], miejsce, gdzie to się dzieje, miasto wokół
+          nas, moje ówczesne życie i równocześnie te późniejsze jego meandry,
+          doprowadzające mnie aż do owej chwili leżenia na plecach na Tarnicy. I
+          choć już rozumiem, po co tam jestem, sen jeszcze ciągle trwa i jakaś
+          inna część mojej osoby mówi do Jalu Kurka jego własnymi słowami:
+          „Wszystko umiera – nawet ciała niebieskie i tylko marzenia są
+          nieśmiertelne”. Opowiadam mu też, że był pierwszym pisarzem, który
+          trzynastolatkowi [mnie] dał pierwszą literacką lekcję wychowania
+          seksualnego!
         </p>
         <p className="h2_wstep">
           Jak żałosna królowa idąca na gilotynę prowadzę moje wspomnienia na
-          ścięcie<sup>5</sup>. Wprawdzie żyję i pozwalam sobie na ten żart
-          cytowania bez użycia cudzysłowu, ale być może ciągle jeszcze nie
-          doszedłem do siebie po doznanej traumie. Syndrom pourazowy objawia się
-          w różny sposób [np. ucieczką w alkoholizm], ale chyba jednak nie
-          spowodował we mnie wzrostu wyobraźni, na brak której nigdy nie
-          cierpiałem, no ale przepraszam [fragment nieczytelny]<sup>6</sup>…
+          ścięcie{" "}
+          <a id="footnote_5_lis-ref" href="#footnote_5_lis">
+            <sup>5</sup>
+          </a>
+          . Wprawdzie żyję i pozwalam sobie na ten żart cytowania bez użycia
+          cudzysłowu, ale być może ciągle jeszcze nie doszedłem do siebie po
+          doznanej traumie. Syndrom pourazowy objawia się w różny sposób [np.
+          ucieczką w alkoholizm], ale chyba jednak nie spowodował we mnie
+          wzrostu wyobraźni, na brak której nigdy nie cierpiałem, no ale
+          przepraszam [fragment nieczytelny]
+          <a id="footnote_6_lis-ref" href="#footnote_6_lis">
+            <sup>6</sup>
+          </a>
+          …
         </p>
         <p className="h2_wstep">
           Smartfon wyładował się jeszcze tej samej nocy, co okazało się, gdy
           postanowiłem wejść na FB, aby napisać post o swojej sytuacji.
           Zgrzytnąłem zębami i pomyślałem o głupocie pozostawienia w domu
-          normalnej komórki, która trzyma energię przez parę dni<sup>7</sup>.
-          Rano, bez ociągania się, zacząłem schodzić ze szczytu, kierując się ku
-          Ustrzykom Górnym. Jeszcze tego dnia zamierzałem dotrzeć do ruin cerkwi
-          w Krywem . Chwili, w której wszystkie moje myśli i wyobrażenia o
-          świecie dokonały całkowitej przemiany, jakby przewracając się na swą
-          lewą stronę, nie pamiętam. Ludzie z tych rejonów Karpat mówią o
-          takich: „Błąd się go czepił!”
+          normalnej komórki, która trzyma energię przez parę dni
+          <a id="footnote_7_lis-ref" href="#footnote_7_lis">
+            <sup>7</sup>
+          </a>
+          . Rano, bez ociągania się, zacząłem schodzić ze szczytu, kierując się
+          ku Ustrzykom Górnym. Jeszcze tego dnia zamierzałem dotrzeć do ruin
+          cerkwi w Krywem
+          <a id="footnote_8_lis-ref" href="#footnote_8_lis">
+            <sup>8</sup>
+          </a>
+          . Chwili, w której wszystkie moje myśli i wyobrażenia o świecie
+          dokonały całkowitej przemiany, jakby przewracając się na swą lewą
+          stronę, nie pamiętam. Ludzie z tych rejonów Karpat mówią o takich:
+          „Błąd się go czepił!”
         </p>
         <img className="img_text" src={ruiny}></img>
-        <h2 className="h2_podpis_img">Ruiny cerkwi w Krywem.</h2>
+        <h2 className="h2_podpis_img">Ruiny cerkwi w Krywem. fot. Wikipedia</h2>
         <p className="h2_wstep">
           Dwa dni później uświadomiłem sobie, że minęły dwa dni, odkąd zszedłem
           z Tarnicy. W tym czasie zachowywałem się tak, jakby było to zupełnie
@@ -209,8 +200,12 @@ const Lis = () => {
           spustowym pistoletu, z lufą skierowaną ku ziemi, nie spuszczając ze
           mnie oczu, szedł sprężystym krokiem młodości, jakby spacerował albo
           był na scenie. Odruchowo podniosłem ręce do góry, mając pewność, że
-          zaraz zginę<sup>9</sup>. Jednak w odpowiedzi żołnierz zatrzymał się
-          jak wryty i wykrzyknął, zaskoczony:
+          zaraz zginę
+          <a id="footnote_9_lis-ref" href="#footnote_9_lis">
+            <sup>9</sup>
+          </a>
+          . Jednak w odpowiedzi żołnierz zatrzymał się jak wryty i wykrzyknął,
+          zaskoczony:
         </p>
         <p className="h2_wstep">– No nie! Proszę opuścić ręce!</p>
         <p className="h2_wstep">
@@ -229,8 +224,11 @@ const Lis = () => {
         <p className="h2_wstep">
           Czarny żołnierz w Paryżu to normalny akcent w krajobrazie, ale czarny
           żołnierz w polskim mundurze z orzełkiem w koronie, nie, tego
-          przewidzieć nie mogłem!<sup>10</sup>. Z wrażenia ręce opadły mi jakoś
-          tak same z siebie…
+          przewidzieć nie mogłem!
+          <a id="footnote_10_lis-ref" href="#footnote_10_lis">
+            <sup>10</sup>
+          </a>
+          . Z wrażenia ręce opadły mi jakoś tak same z siebie…
         </p>
         <p className="h2_wstep">
           Przybysz zdjął palec ze spustu, przełożył broń do lewej ręki, prawą
@@ -290,17 +288,24 @@ const Lis = () => {
           niezwykłej reakcji nie spodziewałem się:
         </p>
         <p className="h2_wstep">
-          – Citoyen de la République Française! Quelle surprise!<sup>11</sup> –
-          wykrzyknął nagle żołnierz po francusku z nieukrywaną radością. I
+          – Citoyen de la République Française! Quelle surprise!
+          <a id="footnote_11_lis-ref" href="#footnote_11_lis">
+            <sup>11</sup>
+          </a>{" "}
+          – wykrzyknął nagle żołnierz po francusku z nieukrywaną radością. I
           spojrzał na mnie jak na jakiś cud, rozciągając w uśmiechu swe
           soczyste, czarne wargi.
         </p>
         <p className="h2_wstep">
-          – Comme vous voyez, monsieur!<sup>12</sup> – odpowiedziałem z prostotą
-          i wstałem, żeby uścisnąć wyciągniętą ku mnie dłoń. Czarnoskóry
-          uścisnął moja prawicę, zaś lewą rękę zarzucił mi na szyję i ucałował w
-          policzki cztery razy [po parysku!]. Nic z tego nie rozumiałem, ale
-          emanująca z niego radość udzieliła się i mnie.
+          – Comme vous voyez, monsieur!
+          <a id="footnote_12_lis-ref" href="#footnote_12_lis">
+            <sup>12</sup>
+          </a>{" "}
+          – odpowiedziałem z prostotą i wstałem, żeby uścisnąć wyciągniętą ku
+          mnie dłoń. Czarnoskóry uścisnął moja prawicę, zaś lewą rękę zarzucił
+          mi na szyję i ucałował w policzki cztery razy [po parysku!]. Nic z
+          tego nie rozumiałem, ale emanująca z niego radość udzieliła się i
+          mnie.
         </p>
         <p className="h2_wstep">
           – Proszę wybaczyć mi tę poufałość! – wyjaśnił mi zaraz mój nowy
@@ -317,11 +322,15 @@ const Lis = () => {
           żołnierzowi zwierzać się mi nadal:
         </p>
         <p className="h2_wstep">
-          – Vous êtes parisien! Merveilleusement!<sup>13</sup> – cieszył się ów
-          ekstatycznie, a ja wraz z nim, w empatycznej komitywie. – Zawsze
-          chciałem spotkać kogoś, kto mieszka w tym wspaniałym mieście, chłonąć
-          emanacje jego osoby, nauczyć się rozumieć Paryż bez słów! Proszę nie
-          myśleć, że kłamię, gazety o tym nawet pisały!
+          – Vous êtes parisien! Merveilleusement!
+          <a id="footnote_3_lis-ref" href="#footnote_13_lis">
+            <sup>13</sup>
+          </a>{" "}
+          – cieszył się ów ekstatycznie, a ja wraz z nim, w empatycznej
+          komitywie. – Zawsze chciałem spotkać kogoś, kto mieszka w tym
+          wspaniałym mieście, chłonąć emanacje jego osoby, nauczyć się rozumieć
+          Paryż bez słów! Proszę nie myśleć, że kłamię, gazety o tym nawet
+          pisały!
         </p>
         <p className="h2_wstep">
           Chciałem wyrazić zdziwienie tym wyznaniem, zgoła niezrozumiałym, ale
@@ -333,8 +342,12 @@ const Lis = () => {
           czarnoskórym żołnierzem w polskim wojsku! W wywiadach wielokrotnie
           mówiłem, że pragnę spotkać malarza z Paryża! Proszę nie mówić, że nie
           jest pan malarzem! Mam po przodkach częściowy dar jasnowidzenia! Je
-          suis voyant comme mon père!<sup>14</sup> Widzę pana z pędzlem w dłoni!
-          Ale mego ojca to ja jeszcze kiedyś spotkam! Ja go spotkam!
+          suis voyant comme mon père!
+          <a id="footnote_14_lis-ref" href="#footnote_14_lis">
+            <sup>14</sup>
+          </a>{" "}
+          Widzę pana z pędzlem w dłoni! Ale mego ojca to ja jeszcze kiedyś
+          spotkam! Ja go spotkam!
         </p>
         <p className="h2_wstep">
           Przyznam się, że zaniemówiłem, słysząc, że jestem malarzem. Mój Boże,
@@ -343,10 +356,13 @@ const Lis = () => {
         </p>
         <p className="h2_wstep">
           – Je suis peintre! Mais, moi, je suis peintre en bâtiment!
-          <sup>15</sup> – próbowałem się bronić, choć sam nie wiedziałem przed
-          czym [szło wszak jeno o wizje pędzla]. Ale żołnierz jakby nie słyszał
-          moich słów, sięgnął do kieszonki na rękawie swej koszuli i wyjął
-          stamtąd skręta [poznałem to od razu po kształcie stożka], mrużąc oko.
+          <a id="footnote_15_lis-ref" href="#footnote_15_lis">
+            <sup>15</sup>
+          </a>{" "}
+          – próbowałem się bronić, choć sam nie wiedziałem przed czym [szło
+          wszak jeno o wizje pędzla]. Ale żołnierz jakby nie słyszał moich słów,
+          sięgnął do kieszonki na rękawie swej koszuli i wyjął stamtąd skręta
+          [poznałem to od razu po kształcie stożka], mrużąc oko.
         </p>
         <p className="h2_wstep">
           – Zapalimy? – zapytał, jakbyśmy się znali od lat, po czym zaśmiał się
@@ -419,12 +435,16 @@ const Lis = () => {
         </p>
         <p className="h2_wstep">
           Wypadki te toczyły się w ułamkach sekundy. Od każdego odkrycia nie
-          było już odwrotu [jak od „zamrożonych przypadków”<sup>16</sup>]:
-          najpierw zrozumiałem, że jest to istota dysponująca zapalonym ogniem
-          kundalini, potem, że byłem przez nią w jakimś celu śledzony i zwabiony
-          w to miejsce, a na końcu, że nie mam żadnych szans na ucieczkę. Gdy
-          puściła mnie z objęć i odchyliła głowę ku tyłowi, czekało mnie jednak
-          jeszcze jedno [hiper]zaskoczenie. Przedstawił[a] się:
+          było już odwrotu [jak od „zamrożonych przypadków”
+          <a id="footnote_16_lis-ref" href="#footnote_16_lis">
+            <sup>16</sup>
+          </a>
+          ]: najpierw zrozumiałem, że jest to istota dysponująca zapalonym
+          ogniem kundalini, potem, że byłem przez nią w jakimś celu śledzony i
+          zwabiony w to miejsce, a na końcu, że nie mam żadnych szans na
+          ucieczkę. Gdy puściła mnie z objęć i odchyliła głowę ku tyłowi,
+          czekało mnie jednak jeszcze jedno [hiper]zaskoczenie. Przedstawił[a]
+          się:
         </p>
         <p className="h2_wstep">– Maria-Magdalena!</p>
         <p className="h2_wstep">
@@ -435,23 +455,31 @@ const Lis = () => {
         <p className="h2_wstep">– Myślałam, że się domyślasz!</p>
         <p className="h2_wstep">
           Nikt nie chce mi wierzyć, że nie mogłem głosu z siebie dobyć! Czy to
-          dziwne? Moje myśli wykonywały w tej chwili różnego rodzaju salta
-          <sup>17</sup>, ale i tak nic z tego nie wynikało. Głównym pytaniem
-          było: czy jest to osobnik obojga płci? Bo wszystko stało mi się
-          obojętne, oprócz tej myśli. Nie jestem ani gejem [jak rzekłem], ani
-          biseksualistą, tym bardziej to, co odczuwałem, było nieprawdopodobne:
-          ogień kundalini<sup>18</sup>
+          dziwne? Moje myśli wykonywały w tej chwili różnego rodzaju salta{" "}
+          <a id="footnote_17_lis-ref" href="#footnote_17_lis">
+            <sup>17</sup>
+          </a>
+          , ale i tak nic z tego nie wynikało. Głównym pytaniem było: czy jest
+          to osobnik obojga płci? Bo wszystko stało mi się obojętne, oprócz tej
+          myśli. Nie jestem ani gejem [jak rzekłem], ani biseksualistą, tym
+          bardziej to, co odczuwałem, było nieprawdopodobne: ogień kundalini{" "}
+          <a id="footnote_18_lis-ref" href="#footnote_18_lis">
+            <sup>18</sup>
+          </a>
           miał wszelkie znamiona pochodzenia kobiecego (a ja nie byłem nigdy w
-          podobnych sytuacjach z mężczyznami)!<sup>19</sup> Ale po cóż kłamać?
-          Gdy odczułem energetyczny wymiar kapral Weronicz, stało mi się
-          obojętne, czy jest to spadła z gwiazd osiemnastometrowa mrówka w
-          kapeluszu, czy bieszczadzka prostytutka udająca czarnoskórą żołnierkę
-          w rogatywce z orzełkiem. Najgorsze jednak było to, że poczułem się
-          głupio, że tak źle określiłem płeć żołnierza. Jakim musiałem się
-          wydawać zacofanym ramolem w tych młodych oczach! „Kobiety służą
-          przecież w tylu armiach świata!”, ubolewałem nad swoją naiwnością.
-          Jakby wyczuwając moje skonfundowanie, kapral podeszła do mnie chyżo,
-          wzięła mnie za rękę i wesołym głosem poprosiła:
+          podobnych sytuacjach z mężczyznami)!
+          <a id="footnote_19_lis-ref" href="#footnote_19_lis">
+            <sup>19</sup>
+          </a>{" "}
+          Ale po cóż kłamać? Gdy odczułem energetyczny wymiar kapral Weronicz,
+          stało mi się obojętne, czy jest to spadła z gwiazd osiemnastometrowa
+          mrówka w kapeluszu, czy bieszczadzka prostytutka udająca czarnoskórą
+          żołnierkę w rogatywce z orzełkiem. Najgorsze jednak było to, że
+          poczułem się głupio, że tak źle określiłem płeć żołnierza. Jakim
+          musiałem się wydawać zacofanym ramolem w tych młodych oczach! „Kobiety
+          służą przecież w tylu armiach świata!”, ubolewałem nad swoją
+          naiwnością. Jakby wyczuwając moje skonfundowanie, kapral podeszła do
+          mnie chyżo, wzięła mnie za rękę i wesołym głosem poprosiła:
         </p>
         <p className="h2_wstep">– Chodź, pokażę ci coś ciekawego!</p>
         <p className="h2_wstep">
@@ -485,8 +513,11 @@ const Lis = () => {
           Tego rodzaju współpraca była praktycznie nieznana w świecie owadów, z
           wyjątkiem pszczół i mrówek. Z raportu wynika także, że skupiska larw
           chrząszczy muszą także pachnieć jak pszczoła, ponieważ pomalowane
-          modele nie wprowadzają trutni w błąd”<sup>20</sup>. Koniec cytatu! Ty
-          rozumiesz? Cha! Cha! Cha! Zajebiście! Zajebiście!
+          modele nie wprowadzają trutni w błąd”
+          <a id="footnote_20_lis-ref" href="#footnote_20_lis">
+            <sup>20</sup>
+          </a>
+          . Koniec cytatu! Ty rozumiesz? Cha! Cha! Cha! Zajebiście! Zajebiście!
         </p>
         <p className="h2_wstep">
           Tu kobieta upadła na plecy i bijąc pięściami trawę obok swych bioder
@@ -540,6 +571,9 @@ const Lis = () => {
           partnerką intelektualną. Interesowały mnie emocje owadów i właśnie
           dlatego ta książka znalazła się w moich rękach. W moim dzienniku,
           który często ogłaszam na fejsie, aż roi się od zapisów na temat owadów
+          <a id="footnote_21_lis-ref" href="#footnote_21_lis">
+            <sup>21</sup>
+          </a>
           : wielokrotnie w życiu obserwowałem z wielkim zainteresowaniem chmary
           komarów, krążące wokół własnego centrum. Byłem zdumiony, że kobieta w
           stopniu podoficerskiem może się tym interesować.
@@ -559,44 +593,45 @@ const Lis = () => {
 
         <p className="h2_wstep">
           Cztery następujące po sobie wpisy w dzienniku, które cytuję poniżej
-          [słowo w słowo, i czasem z dwoma kalendarzami [59 i 2013]], powstały
-          prawie rok przed opisaną wyprawą, zaś przypisy do tychże około trzy
-          miesiące po niej. Dziwi mnie, dlaczego tak mało uwagi poświęcam w tych
-          komentarzach ich związkom z samą przygodą, ale prawdopodobnie jeszcze
-          wtedy zamierzałem wspomnienie dokończyć [publikując jego początek w
-          postaci rozdziału 1 wraz z dziennikiem w tym samym blogu]. Zamieszczam
-          je tutaj teraz, żeby poszerzyć spektrum faktów o te inne szczegóły z
-          mego życia i wyjaśnić, że powstanie nowej ery wiąże się ściśle ze
-          wspomnianą wioską Krywe. Obecnie, z odległości kilku lat zobaczyłem to
-          zdarzenie w całkowicie innym świetle, a bywają chwile, gdy nadaję mu
-          sens już to dosłownie nadprzyrodzony, jako kontakt z istotą z
-          zaświatów, już to jako żart, zrobiony mi celowo przez partycypantów
-          sekty [może nawet w ramach jakiegoś szkolenia, które mam zrozumieć bez
-          niczyjej pomocy w jakimś przyszłym momencie, zależnym od moich
-          ogólnych zdolności [to też jest właśnie jedna z tych moich myśli
-          szalonych na ten temat]]. Przede wszystkim, w ramach porządkowania
-          tego galimatiasu, powiem na początek, że mój „szofer”, który pozostał
-          w hotelu Gromada, aby czekać na moje dyspozycje, to znany działacz
-          naszej sekty, Baydała Oszczecirski, który z takiej oto podrzędnej roli
-          drugorzędnej postaci opowiadania wyrasta nagle na głównego
-          podejrzanego [w świecie tu przedstawionym]. Jednak powód, że to moje
-          podejrzenie w ogóle się pojawiło, powstał dopiero pięć lat po owym
-          naszym wspólnym przebyciu samochodem drogi z Paryża w Bieszczady,
-          podczas której przeczytałem mu na głos całą ową „Synchroniczność”.
-          [Czyli już prawie trzy lata temu]. Właściwie to opowiadanie niniejsze
-          nie powinno zaistnieć, jako że im bliżej do dnia dzisiejszego, tym
-          bardziej każda informacja w nim jest coraz mniej pewna. Coraz też
-          więcej bieżących wydarzeń codziennych zdaje się mieć związek z tamtą
-          historią, a ostatecznie nawet list owego „smakosza” do takich faktów
-          zaliczyłem, bo jest on być może jedynie czyjąś prowokacją. Nie mogę
-          też ukrywać, że, mimo że przestałem kontynuować pisanie tego
-          wspomnienia już prawie osiem lat temu [częściowo pod wpływem kpin
-          Baydały Oszczecirskiego na temat realności Marii Magdaleny Weronicz],
-          to moje przeżycia, związane z nią w ówczesną piękną noc, były później
-          jeszcze bardzo długo częstym tematem naszych zażartych rozmów. Zaś
-          obecnie, gdy mógłbym skierować ku niemu szereg nowych pytań, które
-          narodziły się we mnie dopiero ostatnio, nie mogę tego zrobić z tej
-          prostej przyczyny, że nie wiem, gdzie ów człowiek teraz jest.
+          [słowo w słowo, i czasem z dwoma kalendarzami &#123;59 i 2013&#125;],
+          powstały prawie rok przed opisaną wyprawą, zaś przypisy do tychże
+          około trzy miesiące po niej. Dziwi mnie, dlaczego tak mało uwagi
+          poświęcam w tych komentarzach ich związkom z samą przygodą, ale
+          prawdopodobnie jeszcze wtedy zamierzałem wspomnienie dokończyć
+          [publikując jego początek w postaci rozdziału 1 wraz z dziennikiem w
+          tym samym blogu]. Zamieszczam je tutaj teraz, żeby poszerzyć spektrum
+          faktów o te inne szczegóły z mego życia i wyjaśnić, że powstanie nowej
+          ery wiąże się ściśle ze wspomnianą wioską Krywe. Obecnie, z odległości
+          kilku lat zobaczyłem to zdarzenie w całkowicie innym świetle, a bywają
+          chwile, gdy nadaję mu sens już to dosłownie nadprzyrodzony, jako
+          kontakt z istotą z zaświatów, już to jako żart, zrobiony mi celowo
+          przez partycypantów sekty [może nawet w ramach jakiegoś szkolenia,
+          które mam zrozumieć bez niczyjej pomocy w jakimś przyszłym momencie,
+          zależnym od moich ogólnych zdolności &#123;to też jest właśnie jedna z
+          tych moich myśli szalonych na ten temat&#125;]. Przede wszystkim, w
+          ramach porządkowania tego galimatiasu, powiem na początek, że mój
+          „szofer”, który pozostał w hotelu Gromada, aby czekać na moje
+          dyspozycje, to znany działacz naszej sekty, Baydała Oszczecirski,
+          który z takiej oto podrzędnej roli drugorzędnej postaci opowiadania
+          wyrasta nagle na głównego podejrzanego [w świecie tu przedstawionym].
+          Jednak powód, że to moje podejrzenie w ogóle się pojawiło, powstał
+          dopiero pięć lat po owym naszym wspólnym przebyciu samochodem drogi z
+          Paryża w Bieszczady, podczas której przeczytałem mu na głos całą ową
+          „Synchroniczność”. [Czyli już prawie trzy lata temu]. Właściwie to
+          opowiadanie niniejsze nie powinno zaistnieć, jako że im bliżej do dnia
+          dzisiejszego, tym bardziej każda informacja w nim jest coraz mniej
+          pewna. Coraz też więcej bieżących wydarzeń codziennych zdaje się mieć
+          związek z tamtą historią, a ostatecznie nawet list owego „smakosza” do
+          takich faktów zaliczyłem, bo jest on być może jedynie czyjąś
+          prowokacją. Nie mogę też ukrywać, że, mimo że przestałem kontynuować
+          pisanie tego wspomnienia już prawie osiem lat temu [częściowo pod
+          wpływem kpin Baydały Oszczecirskiego na temat realności Marii
+          Magdaleny Weronicz], to moje przeżycia, związane z nią w ówczesną
+          piękną noc, były później jeszcze bardzo długo częstym tematem naszych
+          zażartych rozmów. Zaś obecnie, gdy mógłbym skierować ku niemu szereg
+          nowych pytań, które narodziły się we mnie dopiero ostatnio, nie mogę
+          tego zrobić z tej prostej przyczyny, że nie wiem, gdzie ów człowiek
+          teraz jest.
         </p>
         <h2 className="h1_wstep">Fontenay-Aux-Roses, 3 XII 59, godz. 14.57</h2>
 
@@ -724,6 +759,7 @@ const Lis = () => {
           spycyjalni budzą si rańsze, żyby zubaczyć, czy już można jajka niść?
         </p>
         <p className="h2_wstep">O, gdy żym to pisał, ubydwi znikli.</p>
+        <br></br>
         <p className="h2_wstep">godz. 15.50</p>
         <p className="h2_wstep">
           Ni można upisywać muchi i jidnucześni ją ubsyrwować. [Tyoria
@@ -844,9 +880,11 @@ const Lis = () => {
         <p className="h2_wstep">
           – Co chciałaś powiedzieć, mówiąc, że mrówki zachowują się podobnie? –
           zapytałem moją cudowną współtowarzyszkę, gdy już ległem obok niej
-          <sup>22</sup> [nie spodziewając się bynajmniej, że przeprowadzę teraz
-          najdziwniejszą w życiu słowną gierkę wstępną przed{" "}
-          <i>immissio penis</i>]!
+          <a id="footnote_22_lis-ref" href="#footnote_22_lis">
+            <sup>22</sup>
+          </a>{" "}
+          [nie spodziewając się bynajmniej, że przeprowadzę teraz najdziwniejszą
+          w życiu słowną gierkę wstępną przed <i>immissio penis</i>]!
         </p>
         <p className="h2_wstep">
           – Mrówki potrafią wytwarzać zapach! – odpowiedziała i odwróciła się ku
@@ -1120,7 +1158,7 @@ const Lis = () => {
         </p>
         <p className="h2_wstep">
           – I to wszystko, co mi opowiadasz, nauczyłaś się na wydziale
-          myrmekologi?
+          myrmekologii?
         </p>
         <p className="h2_wstep">
           – Ależ gdzie tam! Straciłam przy tobie głowę i zdradzam ci tajemnice
@@ -1150,8 +1188,11 @@ const Lis = () => {
           Weronicz była jednak moim urojeniem, to stwierdziłem, że nie umiałbym
           odpowiedzieć, skąd w moim opowiadaniu o sztucznym piekle w głębokim
           kosmosie [które napisałem rok po owym pobycie w Bieszczadach] wzięła
-          się tam wzmianka o Rzece Erydan i Wielkiej Pustce<sup>23</sup>, o
-          których dowiedziałem się właśnie wtedy?
+          się wzmianka o Rzece Erydan i Wielkiej Pustce
+          <a id="footnote_23_lis-ref" href="#footnote_23_lis">
+            <sup>23</sup>
+          </a>
+          , o których dowiedziałem się właśnie wtedy?
         </p>
         <p className="h2_wstep">
           – Nie wiem, czy znane ci jest pojęcie Wielkiej Pustki, wielkiej w
@@ -1233,7 +1274,11 @@ const Lis = () => {
           zapytała, co to jest wyrwicz.
         </p>
         <p className="h2_wstep">
-          – Mon tire-bouchon<sup>24</sup>! – odpowiedziałem po francusku.{" "}
+          – Mon tire-bouchon
+          <a id="footnote_24_lis-ref" href="#footnote_24_lis">
+            <sup>24</sup>
+          </a>
+          ! – odpowiedziałem po francusku.{" "}
         </p>
         <p className="h2_wstep">
           Na co ona, nie czekając na tzw. resztę, wyrwała mi w tym momencie
@@ -1375,14 +1420,17 @@ const Lis = () => {
           mnie, nie było żadnej mojej winy, dlatego nigdy jej osoba nie była
           przeszkodą w naszych przyjacielskich relacjach także poza sektą [aż do
           dziś]. W stenogramach publicznej spowiedzi Romana Y. Kukury [odbywamy
-          takie w sekcie] zachowała się relacja Baydały Oszczecirskiego
-          [pełniącego w tej spowiedzi rolę jego adwokata] na temat pobytu Sarah
-          E. w Krywem w związku z jego rzekomą śmiercią [w czasach ich bliskich
-          stosunków, a więc jeszcze w XX w.]. Tekst podaję według zapisu
-          archiwalnego [z 3/4 XII 2000 r.], za pozwoleniem penitenta [zwanego tu
-          spytkiem]:{" "}
+          takie w sekcie]
+          <a id="footnote_25_lis-ref" href="#footnote_25_lis">
+            <sup>25</sup>
+          </a>{" "}
+          zachowała się relacja Baydały Oszczecirskiego [pełniącego w tej
+          spowiedzi rolę jego adwokata] na temat pobytu Sarah E. w Krywem w
+          związku z jego rzekomą śmiercią [w czasach ich bliskich stosunków, a
+          więc jeszcze w XX w.]. Tekst podaję według zapisu archiwalnego [z 3/4
+          XII 2000 r.], za pozwoleniem penitenta [zwanego tu spytkiem]:
         </p>
-        <p className="h2_wstep">
+        <p className="h2_non_indent">
           <b>MĄŻ W MASCE ARNO RAFAELA MINKKINENA:</b> Nazywam się Arno Rafael
           Minkkinen. Jestem amerykańskim fotografem, pochodzenia finlandzkiego.
           Urodziłem się w Japonii w roku wybuchu pierwszej bomby atomowej.{" "}
@@ -1493,7 +1541,7 @@ const Lis = () => {
           swoje zdanie na temat takiego... „eksperymentu emocjonalnego”.{" "}
           <br></br>
           <b>OBROŃCA: </b> Proszę o głos! <br></br>
-          <b>SĘDZIA: </b> (kiwa głową). <br></br>
+          <b>SĘDZIA: </b> (<i>kiwa głową</i>). <br></br>
           <b>OBROŃCA: </b> Mój klient nie opuścił terenu Francji od 1991 roku.
           Według naszych pewnych, sprawdzalnych informacji zerwanie kontaktów z
           Sarah miało miejsce wiosną 1996 roku. Film mógł być nakręcony w noc
@@ -1505,19 +1553,22 @@ const Lis = () => {
           nienormalność mego klienta, co do tego nie mam żadnych wątpliwości.
           Proponuję obejrzeć wspólnie ten obraz, aby skończyć z tym zastępczym
           tematem dzisiejszej gry. <br></br>
-          <b>SĘDZIA: </b> (kiwa głową). <br></br>
+          <b>SĘDZIA: </b> (<i>kiwa głową</i>). <br></br>
           <b>OBROŃCA: </b> Nie będę wysoki sąd absorbował całością filmu, np.
           nużącymi scenami lamentu na cmentarzu, ani też odgryzaniem sobie dłoni
           przez pijanego wampira, nie spotykamy się też tu po to, aby oceniać
           kunszt aktorski mademoiselle Sarah. Oto tylko ostatnia scena, gdy mój
-          klient ukazuje się w oknie (włącza ekran). Proszę zwrócić uwagę, o, na
-          ten moment. O, proszę, mój kient odwraca się i nachyla nad uchem
-          zamarłej w udanym stuporze katatonii aktorce i reżyserce w jednej
-          osobie, a na jego plecach co widać? Co wystaje spod kołnierzyka?
-          Tasiemki od maski. A tak, proszę zobaczyć... (zatrzymuje obraz i
-          trzymaną w ręku trzcinką wskazuje na ekranie właściwy detal). To dowód
-          główny. A w ogóle bezdzietne małżeństwo z Krywego to nie są postacie
-          autentyczne, to dowód dodatkowy. <br></br>
+          klient ukazuje się w oknie (<i>włącza ekran</i>). Proszę zwrócić
+          uwagę, o, na ten moment. O, proszę, mój kient odwraca się i nachyla
+          nad uchem zamarłej w udanym stuporze katatonii aktorce i reżyserce w
+          jednej osobie, a na jego plecach co widać? Co wystaje spod
+          kołnierzyka? Tasiemki od maski. A tak, proszę zobaczyć... (
+          <i>
+            zatrzymuje obraz i trzymaną w ręku trzcinką wskazuje na ekranie
+            właściwy detal
+          </i>
+          ). To dowód główny. A w ogóle bezdzietne małżeństwo z Krywego to nie
+          są postacie autentyczne, to dowód dodatkowy. <br></br>
           <b>SĘDZIA: </b> Czy obrona posiada ten dowód dodatkowy w realnej
           postaci pozasłownej? <br></br>
           <b>OBROŃCA: </b> Kadry z filmu, na którym dobrze widać aktorów
@@ -1578,13 +1629,17 @@ const Lis = () => {
           Mąż w masce Arno Rafaela Minkkinena zna opowiadanie „Ostatnie zdjęcie
           w Paryżu”, w którym to zdarzenie jest opisane, ponieważ autorem jego
           jest Roman Y. Kukura; zaś sama spowiedź powyższa odbyła się około pięć
-          lat później . Jako autor opowiadania nasz skryba celowo przeinacza
-          fakty w swoim utworze i, wspominając o Sarah, twierdzi, że jej nie ma
-          na obiedzie u Konopki [tym opisywanym]. Całe opowiadanie jest raczej
-          żartem [literackim], który nawet nie kwalifikuje się do rozprawy
-          sądowej [gdyby taką Minkkinem chciał Kukurze wytoczyć], bo można by je
-          uznać za reklamę jego twórczości. Moje osobiste i bliskie kontakty z
-          Sarah nastąpiły znacznie później, a wspominam tu o nich pod wpływem
+          lat później
+          <a id="footnote_26_lis-ref" href="#footnote_26_lis">
+            <sup>26</sup>
+          </a>
+          . Jako autor opowiadania nasz skryba celowo przeinacza fakty w swoim
+          utworze i, wspominając o Sarah, twierdzi, że jej nie ma na obiedzie u
+          Konopki [tym opisywanym]. Całe opowiadanie jest raczej żartem
+          [literackim], który nawet nie kwalifikuje się do rozprawy sądowej
+          [gdyby taką Minkkinem chciał Kukurze wytoczyć], bo można by je uznać
+          za reklamę jego twórczości. Moje osobiste i bliskie kontakty z Sarah
+          nastąpiły znacznie później, a wspominam tu o nich pod wpływem
           ostatnich rozmyślań. Jako że w ogóle wierzę w kontakty z zaświatami,
           pomyślałem, że to duch Sarah mógł mnie opętać w drodze z Tarnicy do
           Krywego, ukazując mi się w postaci ciemnoskórej laski. To upodobanie
@@ -1620,22 +1675,22 @@ const Lis = () => {
           mógłbym był nawet mieć. Bogdan Konopka zmarł dopiero cztery lata
           później, a teraz nie mogę tu nie wspomnieć, że w naszej sekcie był on
           traktowany niemal jak kapłan [prototypu religii podróży w czasie
-          [mieszek aparatu fotograficznego to mały grób, zawierający moment
+          &#123;mieszek aparatu fotograficznego to mały grób, zawierający moment
           minionej chwili, którą zawsze można wywołać, dzięki zarejestrowanemu
-          na kliszy światłu]]. Bogdan Konopka był za życia w paryskich gazetach
-          artystycznych opisywany jako mistrz świata w szarościach. O jego
-          śmierci dowiedziałem się kilka miesięcy po fakcie, gdy zadzwoniłem,
-          aby opowiedzieć mu sen o nim, jaki chwilę przed tym miałem. Telefon
-          odebrała jego żona [osobną rzeczą jest to, że nie zawiadomiła mnie ona
-          o pogrzebie], która także w tym śnie wystąpiła. Szczegółem, który
-          szczególnie mnie uderzył niedawno w moich rozmyślaniach na ten temat,
-          było to, że był to jeden z nielicznych moich snów, w którym tylko
-          niektóre elementy były kolorowe, inne zaś szare. Rzecz działa się w
-          moim mieszkaniu w Fontenay-Aux-Roses, gdzie za oknem miałem ogromny
-          krzew czerwonych róż. Róże kwitły w tym śnie w swoim naturalnym
-          kolorze. Wino w butelce, którą otworzyłem, żeby uświęcić tę
-          uroczystość naszego spotkania, też było czerwone [goście nigdy nie
-          byli u mnie w tym mieście].
+          na kliszy światłu&#125;]. Bogdan Konopka był za życia w paryskich
+          gazetach artystycznych opisywany jako mistrz świata w szarościach. O
+          jego śmierci dowiedziałem się kilka miesięcy po fakcie, gdy
+          zadzwoniłem, aby opowiedzieć mu sen o nim, jaki chwilę przed tym
+          miałem. Telefon odebrała jego żona [osobną rzeczą jest to, że nie
+          zawiadomiła mnie ona o pogrzebie], która także w tym śnie wystąpiła.
+          Szczegółem, który szczególnie mnie uderzył niedawno w moich
+          rozmyślaniach na ten temat, było to, że był to jeden z nielicznych
+          moich snów, w którym tylko niektóre elementy były kolorowe, inne zaś
+          szare. Rzecz działa się w moim mieszkaniu w Fontenay-Aux-Roses, gdzie
+          za oknem miałem ogromny krzew czerwonych róż. Róże kwitły w tym śnie w
+          swoim naturalnym kolorze. Wino w butelce, którą otworzyłem, żeby
+          uświęcić tę uroczystość naszego spotkania, też było czerwone [goście
+          nigdy nie byli u mnie w tym mieście].
         </p>
         <p className="h2_wstep">
           Miałem zamiar rozlewać wino do szklanic, gdy Bogdan rzekł wesoło:
@@ -1663,12 +1718,12 @@ const Lis = () => {
           wspomniałem o tej dawnej przygodzie w Krywem. Wtedy nawet jeszcze nie
           znałem Sarah ani tym bardziej jej wcielenia w piękną Marię Magdalenę,
           która przybrała tę opisywaną wyżej czarną cielesną postać [dającą się
-          dotknąć, emanować rozkoszą i nawet proszącą, aby ją zapłodnić [jak to
-          już wyznałem chyba, więc nie będę się wypierał]]. To opisane zdarzenie
-          weszło w skład manifestu Partii Stworzycieli Nowego Boga, ale gdyby
-          ktokolwiek z moich P.T. Czytelników natknął się był już kiedyś na ten
-          utwór w innych moich opowieściach, może przecież te kilka stron
-          opuścić [udzielam dyspenzy]:
+          dotknąć, emanować rozkoszą i nawet proszącą, aby ją zapłodnić
+          &#123;jak to już wyznałem chyba, więc nie będę się wypierał&#125;]. To
+          opisane zdarzenie weszło w skład manifestu Partii Stworzycieli Nowego
+          Boga, ale gdyby ktokolwiek z moich P.T. Czytelników natknął się był
+          już kiedyś na ten utwór w innych moich opowieściach, może przecież te
+          kilka stron opuścić [udzielam dyspenzy]:
         </p>
         <img className="img_text" src={dante}></img>
         <h2 className="h2_podpis_img">
@@ -1812,7 +1867,7 @@ const Lis = () => {
         <p className="h2_wstep">
           Ponieważ o podobnym rozumie złożonym z małych rozumków wiedzieliśmy
           dotąd tylko z powieści science fiction Stanisława Lema
-          “Niezwyciężony”, tereny jego przejawu na Ziemi na tak gigantyczną
+          „Niezwyciężony”, tereny jego przejawu na Ziemi na tak gigantyczną
           skalę, jeśli idzie o ilość egzemplarzy tej samej populacji, uznaliśmy
           za dobry znak, aby właśnie tam umiejscowić nasze centrum opanowywania
           technologii reinkarnacji.
@@ -1847,12 +1902,13 @@ const Lis = () => {
           przesyłaniem energii orgazmicznej na odległość wsławił się on w naszej
           sekcie jak mało kto. Jednak, z niewiadomych przyczyn, Oszczecirski
           wykorzystał w jednym z seansów internetowych moją prywatną maskę
-          [każdy członek naszej sekty ma maskę, służącą głównie do spowiedzi [w
-          spowiedziach wszyscy, oprócz spytka i sędziego, występują w maskach,
-          choć niekoniecznie swoich]] i onanizował się na wizji w przytomności
-          jednej z naszych adeptek podczas przesyłania „energii rozkoszy”, z
-          czego 45 sekund zostało zarejestrowanych, a następnie dostało się do
-          sieci, co groziło mi karą za rozpowszechnianie pornografii.
+          [każdy członek naszej sekty ma maskę, służącą głównie do spowiedzi
+          &#123;w spowiedziach wszyscy, oprócz spytka i sędziego, występują w
+          maskach, choć niekoniecznie swoich&#125;] i onanizował się na wizji w
+          przytomności jednej z naszych adeptek podczas przesyłania „energii
+          rozkoszy”, z czego 45 sekund zostało zarejestrowanych, a następnie
+          dostało się do sieci, co groziło mi karą za rozpowszechnianie
+          pornografii.
         </p>
         <p className="h2_wstep">
           Szczegóły tego całkowicie niezwykłego incydentu próbujemy zrozumieć
@@ -1889,39 +1945,49 @@ const Lis = () => {
           </b>
         </p>
         <p className="h2_wstep">
-          W nocy poprzedzającej ten mój pobyt poranny w tym przybytku rozkoszy
-          podniebienia, zabiłem muchę, zwaną przez Francuzów <i>merdeuse</i>.
-          (Daje się widzieć na gównie psa, którego na ulicach Paryża pełno) .
-          Kiedy nocą wszedłem do sypialni, moja żona obudziła się (drzwi
-          skrzypią, co ją jak zwykle budzi i nastraja agresywnie); zaświeciła
-          światło i jęła mi się przyglądać z uwagą samicy węszącej zdradę.
-          Wówczas zauważyłem ogromną muchę, krążącą przy jej twarzy. Błyszczącą,
-          zielono–złotą, smakoszkę psiego gówna.
+          <b>
+            W nocy poprzedzającej ten mój pobyt poranny w tym przybytku rozkoszy
+            podniebienia, zabiłem muchę, zwaną przez Francuzów <i>merdeuse</i>.
+            (Daje się widzieć na gównie psa, którego na ulicach Paryża pełno)
+            <a id="footnote_27_lis-ref" href="#footnote_27_lis">
+              <sup>27</sup>
+            </a>
+            . Kiedy nocą wszedłem do sypialni, moja żona obudziła się (drzwi
+            skrzypią, co ją jak zwykle budzi i nastraja agresywnie); zaświeciła
+            światło i jęła mi się przyglądać z uwagą samicy węszącej zdradę.
+            Wówczas zauważyłem ogromną muchę, krążącą przy jej twarzy.
+            Błyszczącą, zielono–złotą, smakoszkę psiego gówna.
+          </b>
         </p>
         <p className="h2_wstep">
-          Krążąc zygzakowato wzbudzała we mnie wstręt, ale mdłości chwyciły mnie
-          w momencie, gdy usiadła nagle na krzyżyku różańca, który moja żona ma
-          rozpięty na ścianie przy łóżku. Był to różaniec większy od
-          przeciętnych, jakby zakonny, zaś sam krzyżyk był z metalu. Obrzydliwy
-          ten stwór usiadł na ciele metalowej postaci ukrzyżowanego, a nagły
-          związek tak różnych rzeczywistości w moich myślach sprawił, że nie
-          mogłem zaakceptować tego obrazu i instynktownie zamachnąłem się
-          porwanym z podłogi pantoflem, aby uderzyć krzyż. Żona spojrzała na
-          mnie przenikliwie (oczami więcej, niż mogłaby wyrazić słowami): gotowa
-          była jak ja zaakceptować ten mord na krzyżu.
+          <b>
+            Krążąc zygzakowato wzbudzała we mnie wstręt, ale mdłości chwyciły
+            mnie w momencie, gdy usiadła nagle na krzyżyku różańca, który moja
+            żona ma rozpięty na ścianie przy łóżku. Był to różaniec większy od
+            przeciętnych, jakby zakonny, zaś sam krzyżyk był z metalu.
+            Obrzydliwy ten stwór usiadł na ciele metalowej postaci
+            ukrzyżowanego, a nagły związek tak różnych rzeczywistości w moich
+            myślach sprawił, że nie mogłem zaakceptować tego obrazu i
+            instynktownie zamachnąłem się porwanym z podłogi pantoflem, aby
+            uderzyć krzyż. Żona spojrzała na mnie przenikliwie (oczami więcej,
+            niż mogłaby wyrazić słowami): gotowa była jak ja zaakceptować ten
+            mord na krzyżu.
+          </b>
         </p>
         <p className="h2_wstep">
-          Lecz tymczasem mucha uciekła, zapewne czując złe. Nie odleciała jednak
-          daleko, a nasza wspólna zemsta chciała się zrealizować. Żona
-          obserwowała mnie, a ja zabijałem: podszedłszy z pantoflem na palcach
-          do ściany, klepnąłem muchę packą podeszwy, aż dał się słyszeć odgłos
-          pęknięcia dobrze spasionej ohydy. Pokazałem żonie placek, a ona
-          złapała się za usta, chcąc natychmiast wymiotować. Przez zaciśnięte
-          zęby powiedziała „wyrzuć to!”{" "}
+          <b>
+            Lecz tymczasem mucha uciekła, zapewne czując złe. Nie odleciała
+            jednak daleko, a nasza wspólna zemsta chciała się zrealizować. Żona
+            obserwowała mnie, a ja zabijałem: podszedłszy z pantoflem na palcach
+            do ściany, klepnąłem muchę packą podeszwy, aż dał się słyszeć odgłos
+            pęknięcia dobrze spasionej ohydy. Pokazałem żonie placek, a ona
+            złapała się za usta, chcąc natychmiast wymiotować. Przez zaciśnięte
+            zęby powiedziała „wyrzuć to!”
+          </b>
         </p>
         <img className="img_text" src={przemysl}></img>
         <h2 className="h2_podpis_img">
-          Przemysl w Średniowieczu. W działaniach magicznych performansu
+          „Przemyśl w Średniowieczu”. W działaniach magicznych performansu
           Przemyśl traktuje się jako osobny [inny] Paryż albo jako Paryż XXI.
         </h2>
         <h2 className="h1_wstep">16</h2>
@@ -2105,55 +2171,65 @@ const Lis = () => {
           <b>
             {" "}
             – Nie jest łatwo zrozumieć: czy pomylił się o tę sekundę, czy zrobił
-            to celowo?<sup>28</sup>
+            to celowo?
+            <a id="footnote_28_lis-ref" href="#footnote_28_lis">
+              <sup>28</sup>
+            </a>
           </b>
         </p>
         <p className="h2_wstep">
-          Było mi przez chwilę bardzo przykro. Jakkolwiek też przecież
-          równocześnie dobrze wiedziałem, że on żartuje, bo oczywiście żartował.
-          W ciągu ostatnich ośmiu miesięcy Adam Pstrąg wyraził się
-          bagatelizująco na temat tej mojej przygody około stu razy, każdorazowo
-          inaczej, już to udając, że nie wierzy w winę Baydały, już to twierdząc
-          wręcz, że powinienem być mu wdzięczny, bo w ten sposób przeżyłem to
-          tak mocno, jakbym sam to uczynił, więc mam rzecz z głowy. Bynajmniej
-          jednak nie od naszego szefa zależał ten mój stan zawieszenia, w którym
-          nie mogłem się pozbierać po ciosie, jaki otrzymałem od losu, tylko coś
-          we mnie musiało się stać, żebym uznał dzisiaj, że muszę się opamiętać
-          i kontynuować ciąg dalszy, jakby nigdy nic. Po prawdzie, to i znajomi
-          Polacy z Paryża mi to już wcześniej radzili. Pierwszy z nich,
-          Aleksander Cz., stary działacz polskiego związku „Solidarność”, gdy
-          jakieś pół roku temu zadzwoniłem do niego i opowiedziałem, że film, na
-          którym widać, jak się onanizuję, krąży w sieci web, odpowiedział mi,
-          że pewien bardzo znany francuski polityk [nazwisko mi uleciało z
-          głowy] robił to samo na oczach telewidzów, „i nie tylko, nie tylko
-          on”…
+          <b>
+            Było mi przez chwilę bardzo przykro. Jakkolwiek też przecież
+            równocześnie dobrze wiedziałem, że on żartuje, bo oczywiście
+            żartował. W ciągu ostatnich ośmiu miesięcy Adam Pstrąg wyraził się
+            bagatelizująco na temat tej mojej przygody około stu razy,
+            każdorazowo inaczej, już to udając, że nie wierzy w winę Baydały,
+            już to twierdząc wręcz, że powinienem być mu wdzięczny, bo w ten
+            sposób przeżyłem to tak mocno, jakbym sam to uczynił, więc mam rzecz
+            z głowy. Bynajmniej jednak nie od naszego szefa zależał ten mój stan
+            zawieszenia, w którym nie mogłem się pozbierać po ciosie, jaki
+            otrzymałem od losu, tylko coś we mnie musiało się stać, żebym uznał
+            dzisiaj, że muszę się opamiętać i kontynuować ciąg dalszy, jakby
+            nigdy nic. Po prawdzie, to i znajomi Polacy z Paryża mi to już
+            wcześniej radzili. Pierwszy z nich, Aleksander Cz., stary działacz
+            polskiego związku „Solidarność”, gdy jakieś pół roku temu
+            zadzwoniłem do niego i opowiedziałem, że film, na którym widać, jak
+            się onanizuję, krąży w sieci web, odpowiedział mi, że pewien bardzo
+            znany francuski polityk [nazwisko mi uleciało z głowy] robił to samo
+            na oczach telewidzów, „i nie tylko, nie tylko on”…
+          </b>
         </p>
         <p className="h2_wstep">
-          – A w ogóle: pierdol to! – zakończył po przyjacielsku.
+          <b>– A w ogóle: pierdol to! – zakończył po przyjacielsku.</b>
         </p>
         <h2 className="h1_wstep">18</h2>
 
         <p className="h2_wstep">
-          W naszej sekcie, która jest przecież sektą artystyczną [o czym chyba
-          wszyscy wiedzą, ale dla pewności powtarzam], a jeszcze ściślej
-          zdarzeniem artystycznym [performance], ogłoszonym w Paryżu 22 III 1993
-          roku, większość partycypantów to są osoby standardowo złośliwe [jak to
-          zwykle bywa pośród artystów]. Każda młoda religia choćby częściowo
-          musi się ukrywać pod jakąś maską, także i my jesteśmy narażeni na
-          niebezpieczeństwa ataków ze strony centrów innych aksjologii, a w tej
-          konkretnej sytuacji celem będzie właśnie nasz stosunek do seksu. Już
-          sam fakt, że pierwszy bóg chowu ziemskiego miałby być tworzony
-          [tworzony przez ludzi dla ludzi] na bazie energii orgazmicznej, nie we
-          wszystkich tzw. wielkich religiach byłby zaaprobowany. Taki incydent
-          jak film „45 sekund” zostałby od razu posądzony o wykorzystywanie
-          mickiewiczowskiego proroctwa w sposób bluźnierczy. I choć nigdy w
-          życiu nie miałem chęci na takie głupie żarty, żeby pojawiać się na
-          metahistorycznym koniu, to w tej sytuacji, nawet gdyby gen. Pstrąg
-          prosił mnie o to dla tzw. jaj [choć on nigdy nie kpi z żadnej
-          religii], musiałbym odmówić, a to ze względu na to odium potomka Onana
-          [tak źle odbierane w tej otumanionej Europie]!
+          <b>
+            W naszej sekcie, która jest przecież sektą artystyczną [o czym chyba
+            wszyscy wiedzą, ale dla pewności powtarzam], a jeszcze ściślej
+            zdarzeniem artystycznym [performance], ogłoszonym w Paryżu 22 III
+            1993 roku, większość partycypantów to są osoby standardowo złośliwe
+            [jak to zwykle bywa pośród artystów]. Każda młoda religia choćby
+            częściowo musi się ukrywać pod jakąś maską, także i my jesteśmy
+            narażeni na niebezpieczeństwa ataków ze strony centrów innych
+            aksjologii, a w tej konkretnej sytuacji celem będzie właśnie nasz
+            stosunek do seksu. Już sam fakt, że pierwszy bóg chowu ziemskiego
+            miałby być tworzony [tworzony przez ludzi dla ludzi] na bazie
+            energii orgazmicznej, nie we wszystkich tzw. wielkich religiach
+            byłby zaaprobowany. Taki incydent jak film „45 sekund” zostałby od
+            razu posądzony o wykorzystywanie mickiewiczowskiego proroctwa w
+            sposób bluźnierczy. I choć nigdy w życiu nie miałem chęci na takie
+            głupie żarty, żeby pojawiać się na metahistorycznym koniu, to w tej
+            sytuacji, nawet gdyby gen. Pstrąg prosił mnie o to dla tzw. jaj
+            [choć on nigdy nie kpi z żadnej religii], musiałbym odmówić, a to ze
+            względu na to odium potomka Onana [tak źle odbierane w tej
+            otumanionej Europie]!
+          </b>
         </p>
-        <h2 className="h2_wstep_center">„BĄDŹ ZDRÓW! NIE PIERDOL KRÓW!”</h2>
+        <h2 className="h2_wstep_center">
+          <b>„BĄDŹ ZDRÓW! NIE PIERDOL KRÓW!”</b>
+        </h2>
 
         <p className="h2_wstep">
           <b>
@@ -2196,8 +2272,10 @@ const Lis = () => {
           </b>
         </h2>
         <p className="h2_wstep">
-          Dalej mam lukę w pamięci, a za nią następowała scena edukacji
-          seksualnej w rodzinnym kręgu:{" "}
+          <b>
+            Dalej mam lukę w pamięci, a za nią następowała scena edukacji
+            seksualnej w rodzinnym kręgu:
+          </b>
         </p>
         <h2 className="h2_wstep_center">
           <b>
@@ -2225,13 +2303,16 @@ const Lis = () => {
         <h2 className="h1_wstep">19</h2>
 
         <p className="h2_wstep">
-          Wstyd mi, nie mogę sam siebie zrozumieć: jak mogłem napisać „poleciłem
-          sekretarce”? Wprowadzam chwyty literackie, udaję jakieś urzędnicze
-          sfery…?{" "}
+          <b>
+            Wstyd mi, nie mogę sam siebie zrozumieć: jak mogłem napisać
+            „poleciłem sekretarce”? Wprowadzam chwyty literackie, udaję jakieś
+            urzędnicze sfery…?
+          </b>
         </p>
-        <h2 className="h1_wstep">19</h2>
 
-        <p className="h2_wstep_center">MINIPROLOGOMENA DO MITOLOGII SEKTY</p>
+        <p className="h2_wstep_center">
+          <b>MINIPROLOGOMENA DO MITOLOGII SEKTY</b>
+        </p>
         <p className="h2_wstep">
           <b>
             Nie mogę pominąć pewnych faktów bieżących, choć będę je ograniczał
@@ -2246,19 +2327,21 @@ const Lis = () => {
           </b>
         </p>
         <p className="h2_wstep">
-          JÓZEF HRECZANIK, ur. 27 II 1947 r. w Krywem, pow. Przemyśl. W 1964 r.
-          debiutuje w prasie jako poeta. W 1967 r. kończy Studium Nauczycielskie
-          w Przemyślu. Po śmierci ojca sprzedaje — otrzymane w spadku —
-          gospodarstwo, co mu pozwala na lekkie życie. Deprawuje nieletnią,
-          Marię Kryk, z którą następnie ma syna. Po wygraniu miliona złotych na
-          loterii — w lutym 1971 — kupuje dom w Przemyślu i wydaje własnym
-          sumptem tomik wierszy. Kiedy książka ukazuje się, niszczy cały nakład.
-          Od stycznia 1970 r. do lipca 1971 r. pracuje jako robotnik w
-          Państwowych Kopalniach Gazu Ziemnego. Aresztowany — za umyślne
-          spowodowanie śmierci chorego psychicznie człowieka — przez pięć lat
-          przebywa w więzieniu, gdzie opanowuje około 10 obcych języków i tworzy
-          poematy prozą. 8 IV 1976 popełnia samobójstwo. [z: Archiwum Książka
-          Rzymska]
+          <b>
+            JÓZEF HRECZANIK, ur. 27 II 1947 r. w Krywem, pow. Przemyśl. W 1964
+            r. debiutuje w prasie jako poeta. W 1967 r. kończy Studium
+            Nauczycielskie w Przemyślu. Po śmierci ojca sprzedaje — otrzymane w
+            spadku — gospodarstwo, co mu pozwala na lekkie życie. Deprawuje
+            nieletnią, Marię Kryk, z którą następnie ma syna. Po wygraniu
+            miliona złotych na loterii — w lutym 1971 — kupuje dom w Przemyślu i
+            wydaje własnym sumptem tomik wierszy. Kiedy książka ukazuje się,
+            niszczy cały nakład. Od stycznia 1970 r. do lipca 1971 r. pracuje
+            jako robotnik w Państwowych Kopalniach Gazu Ziemnego. Aresztowany —
+            za umyślne spowodowanie śmierci chorego psychicznie człowieka —
+            przez pięć lat przebywa w więzieniu, gdzie opanowuje około 10 obcych
+            języków i tworzy poematy prozą. 8 IV 1976 popełnia samobójstwo. [z:
+            Archiwum Książka Rzymska]
+          </b>
         </p>
         <img className="img_text" src={grabowski}></img>
         <h2 className="h2_podpis_img">
@@ -2278,6 +2361,9 @@ const Lis = () => {
             co o nim wiem, to fikcja! Byłem o krok od obłędu, choć doświadczyłem
             w życiu niejednej upiorności i byle co nie może mnie złamać
             [odpukałem jednak w mój dębowy niemalowany stół na czerwonej górze!]
+            <a id="footnote_29_lis-ref" href="#footnote_29_lis">
+              <sup>29</sup>
+            </a>
             : teraz już wiem, że ten obłęd byłby jednak raczej moim błędem…
           </b>
         </p>
@@ -2308,7 +2394,9 @@ const Lis = () => {
         <img className="img_text" src={mrowka}></img>
         <h2 className="h2_podpis_img">„Tak, jestem podobny do mrówki!”</h2>
         <h2 className="h1_wstep">20</h2>
-        <p className="h2_wstep_center">SIEDEM MILIARDÓW ARTURÓW</p>
+        <p className="h2_wstep_center">
+          <b>SIEDEM MILIARDÓW ARTURÓW</b>
+        </p>
 
         <p className="h2_wstep">
           <b>
@@ -2360,7 +2448,9 @@ const Lis = () => {
           </b>
         </p>
         <h2 className="h1_wstep">21</h2>
-        <p className="h2_wstep_center">KOK</p>
+        <p className="h2_wstep_center">
+          <b>KOK</b>
+        </p>
         <p className="h2_wstep">
           <b>
             Tymczasem w moim życiu [w świecie zewnętrznym wobec opisywanego]
@@ -2384,23 +2474,27 @@ const Lis = () => {
             społeczeństwie prawie wcale nie zrozumiany, a każde podejście
             „naukowe” wzbudza podejrzenia co do intencji eksperymentatorów.
             Musiałbym więc najpierw wyjaśnić podstawy rozumienia „kobiecego
-            ognia kundalini” [kok] , aby stało się jasne, że samo porozumienie
-            na odległość na falach emocyjnych nie musi dotyczyć tylko sfery
-            seksu. Co do naszych praktyk, trzeba wiedzieć, że działać na
-            odległość było jednym z rodzajów eksperymentów, czyli że
-            wykorzystywaliśmy internet do podniecania się na odległość,
-            natomiast sam fakt takiego podniecenia musiał potwierdzić człowiek
-            [empata-kumat]. Byliśmy w kontakcie z wieloma młodymi kobietami
-            [adeptkami naszej sekty, czasem na bardzo wstępnych poziomach], z
-            którymi dokonywano kontaktów wibracyjnych na znaczne odległości. W
-            praktyce działo się to tak, że określony kumat wysyłał impuls
-            seksualny do konkretnej kobiety w momencie nie określonym z góry,
-            natomiast biorąca udział w eksperymencie miała dać znać
-            telefonicznie, że jej ogień kundalini się zapala [oczywiście,
-            kobieta musiała być świadoma mechaniki swych energii psychicznych].
-            Jeśli kobieta zawiadamiała nas o swoim podnieceniu, gdy impuls nie
-            był do niej wysyłany, mogło to znaczyć, że podnieciła się z innych
-            powodów, samoczynnie bądź w wyniku zapłonu przez innego mężczyznę.{" "}
+            ognia kundalini” [kok]
+            <a id="footnote_30_lis-ref" href="#footnote_30_lis">
+              <sup>30</sup>
+            </a>
+            , aby stało się jasne, że samo porozumienie na odległość na falach
+            emocyjnych nie musi dotyczyć tylko sfery seksu. Co do naszych
+            praktyk, trzeba wiedzieć, że działać na odległość było jednym z
+            rodzajów eksperymentów, czyli że wykorzystywaliśmy internet do
+            podniecania się na odległość, natomiast sam fakt takiego podniecenia
+            musiał potwierdzić człowiek [empata-kumat]. Byliśmy w kontakcie z
+            wieloma młodymi kobietami [adeptkami naszej sekty, czasem na bardzo
+            wstępnych poziomach], z którymi dokonywano kontaktów wibracyjnych na
+            znaczne odległości. W praktyce działo się to tak, że określony kumat
+            wysyłał impuls seksualny do konkretnej kobiety w momencie nie
+            określonym z góry, natomiast biorąca udział w eksperymencie miała
+            dać znać telefonicznie, że jej ogień kundalini się zapala
+            [oczywiście, kobieta musiała być świadoma mechaniki swych energii
+            psychicznych]. Jeśli kobieta zawiadamiała nas o swoim podnieceniu,
+            gdy impuls nie był do niej wysyłany, mogło to znaczyć, że podnieciła
+            się z innych powodów, samoczynnie bądź w wyniku zapłonu przez innego
+            mężczyznę.
           </b>
         </p>
         <p className="h2_wstep">
@@ -2408,7 +2502,7 @@ const Lis = () => {
             Opowiedziałem to na zasadzie przykładu, bo podobnych sytuacji, o
             bardzo różnych przebiegach zdarzeń, przeprowadziliśmy tysiące, a
             popełnione przez Baydałę przestępstwo ma związek z podobnym
-            problemem.{" "}
+            problemem.
           </b>
         </p>
         <img className="img_text" src={grabowski2}></img>
@@ -2416,7 +2510,9 @@ const Lis = () => {
           Przemyśl – epoka niedawno miniona. Rys. Wojciech Grabowski.
         </h2>
         <h2 className="h1_wstep">22</h2>
-        <p className="h2_wstep_center"> PIERWSZA WZMIANKA O SZKOLE EMOCJI</p>
+        <p className="h2_wstep_center">
+          <b>PIERWSZA WZMIANKA O SZKOLE EMOCJI</b>
+        </p>
         <p className="h2_wstep">
           <b>
             Podobno naukowcy odkryli, że rozwój umysłowy człowieka zaczął się,
@@ -2433,12 +2529,15 @@ const Lis = () => {
         <p className="h2_wstep">
           <b>
             Milion lat później w naszej sekcie, a konkretnie w teatrzyku
-            „Obrzezane ucho” wyglądało to tak: Żółty Kieł<sup>31</sup> miał
-            ogromną głowę, ale tylko jednego zęba, zaś Ali Wo zwracał uwagę swą
-            pięknie uformowaną szczęką jak z porcelany, ale głowę nosił osadzoną
-            na zbyt długiej szyi, którą potrafił zginać w połowie jak giętki
-            patyk, i która chyba właśnie dlatego wydawała się za mała. Żółty
-            Kieł był naszym błaznem, zaś Ali Wo konferansjerem. Pierwszy
+            „Obrzezane ucho” wyglądało to tak: Żółty Kieł
+            <a id="footnote_31_lis-ref" href="#footnote_31_lis">
+              <sup>31</sup>
+            </a>{" "}
+            miał ogromną głowę, ale tylko jednego zęba, zaś Ali Wo zwracał uwagę
+            swą pięknie uformowaną szczęką jak z porcelany, ale głowę nosił
+            osadzoną na zbyt długiej szyi, którą potrafił zginać w połowie jak
+            giętki patyk, i która chyba właśnie dlatego wydawała się za mała.
+            Żółty Kieł był naszym błaznem, zaś Ali Wo konferansjerem. Pierwszy
             rozśmieszał publiczność wyglądem, drugi kojarzył się ze żmiją
             stojącą na ogonie [a czasem ubieraliśmy go dodatkowo w szatę podobną
             do skóry wężowej]. Siebie opisywać byłoby mi głupio, a mego bohatera
@@ -2463,8 +2562,8 @@ const Lis = () => {
             jako naturalna właściwość psychiki, nie mówiąc o odczuwaniu czyichś
             uczuć [strachu, radości itp.], o czym wiedział już Gustaw Le Bon.
             Dlatego używaliśmy grubych słów i seksualnych podtekstów [oraz i
-            tekstów [niestety, głównie polskich, bo chcieliśmy najpierw
-            wypróbować rzecz na jednej nacji]]. Jednak dobrze pamiętam, że
+            tekstów &#123;niestety, głównie polskich, bo chcieliśmy najpierw
+            wypróbować rzecz na jednej nacji&#125;]. Jednak dobrze pamiętam, że
             pierwsza wzmianka o szkole nauk emocyjnych pojawiła się podczas
             spektaklu o równouprawnieniu płci, do którego użyliśmy piosenki
             ludowej. [Gdy miałem 12 lat, zaśpiewał mi ją kolega, który w tym
@@ -2478,16 +2577,22 @@ const Lis = () => {
           </b>
         </p>
         <p className="h2_wstep_center">
-          {" "}
-          Antek siedział na jabłoni, <br></br>
-          Chujem bębnił, jajem dzwonił, <br></br>A Kasicha pod jabłonią<br></br>
-          Zatykała pizdę dłonią!
+          <b>
+            Antek siedział na jabłoni, <br></br>
+            Chujem bębnił, jajem dzwonił, <br></br>A Kasicha pod jabłonią
+            <br></br>
+            Zatykała pizdę dłonią!
+          </b>
         </p>
-        <p className="h2_wstep_center"> Chór:</p>
         <p className="h2_wstep_center">
           {" "}
-          Chuja rozciąć! Pizdę zaszyć! <br></br>
-          Nie będą się więcej straszyć!
+          <b>Chór:</b>
+        </p>
+        <p className="h2_wstep_center">
+          <b>
+            Chuja rozciąć! Pizdę zaszyć! <br></br>
+            Nie będą się więcej straszyć!
+          </b>
         </p>
 
         <p className="h2_wstep">
@@ -2499,17 +2604,22 @@ const Lis = () => {
           </b>
         </p>
         <p className="h2_wstep">
-          <i>
-            Plan gen. Pstrąga jest taki, żeby zawiadomić wszystkich poetów
-            europejskich, że z okazji 200–lecia urodzin Adama Mickiewicza,
-            Europejski Ośrodek Regeneracji Sacrum [tzw. EROS] zaprasza ich do
-            powtórzenia gestu w/w polskiego proroka, który „uklęknął przed Merem
-            Paryża, prosząc o pomoc w ratowaniu ludzkości”. Poeci mieliby klękać
-            publicznie, począwszy od Placu Bastylii, a potem w dowolnym miejscu
-            Stolicy, zaś zbiorowym merem byłby lud Europy. Zebrane datki
-            żebracze posłużyłyby na rozruch głównej idei, jaką jest wspólne
-            stworzenie pierwszego w historii języka emocyjnego.<sup>32</sup>
-          </i>
+          <b>
+            <i>
+              Plan gen. Pstrąga jest taki, żeby zawiadomić wszystkich poetów
+              europejskich, że z okazji 200–lecia urodzin Adama Mickiewicza,
+              Europejski Ośrodek Regeneracji Sacrum [tzw. EROS] zaprasza ich do
+              powtórzenia gestu w/w polskiego proroka, który „uklęknął przed
+              Merem Paryża, prosząc o pomoc w ratowaniu ludzkości”. Poeci
+              mieliby klękać publicznie, począwszy od Placu Bastylii, a potem w
+              dowolnym miejscu Stolicy, zaś zbiorowym merem byłby lud Europy.
+              Zebrane datki żebracze posłużyłyby na rozruch głównej idei, jaką
+              jest wspólne stworzenie pierwszego w historii języka emocyjnego.
+              <a id="footnote_32_laure-ref" href="#footnote_32_laure">
+                <sup>32</sup>
+              </a>
+            </i>
+          </b>
         </p>
         <img className="img_text" src={grabowski3}></img>
         <h2 className="h2_podpis_img">
@@ -2526,8 +2636,8 @@ const Lis = () => {
           i już miałem odejść w krainę snu, gdy rzuciwszy okiem na fejsa,
           uradowałem się tekstem, który tam przeczytałem [domyśliłem się, że
           jest to odpowiedź na żądanie ministra edukacji, żeby młodzież polska
-          oraz dzieci przestały się onanizować [co przedstawiam na prawach
-          cytatu]]:
+          oraz dzieci przestały się onanizować &#123;co przedstawiam na prawach
+          cytatu&#125;]:
         </p>
         <p className="h2_wstep">
           <b>
@@ -2567,7 +2677,10 @@ const Lis = () => {
         <p className="h2_wstep">
           <b>
             Oto piosenka Dalli. Wsłuchaj się, Ministrze, w jej charakterystyczny
-            rytm:<sup>33</sup>
+            rytm:
+            <a id="footnote_33_laure-ref" href="#footnote_33_laure">
+              <sup>33</sup>
+            </a>
           </b>
         </p>
         <p className="h2_wstep_center">
@@ -2650,14 +2763,11 @@ const Lis = () => {
         </p>
         <p className="h2_wstep_center">
           <b>
-            po schodkach <br></br> po zbawienie <br></br>ze schodków
+            po schodkach <br></br> po zbawienie <br></br>ze schodków<br></br>w
+            potępienie
           </b>
         </p>
-        <p className="h2_wstep_center">
-          <b>
-            po schodkach <br></br> po zbawienie <br></br>ze schodków
-          </b>
-        </p>
+
         <p className="h2_wstep_center">
           <b>
             chmury i głuche okna <br></br>
@@ -2665,8 +2775,10 @@ const Lis = () => {
           </b>
         </p>
         <p className="h2_wstep_right">
-          {" "}
-          T. Piekło<sup>34</sup>
+          T. Piekło
+          <a id="footnote_34_laure-ref" href="#footnote_34_laure">
+            <sup>34</sup>
+          </a>
         </p>
 
         <p className="h2_wstep">
@@ -2925,7 +3037,7 @@ const Lis = () => {
           akcie świadomości byłem w momencie <i>immissio penis</i> z kpr.
           Weronicz, ku niezwykłemu swemu zdziwieniu nazywając się teraz
           Władysław Matuga, mający na sobie mundur kaprala wojska II
-          Rzeczpospolitej Polskiej [we śnie zrozumiałem to na zasadzie{" "}
+          Rzeczpospolitej Polskiej [we śnie zrozumiałem to na zasadzie
           <i>eo ipso</i>] i słyszący takie oto podniecone głosy co najmniej
           kilku mężczyzn:
         </p>
@@ -2986,9 +3098,16 @@ const Lis = () => {
           Piekło [to] umieściłem koło Wielkiej Pustki, we wnętrzu kuli z ołowiu
           o ścianach grubości ćwierci parseka [nawet neutrino nie może
           przelecieć przez taką zaporę]; z litości nad ludzkością ustaliłem
-          pobyt [tam] na jedną tylko wieczność<sup>35</sup>. Utwór pisałem pod
-          wpływem własnych wizji, wyjaśniłem to we wstępie [ubolewając nad niską
-          jakością nauk o życiu zagrobowym [oto urywek wstępu]]:
+          pobyt [tam] na jedną tylko wieczność
+          <a id="footnote_35_laure-ref" href="#footnote_35_laure">
+            <sup>35</sup>
+          </a>
+          . Utwór pisałem pod wpływem własnych wizji, wyjaśniłem to we wstępie
+          <a id="footnote_36_laure-ref" href="#footnote_36_laure">
+            <sup>36</sup>
+          </a>
+          [ubolewając nad niską jakością nauk o życiu zagrobowym &#123;oto
+          urywek wstępu&#125;]:
         </p>
         <p className="h2_wstep">
           <b>
@@ -3011,19 +3130,24 @@ const Lis = () => {
         </p>
         <h2 className="h1_wstep">28</h2>
         <p className="h2_wstep_center">
-          <b>Montrouge, 10 XI 2022 (z dziennika)</b>
+          <b>
+            <i>Montrouge, 10 XI 2022</i> (z dziennika)
+          </b>
           <br></br> (zapis ogłoszony na Facebooku dnia j.w.)
         </p>
         <p className="h2_wstep">
-          Chciałem dziś zrobić przypis<sup>37</sup> [do opowiadania, które
-          aktualnie piszę] o Adamie Mickiewiczu, ale z myślą o czytelniku
-          francuskim, bo pewien mój młody przyjaciel chce rzecz tę przełożyć na
-          język tubylców. W opowiadaniu wspominam o naszym wieszczu kilkakrotnie
-          [m.in. gdy moi bohaterowie naśladują incydent poszukiwania mrówek w
-          zakamarkach swoich ciał na wycieczce do lasu], ale ponieważ rano wpadł
-          mi w ręce artykulik na ten temat z bardzo starej gazety, pomyślałem,
-          żeby pochwalić się także [tymi] mało znanymi związkami Mickiewicza z
-          moim rodzinnym miastem.{" "}
+          Chciałem dziś zrobić przypis
+          <a id="footnote_37_laure-ref" href="#footnote_37_laure">
+            <sup>37</sup>
+          </a>{" "}
+          [do opowiadania, które aktualnie piszę] o Adamie Mickiewiczu, ale z
+          myślą o czytelniku francuskim, bo pewien mój młody przyjaciel chce
+          rzecz tę przełożyć na język tubylców. W opowiadaniu wspominam o naszym
+          wieszczu kilkakrotnie [m.in. gdy moi bohaterowie naśladują incydent
+          poszukiwania mrówek w zakamarkach swoich ciał na wycieczce do lasu],
+          ale ponieważ rano wpadł mi w ręce artykulik na ten temat z bardzo
+          starej gazety, pomyślałem, żeby pochwalić się także [tymi] mało
+          znanymi związkami Mickiewicza z moim rodzinnym miastem.{" "}
         </p>
         <p className="h2_wstep_center">
           <b>ODSŁONIĘCIE POMNIKA ADAMA MICKIEWICZA</b>
@@ -3103,13 +3227,16 @@ const Lis = () => {
           Ducasse [ów arystokrata, który odsądził Mickiewicza od czci i wiary]
           czyta się po francusku tak samo, jak po polsku nazwisko Dykas! A po
           drugie: cały dzień chodził dziś za mną Arthur Rimbaud [czy to dlatego,
-          że [to] opowiadanie jest wariacją na tematy dantejskie, niezależnie
-          tak samo jak „Sezon w Piekle”?], ale gdy jednak zaglądnąłem do
-          Encyklopedii Alpha [rok wyd. 1974, tom 13, str. 5121], okazało się, że
-          chyba znów odebrałem informację z innych wymiarów, bo dziś jest akurat
-          131 rocznica jego śmierci [10 XI 1891 r.]. [Przepraszam, ale to jednak
-          była Wikipedia]!*<br></br>* „Encyklopedia Alpha” jest piękna i
-          solidna, ale pewnych szczegółów w niej brak! rl
+          że &#123;to&#125; opowiadanie jest wariacją na tematy dantejskie,
+          niezależnie tak samo jak „Sezon w Piekle”?], ale gdy jednak
+          zaglądnąłem do Encyklopedii Alpha [rok wyd. 1974, tom 13, str. 5121],
+          okazało się, że chyba znów odebrałem informację z innych wymiarów, bo
+          dziś jest akurat 131 rocznica jego śmierci [10 XI 1891 r.].
+          [Przepraszam, ale to jednak była Wikipedia]!*<br></br>
+        </p>
+        <p className="h2_wstep">
+          * „Encyklopedia Alpha” jest piękna i solidna, ale pewnych szczegółów w
+          niej brak! rl
         </p>
         <h2 className="h1_wstep">29</h2>
         <p className="h2_wstep_center">
@@ -3124,7 +3251,11 @@ const Lis = () => {
         </p>
         <p className="h2_wstep_center">[ocenzur. Inst. Heg. Czł.]</p>
         <p className="h2_wstep_center">
-          Nie zapomniałem, że to stamtąd Fredro<sup>38</sup> <br></br>
+          Nie zapomniałem, że to stamtąd Fredro
+          <a id="footnote_38_laure-ref" href="#footnote_38_laure">
+            <sup>38</sup>
+          </a>{" "}
+          <br></br>
           pochodził, który Mickiewicza dzieło<br></br>
           poprawił, nową dodając mu księgę!
         </p>
@@ -3141,20 +3272,23 @@ const Lis = () => {
         <h2 className="h1_wstep">30</h2>
 
         <p className="h2_wstep">
-          „Co jednakie jest w łóżku albo na tapczanie!”<sup>39</sup> – dodam tu
-          za poetą, i na tym jednak zakończę… Wybacz, drogi P.T. Czytelniku, ale
-          rezygnuję z opisu <i>coitus</i>, który obiecałem, zaś powody tego
-          okryję tajemnicą. Powiem tylko, że chciałem zacząć [ten rozdział] od
-          słów: „I wtedy my w ślinę!” [bo tak się w Przemyślu mówiło, gdy miałem
-          15 lat, a ktoś opowiadał o swojej randce], co znaczyło, że zaczęliśmy
-          się całować! O, te grube murzyńskie wargi, nigdy ich nie zapomnę! Cóż
-          powiem więcej? Pamiętam, że w tych pierwszych sekundach fazy wstępnej
-          gry miłosnej, gdy już dłoń trzymałem na jej pulchnym pagórku łonowym,
-          pięknie wygolonym, parsknąłem śmiechem, zgoła bezsensownym, bo
-          przypomniałem sobie [w takim momencie!] okrzyki żołnierzy
-          podglądających kaprala Matugę, swego dowódcę, gdy kładł się on na
-          pewnej niewieście, tak samo jak ja w celu doznania wyższego stanu
-          świadomości:{" "}
+          „Co jednakie jest w łóżku albo na tapczanie!”
+          <a id="footnote_39_laure-ref" href="#footnote_39_laure">
+            <sup>39</sup>
+          </a>{" "}
+          – dodam tu za poetą, i na tym jednak zakończę… Wybacz, drogi P.T.
+          Czytelniku, ale rezygnuję z opisu <i>coitus</i>, który obiecałem, zaś
+          powody tego okryję tajemnicą. Powiem tylko, że chciałem zacząć [ten
+          rozdział] od słów: „I wtedy my w ślinę!” [bo tak się w Przemyślu
+          mówiło, gdy miałem 15 lat, a ktoś opowiadał o swojej randce], co
+          znaczyło, że zaczęliśmy się całować! O, te grube murzyńskie wargi,
+          nigdy ich nie zapomnę! Cóż powiem więcej? Pamiętam, że w tych
+          pierwszych sekundach fazy wstępnej gry miłosnej, gdy już dłoń
+          trzymałem na jej pulchnym pagórku łonowym, pięknie wygolonym,
+          parsknąłem śmiechem, zgoła bezsensownym, bo przypomniałem sobie [w
+          takim momencie!] okrzyki żołnierzy podglądających kaprala Matugę,
+          swego dowódcę, gdy kładł się on na pewnej niewieście, tak samo jak ja
+          w celu doznania wyższego stanu świadomości:{" "}
         </p>
         <p className="h2_wstep">
           – „Brawo, panie kapral! I w popielnik! I w te wilgoć!”
@@ -3266,21 +3400,22 @@ const Lis = () => {
           starają się utrzymywać świadomość na poziomie stanu miodowego [do tego
           używają człowieka]. Pasożytują na nas, ale musimy im to wybaczyć, bo
           robią to także dla nas. Ale i człowiek może wykorzystać rozkosz w tym
-          celu [żeby opanować śmierć i dołączyć do mrówek [i nie tylko mrówek,
-          bo i miliardów cywilizacji, które tym się zajmują]]: z dobrowolnie
-          oddanej części własnej energii orgazmicznej będzie można zbudować boga
-          chowu ziemskiego i przy jego pomocy dołączyć do unii cywilizacji
-          opanowujących śmierć, a następnie też [wspólnie] poszukiwać Stwórcę.
-          Jako zdarzenie osobnicze rozkosz orgazmiczna nie ma żadnej wartości
-          [nie tworzy się stos karmana z rozkoszy], pod tym względem służy tylko
-          do kontynuacji życia biologicznego. Jednak obecnie będzie można zacząć
-          rozkosz wykorzystywać do celów wyższych, czyli do stworzenia nie tylko
-          nowych ludzi, ale [także] bogów. A takich operacji można dokonywać
-          tylko w stanie permanentnie wyższej świadomości, haj powinien trwać
-          dniami i nocami, ba, całymi latami bez przerwy. Dopiero wtedy budzą
-          się w człowieku wyższe myśli. Proszę jednak nie traktować moich słów
-          jako kazania czarnodziurskiego, są to tylko informacje na marginesie
-          mego wspomnienia z okolic Ustrzyk Górnych.
+          celu [żeby opanować śmierć i dołączyć do mrówek &#123;i nie tylko
+          mrówek, bo i miliardów cywilizacji, które tym się zajmują]&#125;: z
+          dobrowolnie oddanej części własnej energii orgazmicznej będzie można
+          zbudować boga chowu ziemskiego i przy jego pomocy dołączyć do unii
+          cywilizacji opanowujących śmierć, a następnie też [wspólnie]
+          poszukiwać Stwórcę. Jako zdarzenie osobnicze rozkosz orgazmiczna nie
+          ma żadnej wartości [nie tworzy się stos karmana z rozkoszy], pod tym
+          względem służy tylko do kontynuacji życia biologicznego. Jednak
+          obecnie będzie można zacząć rozkosz wykorzystywać do celów wyższych,
+          czyli do stworzenia nie tylko nowych ludzi, ale [także] bogów. A
+          takich operacji można dokonywać tylko w stanie permanentnie wyższej
+          świadomości, haj powinien trwać dniami i nocami, ba, całymi latami bez
+          przerwy. Dopiero wtedy budzą się w człowieku wyższe myśli. Proszę
+          jednak nie traktować moich słów jako kazania czarnodziurskiego, są to
+          tylko informacje na marginesie mego wspomnienia z okolic Ustrzyk
+          Górnych.
         </p>
         <p className="h2_wstep">
           Postanowiłem jednak opis tego zdarzenia definitywnie zakończyć, bo po
@@ -3343,7 +3478,7 @@ const Lis = () => {
         </p>
         <p className="h2_wstep">
           Nikt nie wierzy, że tego nie zmyśliłem! Ludzie już nie chcą wierzyć w
-          prawdę!{" "}
+          prawdę!
         </p>
         <p className="h2_wstep_right">R.L.</p>
 
@@ -3357,118 +3492,161 @@ const Lis = () => {
       <div className="content_wstep">
         <h2 className="h1_wstep">PRZYPISY WŁASNE</h2>
 
-        <p className="h2_non_justify ">
-          [1] Drugą zamierzałem wypić z mieszkańcami sioła Krywe, w którym
-          spędziłem ongi pół roku, trudniąc się wyrobnictwem mioteł brzozowych
-          (we wsi tej są ruiny cerkwi, w której popełnił samobójstwo główny
-          bohater innej mojej niedokończonej powieści o tej nazwie co wieś
-          [„Krywe”]). Jakkolwiek jednak stało się inaczej, to muszę tu dodać dla
-          ogólnego obrazu, że trzecią miałem w planie opróżnić w połowie u
-          źródła Sanu, zaś tę druga połowę butelki wlać do [tej] rzeki, a
-          następnie napełnić nią tę pustą butelkę [wodą Sanu], którą wlałbym [po
-          powrocie do Paryża] do Sekwany (po francusku Seine – czytaj: sen).
-          Symboliczność tego gestu i podobieństwo dźwięków nazw obu rzek miało
-          mieć znaczenie magiczne w [mojej prywatnej] jednoosobowej religii.
-          (przyp. wł. – rl); <br></br>
-          [2] Wzgórze w Krakowie, na którym wznosi się zamek królów Polski,
-          widoczne jakoby ze szczytu Tarnicy. Ja nie miałem szczęścia zobaczyć
-          stamtąd Wawelu, a nawet pomyślałem złośliwie, że być może było to
-          możliwe w czasach, gdy ludzie wierzyli, że Ziemia jest płaska.{" "}
-          <br></br>5 lipca 1954 r. przebywał na szczycie Tarnicy przyszły
-          święty, ks. Karol Wojtyła, ale nie wiadomo mi, czy wspominał on o tej
-          turystycznej ciekawostce [bo świętemu może bym uwierzył]!… (przyp. wł.
-          – rl); <br></br>
-          [3] Członkowie sekty czarnodziurskiej kontaktują się z sobą myślami
-          (oraz, jeśli potrafią, emocjami) codziennie około południa, co
-          sprawiło, że nazywa się ich czasem także „południarzami”. (przyp. wł.
-          – rl); [4] Jalu Kurek (1904-1983) [pseudonim: Jan Skowron]. „Gwiazda
-          spada”, Iskry, 1959 (przyp. wł. – rl); <br></br>
-          [5] Op. cit. (przyp. wł. – rl); <br></br>
-          [6] Z różnych powodów utajniam niekiedy własne teksty, tym razem jest
-          to uszkodzenie mechaniczne rękopisu; <br></br>
-          [7] W ogóle nie rozumiem, dlaczego ktoś nie wymyślił małych
-          przenośnych elektrowni wodnych lub wiatrowych, które idący w góry
-          mógłby zabrać z sobą i zainstalować nad potokiem lub na pagórku, aby
-          móc utrzymywać sprawność swych [fragment nieczytelny]!; <br></br>
-          [8] Nie rozumiem też, dlaczego [pisząc to wspomnienie] ukrywałem fakt,
-          że wyprawa moja miała na celu przede wszystkim uczczenie 60 rocznicy
-          ery czarnodziurskiej, której [symboliczną] datą powstania jest 28
-          sierpnia 1954 roku [!]. Z sioła Krywe miałem w tzw. międzyczasie
-          zrobić wycieczkę do źródeł Sanu (przyp. wł. – rl); <br></br>
-          [9] Była to myśl odruchowa. Wielokrotnie w życiu przypominała mi się
-          [podobna] sytuacja, jaka miała miejsce w Bieszczadach w latach
-          siedemdziesiątych XX wieku. Żołnierz Wojsk Ochrony Pogranicza
-          zdezerterował z bronią z tamtejszej jednostki, aby przez
-          Czechosłowację uciec do Austrii. W górach natknął się na parę młodych
-          turystów, z którymi wymienił parę grzecznych słów, jako żołnierz
-          strzegący granicy. Przy pożegnaniu znienacka zastrzelił ich oboje,
-          tłumacząc potem, że mogliby posłużyć za świadków, że był on w tej
-          okolicy. (przyp. wł. – rl); <br></br>
-          [10] Cudzoziemcze, gdybyś kiedyś czytał niniejsze słowa, wybacz mi te
-          dłużyzny, w których usiłuję zdać relację z mojej przygody. Ale chyba
-          naprawdę musiałbyś być Polakiem, żeby ten komediowy niuans o podłożu
-          rasowym mógł cię rozśmieszyć! (Pisząc o tym teraz, w dalszym ciągu nie
-          mam jasności, jak z tą sprawą naprawdę jest [ze służbą czarnoskórych w
-          polskim wojsku, bo z czym?], ale dla samej opowieści jest to rzecz
-          marginalna). (przyp. wł. – rl); <br></br>
-          [11] Citoyen de la Republique Francaise! Quelle surprise! (fr.) –
-          Obywatel Republiki Francuskiej! Jaka niespodzianka! (przyp. wł. – rl);{" "}
-          <br></br>
-          [12] Comme vous voyez, monsieur! (fr.) – Jak pan widzi! (przyp. wł. –
-          rl); <br></br>
-          [13] Vous êtes parisien! Merveilleusement! (fr.) – Pan jest
-          paryżaninem! Cudownie!; <br></br>
-          [14] Je suis voyant comme mon père! (fr.) – Jestem jasnowidzący, jak
-          mój ojciec!; <br></br>
-          [15] Je suis peintre! Mais, moi, je suis peintre en bâtiment! (fr.) –
-          Jestem malarzem! Ale ja jestem malarzem budowlanym! (przyp. wł. – rl);{" "}
-          <br></br>
-          [16]
-          <i>
-            Efektywna złożoność wszechświata to długość zwięzłego opisu jego
-            regularności. Podstawowe prawa dają niewielki wkład do efektywnej
-            złożoności, podobnie jak do algorytmicznej zawartości informacyjnej.
-            Cała reszta pochodzi od licznych regularności wynikających z
-            „zamrożonych przypadków”. Są to zdarzenia losowe, które mają liczne,
-            dalekosiężne konsekwencje, połączone wspólnym pochodzeniem
-          </i>
-          . Murray Gell–Man, „Kwark i jaguar”, Wyd. CIS, 1996 (przyp. wł. – rl);{" "}
-          <br></br>
-          [17] Trudno mi już teraz [kilka dni po napisaniu tych słów]
-          powiedzieć, o jakich saltach myślałem. W ogóle już dawno zauważyłem,
-          że co innego coś przeżyć, a co innego to coś opisywać. W dodatku to,
-          co się przeżyło zmienia się pod wpływem opisywania i jeśli już opisze
-          się to coś, ma się wrażenie, że za słowami znajduje się jakieś inne
-          wydarzenie niż to, które istnieje we wspomnieniu. Jeśli opisze się to
-          samo jeszcze raz, wtedy można stracić rozeznanie, które zdarzenie
-          opisane jest bliższe prawdy, aż wreszcie można popaść w zupełną
-          rozpacz i zwątpić, czy przekazanie jakiejś prawdy indywidualnego
-          przeżycia jest w ogóle możliwe. Pewnie niejeden teoretyk teorii
-          literatury załamuje ręce, czytając te moje dywagacje, a niektórzy może
-          mi radzą, żebym przeczytał powieść „Absalomie, Absalomie…” Williama
-          Faulknera, w której to samo wydarzenie przedstawione jest z około stu
-          różnych punktów widzenia, ale z góry dziękuję za podobne mądrości na
-          temat narracji, jako że w tym przypadku są one jednak już zbyt
-          przestarzałe i nie ułatwiają mi zadania bardziej niż znajomość owej
-          maksymy Horacego [65-8 rok p.n.e.]:{" "}
-          <i>O tobie ta bajka mówi, choć pod zmienionym imieniem</i>. (przyp.
-          wł. – rl); <br></br>
-          [18] „Kundalini kobiece” to określenie ognia psychicznego, odczuwanego
-          bezpośrednio przez mężczyznę, gdy kobieta jest seksualnie podniecona.
-          Termin pochodzi z terenu myśli wschodniej, ale problem jest
-          ogólnoludzki i najwyższy czas nazwać go jakoś po europejsku!
-          Wychowanie seksualne w Polsce woła o pomstę do nieba! (przyp. wł. –
-          rl); <br></br>
-          [19] Od postawienia tego wykrzyknika minęło znów parę dni. Im bliżej
-          jestem końca opisywanych zdarzeń, tym gorzej mi się pisze. Może to
-          dlatego, że opowiedziałem paru osobom tę moją przygodę, a niektóre z
-          nich nastawiły się nagle do mnie wrogo? Większość moich paryskich
-          znajomych z jakichś powodów w ogóle nie wierzy, że wyjeżdżałem do
-          Polski, a zwłaszcza w to, że mógłbym wrócić stamtąd tak prędko. W
-          istocie: nie odwiedziłem w Polsce nikogo z tamtejszych moich
-          przyjaciół, choć przecież miałem taki zamiar, ale jednak wspomniana
-          wcześniej rocznica sprawiła, że musiałem zaplanować ściśle określoną
-          kolejność zdarzeń. [A potem było już za późno]. <br></br>
+        <p className="h2_non_justify" id="footnote_1_lis">
+          <a href="#footnote_1_lis-ref">[1]</a> Drugą zamierzałem wypić z
+          mieszkańcami sioła Krywe, w którym spędziłem ongi pół roku, trudniąc
+          się wyrobnictwem mioteł brzozowych (we wsi tej są ruiny cerkwi, w
+          której popełnił samobójstwo główny bohater innej mojej niedokończonej
+          powieści o tej nazwie co wieś &#123;„Krywe”&#125;). Jakkolwiek jednak
+          stało się inaczej, to muszę tu dodać dla ogólnego obrazu, że trzecią
+          miałem w planie opróżnić w połowie u źródła Sanu, zaś tę druga połowę
+          butelki wlać do [tej] rzeki, a następnie napełnić nią tę pustą butelkę
+          [wodą Sanu], którą wlałbym [po powrocie do Paryża] do Sekwany (po
+          francusku Seine – czytaj: sen). Symboliczność tego gestu i
+          podobieństwo dźwięków nazw obu rzek miało mieć znaczenie magiczne w
+          [mojej prywatnej] jednoosobowej religii. (przyp. wł. – rl);
+          <p className="h2_non_justify" id="footnote_2_lis">
+            <a href="#footnote_2_lis-ref">[2]</a> Wzgórze w Krakowie, na którym
+            wznosi się zamek królów Polski, widoczne jakoby ze szczytu Tarnicy.
+            Ja nie miałem szczęścia zobaczyć stamtąd Wawelu, a nawet pomyślałem
+            złośliwie, że być może było to możliwe w czasach, gdy ludzie
+            wierzyli, że Ziemia jest płaska. <br></br>5 lipca 1954 r. przebywał
+            na szczycie Tarnicy przyszły święty, ks. Karol Wojtyła, ale nie
+            wiadomo mi, czy wspominał on o tej turystycznej ciekawostce [bo
+            świętemu może bym uwierzył]!… (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_3_lis">
+            <a href="#footnote_3_lis-ref">[3]</a> Członkowie sekty
+            czarnodziurskiej kontaktują się z sobą myślami (oraz, jeśli
+            potrafią, emocjami) codziennie około południa, co sprawiło, że
+            nazywa się ich czasem także „południarzami”. (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_4_lis">
+            <a href="#footnote_4_lis-ref">[4]</a> Jalu Kurek (1904-1983)
+            [pseudonim: Jan Skowron]. „Gwiazda spada”, Iskry, 1959 (przyp. wł. –
+            rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_5_lis">
+            <a href="#footnote_5_lis-ref">[5]</a> Op. cit. (przyp. wł. – rl).
+          </p>
+          <p className="h2_non_justify " id="footnote_6_lis">
+            <a href="#footnote_6_lis-ref">[6]</a> Z różnych powodów utajniam
+            niekiedy własne teksty, tym razem jest to uszkodzenie mechaniczne
+            rękopisu;
+          </p>
+          <p className="h2_non_justify " id="footnote_7_lis">
+            <a href="#footnote_7_lis-ref">[7]</a> W ogóle nie rozumiem, dlaczego
+            ktoś nie wymyślił małych przenośnych elektrowni wodnych lub
+            wiatrowych, które idący w góry mógłby zabrać z sobą i zainstalować
+            nad potokiem lub na pagórku, aby móc utrzymywać sprawność swych
+            [fragment nieczytelny]!;{" "}
+          </p>
+          <p className="h2_non_justify " id="footnote_8_lis">
+            <a href="#footnote_8_lis-ref">[8]</a> Nie rozumiem też, dlaczego
+            [pisząc to wspomnienie] ukrywałem fakt, że wyprawa moja miała na
+            celu przede wszystkim uczczenie 60 rocznicy ery czarnodziurskiej,
+            której [symboliczną] datą powstania jest 28 sierpnia 1954 roku [!].
+            Z sioła Krywe miałem w tzw. międzyczasie zrobić wycieczkę do źródeł
+            Sanu (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_9_lis">
+            <a href="#footnote_9_lis-ref">[9]</a> Była to myśl odruchowa.
+            Wielokrotnie w życiu przypominała mi się [podobna] sytuacja, jaka
+            miała miejsce w Bieszczadach w latach siedemdziesiątych XX wieku.
+            Żołnierz Wojsk Ochrony Pogranicza zdezerterował z bronią z
+            tamtejszej jednostki, aby przez Czechosłowację uciec do Austrii. W
+            górach natknął się na parę młodych turystów, z którymi wymienił parę
+            grzecznych słów, jako żołnierz strzegący granicy. Przy pożegnaniu
+            znienacka zastrzelił ich oboje, tłumacząc potem, że mogliby posłużyć
+            za świadków, że był on w tej okolicy. (przyp. wł. – rl);{" "}
+          </p>
+          <p className="h2_non_justify " id="footnote_10_lis">
+            <a href="#footnote_10_lis-ref">[10]</a> Cudzoziemcze, gdybyś kiedyś
+            czytał niniejsze słowa, wybacz mi te dłużyzny, w których usiłuję
+            zdać relację z mojej przygody. Ale chyba naprawdę musiałbyś być
+            Polakiem, żeby ten komediowy niuans o podłożu rasowym mógł cię
+            rozśmieszyć! (Pisząc o tym teraz, w dalszym ciągu nie mam jasności,
+            jak z tą sprawą naprawdę jest &#123;ze służbą czarnoskórych w
+            polskim wojsku, bo z czym?&#125;, ale dla samej opowieści jest to
+            rzecz marginalna). (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_11_lis">
+            <a href="#footnote_11_lis-ref">[11]</a> Citoyen de la „République
+            Française”! Quelle surprise! (fr.) – Obywatel Republiki Francuskiej!
+            Jaka niespodzianka! (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_12_lis">
+            <a href="#footnote_12_lis-ref">[12]</a> Comme vous voyez, monsieur!
+            (fr.) – Jak pan widzi! (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_13_lis">
+            <a href="#footnote_13_lis-ref">[13]</a> Vous êtes parisien!
+            Merveilleusement! (fr.) – Pan jest paryżaninem! Cudownie!;
+          </p>
+          <p className="h2_non_justify " id="footnote_14_lis">
+            <a href="#footnote_14_lis-ref">[14]</a> Je suis voyant comme mon
+            père! (fr.) – Jestem jasnowidzący, jak mój ojciec!;
+          </p>
+          <p className="h2_non_justify " id="footnote_15_lis">
+            <a href="#footnote_15_lis-ref">[15]</a> Je suis peintre! Mais, moi,
+            je suis peintre en bâtiment! (fr.) – Jestem malarzem! Ale ja jestem
+            malarzem budowlanym! (przyp. wł. – rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_16_lis">
+            <a href="#footnote_16_lis-ref">[16]</a>
+            <i>
+              Efektywna złożoność wszechświata to długość zwięzłego opisu jego
+              regularności. Podstawowe prawa dają niewielki wkład do efektywnej
+              złożoności, podobnie jak do algorytmicznej zawartości
+              informacyjnej. Cała reszta pochodzi od licznych regularności
+              wynikających z „zamrożonych przypadków”. Są to zdarzenia losowe,
+              które mają liczne, dalekosiężne konsekwencje, połączone wspólnym
+              pochodzeniem
+            </i>
+            . Murray Gell–Man, „Kwark i jaguar”, Wyd. CIS, 1996 (przyp. wł. –
+            rl);
+          </p>
+          <p className="h2_non_justify " id="footnote_17_lis"></p>
+          <a href="#footnote_17_lis-ref">[17]</a> Trudno mi już teraz [kilka dni
+          po napisaniu tych słów] powiedzieć, o jakich saltach myślałem. W ogóle
+          już dawno zauważyłem, że co innego coś przeżyć, a co innego to coś
+          opisywać. W dodatku to, co się przeżyło zmienia się pod wpływem
+          opisywania i jeśli już opisze się to coś, ma się wrażenie, że za
+          słowami znajduje się jakieś inne wydarzenie niż to, które istnieje we
+          wspomnieniu. Jeśli opisze się to samo jeszcze raz, wtedy można stracić
+          rozeznanie, które zdarzenie opisane jest bliższe prawdy, aż wreszcie
+          można popaść w zupełną rozpacz i zwątpić, czy przekazanie jakiejś
+          prawdy indywidualnego przeżycia jest w ogóle możliwe. Pewnie niejeden
+          teoretyk teorii literatury załamuje ręce, czytając te moje dywagacje,
+          a niektórzy może mi radzą, żebym przeczytał powieść „Absalomie,
+          Absalomie…” Williama Faulknera, w której to samo wydarzenie
+          przedstawione jest z około stu różnych punktów widzenia, ale z góry
+          dziękuję za podobne mądrości na temat narracji, jako że w tym
+          przypadku są one jednak już zbyt przestarzałe i nie ułatwiają mi
+          zadania bardziej niż znajomość owej maksymy Horacego [65-8 rok
+          p.n.e.]: <i>O tobie ta bajka mówi, choć pod zmienionym imieniem</i>.
+          (przyp. wł. – rl);
+        </p>
+        <p className="h2_non_justify " id="footnote_18_lis">
+          <a href="#footnote_18_lis-ref">[18]</a> „Kundalini kobiece” to
+          określenie ognia psychicznego, odczuwanego bezpośrednio przez
+          mężczyznę, gdy kobieta jest seksualnie podniecona. Termin pochodzi z
+          terenu myśli wschodniej, ale problem jest ogólnoludzki i najwyższy
+          czas nazwać go jakoś po europejsku! Wychowanie seksualne w Polsce woła
+          o pomstę do nieba! (przyp. wł. – rl);
+        </p>
+        <p className="h2_non_justify" id="footnote_19_lis">
+          <a href="#footnote_19_lis-ref">[19]</a> Od postawienia tego
+          wykrzyknika minęło znów parę dni. Im bliżej jestem końca opisywanych
+          zdarzeń, tym gorzej mi się pisze. Może to dlatego, że opowiedziałem
+          paru osobom tę moją przygodę, a niektóre z nich nastawiły się nagle do
+          mnie wrogo? Większość moich paryskich znajomych z jakichś powodów w
+          ogóle nie wierzy, że wyjeżdżałem do Polski, a zwłaszcza w to, że
+          mógłbym wrócić stamtąd tak prędko. W istocie: nie odwiedziłem w Polsce
+          nikogo z tamtejszych moich przyjaciół, choć przecież miałem taki
+          zamiar, ale jednak wspomniana wcześniej rocznica sprawiła, że musiałem
+          zaplanować ściśle określoną kolejność zdarzeń. [A potem było już za
+          późno]. <br></br>
           Innym problemem związanym z opisywaniem niniejszego wspomnienia jest
           język, jaki zastosowałem, który mierzi mnie swoją sztucznością i
           staroświecką napuszonością, jestem nim zwyczajnie zawstydzony. Już nie
@@ -3483,127 +3661,177 @@ const Lis = () => {
           nie będę pisał tego wspomnienia dwa razy, bo mam już dość tych
           ciągłych zapewnień, że to jest [to] prawda! <br></br>
           Zresztą, rzecz zbliża się do końca, będę się streszczał! (przyp. wł. –
-          rl). * FB – to fejs [czyli Facebook ]wyjaśniam na wypadek bycia
-          czytanym za sto lat]]!;<br></br>
-          [20] Joseph Cambray, „Synchroniczność (o naturze i psyche we
-          wszechświecie wzajemnych połączeń)”, Instytut Terapii Integralnej
-          Sławomira Kwiatkowska, Katowice 2014 (przyp. wł. – rl); <br></br>
-          [21] Jest to pierwszy przypis dokonany po odzyskaniu tego wspomnienia
-          z archiwum. Zdaję sobie sprawę, jak bardzo przypisy wybijają
-          czytelnika z rytmu lektury, dlatego postaram się robić je coraz
-          rzadziej! (przyp. wł. – rl); <br></br>
-          [22] Zapisałem to zdanie w cudzysłowie, jako że tak dokładnie wtedy
-          zapytałem [a nie zawsze stosuję zapis tak dokładny]. Nie będę tego
-          praktykował w całym tekście, niemniej ten jeden raz postanowiłem to
-          uwiecznić, nawet gdyby rzecz wyglądała na pisarskie dziwactwo;
-          <br></br>
-          [23] Ktoś, kto nie interesuje się budową kosmosu, musi być bardzo
-          zaskoczony, gdy dowie się, że jedna z gwiazd konstelacji Rzeki Erydan
-          – Theemin – znajduje się 296 lat świetlnych od Ziemi [czyli w naszej
-          Drodze Mlecznej], zaś Wielka Pustka to jeden z obiektów najdalej od
-          nas oddalonych [miliardy lat świetlnych]. Mowa tu jednak tylko o
-          kierunku patrzenia [a nie: „znajdujący się tam”]: wszechświat jest [w
-          miarę] przeźroczysty, trzeba więc sobie wyobrazić, że jeśli popatrzymy
-          w tamtym kierunku, to dopiero miliardy–miliardy razy dalej [niż
-          Erydan] jest owa w/w Wielka Pustka. Mam nadzieję, że wyraziłem to
-          jasno?;<br></br>
-          [24] Mon tire-bouchon! (fr.) – Mój trybuszon [korkociąg]!;<br></br>
-          [25] Sens publicznych spowiedzi w naszej sekcie wyjaśniam gdzie
-          indziej. Należy jednak wiedzieć, że w roli spowiednika może wystąpić
-          dowolna osoba, każdorazowo w masce innej osoby, znanej publicznie,
-          bądź nawet własnej, a prawo rejestracji imprezy ma tylko organizator.
-          [W tym wypadku są to: 1. tekst spisany z nagrań magnetofonowych, 2.
-          zdjęcia kilku masek, 3. dzwonek czarnodziurski z gliny, zaprojektowany
-          i wypalony przez Janusza Elisa Kowalskiego]. Do upowszechnienia
-          całości lub fragmentu spowiedzi potrzebna jest zgoda penitenta, jak
-          też osób, które biorą czynny udział w imprezie [jako spowiednicy];
-          <br></br>
-          [26] Dlatego [zanim nawiążemy z nim kontakt] przepraszam p. A. R.
-          Minkkinena, że publikuję wypowiedzi tej nieznanej osoby, która na ów
-          czas przybrała jego oblicze [a dotyczy to także p. Jerzego Olka, który
-          występuje w innej części utworu [sekta poszukuje kontaktu z p. J.
-          Olkiem!]; co zaś do innych uczestników uroczystości, to wszyscy
-          wyrazili zgodę na użycie ich wypowiedzi, które wszakże też zostały
-          wyrażone nie ich ustami [za co bardzo dziękuję];<br></br>
-          [27] Gdy pisałem początek tej historii (w pierwszym roku trzeciego
-          tysiąclecia), ilość psich odchodów na ulicach Paryża była znacznie
-          większa niż obecnie. Pod wieloma względami Paryż podupadł w ciągu
-          minionych dwudziestu lat, ale jeśli chodzi o <i>la merde</i>, można
-          mówić o wielkim postępie (liczne szalety publiczne, bezpłatne i
-          utrzymane w czystości)! – 17 VI 2020 [Pierwszy przypis do powieści
-          „Słońce smoków” – zrobiony in statu nascendi];<br></br>
-          [28] [Nasz pryncypał do nas wszystkich zwraca się per wasza wysokość],
-          ale gdy tak zażartował, poczułem się głupio, jakbym to ja sam był
-          przyłapany in flagranti na doświadczaniu przyjemności naszego
-          biblijnego przodka Onana [i nie tylko przecież jego]!;<br></br>
-          [29] W Polsce, jeśli się coś powie i od razu pożałuje tego, trzeba jak
-          najprędzej postukać palcem w niemalowane drewno – wtedy sens
-          wypowiedziany przestaje kusić los! Ten zwyczaj przestrzegany ze
-          szczerością skutkuje zawsze jak najlepsze zaklęcie! – 9 IV 2021.
-          [Przypis stworzony in statu nascendi dla powieści „Słońce smoków”.
-          Czerwona góra to francuska nazwa miejscowości, w której wtedy
-          mieszkałem: Montrouge];<br></br>
-          [30] Ten skrót kojarzy się z fryzurą kobiecą, ale używam go bardziej
-          ze względu na pamięć naszych ówczesnych rozmów w kręgu sekty, gdzie
-          używaliśmy go w sensie technicznym: „kobieta z kokiem” oznaczało, że
-          jest ona świadoma, w którym momencie jest wewnętrznie gotowa do
-          seksualnego kontaktu. – 10 X 2021. [J. w.];<br></br>
-          [31] Żółty Kieł był zdeklarowanym członkiem naszej sekty przez cały
-          czas swego pobytu w Paryżu jako „emigrant ekonomiczny”. Mieszkał w
-          naszej komunie, ale pracował na „swoich” budowach. Nie pamiętam, żeby
-          skarżył się na los, oprócz tego jednego tylko razu [mówił gwarą, choć
-          nie spod Przemyśla, skąd pochodził]: „Oni mje nazywajum Żółty Kieł!…
-          Nó, ali, pani Rómani, czy mję się ópłaca kupować szczuteczkię dó
-          jidnegu zębu?” – zapytał, a ja przyznałem mu rację. Gdy zjeżdżał do
-          kraju, nakazałem mu nie przyznawać się w swojej wsi, że należy do
-          „kociej wiary”, a on za tę radę mi podziękował;<br></br>
-          [32] Baydała Oszczecirski, „Świadomość kosmiczna (1)”,{" "}
-          <i>Teczka (pismo społeczno-kulturalne)</i>, nr 14, Paryż 1998. [W
-          skrócie naszego ośrodka – EROS – zawsze dla żartu przestawialiśmy
-          kolejność liter, ale nigdy nikt się nie zorientował];<br></br>
-          [33] Jarosław Mikołajewski [Facebook, 4 XI 2022]. Autor posta jest
-          radiowcem, poetą i tłumaczem z języka włoskiego. Niedawno ukazało się
-          jego pierwsze tłumaczenie prozą na język polski „Boskiej Komedii” A.
-          Dantego;<br></br>
-          [34] Tadeusz Piekło (1936–2007), poeta, dziennikarz, krytyk. Cytowany
-          fragment pochodzi z wiersza „ul. Katedralna” [z cyklu „Ulice
-          przemyskie”]. Drugi cytat [czyli nowa nazwa kina] pochodzi z wiersza,
-          którego tytułu nie udało mi się dotychczas ustalić;<br></br>
-          [35] „Boską Komedię” [mającą też tytuł „Bo nigdy dość się nie umiera”]
-          pisałem w 2015 r., czyli już wtedy prorokowałem, że wieczności są
-          liczne, co potwierdził niebawem fizyk R. Penrose, za co dostał Nagrodę
-          Nobla [w 2020 r.];<br></br>
-          [36] Przerwałem pisanie „Bo nigdy dość się nie umiera” na wieść, że
-          populistyczna partia wygrała wybory prezydenckie [2015], czekałem już
-          tylko na najgorsze. Spodziewałem się, że w każdym mieście polskim
-          stanie na rynku gilotyna [„bo co Francuz wymyśli, to Polak polubi” [a
-          Polska jest około 200 lat za Francją]]. Tymczasem nic podobnego nie
-          nastąpiło, zdemontowano tylko organy władzy pochodzenia
-          demokratycznego i wzmocniono religię państwową, czyniąc z kleru
-          najwyższą klasę społeczną. Ponieważ w pisaniu byłem już w przyszłości,
-          nie umiałem wybrnąć z sytuacji, bo wcześniej opisałem pierwszą
-          dekapitację z woli nowego prezydenta [i rzecz ogłosiłem w gazecie
-          naszej sekty [która już się nie ukazuje]]. Nie skazałem na śmierć
-          Donalda Tuska, który pełnił wówczas urząd szefa UE, bo był on poza
-          zasięgiem tej władzy, lecz najbardziej interesującego z ich wrogów,
-          Janusza P. Przykro mi bardzo, że się pomyliłem i posądziłem populistów
-          o tak niecne zamiary, no i też głupio mi bardzo wobec w/w polityka,
-          którego zawsze widziałem w roli prezydenta RP;<br></br>
-          [37] Polakom nie trzeba tłumaczyć, ale to tak, jakby Francuzom
-          powiedzieć: Rimbaud! Świętość narodowa! O tym, że Mickiewicz na
-          Zachodzie przez znawców poezji nazywany jest Naśladowcą Szatana,
-          przeciętny Polak nie wie [nazwał go tak hrabia de Lautreamont (Isidore
-          Ducasse)]. Gdy Mickiewicz zmarł, Rimbaud miał rok, miesiąc i tydzień;
-          <br></br>
-          [38] Aleksander Fredro (1793–1876), ur. w Surochowie [sioło między
-          Jarosławiem a Przemyślem], zmarł we Lwowie. Wspomniana XIII księga
-          „Pana Tadeusza”, domniemanego autorstwa Fredry, jest znana wszystkim
-          Polakom, a zwłaszcza młodzieży, łaknącej wiedzy na temat życia
-          seksualnego, gdyż nawet sens słów „rozkosz”, „orgazm” itp. szkolnictwo
-          polskie ukrywa przed dziećmi, twierdząc, że są to doznania z kręgu
-          patologii. W naszej sekcie trwają nieustanne modły o rozum polskich
-          władz!; <br></br>
-          [39] Z Eliota;
+          rl).<br></br> * FB – to fejs [czyli Facebook &#123;wyjaśniam na
+          wypadek bycia czytanym za sto lat&#125;]!;
+        </p>
+        <p className="h2_non_justify " id="footnote_20_lis">
+          <a href="#footnote_20_lis-ref">[20]</a> Joseph Cambray,
+          „Synchroniczność (o naturze i psyche we wszechświecie wzajemnych
+          połączeń)”, Instytut Terapii Integralnej Sławomira Kwiatkowska,
+          Katowice 2014 (przyp. wł. – rl);
+        </p>
+        <p className="h2_non_justify " id="footnote_21_lis">
+          <a href="#footnote_21_lis-ref">[21]</a> Jest to pierwszy przypis
+          dokonany po odzyskaniu tego wspomnienia z archiwum. Zdaję sobie
+          sprawę, jak bardzo przypisy wybijają czytelnika z rytmu lektury,
+          dlatego postaram się robić je coraz rzadziej! (przyp. wł. – rl);
+        </p>
+        <p className="h2_non_justify " id="footnote_22_lis">
+          <a href="#footnote_22_lis-ref">[22]</a> Zapisałem to zdanie w
+          cudzysłowie, jako że tak dokładnie wtedy zapytałem [a nie zawsze
+          stosuję zapis tak dokładny]. Nie będę tego praktykował w całym
+          tekście, niemniej ten jeden raz postanowiłem to uwiecznić, nawet gdyby
+          rzecz wyglądała na pisarskie dziwactwo;
+        </p>
+        <p className="h2_non_justify " id="footnote_23_lis">
+          <a href="#footnote_23_lis-ref">[23]</a> Ktoś, kto nie interesuje się
+          budową kosmosu, musi być bardzo zaskoczony, gdy dowie się, że jedna z
+          gwiazd konstelacji Rzeki Erydan – Theemin – znajduje się 296 lat
+          świetlnych od Ziemi [czyli w naszej Drodze Mlecznej], zaś Wielka
+          Pustka to jeden z obiektów najdalej od nas oddalonych [miliardy lat
+          świetlnych]. Mowa tu jednak tylko o kierunku patrzenia [a nie:
+          „znajdujący się tam”]: wszechświat jest [w miarę] przeźroczysty,
+          trzeba więc sobie wyobrazić, że jeśli popatrzymy w tamtym kierunku, to
+          dopiero miliardy–miliardy razy dalej [niż Erydan] jest owa w/w Wielka
+          Pustka. Mam nadzieję, że wyraziłem to jasno?;
+        </p>
+        <p className="h2_non_justify " id="footnote_24_lis">
+          <a href="#footnote_24_lis-ref">[24]</a> Mon tire-bouchon! (fr.) – Mój
+          trybuszon [korkociąg]!;
+        </p>
+        <p className="h2_non_justify " id="footnote_25_lis">
+          <a href="#footnote_25_lis-ref">[25]</a> Sens publicznych spowiedzi w
+          naszej sekcie wyjaśniam gdzie indziej. Należy jednak wiedzieć, że w
+          roli spowiednika może wystąpić dowolna osoba, każdorazowo w masce
+          innej osoby, znanej publicznie, bądź nawet własnej, a prawo
+          rejestracji imprezy ma tylko organizator. [W tym wypadku są to: 1.
+          tekst spisany z nagrań magnetofonowych, 2. zdjęcia kilku masek, 3.
+          dzwonek czarnodziurski z gliny, zaprojektowany i wypalony przez
+          Janusza Elisa Kowalskiego]. Do upowszechnienia całości lub fragmentu
+          spowiedzi potrzebna jest zgoda penitenta, jak też osób, które biorą
+          czynny udział w imprezie [jako spowiednicy];
+        </p>
+        <p className="h2_non_justify " id="footnote_26_lis">
+          <a href="#footnote_26_lis-ref">[26]</a> Dlatego [zanim nawiążemy z nim
+          kontakt] przepraszam p. A. R. Minkkinena, że publikuję wypowiedzi tej
+          nieznanej osoby, która na ów czas przybrała jego oblicze [a dotyczy to
+          także p. Jerzego Olka, który występuje w innej części utworu [sekta
+          poszukuje kontaktu z p. J. Olkiem!]; co zaś do innych uczestników
+          uroczystości, to wszyscy wyrazili zgodę na użycie ich wypowiedzi,
+          które wszakże też zostały wyrażone nie ich ustami [za co bardzo
+          dziękuję];
+        </p>
+        <p className="h2_non_justify " id="footnote_27_lis">
+          <a href="#footnote_27_lis-ref">[27]</a> Gdy pisałem początek tej
+          historii (w pierwszym roku trzeciego tysiąclecia), ilość psich
+          odchodów na ulicach Paryża była znacznie większa niż obecnie. Pod
+          wieloma względami Paryż podupadł w ciągu minionych dwudziestu lat, ale
+          jeśli chodzi o <i>la merde</i>, można mówić o wielkim postępie (liczne
+          szalety publiczne, bezpłatne i utrzymane w czystości)! – 17 VI 2020
+          [Pierwszy przypis do powieści „Słońce smoków” – zrobiony in statu
+          nascendi];
+        </p>
+        <p className="h2_non_justify " id="footnote_28_lis">
+          <a href="#footnote_28_lis-ref">[28]</a> [Nasz pryncypał do nas
+          wszystkich zwraca się per wasza wysokość], ale gdy tak zażartował,
+          poczułem się głupio, jakbym to ja sam był przyłapany in flagranti na
+          doświadczaniu przyjemności naszego biblijnego przodka Onana [i nie
+          tylko przecież jego]!;
+        </p>
+        <p className="h2_non_justify " id="footnote_29_lis">
+          <a href="#footnote_29_lis-ref">[29]</a> W Polsce, jeśli się coś powie
+          i od razu pożałuje tego, trzeba jak najprędzej postukać palcem w
+          niemalowane drewno – wtedy sens wypowiedziany przestaje kusić los! Ten
+          zwyczaj przestrzegany ze szczerością skutkuje zawsze jak najlepsze
+          zaklęcie! – 9 IV 2021. [Przypis stworzony in statu nascendi dla
+          powieści „Słońce smoków”. Czerwona góra to francuska nazwa
+          miejscowości, w której wtedy mieszkałem: Montrouge];
+        </p>
+        <p className="h2_non_justify " id="footnote_30_lis">
+          <a href="#footnote_30_lis-ref">[30]</a> Ten skrót kojarzy się z
+          fryzurą kobiecą, ale używam go bardziej ze względu na pamięć naszych
+          ówczesnych rozmów w kręgu sekty, gdzie używaliśmy go w sensie
+          technicznym: „kobieta z kokiem” oznaczało, że jest ona świadoma, w
+          którym momencie jest wewnętrznie gotowa do seksualnego kontaktu. – 10
+          X 2021. [J. w.];
+        </p>
+        <p className="h2_non_justify " id="footnote_31_lis">
+          <a href="#footnote_31_lis-ref">[31]</a> Żółty Kieł był zdeklarowanym
+          członkiem naszej sekty przez cały czas swego pobytu w Paryżu jako
+          „emigrant ekonomiczny”. Mieszkał w naszej komunie, ale pracował na
+          „swoich” budowach. Nie pamiętam, żeby skarżył się na los, oprócz tego
+          jednego tylko razu [mówił gwarą, choć nie spod Przemyśla, skąd
+          pochodził]: „Oni mje nazywajum Żółty Kieł!… Nó, ali, pani Rómani, czy
+          mję się ópłaca kupować szczuteczkię dó jidnegu zębu?” – zapytał, a ja
+          przyznałem mu rację. Gdy zjeżdżał do kraju, nakazałem mu nie
+          przyznawać się w swojej wsi, że należy do „kociej wiary”, a on za tę
+          radę mi podziękował;
+        </p>
+        <p className="h2_non_justify " id="footnote_32_lis">
+          <a href="#footnote_32_lis-ref">[32]</a> Baydała Oszczecirski,
+          „Świadomość kosmiczna (1)”, <i>Teczka (pismo społeczno-kulturalne)</i>
+          , nr 14, Paryż 1998. [W skrócie naszego ośrodka – EROS – zawsze dla
+          żartu przestawialiśmy kolejność liter, ale nigdy nikt się nie
+          zorientował];
+        </p>
+        <p className="h2_non_justify " id="footnote_33_lis">
+          <a href="#footnote_33_lis-ref">[33]</a> Jarosław Mikołajewski
+          [Facebook, 4 XI 2022]. Autor posta jest radiowcem, poetą i tłumaczem z
+          języka włoskiego. Niedawno ukazało się jego pierwsze tłumaczenie prozą
+          na język polski „Boskiej Komedii” A. Dantego;
+        </p>
+        <p className="h2_non_justify " id="footnote_34_lis">
+          <a href="#footnote_34_lis-ref">[34]</a> Tadeusz Piekło (1936–2007),
+          poeta, dziennikarz, krytyk. Cytowany fragment pochodzi z wiersza „ul.
+          Katedralna” [z cyklu „Ulice przemyskie”]. Drugi cytat [czyli nowa
+          nazwa kina] pochodzi z wiersza, którego tytułu nie udało mi się
+          dotychczas ustalić;
+        </p>
+        <p className="h2_non_justify " id="footnote_35_lis">
+          <a href="#footnote_35_lis-ref">[35]</a> „Boską Komedię” [mającą też
+          tytuł „Bo nigdy dość się nie umiera”] pisałem w 2015 r., czyli już
+          wtedy prorokowałem, że wieczności są liczne, co potwierdził niebawem
+          fizyk R. Penrose, za co dostał Nagrodę Nobla [w 2020 r.];
+        </p>
+        <p className="h2_non_justify " id="footnote_36_lis">
+          <a href="#footnote_36_lis-ref">[36]</a> Przerwałem pisanie „Bo nigdy
+          dość się nie umiera” na wieść, że populistyczna partia wygrała wybory
+          prezydenckie [2015], czekałem już tylko na najgorsze. Spodziewałem
+          się, że w każdym mieście polskim stanie na rynku gilotyna [„bo co
+          Francuz wymyśli, to Polak polubi” &#123;a Polska jest około 200 lat za
+          Francją&125;]. Tymczasem nic podobnego nie nastąpiło, zdemontowano
+          tylko organy władzy pochodzenia demokratycznego i wzmocniono religię
+          państwową, czyniąc z kleru najwyższą klasę społeczną. Ponieważ w
+          pisaniu byłem już w przyszłości, nie umiałem wybrnąć z sytuacji, bo
+          wcześniej opisałem pierwszą dekapitację z woli nowego prezydenta [i
+          rzecz ogłosiłem w gazecie naszej sekty &#123;która już się nie
+          ukazuje&#125;]. Nie skazałem na śmierć Donalda Tuska, który pełnił
+          wówczas urząd szefa UE, bo był on poza zasięgiem tej władzy, lecz
+          najbardziej interesującego z ich wrogów, Janusza P. Przykro mi bardzo,
+          że się pomyliłem i posądziłem populistów o tak niecne zamiary, no i
+          też głupio mi bardzo wobec w/w polityka, którego zawsze widziałem w
+          roli prezydenta RP;
+        </p>
+        <p className="h2_non_justify " id="footnote_37_lis">
+          <a href="#footnote_37_lis-ref">[37]</a> Polakom nie trzeba tłumaczyć,
+          ale to tak, jakby Francuzom powiedzieć: Rimbaud! Świętość narodowa! O
+          tym, że Mickiewicz na Zachodzie przez znawców poezji nazywany jest
+          Naśladowcą Szatana, przeciętny Polak nie wie [nazwał go tak hrabia de
+          Lautreamont &#123;Isidore Ducasse&#125;]. Gdy Mickiewicz zmarł,
+          Rimbaud miał rok, miesiąc i tydzień;
+        </p>
+        <p className="h2_non_justify " id="footnote_38_lis">
+          <a href="#footnote_38_lis-ref">[38]</a> Aleksander Fredro (1793–1876),
+          ur. w Surochowie [sioło między Jarosławiem a Przemyślem], zmarł we
+          Lwowie. Wspomniana XIII księga „Pana Tadeusza”, domniemanego autorstwa
+          Fredry, jest znana wszystkim Polakom, a zwłaszcza młodzieży, łaknącej
+          wiedzy na temat życia seksualnego, gdyż nawet sens słów „rozkosz”,
+          „orgazm” itp. szkolnictwo polskie ukrywa przed dziećmi, twierdząc, że
+          są to doznania z kręgu patologii. W naszej sekcie trwają nieustanne
+          modły o rozum polskich władz!;
+        </p>
+        <p className="h2_non_justify " id="footnote_39_lis">
+          <a href="#footnote_39_lis-ref">[39]</a>Z Eliota.
         </p>
       </div>
     </div>

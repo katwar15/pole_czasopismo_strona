@@ -79,7 +79,10 @@ function App() {
           <Route path="/irenawiszniewska" element={<WiszniewskaPage />} />
           <Route path="/geraldfitzgibbon" element={<FitzgibbonPage />} />
           {/* ARCHIWALIA */}
-          <Route path="/lukaskrajeski" element={<KrajewskiPage />} />
+          <Route
+            path="/od-etnografki-dziecinstwa"
+            element={<KrajewskiPage />}
+          />
           <Route path="/wieslawprzybyla" element={<PrzybylaPage />} />
           <Route path="/mariannapilotowa" element={<MariannaPage />} />
           <Route path="/laure" element={<LaurePage />} />

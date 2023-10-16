@@ -20,7 +20,7 @@
   padding: 0;
   margin: 0;
   background-color: transparent;
-  transition: 0.6s;
+  transition: 0.8s ease;
 }
 
 /* .mapa_a:hover .overlay {
@@ -31,9 +31,9 @@
   opacity: 1;
 } */
 
-.mapa_a:hover {
+/* .mapa_a:hover {
   background-color: rgba(255, 255, 255, 0.3);
-}
+} */
 
 .mapa_img {
   max-width: 100%;
@@ -42,6 +42,7 @@
   margin: 0;
   cursor: pointer;
   float: right;
+  transition: 0.8s ease;
 }
 
 .mapa_img_left {
@@ -51,6 +52,7 @@
   margin: 0;
   cursor: pointer;
   float: left;
+  transition: 0.8s ease;
 }
 
 /* .overlay {

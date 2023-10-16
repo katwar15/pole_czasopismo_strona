@@ -18,7 +18,6 @@ const Opalka = () => {
           Chuć ukryta za jałowcem.<br></br> O śmiesznych koniach i cnocie
           niewieściej
         </h2>
-        <h2 className="h1_wstep">1</h2>
         <p className="h2_wstep">
           Ze śmiesznymi końmi tak naprawdę chodziłoby o jaja. Ekstensywną,
           dobrze widoczną, może wręcz groteskową, a przez to komiczną formę
@@ -44,7 +43,7 @@ const Opalka = () => {
           też – piłeczki), czy „he has balls” (on to ma jaja / piłeczki) pada
           zawsze jako nagana bądź pochwała wypowiadane w amerykańskich filmach
           ze śmiertelną wręcz powagą. Fraza kojarzy mi się przede wszystkim z
-          produkcjami filmowymi z lat 80., a szczególnie już z Michaelem
+          produkcjami filmowymi lat 80-ych, a szczególnie już z Michaelem
           Douglasem jako głównym protagonistą wytrenowanym w tej dekadzie w
           kreowaniu antypatycznych, choć skądinąd skomplikowanych wewnętrznie i
           wrażliwych (chociaż może bardziej – drażliwych) bohaterów zajmujących
@@ -56,7 +55,7 @@ const Opalka = () => {
         <p className="h2_wstep">
           Pierwszy raz zaczęłam myśleć o śmiesznych koniach w sztuce, kiedy
           miałam czternaście albo piętnaście lat i w jednym z albumów o
-          renesansie natknęłam się na reprodukcję pracy „Alegoria” Piero Di
+          renesansie natknęłam się na reprodukcję pracy „Alegoria” Piera Di
           Cosimo. Obraz olejny, który powstał około 1500 roku, przedstawia
           anioła – uskrzydloną kobietę, której udrapowane szaty, choć w dużej
           ilości, wciąż więcej odsłaniają niż zasłaniają. Kobieta w prawej ręce
@@ -67,7 +66,7 @@ const Opalka = () => {
           lędźwie zdobią natomiast pokaźne, również jakby poza skalą – jaja.
           Dominantą kolorystyczną obrazu jest krwista czerwień. Część draperii
           pozostaje w kolorze zgniłej zieleni, podobnie jak otaczająca naszą
-          końską-anielską parę trawa, która rzadko porasta kamienną wyspę na
+          końsko-anielską parę trawa, która rzadko porasta kamienną wyspę na
           morzu. U ich stóp, w morskich odmętach, pławi się syrena o rozdwojonym
           ogonie. Co to wszystko ma znaczyć?
         </p>
@@ -113,7 +112,7 @@ const Opalka = () => {
           chętni kobietom Ojcowie Kościoła. Święty Augustyn miał porównywać
           etyczny wymiar mordów na kapłanach Jahwe, które zlecała Jezebel, i na
           kapłanach Baala, ordynowanych przez Eliasza. Pierwsze oceniał jako
-          jednoznacznie złe, gdyż motywowane napędzającymi zuchwałości Jezebel
+          jednoznacznie złe, gdyż motywowane napędzającym zuchwałości Jezebel
           pragnieniem władzy. Drugie nie posiadały już takiego ciężaru
           gatunkowego, gdyż usprawiedliwiać miała je miłość. Jak rozumiem,
           Eliasza do Jahwe i do jego narodu. Mniej znany z Ojców Kościoła,
@@ -136,8 +135,8 @@ const Opalka = () => {
           potwierdzałoby to teorię o kulcie jej urody jeszcze kilka dekad po jej
           śmierci – Vespucci zmarła bowiem w 1476 roku w wieku zaledwie 23 lat.
           Na obrazie Piera di Cosimo szyję i pierś młodej kobiety oprócz
-          biżuterii oplata jadowity wąż. Ukazana jest jako Kleopatra – podobnie,
-          jak Jezebel, starożytna królowa, której przypisywano niecną skłonność
+          biżuterii oplata jadowity wąż. Ukazana jest jako Kleopatra – podobnie
+          jak Jezebel starożytna królowa, której przypisywano niecną skłonność
           do używania seksualnych mocy w politycznych rozgrywkach.
         </p>
         <p className="h2_wstep">
@@ -150,7 +149,7 @@ const Opalka = () => {
           Ostatecznie, podobnie jak Jezebel, poniosła polityczną i życiową
           klęskę. Jak chce Plutarch, Kleopatra podjęła decyzję o samobójstwie z
           wykorzystaniem jadowitego węża, kiedy uznała, że jej polityczne
-          sprawstwo wygasło. Skąd zatem pomysł na sportretowanie przez Piero di
+          sprawstwo wygasło. Skąd zatem pomysł na sportretowanie przez Piera di
           Cosimo Simonetty jako Kleopatry? Wydaje się, że z przymiotów, które
           dzielić mogły egipska królowa i włoska szlachcianka, pozostawałaby
           jedynie wybitna uroda. Przedwcześnie zmarła na suchoty Simonetta nie
@@ -171,18 +170,18 @@ const Opalka = () => {
         </p>
         <p className="h2_wstep">
           Jeśli faktycznie za portretem renesansowego symbolu kobiecego piękna
-          kryła się „Alegoria” Piero di Cosimo, to kobieca Wstrzemięźliwość,
+          kryła się „Alegoria” Piera di Cosimo, to kobieca Wstrzemięźliwość,
           którą przedstawia, zasadzałaby się na trzymaniu popędów na wodzy.
           Oczywiście na wodzy trzyma je kobieta, jednak one same do niej już nie
           należą. Jej anielska postać jest tu już na poły posągowa – pozbawiona
           niejako życia, wspina się na wyżyny abstrakcyjnej reprezentacji. Co
           innego koń! Wcielenie wigoru, uosabiający komiczną nieprzewidywalność
           tego, co żywe, nadmiarowe, niekanoniczne, wywrotowe, zdaje się być
-          porte-parole samego malarza. Ten, choć pozornie poskromiony przez
-          dworski, pozbawiony aspektów cielesnych rodzaj umiłowania szlachetnie
-          urodzonej niewiasty, dąży do zamknięcia jej wizerunku w doskonałym
-          portrecie. Jak w trumnie. Zabezpieczona w ten sposób, pozwala zachować
-          piłkę w grze.
+          <i> porte-parole</i> samego malarza. Ten, choć pozornie poskromiony
+          przez dworski, pozbawiony aspektów cielesnych rodzaj umiłowania
+          szlachetnie urodzonej niewiasty, dąży do zamknięcia jej wizerunku w
+          doskonałym portrecie. Jak w trumnie. Zabezpieczona w ten sposób,
+          pozwala zachować piłkę w grze.
         </p>
       </div>
     </div>

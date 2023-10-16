@@ -60,10 +60,9 @@ const Przybyla = () => {
             Kultura chłopska, wybierając jedną z możliwości bytu, jedną stronę
             świata, tę, którą odrzucił podszyty racjonalizmem „postęp”, […] być
             może przechowała i ocaliła dla przyszłości te treści, które
-            „dopełniać” mogą stronę drugą, tę – jeszcze do dziś – zwycięską. Czy
-            jeszcze zwycięską, tego, panie profesorze, nie możemy być pewni
+            „dopełniać” mogą stronę drugą, tę – jeszcze do dziś – zwycięską
           </i>
-          .
+          . Czy jeszcze zwycięską, tego, panie profesorze, nie możemy być pewni.
         </h2>
         <h2 className="h2_wstep">
           Ukradkiem pisane – bez wiedzy syna, wybitnego pisarza Mariana Pilota –

@@ -7,6 +7,9 @@ const Footer = () => {
       <ul className="footer_list">
         <li className="footer_item">© 2023 Pole. Dwumiesięcznik</li>
         <li className="footer_item">Wszystkie prawa zastrzeżone</li>
+        <li className="footer_item">
+          Projekt graficzny: <b>Paulina Zielona</b>
+        </li>
       </ul>
     </footer>
   );

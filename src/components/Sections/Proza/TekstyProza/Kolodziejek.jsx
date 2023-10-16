@@ -109,9 +109,13 @@ const Kolodziejek = () => {
           Wawrzyniec, patron ogniska domowego, które z kominka wesoło puszczało
           do nas oko.
         </p>
-        <h2 className="h2_podpis">
-          Opowiadanie pochodzi z książki pod roboczym tytułem „Zupa z pokrzyw”,
-          która pod koniec roku ma się ukazać w wydawnictwie Nisza.
+        <h2 className="h2_wstep_right">
+          [
+          <i>
+            Opowiadanie pochodzi z książki pod roboczym tytułem „Zupa z
+            pokrzyw”, która pod koniec roku ma się ukazać w wydawnictwie Nisza.
+          </i>
+          ]
         </h2>
       </div>
     </div>

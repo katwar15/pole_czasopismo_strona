@@ -13,9 +13,9 @@ const Kurylak = () => {
         <h1 className="h1_wstep_autor">Józef Kurylak</h1>
 
         <div className="content_center">
-          <h2 className="h1_wstep">Marzenie</h2>
+          <h2 className="h1_wstep_padding">Marzenie</h2>
           <p className="h2_non_indent ">
-            Muszę się uwolnić<br></br> znużyła mnie <i>Kunst der Fuge</i>
+            Muszę się uwolnić<br></br> znużyła mnie „Kunst der Fuge”
             <br></br> która nie przekroczyła granic<br></br> potęgi skorupiej
             <br></br>
             jak puste kościelne nawy<br></br> a moje życie jest podziemnym grave
@@ -35,11 +35,11 @@ const Kurylak = () => {
             <br></br> dokąd?
           </p>
           <p className="h2_non_indent ">
-            ach bardzo daleko od światła baroku<br></br> w inne spirale<br></br>
-            w inny dół albo w górę – w inny spokój
+            ach bardzo daleko od światła baroku <br></br> w inne spirale
+            <br></br>w inny dół albo w górę – w inny spokój
           </p>
-          <h2 className="h2_podpis ">Poręba Wielka, 2019 r.</h2>
-          <h2 className="h1_wstep">Bomba i chłopiec</h2>
+          <h2 className="h2_podpis_italic">Poręba Wielka, 2019 r.</h2>
+          <h2 className="h1_wstep_padding">Bomba i chłopiec</h2>
           <p className="h2_non_indent ">
             Mała bomba lotnicza<br></br> niemiecki niewybuch<br></br> z Drugiej
             Wojny<br></br> leżała w ogrodzie
@@ -67,8 +67,8 @@ const Kurylak = () => {
             pod ziemię<br></br> głęboko coraz głębiej<br></br> by w ciemności
             umrzeć na wieki
           </p>
-          <h2 className="h2_podpis ">Poręba Wielka, 2019 r.</h2>
-          <h2 className="h1_wstep">Totenmaske</h2>
+          <h2 className="h2_podpis_italic">Poręba Wielka, 2019 r.</h2>
+          <h2 className="h1_wstep_padding">Totenmaske</h2>
           <p className="h2_non_indent ">
             Północ jest przystojną <br></br>
             wysoką czarną deską<br></br>
@@ -97,7 +97,7 @@ const Kurylak = () => {
             dzisiaj czuję jej moc podziemną<br></br>
             na gardle… oszukany
           </p>
-          <h2 className="h1_wstep">Wierzba</h2>
+          <h2 className="h1_wstep_padding">Wierzba</h2>
           <p className="h2_non_indent ">
             Wierzba nad Wiarem<br></br>
             jak dawniej szczęśliwa<br></br>
@@ -135,8 +135,9 @@ const Kurylak = () => {
             śmieją się szydzą<br></br>
             śmieją głupie diabły
           </p>
-          <p className="h2_podpis ">Poręba Wielka, 2021 r.</p>
-          <h2 className="h1_wstep">Uszy</h2>
+          <p className="h2_podpis_italic">Poręba Wielka, 2021 r.</p>
+
+          <h2 className="h1_wstep_padding">Uszy</h2>
           <p className="h2_non_indent ">
             Słusznie mnie pytasz: gdzie są<br></br>
             melodie tej muzyki<br></br>
@@ -148,12 +149,12 @@ const Kurylak = () => {
             czy w podziemiach tajemnic mózgu noworodka<br></br>
             który sarkofag światła je ukrywa
           </p>
-          <p className="h2_non_indent ">
+          <p className="h2_non_indent">
             te wciągające wiry te wznoszące<br></br>
             spirale sopranów<br></br>u ich stóp ludzie będą klękać<br></br>
             jak kiedyś przed szpitalną bramą
           </p>
-          <p className="h2_non_indent ">
+          <p className="h2_non_indent">
             myślę że wszystkie melodie istniały<br></br>
             już w dniu stworzenia: dźwięki Wielkiego Wybuchu<br></br>
             miliardy chórów symfonii i arii<br></br>
@@ -161,7 +162,7 @@ const Kurylak = () => {
             tylko trzeba je usłyszeć<br></br>
             uporządkować – są gdzieś takie uszy
           </p>
-          <p className="h2_podpis ">Poręba Wielka, 2021 r.</p>
+          <p className="h2_podpis_italic">Poręba Wielka, 2021 r.</p>
         </div>
       </div>
     </div>

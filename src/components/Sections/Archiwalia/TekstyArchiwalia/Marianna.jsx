@@ -129,7 +129,7 @@ const Marianna = () => {
           domu to mi się żyć nie chciało. Najwięcej podobały mi się wyszywane
           makatki wiszące nad piecem i nad stołem. Dopiero jak brat Staś się
           ożenił a bratowa miała całą kupę wzorów i mogłam sobie wybrać te co mi
-          się podobały, wtedy wyszywałam ręcznik ozdobny imakatkinaścianę.A
+          się podobały, wtedy wyszywałam ręcznik ozdobny i makatki na ścianę.A
           jeszcze przedtem podarłam starą koszulę ojca, wygotowałam wyprasowałam
           i poszłam do ojca żeby mi jaki wzór narysował. Narysował mi kobietę i
           chłopa. Chłop miał buty pod kolana marynarkę z guzikami kapelusz z
@@ -219,6 +219,10 @@ const Marianna = () => {
         </h2>
 
         <h2 className="h2_podpis">Siedlików, w sierpniu 1987 r.</h2>
+        <h2 className="h2_podpis">
+          Fragmenty wspomnień, wydanych w 2022 roku przez Oficynę Kulawiak,
+          publikujemy za zgodą Mariana Pilota.
+        </h2>
       </div>
     </div>
   );

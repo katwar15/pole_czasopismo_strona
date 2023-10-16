@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "../../Wstep/Wstep.css";
 import forward_button from "../../../../assets/forward_button.svg";
 import dabrowski_img from "../../../../assets/dabrowski.jpg";
+import zurn from "../../../../assets/zurn.jpg";
 
 const Dabrowski = () => {
   return (
@@ -34,7 +35,6 @@ const Dabrowski = () => {
           (MAHHSA), gdzie przebywała artystka w krytycznych okresach, dr
           Anne-Marie Dubois pisała na temat interpretacji jej sztuki:
           <i>
-            {" "}
             życie, nierzadko tragiczne, odcisnęło swoje piętno na jej
             twórczości, była przedmiotem najróżniejszych fantazji oraz projekcji
             wyobrażeń czy interpretacji
@@ -42,11 +42,14 @@ const Dabrowski = () => {
           . Widziano w niej uciemiężoną męskością partnerkę Hansa Bellmera
           (zwłaszcza na popularnym zdjęciu, na którym jej ciało obwiązane jest
           sznurkami i przedstawione w ironicznym komentarzu
-          <i>przechowywać w chłodnym miejscu</i> jako szynka), zgwałconą ofiarę
+          <i> przechowywać w chłodnym miejscu</i> jako szynka), zgwałconą ofiarę
           własnego brata czy chorą psychicznie osobę, nie potrafiącą odnaleźć
           zdrowia. Spróbujmy jednak sztuce oddać sprawiedliwość, a autorce jej
           własny głos.
         </p>
+        <div className="content_photo">
+          <img className="img_text_recenzje" src={zurn}></img>
+        </div>
         <p className="h2_wstep">
           Trąby jerychońskie słyszymy wyraźnie. Ich dźwięk zwyczajowo kojarzymy
           z walącymi się murami. To, co wali się w tych opowiadaniach, to
@@ -97,18 +100,19 @@ const Dabrowski = () => {
           <i>
             {" "}
             język który jest w stanie wyrazić cały smutek świata i którego nikt
-            poza nimi [Uniką i Elisą] nie rozumie. Ten język składa się jedynie
-            z samogłosek
-          </i>
-          . Wyraz „samogłoska” pozwala dostrzec to dodatkowe znaczenie wewnątrz
-          języka, które łączy go z obiektywną, indywidualną strukturą świata i
-          pozwala na odzwierciedlenie własnej samotności w języku. I chociaż
-          chodzi w tym pisaniu wciąż o tę samą osobę, to nie postrzegamy jej już
-          w jej jedności oraz ciągłości, ale zaczynamy obserwować w miriadach
-          drobnych gestów, zdarzeń, dni, wydarzeń. Jakby szklana powierzchnia
-          klepsydry, sztucznej, antropogenicznej zabawki, pilnującej spokojnego,
-          mierzonego naszą miarą przepływu barwnych oblicz świata, roztrzaskała
-          się. Objęte kształtem szkła ziarenka rozsypują się szybko w chaosie
+            poza nimi
+          </i>{" "}
+          [Uniką i Elisą]{" "}
+          <i>nie rozumie. Ten język składa się jedynie z samogłosek</i>. Wyraz
+          „samogłoska” pozwala dostrzec to dodatkowe znaczenie wewnątrz języka,
+          które łączy go z obiektywną, indywidualną strukturą świata i pozwala
+          na odzwierciedlenie własnej samotności w języku. I chociaż chodzi w
+          tym pisaniu wciąż o tę samą osobę, to nie postrzegamy jej już w jej
+          jedności oraz ciągłości, ale zaczynamy obserwować w miriadach drobnych
+          gestów, zdarzeń, dni, wydarzeń. Jakby szklana powierzchnia klepsydry,
+          sztucznej, antropogenicznej zabawki, pilnującej spokojnego, mierzonego
+          naszą miarą przepływu barwnych oblicz świata, roztrzaskała się. Objęte
+          kształtem szkła ziarenka rozsypują się szybko w chaosie
           indywidualności. Powierzchnia wspomnień staje się nagle nieco bardziej
           chropowata. Można niemal wyczuć fakturę i załamania słów, literackiego
           i wspomnieniowego materiału. W ten sposób konstruuje się przed nami
@@ -202,7 +206,7 @@ const Dabrowski = () => {
           surrealistycznego o wyzwolenie przedmiotów spod ludzkiej zależności.
           Jednak wyjątkowa rola, jaką Unica przypisuje obiektowi, pozwala
           widzieć w jej twórczości początki czegoś, co obecnie nazywamy
-          <i>ontologią zorientowaną obiektowo</i> (ang. object oriented
+          <i> ontologią zorientowaną obiektowo</i> (ang. object oriented
           ontology). Dzięki ujawnieniu oraz opisaniu mechanizmów indywiduacji
           oraz wyłaniania się obiektów w kolejnych separacyjnych cięciach
           zyskujemy wgląd w genezę nowej metafizyki, która, stawiając obiekt w

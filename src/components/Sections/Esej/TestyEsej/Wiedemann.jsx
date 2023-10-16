@@ -10,7 +10,7 @@ const Wiedemann = () => {
         <img className="forward_img_wstep" src={forward_button}></img>
       </Link>
       <div className="content">
-        <h2 className="h2_wstep">Wystawy, na których nie byłem (1)</h2>
+        <h2 className="h2_non_indent">Wystawy, na których nie byłem (1)</h2>
         <h1 className="h1_wstep_autor">Adam Wiedemann</h1>
       </div>
 
@@ -21,15 +21,13 @@ const Wiedemann = () => {
         </h3>
         <p className="h2_wstep">
           Biogramy artysty nie pozostawiają wątpliwości: jest to{" "}
-          <i>
-            Jeden z nielicznych twórców sztuki erotycznej w Polsce bądź też
-            Malarz samouk, tworzący prace o tematyce erotycznej
-          </i>
-          . Tak się go właśnie postrzega, pójdźmy więc tym tropem, bo jeśli
-          nawet w jego twórczości da się bez trudu wyśledzić i wątki polityczne
-          („Polski chaos”, 2022), i religijne („W czyśćcu”, 2021), to jednak
-          znakiem rozpoznawczym pozostaje powtarzający się motyw gołego chłopaka
-          w majtkach, siedzącego na krześle, w fotelu, albo też leżącego na
+          <i>Jeden z nielicznych twórców sztuki erotycznej w Polsce</i> bądź też
+          <i> Malarz samouk, tworzący prace o tematyce erotycznej</i>. Tak się
+          go właśnie postrzega, pójdźmy więc tym tropem, bo jeśli nawet w jego
+          twórczości da się bez trudu wyśledzić i wątki polityczne („Polski
+          chaos”, 2022), i religijne („W czyśćcu”, 2021), to jednak znakiem
+          rozpoznawczym pozostaje powtarzający się motyw gołego chłopaka w
+          majtkach, siedzącego na krześle, w fotelu, albo też leżącego na
           tapczanie. Celowo piszę „gołego”, nie jest on bowiem ani nagi, ani
           ubrany, majtki sytuują go gdzieś pośrodku tych dwóch stanów uważanych
           tradycyjnie za przeciwstawne. Erotyzm tych przedstawień jest tyleż
@@ -112,7 +110,7 @@ const Wiedemann = () => {
           zwłaszcza anglosaskiej, i miała niewątpliwy związek z rozwojem
           popkultury (sztuka przestała wymagać zupełnej nagości, odsyłającej –
           rzekomo – do czasów antycznych). David Hockney (na słynnym obrazie z
-          1972- go roku) przedstawił swój obiekt erotyczny w kąpielówkach i w
+          1972-go roku) przedstawił swój obiekt erotyczny w kąpielówkach i w
           dodatku pod wodą, Joe Brainard posunął się zaś wręcz do malowania
           samych majtek (własnych), opatrzonych datą i tytułem „Self-Portrait”.
         </p>

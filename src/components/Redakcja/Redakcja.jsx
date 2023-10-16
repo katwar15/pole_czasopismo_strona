@@ -18,12 +18,8 @@ const Redakcja = () => {
 
         <h1 className="h1_redakcja">Redaguje zespół</h1>
         <h2 className="h2_redakcja">
-          Renata Bożek, Piotr Skalski, Adam Wiedemann
+          Renata Bożek, Piotr Skalski, Katarzyna Warmuz, Adam Wiedemann
         </h2>
-        <h1 className="h1_redakcja">Opracowanie graficzne</h1>
-        <h2 className="h2_redakcja">Paulina Zielona</h2>
-        <h1 className="h1_redakcja">Konstrukcja i opieka nad stroną</h1>
-        <h2 className="h2_redakcja">Katarzyna Warmuz</h2>
       </div>
     </div>
   );

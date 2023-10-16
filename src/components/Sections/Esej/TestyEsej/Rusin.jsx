@@ -26,7 +26,7 @@ const Rusin = () => {
         </p>
         <p className="h2_wstep">
           Ludzie piszący literaturę, malujący obrazy albo wytwarzający inne
-          rzeczy z dziedziny sztuk plastycznych, ludzie muzykujący, bądź
+          rzeczy z dziedziny sztuk plastycznych, ludzie muzykujący bądź
           filozofujący, a także ludzie krytykujący literaturę, obrazy i muzykę,
           znajdują się od dawna w położeniu dwuznacznym i to się chyba nie
           zmieni. Jeżeli ktoś rozporządza pewną wiedzą – a także umiejętnością
@@ -40,8 +40,8 @@ const Rusin = () => {
           człowieka, który ma coś do powiedzenia i o Leninie, i o Freudzie, a
           może nawet o Einsteinie, a zarazem ma oczy i uszy wyczulone na sprawy
           własnego podwórka, prędzej czy później dopadnie przeświadczenie, że
-          stoi w centrum debaty. To o czym opowiada jako artysta bądź
-          intelektualista nieomal z natury dotyczy stawek ważnych dla całego
+          stoi w centrum debaty. To, o czym opowiada jako artysta bądź
+          intelektualista, nieomal z natury dotyczy stawek ważnych dla całego
           narodu albo świata, a przy tym ważnych dla jednostek i ich spraw
           osobistych. Przychodzi potem dysonans: dla większości przechodniów
           twoje dylematy są prawie tak samo obojętne jak spory doktrynalne
@@ -270,7 +270,7 @@ const Rusin = () => {
         <p className="h2_wstep">
           Przedwojenne wspomnienia gospodarczej mocarstwowości, mniej lub
           bardziej odpowiadające prawdzie, były dosyć silne. Na zasadzie:
-          „mieliśmy Škodę i Batę, to po powrocie do świata zachodniego szybko
+          „mieliśmy Škodę i Bat'ę, to po powrocie do świata zachodniego szybko
           dojdziemy na szczyt”.
         </p>
         <p className="h2_wstep">
@@ -588,9 +588,9 @@ const Rusin = () => {
           kraj z „rodowodem” bardziej świeckim i sceptycznym mogły być mniej
           podatne) przejście części solidarnościowych opozycjonistów na pozycje,
           które dzisiaj określa się jako skrajnie prawicowe, wynikało właśnie z
-          poczucia utraty tego dwuznacznego przywileju pochodzenia z{" "}
-          <i>Europy Szczególnej</i>, który w jakimś stopniu próbował wymusić na
-          Zachodzie natychmiastowe dostrzeżenie własnych racji.
+          poczucia utraty tego dwuznacznego przywileju pochodzenia z "Europy
+          Szczególnej", który w jakimś stopniu próbował wymusić na Zachodzie
+          natychmiastowe dostrzeżenie własnych racji.
         </p>
         <p className="h2_wstep">
           Paradoks jest następujący: Środkowa Europa zasłania się, chroni oraz
@@ -614,7 +614,7 @@ const Rusin = () => {
           Tatiego. Dodajmy coś z włoskiego neorealizmu i początków angielskiej
           kontrkultury „młodzieżowej” czy „nastoletniej”, aczkolwiek tutaj na
           pewno o wielkim instynkcie Formana świadczy wykrycie takich klimatów
-          na CSRŚ- owskiej prowincji już w 1963 roku. Nie oznacza to naturalnie,
+          na ČSRS-owskiej prowincji już w 1963 roku. Nie oznacza to naturalnie,
           że nie istnieje swoisty „czeski klimat”, wynikający faktycznie z
           unikalnego „mieszczańsko-chłopskiego” podłoża tamtego społeczeństwa,
           tradycji jakiejś „jarmarcznej kultury” w najlepszym, wręcz
@@ -650,7 +650,7 @@ const Rusin = () => {
           pojawił się (chyba?) odpowiednik Roberto Bolaño. Bolaño przebił balon
           latynoamerykańskiego „realizmu magicznego”, balon estetyzmu, którym
           coraz bardziej stawała się w powszechnej percepcji klasyka
-          latynoamerykańska, żeby odzyskać siłę rewolucji z epoki Cortazara i
+          latynoamerykańska, żeby odzyskać siłę rewolucji z epoki Cortázar i
           Borgesa i skierować ją na nowe drogi.
         </p>
         <p className="h2_wstep">
@@ -743,8 +743,8 @@ const Rusin = () => {
         <p className="h2_wstep">
           Pytanie w każdym razie jest następujące: co twórczość polska, czeska
           czy węgierska może odzyskać i zachować z wcześniejszych idiomatycznych
-          narracji, tak z humoru jak i z romantyzmu, w tej generalnie
-          nienajgorszej, ale i dosyć kłopotliwej sytuacji, w której Drugi Świat
+          narracji, tak z humoru jak i z romantyzmu, w tej generalnie nie
+          najgorszej, ale i dosyć kłopotliwej sytuacji, w której Drugi Świat
           przestał istnieć i staliśmy się peryferiami świata pierwszego?
           Skreślenie ich byłoby pochopne; widma przecież zwykle co jakiś czas
           wracają, zwłaszcza kiedy na siłę odwracasz się plecami.

@@ -14,7 +14,7 @@ const Wstep = () => {
       </div>
 
       <div className="content_wstep">
-        <h2 className="h1_wstep_tytul">Koniec. Końcówka</h2>
+        <h2 className="h1_wstep_tytul">Koniec</h2>
 
         <h2 className="h2_wstep">
           ...mówić tak, żeby było słychać. Inaczej położony akcent zmienia sens
@@ -35,7 +35,7 @@ const Wstep = () => {
           się nie stało, ale wciąż może stać się wszystko, nawet światło, góra i
           gołąb, tak dla przykładu.
         </h2>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
 
         <h2 className="h2_wstep">
           Tu leży <i>Pole</i>.
@@ -70,7 +70,7 @@ const Wstep = () => {
           najróżniejszych powodów nie było.
         </h2>
         <h2 className="h2_wstep">Nie wiem, może się znudzimy.</h2>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
 
         <h2 className="h2_wstep">
           Nie ma jednego przepisu na zrzucenie uzdy, lecz próby wyuzdania
@@ -96,7 +96,7 @@ const Wstep = () => {
           Geneza <i>Pola</i> to oczywiście co innego niż jego treść, tak jak
           skutek nie zawiera się w przyczynie. Związek, który postanowił na boku
           wydawać dwumiesięcznik, ma własne reguły i sposoby ich łamania,
-          <i>Pole</i>
+          <i> Pole </i>
           ma całkiem inne, redakcja nie składa się wyłącznie z członków Związku,
           a zawartość pisma nie jest dyktowana, lecz współkształtowana jedynie
           przez nominalne zainteresowania Związku, którego tworzymy niespokojny
@@ -115,7 +115,7 @@ const Wstep = () => {
           numer zatytułowany „Koniec” nie okaże się proroctwem, o które
           najwyraźniej tak bardzo się prosimy.
         </h2>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
 
         <h2 className="h2_wstep">
           „Koniec” to nie tyle temat, co postawa. Zapisywanie zdania, całego
@@ -146,7 +146,7 @@ const Wstep = () => {
           W geście inwersji postanowiliśmy zatańczyć na cmentarzu, a wy zróbcie
           z tym, co chcecie.
         </h2>
-        <hr className="hr_line"></hr>
+        <p className="h2_wstep_center">* * *</p>
 
         <h2 className="h2_wstep">
           <i>Pole</i> z góry przeprasza osoby, które by mogły poczuć się urażone
